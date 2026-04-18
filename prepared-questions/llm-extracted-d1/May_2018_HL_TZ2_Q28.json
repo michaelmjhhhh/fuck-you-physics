@@ -1,0 +1,47 @@
+{
+  "id": "May_2018_HL_TZ2_Q28",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ2 Q28 C.png"
+  },
+  "question_number": 28,
+  "content_markdown": "A moon of mass $M$ orbits a planet of mass $100M$. The radius of the planet is $R$ and the distance between the centres of the planet and moon is $22R$.\n\nWhat is the distance from the centre of the planet at which the total gravitational potential has a maximum value?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a large planet of mass 100M and a smaller moon of mass M. A horizontal line with arrows at both ends connects the centers of the two bodies, labeled with the distance 22R.",
+    "labels_to_preserve": [
+      "100M",
+      "M",
+      "22R"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$2R$"
+    },
+    {
+      "label": "B",
+      "text": "$11R$"
+    },
+    {
+      "label": "C",
+      "text": "$20R$"
+    },
+    {
+      "label": "D",
+      "text": "$2R$ and $20R$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The total gravitational potential is the sum of the potentials from the planet and the moon. Since gravitational potential is always negative, its 'maximum' value occurs where it is least negative (closest to zero). This point corresponds to the location where the net gravitational field strength is zero (the Lagrangian point L1). Setting the magnitudes of the gravitational fields equal: $G(100M)/x^2 = GM/(22R - x)^2$. Taking the square root of both sides gives $10/x = 1/(22R - x)$. Solving for $x$ yields $10(22R - x) = x$, which simplifies to $220R = 11x$, so $x = 20R$.",
+  "source_image_path": "D1-Gravitational-Field/May 2018 HL TZ2 Q28 C.png"
+}

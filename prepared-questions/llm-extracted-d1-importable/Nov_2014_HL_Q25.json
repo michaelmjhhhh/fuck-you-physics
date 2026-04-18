@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2014_HL_Q25",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2014,
+    "month": "Nov",
+    "session_label": "Nov 2014",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2014 HL Q25 A.png"
+  },
+  "question_number": 25,
+  "content_markdown": "At the surface of a planet of radius $r$, the gravitational field strength is $g$ and the gravitational potential is $V$. Which gives the gravitational field strength and gravitational potential at a height $3r$ above the surface?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) for gravitational field strength and gravitational potential.",
+    "labels_to_preserve": [
+      "Gravitational field strength",
+      "Gravitational potential"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Field strength: $\\frac{g}{16}$, Potential: $\\frac{V}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "Field strength: $\\frac{g}{3}$, Potential: $\\frac{V}{3}$"
+    },
+    {
+      "label": "C",
+      "text": "Field strength: $\\frac{g}{4}$, Potential: $\\frac{V}{4}$"
+    },
+    {
+      "label": "D",
+      "text": "Field strength: $\\frac{g}{9}$, Potential: $\\frac{V}{3}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "At a height $3r$ above the surface, the distance from the center of the planet is $R = r + 3r = 4r$. Since gravitational field strength $g \\propto \\frac{1}{R^2}$, the new field strength is $g \\times (\\frac{r}{4r})^2 = \\frac{g}{16}$. Since gravitational potential $V \\propto \\frac{1}{R}$, the new potential is $V \\times (\\frac{r}{4r}) = \\frac{V}{4}$.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2014 HL Q25 A.png"
+}

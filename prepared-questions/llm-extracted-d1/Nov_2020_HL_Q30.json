@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2020_HL_Q30",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2020,
+    "month": "Nov",
+    "session_label": "Nov 2020",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2020 HL Q30 D.png"
+  },
+  "question_number": 30,
+  "content_markdown": "Two satellites W and X have the same mass. They have circular orbits around the same planet. W is closer to the surface than X. What quantity is smaller for W than for X?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravitational force from the planet"
+    },
+    {
+      "label": "B",
+      "text": "Angular velocity"
+    },
+    {
+      "label": "C",
+      "text": "Orbital speed"
+    },
+    {
+      "label": "D",
+      "text": "Orbital period"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Since W is closer to the planet ($r_W \u003c r_X$), we analyze the dependencies on radius $r$. Gravitational force $F \\propto 1/r^2$, so $F$ is larger for W. Orbital speed $v = \\sqrt{GM/r}$ and angular velocity $\\omega = v/r = \\sqrt{GM/r^3}$ both increase as $r$ decreases, so they are also larger for W. However, according to Kepler's Third Law ($T^2 \\propto r^3$), the orbital period $T$ decreases as $r$ decreases. Therefore, the orbital period is the only quantity that is smaller for the closer satellite W.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2020 HL Q30 D.png"
+}

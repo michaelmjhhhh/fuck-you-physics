@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2014_HL_Q22",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2014,
+    "month": "Nov",
+    "session_label": "Nov 2014",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2014 HL Q22 D.png"
+  },
+  "question_number": 22,
+  "content_markdown": "Planet X has mass $M$ and radius $R$. Planet Y has mass $10M$ and radius $5R$.\n\nWhat is the ratio $\\frac{\\text{gravitational field strength at the surface of planet X}}{\\text{gravitational field strength at the surface of planet Y}}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.4"
+    },
+    {
+      "label": "B",
+      "text": "0.5"
+    },
+    {
+      "label": "C",
+      "text": "2.0"
+    },
+    {
+      "label": "D",
+      "text": "2.5"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The gravitational field strength $g$ at the surface of a planet is given by $g = \\frac{GM}{R^2}$. For planet X, $g_X = \\frac{GM}{R^2}$. For planet Y, $g_Y = \\frac{G(10M)}{(5R)^2} = \\frac{10GM}{25R^2} = 0.4 \\frac{GM}{R^2}$. The ratio $\\frac{g_X}{g_Y}$ is therefore $\\frac{1}{0.4}$, which equals $2.5$.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2014 HL Q22 D.png"
+}

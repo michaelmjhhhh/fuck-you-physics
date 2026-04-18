@@ -1,0 +1,43 @@
+{
+  "id": "May_2019_HL_TZ1_Q20",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ1 Q20 D.png"
+  },
+  "question_number": 20,
+  "content_markdown": "Satellite X orbits a planet with orbital radius $R$. Satellite Y orbits the same planet with orbital radius $2R$. Satellites X and Y have the same mass.\n\nWhat is the ratio $\\frac{\\text{centripetal acceleration of X}}{\\text{centripetal acceleration of Y}}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "2"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "For a satellite in orbit, the centripetal acceleration is provided by the gravitational field strength $g = \\frac{GM}{r^2}$. Since both satellites orbit the same planet, $G$ and $M$ are constant. Therefore, the acceleration $a$ is inversely proportional to the square of the radius ($a \\propto \\frac{1}{r^2}$). If the radius of Y is twice that of X ($r_Y = 2r_X$), then the acceleration of Y will be $\\frac{1}{2^2} = \\frac{1}{4}$ times the acceleration of X. Thus, the ratio $\\frac{a_X}{a_Y}$ is 4.",
+  "source_image_path": "D1-Gravitational-Field/May 2019 HL TZ1 Q20 D.png"
+}

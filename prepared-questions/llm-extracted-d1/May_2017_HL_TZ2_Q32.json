@@ -1,0 +1,48 @@
+{
+  "id": "May_2017_HL_TZ2_Q32",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ2 Q32 C.png"
+  },
+  "question_number": 32,
+  "content_markdown": "Four uniform planets have masses and radii as shown. Which planet has the smallest escape speed?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four circles representing planets with different sizes and labels for mass and radius.",
+    "labels_to_preserve": [
+      "M",
+      "R",
+      "2M",
+      "2R"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Mass $M$, Radius $R$"
+    },
+    {
+      "label": "B",
+      "text": "Mass $2M$, Radius $R$"
+    },
+    {
+      "label": "C",
+      "text": "Mass $M$, Radius $2R$"
+    },
+    {
+      "label": "D",
+      "text": "Mass $2M$, Radius $2R$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The escape speed $v_e$ from a planet is given by the formula $v_e = \\sqrt{\\frac{2GM}{R}}$. To find the smallest escape speed, we look for the smallest ratio of $\\frac{M}{R}$. Comparing the options: A is $1/1$, B is $2/1$, C is $1/2$, and D is $2/2 = 1$. Option C yields the lowest value, hence the smallest escape speed.",
+  "source_image_path": "D1-Gravitational-Field/May 2017 HL TZ2 Q32 C.png"
+}

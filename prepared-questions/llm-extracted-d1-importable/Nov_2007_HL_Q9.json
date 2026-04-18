@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2007_HL_Q9",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational potential",
+  "paper": {
+    "year": 2007,
+    "month": "Nov",
+    "session_label": "Nov 2007",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2007 HL Q9 A.png"
+  },
+  "question_number": 9,
+  "content_markdown": "The centres of two isolated spherical stars each of mass $M$ and radius $R$ are separated by a distance $d$ as shown in the diagram below.\n\nThe distance $d$ is very large compared to $R$. Point X is mid-way between the stars. The gravitational potential at point X due to the two stars is",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two identical circles representing stars of mass M and radius R. A dashed line connects their centers with a total distance d. Point X is marked at the midpoint of this line.",
+    "labels_to_preserve": [
+      "M",
+      "R",
+      "d",
+      "X"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$-\\frac{4GM}{d}$"
+    },
+    {
+      "label": "B",
+      "text": "$-\\frac{2GM}{R}$"
+    },
+    {
+      "label": "C",
+      "text": "$-\\frac{GM}{d}$"
+    },
+    {
+      "label": "D",
+      "text": "zero"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Gravitational potential is a scalar quantity, so we simply add the potentials from each star. The potential $V$ at a distance $r$ from a mass $M$ is given by $V = -\\frac{GM}{r}$. Since point X is at the midpoint, the distance from each star's center to X is $r = \\frac{d}{2}$. Therefore, the total potential is $V_{total} = V_1 + V_2 = -\\frac{GM}{d/2} + (-\\frac{GM}{d/2}) = -\\frac{2GM}{d} - \\frac{2GM}{d} = -\\frac{4GM}{d}$.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2007 HL Q9 A.png"
+}

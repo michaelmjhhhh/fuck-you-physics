@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2006_HL_Q13",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2006,
+    "month": "Nov",
+    "session_label": "Nov 2006",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2006 HL Q13 B.png"
+  },
+  "question_number": 13,
+  "content_markdown": "The diagram below shows two planets X and Y of masses $2M$ and $M$ respectively. The centres of the two planets are separated by a distance $2d$. Point P is midway between planets X and Y. The mass of each planet may be assumed to be concentrated at its centre.\n\nThe magnitude of the gravitational field strength at point P due to the two planets is",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing two planets, X (larger) and Y (smaller), separated by a distance 2d. Point P is located exactly in the middle of the line connecting their centers.",
+    "labels_to_preserve": [
+      "planet X",
+      "planet Y",
+      "P",
+      "2d"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "zero."
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{GM}{d^2}$."
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{2GM}{d^2}$."
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{3GM}{d^2}$."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Gravitational field strength $g$ is a vector pointing towards the mass. At point P, which is at distance $d$ from both, the field from X is $g_X = \\frac{G(2M)}{d^2}$ (pointing left) and the field from Y is $g_Y = \\frac{GM}{d^2}$ (pointing right). The net field is the difference: $\\frac{2GM}{d^2} - \\frac{GM}{d^2} = \\frac{GM}{d^2}$.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2006 HL Q13 B.png"
+}

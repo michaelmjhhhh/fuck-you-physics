@@ -1,0 +1,43 @@
+{
+  "id": "May_2014_HL_TZ1_Q9",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational potential and escape speed",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ1 Q9 B.png"
+  },
+  "question_number": 9,
+  "content_markdown": "The magnitude of the potential at the surface of a planet is $V$. What is the escape speed from the surface of the planet?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\sqrt{V}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\sqrt{2V}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\sqrt{VR}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\sqrt{2VR}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The gravitational potential $V$ at the surface of a planet is defined as $V = \\frac{GM}{R}$ (taking the magnitude as requested). To escape the gravitational field, an object of mass $m$ must have a kinetic energy $\\frac{1}{2}mv_{esc}^2$ equal to the work required to move it to infinity, which is $m V$. Setting $\\frac{1}{2}mv_{esc}^2 = mV$ and solving for $v_{esc}$ gives $v_{esc} = \\sqrt{2V}$.",
+  "source_image_path": "D1-Gravitational-Field/May 2014 HL TZ1 Q9 B.png"
+}

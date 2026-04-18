@@ -1,0 +1,50 @@
+{
+  "id": "May_2018_HL_TZ1_Q31",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ1 Q31 D.png"
+  },
+  "question_number": 31,
+  "content_markdown": "The diagram shows 5 gravitational equipotential lines. The gravitational potential on each line is indicated. A point mass $m$ is placed on the middle line and is then released. Values given in $\\text{MJ\\,kg}^{-1}$.\n\nWhich is correct about the direction of motion and the acceleration of the point mass?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Five vertical parallel lines representing equipotentials with values -10, -8, -6, -4, and -2. A point mass m is located on the -6 line. The spacing between lines increases from left to right.",
+    "labels_to_preserve": [
+      "m",
+      "-10",
+      "-8",
+      "-6",
+      "-4",
+      "-2"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Direction: to the right; Acceleration: decreasing"
+    },
+    {
+      "label": "B",
+      "text": "Direction: to the right; Acceleration: increasing"
+    },
+    {
+      "label": "C",
+      "text": "Direction: to the left; Acceleration: decreasing"
+    },
+    {
+      "label": "D",
+      "text": "Direction: to the left; Acceleration: increasing"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Masses naturally move towards regions of lower gravitational potential (more negative values), which is to the left in this diagram. The gravitational field strength $g$ is proportional to the gradient of the potential ($g = -\\Delta V / \\Delta r$). Since the equipotential lines become more widely spaced as the mass moves to the left (from -6 to -8 to -10), the potential gradient is decreasing, meaning the field strength and thus the acceleration are decreasing.",
+  "source_image_path": "D1-Gravitational-Field/May 2018 HL TZ1 Q31 D.png"
+}

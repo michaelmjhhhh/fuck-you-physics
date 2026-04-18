@@ -1,0 +1,49 @@
+{
+  "id": "May_2013_HL_TZ1_Q23",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ1 Q23 C.png"
+  },
+  "question_number": 23,
+  "content_markdown": "$M$ is a spherical mass situated far away from any other masses. Which of the following represents gravitational equipotential surfaces having constant potential difference between them?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four diagrams showing a central mass M with dashed lines representing potential surfaces or field lines. A shows radial lines. B shows concentric circles with equal spacing. C shows concentric circles where the spacing increases as distance from M increases. D shows concentric circles where the spacing decreases as distance from M increases.",
+    "labels_to_preserve": [
+      "M",
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The gravitational potential $V$ around a point mass is given by $V = -\\frac{GM}{r}$. The change in potential $\\Delta V$ is related to the field strength $g$ and the distance $\\Delta r$ by $g = -\\frac{\\Delta V}{\\Delta r}$. Since the gravitational field strength $g$ decreases as distance $r$ increases ($g \\propto \\frac{1}{r^2}$), the distance between equipotential surfaces $\\Delta r$ must increase as we move further from the mass to maintain a constant potential difference $\\Delta V$. Therefore, the circles should get further apart as they move outward.",
+  "source_image_path": "D1-Gravitational-Field/May 2013 HL TZ1 Q23 C.png"
+}

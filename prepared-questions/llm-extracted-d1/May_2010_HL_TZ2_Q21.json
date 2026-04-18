@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ2_Q21",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ2 Q21 B.png"
+  },
+  "question_number": 21,
+  "content_markdown": "Which of the following is true about gravitational field lines?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "They are always tangential to equipotential surfaces."
+    },
+    {
+      "label": "B",
+      "text": "They are always perpendicular to equipotential surfaces."
+    },
+    {
+      "label": "C",
+      "text": "They can be both tangential or perpendicular to equipotential surfaces."
+    },
+    {
+      "label": "D",
+      "text": "They can have any angle to the equipotential surfaces."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Gravitational field lines represent the direction of the force on a mass, while equipotential surfaces represent regions of constant potential energy. Since no work is done when moving a mass along an equipotential surface, the force (and thus the field line) must have no component along the surface. This means the field lines must always be perpendicular to the equipotential surfaces.",
+  "source_image_path": "D1-Gravitational-Field/May 2010 HL TZ2 Q21 B.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Specimen_2009_HL_Q7",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2009,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2009",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2009 HL Q7 C.png"
+  },
+  "question_number": 7,
+  "content_markdown": "A spacecraft orbits Earth. An astronaut inside the spacecraft feels \"weightless\" because",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the gravitational field in the spacecraft is negligible."
+    },
+    {
+      "label": "B",
+      "text": "the Earth exerts equal forces on the spacecraft and the astronaut."
+    },
+    {
+      "label": "C",
+      "text": "the spacecraft and the astronaut have the same acceleration towards the Earth."
+    },
+    {
+      "label": "D",
+      "text": "the spacecraft and the astronaut exert equal and opposite forces on each other."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Weightlessness in orbit is a result of free-fall. Both the astronaut and the spacecraft are accelerating toward the center of the Earth at the same rate ($g$ at that altitude). Because they have the same acceleration, there is no normal contact force between the astronaut and the spacecraft floor, which is what we perceive as weight.",
+  "source_image_path": "D1-Gravitational-Field/Specimen Paper 2009 HL Q7 C.png"
+}

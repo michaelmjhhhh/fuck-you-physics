@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ2_Q23",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ2 Q23 B.png"
+  },
+  "question_number": 23,
+  "content_markdown": "An astronaut in orbit around Earth is said to be \"weightless\". This is due to the fact that the",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "gravitational force on the astronaut is zero."
+    },
+    {
+      "label": "B",
+      "text": "astronaut and the spacecraft experience the same acceleration."
+    },
+    {
+      "label": "C",
+      "text": "astronaut and the spacecraft experience the same gravitational force."
+    },
+    {
+      "label": "D",
+      "text": "gravitational field at the position of the spacecraft is zero."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Weightlessness in orbit is a result of free-fall. Both the astronaut and the spacecraft are accelerating toward the center of the Earth at the same rate (the local gravitational acceleration $g$). Because they have the same acceleration, there is no normal contact force between the astronaut and the spacecraft walls/floor, which creates the sensation of weightlessness.",
+  "source_image_path": "D1-Gravitational-Field/May 2010 HL TZ2 Q23 B.png"
+}

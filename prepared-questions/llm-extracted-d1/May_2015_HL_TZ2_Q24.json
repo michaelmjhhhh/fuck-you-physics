@@ -1,0 +1,47 @@
+{
+  "id": "May_2015_HL_TZ2_Q24",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ2 Q24 B.png"
+  },
+  "question_number": 24,
+  "content_markdown": "Two spherical objects of mass $M$ are held a small distance apart. The radius of each object is $r$.\n\nPoint P is the midpoint between the objects and is a distance $R$ from the surface of each object. What is the gravitational potential at point P?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two spheres of radius r separated by a distance. Point P is exactly in the middle, at a distance R from the surface of each sphere.",
+    "labels_to_preserve": [
+      "r",
+      "R",
+      "P"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$-\\frac{GM}{(r + R)^2}$"
+    },
+    {
+      "label": "B",
+      "text": "$-2\\frac{GM}{r + R}$"
+    },
+    {
+      "label": "C",
+      "text": "$-\\frac{GM}{r + R}$"
+    },
+    {
+      "label": "D",
+      "text": "0"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Gravitational potential is a scalar quantity, so we sum the potentials from each mass. The distance from the center of each sphere to point P is the radius $r$ plus the distance $R$ from the surface. The potential from one mass is $V = -\\frac{GM}{r+R}$. Since there are two identical masses at the same distance, the total potential is $2 \\times (-\\frac{GM}{r+R})$.",
+  "source_image_path": "D1-Gravitational-Field/May 2015 HL TZ2 Q24 B.png"
+}

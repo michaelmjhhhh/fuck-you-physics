@@ -1,0 +1,43 @@
+{
+  "id": "Specimen_2025_HL_Q28",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2025,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2025",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2025 HL Q28 D.png"
+  },
+  "question_number": 28,
+  "content_markdown": "Planets X and Y orbit the same star.\n\nThe average distance between planet X and the star is five times greater than the average distance between planet Y and the star.\n\nWhat is $\\frac{\\text{orbital period of planet X}}{\\text{orbital period of planet Y}}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\sqrt[3]{5}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\sqrt{5}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\sqrt[3]{5^2}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\sqrt{5^3}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "This question tests Kepler's Third Law, which states that the square of the orbital period $T$ is proportional to the cube of the average orbital radius $r$ ($T^2 \\propto r^3$). Given $r_X = 5r_Y$, we have $\\frac{T_X^2}{T_Y^2} = \\frac{r_X^3}{r_Y^3} = 5^3$. Taking the square root of both sides gives $\\frac{T_X}{T_Y} = \\sqrt{5^3}$.",
+  "source_image_path": "D1-Gravitational-Field/Specimen Paper 2025 HL Q28 D.png"
+}

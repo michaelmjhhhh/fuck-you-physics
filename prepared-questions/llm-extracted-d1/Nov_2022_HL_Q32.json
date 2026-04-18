@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2022_HL_Q32",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2022,
+    "month": "Nov",
+    "session_label": "Nov 2022",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2022 HL Q32 D.png"
+  },
+  "question_number": 32,
+  "content_markdown": "Two satellites are in circular orbits around the Earth. Both satellites have the same mass and satellite X is closer to Earth than satellite Y.\n\nWhat is correct for the orbital periods of X and Y and the total energies of X and Y?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table comparing orbital periods and total energies for satellites X and Y across four options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Orbital periods",
+      "Total energies",
+      "X",
+      "Y"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Orbital periods: X greater than Y; Total energies: X greater than Y"
+    },
+    {
+      "label": "B",
+      "text": "Orbital periods: X greater than Y; Total energies: Y greater than X"
+    },
+    {
+      "label": "C",
+      "text": "Orbital periods: Y greater than X; Total energies: X greater than Y"
+    },
+    {
+      "label": "D",
+      "text": "Orbital periods: Y greater than X; Total energies: Y greater than X"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "According to Kepler's Third Law ($T^2 \\propto r^3$), a larger orbital radius results in a longer orbital period, so $T_Y \u003e T_X$. For total energy in a circular orbit, $E = -\\frac{GMm}{2r}$. Since the energy is negative, a larger radius $r$ results in a less negative (higher) total energy, meaning $E_Y \u003e E_X$ because Y is further away.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2022 HL Q32 D.png"
+}

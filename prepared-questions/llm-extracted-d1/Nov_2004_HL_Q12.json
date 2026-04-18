@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2004_HL_Q12",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2004,
+    "month": "Nov",
+    "session_label": "Nov 2004",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2004 HL Q12 C.png"
+  },
+  "question_number": 12,
+  "content_markdown": "The Earth is distance $R_{\\text{M}}$ from the Moon and distance $R_{\\text{S}}$ from the Sun. The ratio\n\n$$\\frac{\\text{gravitational field strength at the Earth due to the Moon}}{\\text{gravitational field strength at the Earth due to the Sun}}$$\n\nis proportional to which of the following?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{R_{\\text{M}}^2}{R_{\\text{S}}^2}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{R_{\\text{M}}}{R_{\\text{S}}}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{R_{\\text{S}}^2}{R_{\\text{M}}^2}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{R_{\\text{S}}}{R_{\\text{M}}}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The gravitational field strength $g$ at a distance $r$ from a mass $M$ is given by $g = \\frac{GM}{r^2}$. Therefore, $g$ is inversely proportional to the square of the distance ($g \\propto \\frac{1}{r^2}$). For the Moon, $g_{\\text{M}} \\propto \\frac{1}{R_{\\text{M}}^2}$, and for the Sun, $g_{\\text{S}} \\propto \\frac{1}{R_{\\text{S}}^2}$. The ratio $\\frac{g_{\\text{M}}}{g_{\\text{S}}}$ is proportional to $\\frac{1/R_{\\text{M}}^2}{1/R_{\\text{S}}^2}$, which simplifies to $\\frac{R_{\\text{S}}^2}{R_{\\text{M}}^2}$.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2004 HL Q12 C.png"
+}

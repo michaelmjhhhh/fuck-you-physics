@@ -1,0 +1,43 @@
+{
+  "id": "May_2018_HL_TZ2_Q32",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational potential and escape speed",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ2 Q32 C.png"
+  },
+  "question_number": 32,
+  "content_markdown": "The mass of the Earth is $M_E$ and the mass of the Moon is $M_M$. Their respective radii are $R_E$ and $R_M$.\n\nWhich is the ratio $\\frac{\\text{escape speed from the Earth}}{\\text{escape speed from the Moon}}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present, only mathematical expressions for options.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\sqrt{\\frac{M_M R_M}{M_E R_E}}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\sqrt{\\frac{M_E R_E}{M_M R_M}}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\sqrt{\\frac{M_E R_M}{M_M R_E}}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\sqrt{\\frac{M_M R_E}{M_E R_M}}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The escape speed $v_{esc}$ from a celestial body is given by the formula $v_{esc} = \\sqrt{\\frac{2GM}{R}}$. To find the ratio of the escape speed of Earth to that of the Moon, we set up the fraction: $\\frac{v_E}{v_M} = \\frac{\\sqrt{2GM_E/R_E}}{\\sqrt{2GM_M/R_M}}$. The $2G$ terms cancel out, leaving $\\sqrt{\\frac{M_E}{R_E} \\cdot \\frac{R_M}{M_M}}$, which simplifies to $\\sqrt{\\frac{M_E R_M}{M_M R_E}}$.",
+  "source_image_path": "D1-Gravitational-Field/May 2018 HL TZ2 Q32 C.png"
+}

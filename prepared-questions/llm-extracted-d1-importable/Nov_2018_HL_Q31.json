@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2018_HL_Q31",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2018,
+    "month": "Nov",
+    "session_label": "Nov 2018",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2018 HL Q31 A.png"
+  },
+  "question_number": 31,
+  "content_markdown": "The gravitational potential at point P due to Earth is $V$.\n\nWhat is the definition of the gravitational potential at P?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a circle labeled 'Earth' and a point labeled 'P' to its right.",
+    "labels_to_preserve": [
+      "Earth",
+      "P"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Work done per unit mass to move a point mass from infinity to P"
+    },
+    {
+      "label": "B",
+      "text": "Work done per unit mass to move a point mass from P to infinity"
+    },
+    {
+      "label": "C",
+      "text": "Work done to move a point mass from infinity to P"
+    },
+    {
+      "label": "D",
+      "text": "Work done to move a point mass from P to infinity"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Gravitational potential is defined as the work done per unit mass in bringing a small test mass from infinity to a point in the gravitational field. It is a scalar quantity and is always negative (or zero at infinity) because the gravitational force is attractive, meaning work is done by the field rather than on the field to move the mass toward the source.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2018 HL Q31 A.png"
+}

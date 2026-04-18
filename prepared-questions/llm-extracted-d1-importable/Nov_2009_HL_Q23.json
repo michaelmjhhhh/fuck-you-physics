@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2009_HL_Q23",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Newton's law of gravitation",
+  "paper": {
+    "year": 2009,
+    "month": "Nov",
+    "session_label": "Nov 2009",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2009 HL Q23 D.png"
+  },
+  "question_number": 23,
+  "content_markdown": "A small sphere X of mass $M$ is placed a distance $d$ from a point mass. The gravitational force on sphere X is $90\\text{ N}$. Sphere X is removed and a second sphere Y of mass $4M$ is placed a distance $3d$ from the same point mass. The gravitational force on sphere Y is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$480\\text{ N}$"
+    },
+    {
+      "label": "B",
+      "text": "$160\\text{ N}$"
+    },
+    {
+      "label": "C",
+      "text": "$120\\text{ N}$"
+    },
+    {
+      "label": "D",
+      "text": "$40\\text{ N}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Newton's law of gravitation states $F = G \\frac{m_1 m_2}{r^2}$. For sphere X, $F_X = G \\frac{m_{point} M}{d^2} = 90\\text{ N}$. For sphere Y, the mass becomes $4M$ and the distance becomes $3d$. Substituting these into the formula: $F_Y = G \\frac{m_{point} (4M)}{(3d)^2} = G \\frac{4 m_{point} M}{9 d^2} = \\frac{4}{9} F_X$. Therefore, $F_Y = \\frac{4}{9} \\times 90\\text{ N} = 40\\text{ N}$.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2009 HL Q23 D.png"
+}

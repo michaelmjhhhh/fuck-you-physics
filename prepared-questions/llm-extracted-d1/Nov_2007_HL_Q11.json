@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2007_HL_Q11",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2007,
+    "month": "Nov",
+    "session_label": "Nov 2007",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2007 HL Q11 D.png"
+  },
+  "question_number": 11,
+  "content_markdown": "A spacecraft accelerates along a straight-line in outer space under the action of two engines P and Q as shown in the diagram below.\n\nThe engine P fails. Which of the following gives the state of equilibrium of the spacecraft?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a spacecraft with two engines, P and Q, at the rear. An arrow indicates acceleration to the right. Labels point to engine P, engine Q, the spacecraft body, and the acceleration vector.",
+    "labels_to_preserve": [
+      "engine P",
+      "engine Q",
+      "spacecraft",
+      "acceleration"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Translational: yes, Rotational: yes"
+    },
+    {
+      "label": "B",
+      "text": "Translational: yes, Rotational: no"
+    },
+    {
+      "label": "C",
+      "text": "Translational: no, Rotational: yes"
+    },
+    {
+      "label": "D",
+      "text": "Translational: no, Rotational: no"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "When engine P fails, only engine Q provides thrust. Since there is still a net force acting on the spacecraft, it is not in translational equilibrium. Furthermore, because the thrust from engine Q is offset from the center of mass, it creates a resultant torque, meaning the spacecraft is not in rotational equilibrium either.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2007 HL Q11 D.png"
+}

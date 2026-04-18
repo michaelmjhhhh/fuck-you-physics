@@ -1,0 +1,49 @@
+{
+  "id": "May_2017_HL_TZ2_Q19",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ2 Q19 A.png"
+  },
+  "question_number": 19,
+  "content_markdown": "The centre of the Earth is separated from the centre of the Moon by a distance $D$. Point P lies on a line joining the centre of the Earth and the centre of the Moon, a distance $X$ from the centre of the Earth. The gravitational field strength at P is zero.\n\nWhat is the ratio $\\frac{\\text{mass of the Moon}}{\\text{mass of the Earth}}$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing the Earth and the Moon separated by distance D. Point P is located between them at a distance X from the Earth's centre.",
+    "labels_to_preserve": [
+      "Earth",
+      "Moon",
+      "P",
+      "X",
+      "D"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{(D - X)^2}{X^2}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{(D - X)}{X}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{X^2}{(D - X)^2}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{X}{D - X}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "At point P, the gravitational field strength from the Earth ($g_E = \\frac{GM_E}{X^2}$) must equal the gravitational field strength from the Moon ($g_M = \\frac{GM_M}{(D-X)^2}$) because the net field is zero. Setting $\\frac{GM_E}{X^2} = \\frac{GM_M}{(D-X)^2}$ and rearranging for the ratio $\\frac{M_M}{M_E}$ gives $\\frac{(D-X)^2}{X^2}$.",
+  "source_image_path": "D1-Gravitational-Field/May 2017 HL TZ2 Q19 A.png"
+}

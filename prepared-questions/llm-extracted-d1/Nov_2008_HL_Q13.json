@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2008_HL_Q13",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2008,
+    "month": "Nov",
+    "session_label": "Nov 2008",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2008 HL Q13 D.png"
+  },
+  "question_number": 13,
+  "content_markdown": "A satellite in orbit about Earth moves to another orbit that is closer to the surface of Earth. Which of the following is a correct statement about the change in speed of the satellite and its change in potential energy?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) with columns for 'Change in speed' and 'Change in potential energy'.",
+    "labels_to_preserve": [
+      "Change in speed",
+      "Change in potential energy"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Change in speed: decreases; Change in potential energy: decreases"
+    },
+    {
+      "label": "B",
+      "text": "Change in speed: decreases; Change in potential energy: increases"
+    },
+    {
+      "label": "C",
+      "text": "Change in speed: increases; Change in potential energy: increases"
+    },
+    {
+      "label": "D",
+      "text": "Change in speed: increases; Change in potential energy: decreases"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "As a satellite moves to a lower orbit (closer to Earth), its gravitational potential energy $E_p = -\\frac{GMm}{r}$ becomes more negative, meaning it decreases. To maintain a stable circular orbit at a smaller radius $r$, the orbital speed $v = \\sqrt{\\frac{GM}{r}}$ must increase because the gravitational pull is stronger.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2008 HL Q13 D.png"
+}

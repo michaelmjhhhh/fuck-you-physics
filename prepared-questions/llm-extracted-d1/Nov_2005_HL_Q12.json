@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2005_HL_Q12",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Potential Energy",
+  "paper": {
+    "year": 2005,
+    "month": "Nov",
+    "session_label": "Nov 2005",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2005 HL Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A point object of mass $m$ is brought from infinity to the point P, a distance $r$ from the centre of an isolated sphere of mass $M$.\n\nThe work done by the gravitational force in bringing the point object from infinity to point P is",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A large sphere of mass M with a point P at distance r from its center. A point mass m is located at P. A double-headed arrow indicates the distance r between the center of M and point P.",
+    "labels_to_preserve": [
+      "M",
+      "r",
+      "P",
+      "m"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$G \\frac{M}{r}$"
+    },
+    {
+      "label": "B",
+      "text": "$G \\frac{Mm}{r}$"
+    },
+    {
+      "label": "C",
+      "text": "$-G \\frac{M}{r}$"
+    },
+    {
+      "label": "D",
+      "text": "$-G \\frac{Mm}{r}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Gravitational potential energy $E_p$ is defined as $-G \\frac{Mm}{r}$. The work done by the gravitational force (an attractive force) as an object moves from infinity towards a mass is positive, because the force and displacement are in the same direction. However, the question asks for the work done by the force. Since $W = -\\Delta E_p$ for conservative forces, and $E_p$ at infinity is 0, the work done by the field is $0 - (-G \\frac{Mm}{r}) = +G \\frac{Mm}{r}$. Note: In many IB contexts, 'work done' can be ambiguous between work done by an external agent and work done by the field; here, the gravitational force does positive work as it pulls the mass in.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2005 HL Q12 B.png"
+}

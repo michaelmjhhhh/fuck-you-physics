@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2008_HL_Q11",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2008,
+    "month": "Nov",
+    "session_label": "Nov 2008",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2008 HL Q11 B.png"
+  },
+  "question_number": 11,
+  "content_markdown": "A small spherical planet has radius $R = 2000\\text{ m}$ and has no atmosphere. The acceleration due to gravity on the surface of this planet is $2.0\\text{ m s}^{-2}$. At an altitude of $3000\\text{ m}$ above the surface of the planet the magnitude of the gravitational field strength is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "zero."
+    },
+    {
+      "label": "B",
+      "text": "between 0 and $2.0\\text{ N kg}^{-1}$."
+    },
+    {
+      "label": "C",
+      "text": "equal to $2.0\\text{ N kg}^{-1}$."
+    },
+    {
+      "label": "D",
+      "text": "is greater than $2.0\\text{ N kg}^{-1}$."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Gravitational field strength $g$ follows an inverse-square law $g = \\frac{GM}{r^2}$ outside a spherical mass. As the distance from the center of the planet increases from $R$ (at the surface) to $R + h$ (at an altitude), the denominator $r^2$ increases, causing the field strength to decrease. Since $3000\\text{ m}$ is further away than the surface, the field strength must be less than the surface value of $2.0\\text{ N kg}^{-1}$ but still greater than zero.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2008 HL Q11 B.png"
+}

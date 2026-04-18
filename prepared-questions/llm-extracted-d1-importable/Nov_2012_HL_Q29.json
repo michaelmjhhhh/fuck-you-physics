@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2012_HL_Q29",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2012,
+    "month": "Nov",
+    "session_label": "Nov 2012",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2012 HL Q29 B.png"
+  },
+  "question_number": 29,
+  "content_markdown": "The acceleration of free fall of a mass of $2.0\\text{ kg}$ close to the surface of Mars is $3.6\\text{ m s}^{-2}$. What is the gravitational field strength at the surface of Mars in $\\text{N kg}^{-1}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "1.8"
+    },
+    {
+      "label": "B",
+      "text": "3.6"
+    },
+    {
+      "label": "C",
+      "text": "7.2"
+    },
+    {
+      "label": "D",
+      "text": "9.8"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The gravitational field strength $g$ is numerically equal to the acceleration of free fall at that location. Since the acceleration is given as $3.6\\text{ m s}^{-2}$, the field strength is $3.6\\text{ N kg}^{-1}$. The mass of the object ($2.0\\text{ kg}$) is a distractor because field strength is a property of the location, not the object placed there.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2012 HL Q29 B.png"
+}

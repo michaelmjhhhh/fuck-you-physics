@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2020_HL_Q31",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2020,
+    "month": "Nov",
+    "session_label": "Nov 2020",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2020 HL Q31 C.png"
+  },
+  "question_number": 31,
+  "content_markdown": "P and S are two points on a gravitational equipotential surface around a planet. Q and R are two points on a different gravitational equipotential surface at a greater distance from the planet.\n\nThe greatest work done by the gravitational force is when moving a mass from",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A central planet surrounded by two concentric dashed circles representing equipotential surfaces. Points P and S are on the inner circle. Points Q and R are on the outer circle.",
+    "labels_to_preserve": [
+      "P",
+      "Q",
+      "R",
+      "S"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "P to S."
+    },
+    {
+      "label": "B",
+      "text": "Q to R."
+    },
+    {
+      "label": "C",
+      "text": "R to P."
+    },
+    {
+      "label": "D",
+      "text": "S to R."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Work done by the gravitational force is given by $W = -m\\Delta V$. Moving along an equipotential surface (P to S or Q to R) results in zero work because $\\Delta V = 0$. Moving from a higher potential (further away, R) to a lower potential (closer, P) means the gravitational force is acting in the direction of motion, doing positive work. Moving from S to R (lower to higher potential) requires work to be done against the gravitational force, meaning the force itself does negative work.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2020 HL Q31 C.png"
+}

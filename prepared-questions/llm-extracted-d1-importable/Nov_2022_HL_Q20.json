@@ -1,0 +1,49 @@
+{
+  "id": "Nov_2022_HL_Q20",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2022,
+    "month": "Nov",
+    "session_label": "Nov 2022",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2022 HL Q20 C.png"
+  },
+  "question_number": 20,
+  "content_markdown": "The centre of the Earth and the Moon are a distance $D$ apart. There is a point X between them where their gravitational fields cancel out. The distance from the centre of the Earth to X is $d$. The mass of the Earth is $M_E$ and the mass of the Moon is $M_M$.\n\nWhat is correct at X?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing Earth and Moon separated by distance D. Point X is located between them at a distance d from the Earth's centre.",
+    "labels_to_preserve": [
+      "Earth",
+      "Moon",
+      "X",
+      "d",
+      "D"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{M_E}{d} = \\frac{M_M}{D - d}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{M_E}{D - d} = \\frac{M_M}{d}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{M_E}{d^2} = \\frac{M_M}{(D - d)^2}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{M_E}{d^2} = \\frac{M_M}{D^2 - d^2}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "At point X, the gravitational field strength from the Earth ($g_E = G M_E / d^2$) must equal the gravitational field strength from the Moon ($g_M = G M_M / r_M^2$) in magnitude for them to cancel out. Since the total distance is $D$ and the distance from Earth is $d$, the distance from the Moon is $(D - d)$. Equating the two expressions and cancelling $G$ leads to the relationship in option C.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2022 HL Q20 C.png"
+}

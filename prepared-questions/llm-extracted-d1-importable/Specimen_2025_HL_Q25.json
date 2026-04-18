@@ -1,0 +1,46 @@
+{
+  "id": "Specimen_2025_HL_Q25",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2025,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2025",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2025 HL Q25 D.png"
+  },
+  "question_number": 25,
+  "content_markdown": "A planet orbits the Sun in an elliptical orbit moving in the direction shown.\n\nAt the position shown, which quantity is decreasing for the planet?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "An elliptical orbit with the Sun at one focus. A planet is shown at the top of the ellipse, moving counter-clockwise towards the left, which is the side of the ellipse further from the Sun.",
+    "labels_to_preserve": [
+      "Sun",
+      "planet"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Acceleration"
+    },
+    {
+      "label": "B",
+      "text": "Angular momentum"
+    },
+    {
+      "label": "C",
+      "text": "Kinetic energy"
+    },
+    {
+      "label": "D",
+      "text": "Gravitational potential energy"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "As the planet moves from its current position towards the left side of the ellipse, it is moving further away from the Sun (increasing its orbital radius $r$). According to Newton's law of gravitation, $g = \\frac{GM}{r^2}$, so as $r$ increases, the gravitational field strength and thus the acceleration decrease. Additionally, as it moves further away, it slows down (kinetic energy decreases) and gravitational potential energy increases. Angular momentum remains constant in a central force field.",
+  "source_image_path": "D1-Gravitational-Field/Specimen Paper 2025 HL Q25 D.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2021_HL_TZ1_Q32",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ1 Q32 B.png"
+  },
+  "question_number": 32,
+  "content_markdown": "A planet has radius $R$. The escape speed from the surface of the planet is $v$. At what distance from the surface of the planet is the orbital speed $0.5v$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$0.5R$"
+    },
+    {
+      "label": "B",
+      "text": "$R$"
+    },
+    {
+      "label": "C",
+      "text": "$2R$"
+    },
+    {
+      "label": "D",
+      "text": "$4R$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The escape speed is $v = \\sqrt{\\frac{2GM}{R}}$. The orbital speed at a distance $r$ from the center is $v_{orb} = \\sqrt{\\frac{GM}{r}}$. We are given $v_{orb} = 0.5v$, so $\\sqrt{\\frac{GM}{r}} = 0.5 \\sqrt{\\frac{2GM}{R}}$. Squaring both sides gives $\\frac{GM}{r} = 0.25 \\frac{2GM}{R} = \\frac{0.5GM}{R}$. This simplifies to $r = 2R$. Since $r$ is the distance from the center, the distance from the surface is $r - R = 2R - R = R$.",
+  "source_image_path": "D1-Gravitational-Field/May 2021 HL TZ1 Q32 B.png"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "May_2017_HL_TZ1_Q30",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ1 Q30 C.png"
+  },
+  "question_number": 30,
+  "content_markdown": "A satellite at the surface of the Earth has a weight $W$ and gravitational potential energy $E_p$. The satellite is then placed in a circular orbit with a radius twice that of the Earth.\n\nWhat is the weight of the satellite and the gravitational potential energy of the satellite when placed in orbit?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) for the values of Weight and Gravitational potential energy.",
+    "labels_to_preserve": [
+      "Weight",
+      "Gravitational potential energy"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Weight: $0.25 W$; Gravitational potential energy: $0.25 E_p$"
+    },
+    {
+      "label": "B",
+      "text": "Weight: $0.5 W$; Gravitational potential energy: $0.25 E_p$"
+    },
+    {
+      "label": "C",
+      "text": "Weight: $0.25 W$; Gravitational potential energy: $0.5 E_p$"
+    },
+    {
+      "label": "D",
+      "text": "Weight: $0.5 W$; Gravitational potential energy: $0.5 E_p$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Weight (gravitational force) follows an inverse-square law $F \\propto \\frac{1}{r^2}$, so doubling the radius from $R$ to $2R$ reduces weight to $\\frac{1}{2^2} = 0.25W$. Gravitational potential energy follows an inverse relationship $E_p \\propto -\\frac{1}{r}$, so doubling the radius reduces the magnitude to $\\frac{1}{2} = 0.5E_p$.",
+  "source_image_path": "D1-Gravitational-Field/May 2017 HL TZ1 Q30 C.png"
+}

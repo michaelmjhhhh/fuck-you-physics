@@ -1,0 +1,46 @@
+{
+  "id": "May_2019_HL_TZ1_Q34",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ1 Q34 C.png"
+  },
+  "question_number": 34,
+  "content_markdown": "A satellite in a circular orbit around the Earth needs to reduce its orbital radius.\n\nWhat is the work done by the satellite rocket engine and the change in kinetic energy resulting from this shift in orbital height?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A-D) with two columns: 'Work done by the satellite rocket engine' and 'Kinetic energy'.",
+    "labels_to_preserve": [
+      "Work done by the satellite rocket engine",
+      "Kinetic energy"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Work done: positive; Kinetic energy: increase"
+    },
+    {
+      "label": "B",
+      "text": "Work done: positive; Kinetic energy: decrease"
+    },
+    {
+      "label": "C",
+      "text": "Work done: negative; Kinetic energy: increase"
+    },
+    {
+      "label": "D",
+      "text": "Work done: negative; Kinetic energy: decrease"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "To move to a lower orbit, the total energy $E = -\\frac{GMm}{2r}$ must decrease (become more negative), so the engine must do negative work (braking). However, in a lower orbit, the orbital speed $v = \\sqrt{\\frac{GM}{r}}$ is higher, meaning the kinetic energy increases as potential energy is lost.",
+  "source_image_path": "D1-Gravitational-Field/May 2019 HL TZ1 Q34 C.png"
+}

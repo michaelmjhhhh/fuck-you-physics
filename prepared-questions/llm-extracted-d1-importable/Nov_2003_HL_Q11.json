@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2003_HL_Q11",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2003,
+    "month": "Nov",
+    "session_label": "Nov 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2003 HL Q11 B.png"
+  },
+  "question_number": 11,
+  "content_markdown": "Gravitational field strength at a point may be defined as",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the force on a small mass placed at the point."
+    },
+    {
+      "label": "B",
+      "text": "the force per unit mass on a small mass placed at the point."
+    },
+    {
+      "label": "C",
+      "text": "the work done to move unit mass from infinity to the point."
+    },
+    {
+      "label": "D",
+      "text": "the work done per unit mass to move a small mass from infinity to the point."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Gravitational field strength ($g$) is defined as the gravitational force ($F$) acting per unit mass ($m$) on a small test mass placed at that point, expressed as $g = \\frac{F}{m}$. Options C and D describe gravitational potential, not field strength.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2003 HL Q11 B.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2013_HL_TZ2_Q22",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ2 Q22 B.png"
+  },
+  "question_number": 22,
+  "content_markdown": "The magnitude of the gravitational field strength at the surface of a planet of mass $M$ and radius $R$ is $g$. What is the magnitude of the gravitational field strength at the surface of a planet of mass $2M$ and radius $2R$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{g}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{g}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "$g$"
+    },
+    {
+      "label": "D",
+      "text": "$2g$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The gravitational field strength at the surface is given by $g = \\frac{GM}{R^2}$. For the new planet, the field strength $g'$ is $\\frac{G(2M)}{(2R)^2} = \\frac{2GM}{4R^2} = \\frac{1}{2} \\frac{GM}{R^2} = \\frac{g}{2}$.",
+  "source_image_path": "D1-Gravitational-Field/May 2013 HL TZ2 Q22 B.png"
+}

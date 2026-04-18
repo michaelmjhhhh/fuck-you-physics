@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2006_HL_Q14",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2006,
+    "month": "Nov",
+    "session_label": "Nov 2006",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2006 HL Q14 B.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A satellite is in a circular orbit around the Earth. The satellite now moves to a circular orbit closer to the Earth.\n\nWhich **one** of the following correctly describes the changes in the gravitational potential energy and kinetic energy of the satellite?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the changes in Gravitational potential energy and Kinetic energy for four options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Gravitational potential energy",
+      "Kinetic energy"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravitational potential energy: decreases; Kinetic energy: decreases"
+    },
+    {
+      "label": "B",
+      "text": "Gravitational potential energy: decreases; Kinetic energy: increases"
+    },
+    {
+      "label": "C",
+      "text": "Gravitational potential energy: increases; Kinetic energy: decreases"
+    },
+    {
+      "label": "D",
+      "text": "Gravitational potential energy: increases; Kinetic energy: increases"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "As the satellite moves closer to Earth (radius $r$ decreases), the gravitational potential energy $E_p = -\\frac{GMm}{r}$ becomes more negative, meaning it decreases. To maintain a circular orbit at a smaller radius, the orbital speed $v = \\sqrt{\\frac{GM}{r}}$ must increase, which leads to an increase in kinetic energy $E_k = \\frac{1}{2}mv^2$.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2006 HL Q14 B.png"
+}

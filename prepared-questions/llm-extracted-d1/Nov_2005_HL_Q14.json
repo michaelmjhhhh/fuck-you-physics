@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2005_HL_Q14",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2005,
+    "month": "Nov",
+    "session_label": "Nov 2005",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2005 HL Q14 C.png"
+  },
+  "question_number": 14,
+  "content_markdown": "Planet X has radius $R$ and mass $M$. Planet Y has radius $2R$ and mass $8M$.\n\nWhich **one** of the following is the correct value of the ratio\n\n$$\\frac{\\text{gravitational field strength at surface of planet X}}{\\text{gravitational field strength at surface of planet Y}}?$$",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "4"
+    },
+    {
+      "label": "B",
+      "text": "2"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{1}{2}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{1}{4}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The gravitational field strength at the surface of a planet is given by $g = \\frac{GM}{r^2}$. For Planet X, $g_X = \\frac{GM}{R^2}$. For Planet Y, $g_Y = \\frac{G(8M)}{(2R)^2} = \\frac{8GM}{4R^2} = 2\\frac{GM}{R^2}$. Therefore, the ratio $g_X / g_Y = \\frac{GM/R^2}{2GM/R^2} = \\frac{1}{2}$.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2005 HL Q14 C.png"
+}

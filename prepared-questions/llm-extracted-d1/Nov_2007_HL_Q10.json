@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2007_HL_Q10",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2007,
+    "month": "Nov",
+    "session_label": "Nov 2007",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2007 HL Q10 B.png"
+  },
+  "question_number": 10,
+  "content_markdown": "Two satellites, X and Y, move in circular orbits about the Earth. The orbital period of satellite X is eight times that of satellite Y.\n\nThe ratio $\\frac{\\text{orbital radius of satellite X}}{\\text{orbital radius of satellite Y}}$ is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "2."
+    },
+    {
+      "label": "B",
+      "text": "4."
+    },
+    {
+      "label": "C",
+      "text": "8."
+    },
+    {
+      "label": "D",
+      "text": "16."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "According to Kepler's Third Law, the square of the orbital period $T$ is proportional to the cube of the orbital radius $r$ ($T^2 \\propto r^3$). If the period of X is 8 times that of Y ($T_X = 8T_Y$), then $(T_X/T_Y)^2 = (r_X/r_Y)^3$. Substituting the values gives $8^2 = (r_X/r_Y)^3$, which simplifies to $64 = (r_X/r_Y)^3$. Taking the cube root of 64 gives a ratio of 4.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2007 HL Q10 B.png"
+}

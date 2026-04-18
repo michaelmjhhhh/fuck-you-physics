@@ -7,7 +7,7 @@ When new `.png` question images are added to topic folders (for example `A4-Rigi
 The pipeline now does this automatically in one run:
 
 1. Regenerate manifests from current image folders.
-2. Run LLM extraction on selected scope (`a4` / `b1` / `b2` / `all`).
+2. Run LLM extraction on selected scope (`a4` / `b1` / `b2` / `b3` / `b4` / `b5` / `c1` / `c2` / `c4` / `c5` / `d1` / `all`).
 3. Auto-retry failed items up to 3 times.
 4. Build importable JSON set (excluding reports).
 5. Import extracted questions into SQLite (`ib_physics.db`).
@@ -30,6 +30,7 @@ Open:
 - `http://localhost:3000/practice/a4-rigid-body-mechanics`
 - `http://localhost:3000/practice/b1-thermal-energy-transfers`
 - `http://localhost:3000/practice/b2-greenhouse-effect`
+- `http://localhost:3000/practice/d1-gravitational-field`
 - `http://localhost:3000/review` — review workflow status page
 
 ### Production build check
@@ -85,6 +86,12 @@ OPENAI_API_KEY=your_key_here
 ./run_pipeline.sh b2 Gemini-3-flash-preview https://api.siliconrouter.com/v1 import
 ```
 
+### D1 only
+
+```bash
+./run_pipeline.sh d1 Gemini-3-flash-preview https://api.siliconrouter.com/v1 import
+```
+
 ### Extraction only (no DB import)
 
 ```bash
@@ -97,7 +104,7 @@ OPENAI_API_KEY=your_key_here
 ./run_pipeline.sh <topic> <model> <api_base> <import_flag>
 ```
 
-- `topic`: `a4` | `b1` | `b2` | `all`
+- `topic`: `a4` | `b1` | `b2` | `b3` | `b4` | `b5` | `c1` | `c2` | `c4` | `c5` | `d1` | `all`
 - `model`: any OpenAI-compatible model name
 - `api_base`: OpenAI-compatible base URL
 - `import_flag`: `import` | `noimport`
@@ -112,6 +119,7 @@ OPENAI_API_KEY=your_key_here
   - `prepared-questions/a4-rigid-body-mechanics.json`
   - `prepared-questions/b1-thermal-energy-transfers.json`
   - `prepared-questions/b2-greenhouse-effect.json`
+  - `prepared-questions/d1-gravitational-field.json`
 - SQLite database:
   - `ib_physics.db`
 

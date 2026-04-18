@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2005_HL_Q13",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2005,
+    "month": "Nov",
+    "session_label": "Nov 2005",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2005 HL Q13 B.png"
+  },
+  "question_number": 13,
+  "content_markdown": "The kinetic energy $E_{\\text{K}}$ of a satellite in orbit varies with its distance $r$ from the centre of a planet of radius $R$.\n\nWhich **one** of the following graphs best shows the variation of $E_{\\text{K}}$ with $r$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs showing Kinetic Energy (Ek) on the y-axis and distance (r) on the x-axis. Each graph starts at r=R (indicated by a vertical dashed line). Graph A shows a linear increase. Graph B shows a reciprocal/inverse curve decreasing towards zero. Graph C shows a logarithmic-style curve increasing. Graph D shows a linear decrease.",
+    "labels_to_preserve": [
+      "E_K",
+      "r",
+      "R",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "For a satellite in a circular orbit, the centripetal force is provided by gravity: $G M m / r^2 = m v^2 / r$. This simplifies to $m v^2 = G M m / r$. Since kinetic energy $E_{\\text{K}} = \\frac{1}{2} m v^2$, we find that $E_{\\text{K}} = G M m / (2r)$. This means $E_{\\text{K}}$ is proportional to $1/r$, which is represented by a decreasing curve that approaches the x-axis asymptotically, as shown in graph B.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2005 HL Q13 B.png"
+}

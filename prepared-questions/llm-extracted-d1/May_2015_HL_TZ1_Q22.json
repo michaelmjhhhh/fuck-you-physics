@@ -1,0 +1,43 @@
+{
+  "id": "May_2015_HL_TZ1_Q22",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ1 Q22 D.png"
+  },
+  "question_number": 22,
+  "content_markdown": "Which single condition enables Newton’s universal law of gravitation to be used to predict the force between the Earth and the Sun?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The Earth and the Sun both have a very large radius."
+    },
+    {
+      "label": "B",
+      "text": "The distance between the Earth and the Sun is approximately constant."
+    },
+    {
+      "label": "C",
+      "text": "The Earth and the Sun both have a very large mass."
+    },
+    {
+      "label": "D",
+      "text": "The Earth and the Sun behave as point masses."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Newton's universal law of gravitation, $F = G \\frac{m_1 m_2}{r^2}$, is strictly defined for point masses. While the Earth and Sun are large, their separation distance is so vast compared to their radii that they can be modeled as point masses, or alternatively, they are spherically symmetric masses which behave as point masses from an external perspective.",
+  "source_image_path": "D1-Gravitational-Field/May 2015 HL TZ1 Q22 D.png"
+}

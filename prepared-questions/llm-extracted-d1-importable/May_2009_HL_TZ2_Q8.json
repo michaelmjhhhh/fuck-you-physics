@@ -1,0 +1,49 @@
+{
+  "id": "May_2009_HL_TZ2_Q8",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational potential and field strength",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ2 Q8 B.png"
+  },
+  "question_number": 8,
+  "content_markdown": "The diagram below represents equipotential lines of a gravitational field.\n\nWhich of the following is the direction and strength of the field at point P?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A grid showing three curved equipotential lines labeled -10 J/kg, -20 J/kg, and -30 J/kg. A scale bar indicates 2 meters. Point P is located on the -20 J/kg line.",
+    "labels_to_preserve": [
+      "2 m",
+      "P",
+      "-10 Jkg^{-1}",
+      "-20 Jkg^{-1}",
+      "-30 Jkg^{-1}"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Direction: $\\leftarrow$, Strength: $5.0 \\text{ Nkg}^{-1}$"
+    },
+    {
+      "label": "B",
+      "text": "Direction: $\\rightarrow$, Strength: $5.0 \\text{ Nkg}^{-1}$"
+    },
+    {
+      "label": "C",
+      "text": "Direction: $\\leftarrow$, Strength: $13 \\text{ Nkg}^{-1}$"
+    },
+    {
+      "label": "D",
+      "text": "Direction: $\\rightarrow$, Strength: $13 \\text{ Nkg}^{-1}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "To find the field strength $g$, we use the relationship $g = -\\frac{\\Delta V}{\\Delta r}$. Looking at the grid, the distance between the $-10\\text{ Jkg}^{-1}$ and $-30\\text{ Jkg}^{-1}$ lines is 4 units on the grid. Since 2 units equals $2\\text{ m}$, the distance $\\Delta r$ is $4\\text{ m}$. The change in potential $\\Delta V$ is $20\\text{ Jkg}^{-1}$. Thus, $g = \\frac{20}{4} = 5.0\\text{ Nkg}^{-1}$. The direction of the gravitational field is always from higher potential to lower potential (towards the more negative values), which in this diagram is to the right ($\\rightarrow$).",
+  "source_image_path": "D1-Gravitational-Field/May 2009 HL TZ2 Q8 B.png"
+}
