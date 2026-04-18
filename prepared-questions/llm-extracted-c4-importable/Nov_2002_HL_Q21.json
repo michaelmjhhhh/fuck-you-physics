@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2002_HL_Q21",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2002,
+    "month": "Nov",
+    "session_label": "Nov 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2002 HL Q21 C.png"
+  },
+  "question_number": 21,
+  "content_markdown": "An organ pipe is closed at one end and open at the other as shown below.\n\nWhich **one** of the following diagrams correctly shows the positions of the displacement nodes and antinodes when the **fundamental** standing wave is formed in the tube?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A vertical organ pipe open at the top and closed at the bottom. Four options A, B, C, and D show different arrangements of nodes and antinodes within the pipe.",
+    "labels_to_preserve": [
+      "Node",
+      "Antinode"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Diagram showing Node at the top, Antinode in the middle, and Node at the bottom."
+    },
+    {
+      "label": "B",
+      "text": "Diagram showing Antinode at the top, Node in the middle, and Antinode at the bottom."
+    },
+    {
+      "label": "C",
+      "text": "Diagram showing Antinode at the top and Node at the bottom."
+    },
+    {
+      "label": "D",
+      "text": "Diagram showing Node at the top and Antinode at the bottom."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In a pipe closed at one end and open at the other, the boundary conditions for displacement are fixed: the closed end must be a displacement node (where air cannot move) and the open end must be a displacement antinode (where air can move most freely). For the fundamental frequency (the simplest mode), there are no intermediate nodes or antinodes, resulting in a single antinode at the open top and a single node at the closed bottom.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2002 HL Q21 C.png"
+}

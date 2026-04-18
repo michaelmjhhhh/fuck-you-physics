@@ -1,0 +1,43 @@
+{
+  "id": "May_2005_HL_TZ1_Q20",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ1 Q20 D.png"
+  },
+  "question_number": 20,
+  "content_markdown": "A Carnot engine operates between two thermal reservoirs. The thermodynamic temperature of the higher-temperature reservoir is $T_{\\text{H}}$ and of the lower, $T_{\\text{L}}$.\n\nWhich **one** of the following is a correct expression for the efficiency of the engine?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{T_{\\text{H}}}{T_{\\text{L}}}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{T_{\\text{L}}}{T_{\\text{H}}}$"
+    },
+    {
+      "label": "C",
+      "text": "$1 - \\left( \\frac{T_{\\text{H}}}{T_{\\text{L}}} \\right)$"
+    },
+    {
+      "label": "D",
+      "text": "$1 - \\left( \\frac{T_{\\text{L}}}{T_{\\text{H}}} \\right)$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The efficiency of a heat engine is defined as the ratio of work output to heat input. For a Carnot cycle, which is a theoretical ideal, the efficiency can be expressed solely in terms of the absolute temperatures of the hot and cold reservoirs. The formula is $\\eta = 1 - \\frac{Q_{\\text{out}}}{Q_{\\text{in}}}$, which for a Carnot engine simplifies to $\\eta = 1 - \\frac{T_{\\text{L}}}{T_{\\text{H}}}$, where $T_{\\text{L}}$ is the temperature of the cold sink and $T_{\\text{H}}$ is the temperature of the hot source.",
+  "source_image_path": "B4-Thermodynamics/May 2005 HL TZ1 Q20 D.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2019_HL_TZ1_Q15",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric current",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ1 Q15 D.png"
+  },
+  "question_number": 15,
+  "content_markdown": "Charge flows through a liquid. The charge flow is made up of positive and negative ions. In one second $0.10\\text{ C}$ of negative ions flow in one direction and $0.10\\text{ C}$ of positive ions flow in the opposite direction.\n\nWhat is the magnitude of the electric current flowing through the liquid?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$0\\text{ A}$"
+    },
+    {
+      "label": "B",
+      "text": "$0.05\\text{ A}$"
+    },
+    {
+      "label": "C",
+      "text": "$0.10\\text{ A}$"
+    },
+    {
+      "label": "D",
+      "text": "$0.20\\text{ A}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Electric current is defined as the rate of flow of net charge. Since negative charges moving in one direction and positive charges moving in the opposite direction both contribute to a conventional current in the same direction, the total charge transferred per second is the sum of the magnitudes: $0.10\\text{ C} + 0.10\\text{ C} = 0.20\\text{ C}$. Since this occurs in one second, the current is $0.20\\text{ A}$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2019 HL TZ1 Q15 D.png"
+}

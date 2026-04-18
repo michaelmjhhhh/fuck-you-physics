@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2016_HL_Q12",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2016,
+    "month": "Nov",
+    "session_label": "Nov 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2016 HL Q12 D.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A particle oscillates with simple harmonic motion (shm) of period $T$. Which graph shows the variation with time of the kinetic energy of the particle?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs labeled A, B, C, and D showing kinetic energy on the y-axis and time on the x-axis from 0 to T. Graph A shows a cosine wave going into negative values. Graph B shows a positive-only cosine-squared-like wave with one full cycle over period T. Graph C shows a wave with two cycles over period T that goes into negative values. Graph D shows a positive-only wave with two full cycles over period T.",
+    "labels_to_preserve": [
+      "kinetic energy",
+      "time",
+      "0",
+      "T"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Kinetic energy is given by $E_k = \\frac{1}{2}mv^2$. Since velocity $v$ is a sinusoidal function of time, $v^2$ must always be positive (eliminating A and C). Furthermore, in one full period $T$ of displacement, the particle passes through the equilibrium position (maximum speed) twice and the extremes (zero speed) twice. Therefore, the kinetic energy completes two full cycles in one period $T$ of the oscillation.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2016 HL Q12 D.png"
+}

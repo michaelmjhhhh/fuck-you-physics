@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2010_HL_Q36",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2010,
+    "month": "Nov",
+    "session_label": "Nov 2010",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2010 HL Q36 D.png"
+  },
+  "question_number": 36,
+  "content_markdown": "The diagram shows the variation with wavelength of the power per unit wavelength $I$ radiated from an area of $1\\text{ m}^2$ of two different bodies.\n\nWhich of the following is a correct comparison of the temperature and of the emissivity of the two bodies?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph showing two blackbody radiation curves. The y-axis is labeled 'I' and the x-axis is labeled 'wavelength'. Both curves start at the origin, rise to a peak, and then decay. The peaks occur at different wavelengths and have slightly different heights.",
+    "labels_to_preserve": [
+      "I",
+      "wavelength",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Temperature: same; Emissivity: same"
+    },
+    {
+      "label": "B",
+      "text": "Temperature: same; Emissivity: different"
+    },
+    {
+      "label": "C",
+      "text": "Temperature: different; Emissivity: same"
+    },
+    {
+      "label": "D",
+      "text": "Temperature: different; Emissivity: different"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "According to Wien's displacement law, the peak wavelength $\\lambda_{\\text{max}}$ is inversely proportional to the absolute temperature $T$. Since the two curves have peaks at different wavelengths, their temperatures must be different. Furthermore, the total power radiated (area under the curve) and the peak intensities differ; since the temperatures are different, the emissivities could also be different to produce these specific curves, but the primary indicator for temperature is the shift in peak wavelength.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2010 HL Q36 D.png"
+}

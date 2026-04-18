@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2014_HL_Q9",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2014,
+    "month": "Nov",
+    "session_label": "Nov 2014",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2014 HL Q9 A.png"
+  },
+  "question_number": 9,
+  "content_markdown": "Which of the following can be deduced from the second law of thermodynamics?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the question.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Thermal energy cannot spontaneously transfer from a low temperature region to a high temperature region."
+    },
+    {
+      "label": "B",
+      "text": "Thermal energy cannot spontaneously transfer from a high temperature region to a low temperature region."
+    },
+    {
+      "label": "C",
+      "text": "The entropy of an isolated system always decreases with time."
+    },
+    {
+      "label": "D",
+      "text": "The entropy of an isolated system is the measure of the internal energy of the system."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The second law of thermodynamics deals with the direction of natural processes. One of its primary formulations (the Clausius statement) explicitly states that heat cannot spontaneously flow from a colder body to a hotter body. While it also relates to entropy, the law states that entropy in an isolated system tends to increase, not decrease, making option C incorrect.",
+  "source_image_path": "B4-Thermodynamics/Nov 2014 HL Q9 A.png"
+}

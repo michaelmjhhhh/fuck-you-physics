@@ -1,0 +1,52 @@
+{
+  "id": "May_2007_HL_TZ1_Q19",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2007,
+    "month": "May",
+    "session_label": "May 2007",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2007 HL TZ1 Q19 C.png"
+  },
+  "question_number": 19,
+  "content_markdown": "The diagram shows the relation between the pressure $P$ and the volume $V$ of an ideal gas in a Carnot engine during one cycle of operation of the engine.\n\nIn which part of the cycle is thermal energy transferred from the gas to the surroundings?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A P-V diagram showing a Carnot cycle with four stages labeled X, Y, Z, and W. The cycle proceeds clockwise from X to Y, Y to Z, Z to W, and W back to X. X-Y and Z-W are isotherms, while Y-Z and W-X are adiabats.",
+    "labels_to_preserve": [
+      "P",
+      "V",
+      "X",
+      "Y",
+      "Z",
+      "W",
+      "Pressure P",
+      "Volume V"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "XY"
+    },
+    {
+      "label": "B",
+      "text": "YZ"
+    },
+    {
+      "label": "C",
+      "text": "ZW"
+    },
+    {
+      "label": "D",
+      "text": "WX"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In a Carnot cycle, thermal energy is transferred to the surroundings (exhausted) during the isothermal compression phase. Looking at the P-V diagram, XY is isothermal expansion (heat in), YZ is adiabatic expansion, ZW is isothermal compression (heat out), and WX is adiabatic compression. Therefore, heat is transferred to the surroundings during the ZW stage.",
+  "source_image_path": "B4-Thermodynamics/May 2007 HL TZ1 Q19 C.png"
+}

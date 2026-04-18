@@ -1,0 +1,43 @@
+{
+  "id": "May_2003_HL_Q12",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2003,
+    "month": "May",
+    "session_label": "May 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2003 HL Q12 A.png"
+  },
+  "question_number": 12,
+  "content_markdown": "When a gas in a cylinder is compressed at constant temperature by a piston, the pressure of the gas increases. Consider the following three statements.\n\nI. The rate at which the molecules collide with the piston increases.\nII. The average speed of the molecules increases.\nIII. The molecules collide with each other more often.\n\nWhich statement(s) correctly explain the increase in pressure?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "I only"
+    },
+    {
+      "label": "B",
+      "text": "II only"
+    },
+    {
+      "label": "C",
+      "text": "I and II only"
+    },
+    {
+      "label": "D",
+      "text": "I and III only"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Pressure is defined as the force per unit area exerted by gas molecules colliding with the walls of the container (the piston). Since the temperature is constant, the average kinetic energy and thus the average speed of the molecules (Statement II) remains unchanged. When the volume is reduced (compression), the number of molecules per unit volume increases, leading to a higher frequency of collisions with the piston (Statement I), which explains the pressure increase. While Statement III is true (collisions between molecules also increase), it is the collisions with the container walls that define pressure.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2003 HL Q12 A.png"
+}

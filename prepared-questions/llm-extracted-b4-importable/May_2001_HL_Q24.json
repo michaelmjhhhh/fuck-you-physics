@@ -1,0 +1,53 @@
+{
+  "id": "May_2001_HL_Q24",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic processes",
+  "paper": {
+    "year": 2001,
+    "month": "May",
+    "session_label": "May 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2001 HL Q24 B.png"
+  },
+  "question_number": 24,
+  "content_markdown": "A gas is taken through a cyclic process $A \\rightarrow B \\rightarrow C \\rightarrow A$ as shown in the $P$-$V$ diagram. The work done by the gas during one complete cycle is",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A P-V diagram showing a triangular cycle. Point A is at (6.0, 2.0), Point B is at (10.0, 8.0), and Point C is at (10.0, 2.0). The cycle goes clockwise from A to B, then vertically down to C, then horizontally back to A. Pressure P is in kPa and Volume V is in m³.",
+    "labels_to_preserve": [
+      "P (kPa)",
+      "V (m³)",
+      "A",
+      "B",
+      "C",
+      "2.0",
+      "8.0",
+      "6.0",
+      "10.0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "24 kJ."
+    },
+    {
+      "label": "B",
+      "text": "12 kJ."
+    },
+    {
+      "label": "C",
+      "text": "6 kJ."
+    },
+    {
+      "label": "D",
+      "text": "4 kJ."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The work done in a cyclic process is equal to the area enclosed by the cycle on a P-V diagram. The shape is a right-angled triangle with a base $\\Delta V = (10.0 - 6.0) = 4.0\\text{ m}^3$ and a height $\\Delta P = (8.0 - 2.0) = 6.0\\text{ kPa}$. The area is $\\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times 4.0\\text{ m}^3 \\times 6.0\\text{ kPa} = 12.0\\text{ kJ}$. Since the cycle is clockwise, the net work done by the gas is positive.",
+  "source_image_path": "B4-Thermodynamics/May 2001 HL Q24 B.png"
+}

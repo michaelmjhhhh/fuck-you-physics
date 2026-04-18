@@ -1,0 +1,49 @@
+{
+  "id": "May_2006_HL_TZ2_Q24",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ2 Q24 C.png"
+  },
+  "question_number": 24,
+  "content_markdown": "A source S, moving at constant speed, emits a sound of constant frequency. The source passes by a stationary observer O, as shown below.\n\nWhich **one** of the following shows the variation with time $t$ of the frequency $f$ observed at O as the source S approaches and passes by the observer.",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a source S moving along a horizontal dashed line with arrows indicating direction. A stationary observer O is located below the path of the source. Below this are four graphs (A, B, C, D) showing frequency f versus time t.",
+    "labels_to_preserve": [
+      "S",
+      "O",
+      "f",
+      "t",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "As the source approaches the observer, the observed frequency is higher than the source frequency. As it moves away, the observed frequency is lower. Because the source does not pass directly through the observer (it has a non-zero impact parameter), the transition between the high and low frequency is a smooth curve rather than a step function. Crucially, frequency cannot be negative, so the graph must remain above the t-axis.",
+  "source_image_path": "C5-Doppler-Effect/May 2006 HL TZ2 Q24 C.png"
+}

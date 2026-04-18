@@ -1,0 +1,26 @@
+{
+  "id": "May_2012_HL_TZ1_Q36",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "",
+  "paper": {
+    "year": 2012,
+    "month": "May",
+    "session_label": "May 2012",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2012 HL TZ1 Q36 D.png"
+  },
+  "question_number": 36,
+  "correct_answer": "D",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "B2-Greenhouse-Effect/May 2012 HL TZ1 Q36 D.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

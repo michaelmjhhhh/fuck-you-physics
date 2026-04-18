@@ -1,0 +1,43 @@
+{
+  "id": "Specimen_2016_HL_Q11",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2016,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2016 HL Q11 C.png"
+  },
+  "question_number": 11,
+  "content_markdown": "In simple harmonic motion, the velocity leads the displacement by a phase angle $\\phi$. What is the value of $\\phi$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Zero"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{\\pi}{4}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{\\pi}{2}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\pi$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In SHM, if displacement is $x = A \\cos(\\omega t)$, then velocity is $v = -A\\omega \\sin(\\omega t) = A\\omega \\cos(\\omega t + \\frac{\\pi}{2})$. This shows that the velocity function is shifted ahead of the displacement function by a quarter cycle, which corresponds to a phase difference of $\\pi/2$ radians.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Specimen Paper 2016 HL Q11 C.png"
+}

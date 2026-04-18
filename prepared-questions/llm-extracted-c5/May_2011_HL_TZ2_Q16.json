@@ -1,0 +1,47 @@
+{
+  "id": "May_2011_HL_TZ2_Q16",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2011,
+    "month": "May",
+    "session_label": "May 2011",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2011 HL TZ2 Q16 C.png"
+  },
+  "question_number": 16,
+  "content_markdown": "A radar speed gun is used to measure the speed of a car. The car is moving with speed $v$ away from the gun.\n\nThe radar emits microwaves of frequency $f$ and speed $c$. Which of the following is the frequency of the microwaves measured at the gun after reflection by the car?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a car moving to the left with velocity v, away from a stationary radar gun on the right.",
+    "labels_to_preserve": [
+      "v",
+      "car",
+      "radar gun"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$f + \\left( \\frac{2v}{c} f \\right)$"
+    },
+    {
+      "label": "B",
+      "text": "$f + \\left( \\frac{v}{c} f \\right)$"
+    },
+    {
+      "label": "C",
+      "text": "$f - \\left( \\frac{2v}{c} f \\right)$"
+    },
+    {
+      "label": "D",
+      "text": "$f - \\left( \\frac{v}{c} f \\right)$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "This problem involves a double Doppler shift. First, the car acts as a moving observer receiving the signal, and then it acts as a moving source reflecting the signal back. Since the car is moving away, the frequency must decrease. For speeds much less than the speed of light ($v \\ll c$), the shift for a reflection is approximately $\\Delta f \\approx \\frac{2v}{c}f$. Because the car is moving away, the observed frequency is $f - \\Delta f$.",
+  "source_image_path": "C5-Doppler-Effect/May 2011 HL TZ2 Q16 C.png"
+}

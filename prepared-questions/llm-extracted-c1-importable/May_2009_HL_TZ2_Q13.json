@@ -1,0 +1,43 @@
+{
+  "id": "May_2009_HL_TZ2_Q13",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ2 Q13 A.png"
+  },
+  "question_number": 13,
+  "content_markdown": "For a system executing simple harmonic motion, the restoring force acting on the system is proportional to the",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "displacement of the system from equilibrium."
+    },
+    {
+      "label": "B",
+      "text": "amplitude of oscillation."
+    },
+    {
+      "label": "C",
+      "text": "elastic potential energy."
+    },
+    {
+      "label": "D",
+      "text": "frequency of oscillation."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Simple Harmonic Motion (SHM) is defined by the condition that the acceleration $a$ (and therefore the restoring force $F = ma$) is directly proportional to the displacement $x$ from the equilibrium position and is directed towards that position ($F \\propto -x$).",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2009 HL TZ2 Q13 A.png"
+}

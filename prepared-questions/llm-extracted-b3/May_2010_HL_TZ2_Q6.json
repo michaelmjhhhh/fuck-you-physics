@@ -1,0 +1,46 @@
+{
+  "id": "May_2010_HL_TZ2_Q6",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ2 Q6 A.png"
+  },
+  "question_number": 6,
+  "content_markdown": "A box that is at rest with respect to horizontal ground contains a fixed quantity of an ideal gas. The internal energy of the gas is $U$ and its temperature is $T$. The box is now made to move at constant speed with respect to the ground. Which of the following gives the change, if any, in the internal energy and the temperature of the gas after the box has been moving for some time?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the possible changes in Internal energy and Temperature for options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Internal energy",
+      "Temperature"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Internal energy: no change; Temperature: no change"
+    },
+    {
+      "label": "B",
+      "text": "Internal energy: no change; Temperature: increase"
+    },
+    {
+      "label": "C",
+      "text": "Internal energy: increase; Temperature: no change"
+    },
+    {
+      "label": "D",
+      "text": "Internal energy: increase; Temperature: increase"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Internal energy and temperature are defined by the random motion of particles relative to the center of mass of the gas. Moving the entire container at a constant speed adds bulk kinetic energy to the system as a whole, but does not change the relative speeds of the molecules within the box. Therefore, both the internal energy and the temperature remain unchanged.",
+  "source_image_path": "B3-Gas-Laws/May 2010 HL TZ2 Q6 A.png"
+}

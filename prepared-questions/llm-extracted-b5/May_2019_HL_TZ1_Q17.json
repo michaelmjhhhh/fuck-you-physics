@@ -1,0 +1,47 @@
+{
+  "id": "May_2019_HL_TZ1_Q17",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ1 Q17 B.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A resistor of resistance $R$ is connected to a fully charged cell of negligible internal resistance. A constant power $P$ is dissipated in the resistor and the cell discharges in time $t$. An identical cell is connected in series with two identical resistors each of resistance $R$.\n\nWhat is the power dissipated in each resistor and the time taken to discharge the cell?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A-D) for the power dissipated in each resistor and the time taken to discharge the cell.",
+    "labels_to_preserve": [
+      "P",
+      "t",
+      "R"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Power: $\\frac{P}{4}$, Time: $\\frac{t}{2}$"
+    },
+    {
+      "label": "B",
+      "text": "Power: $\\frac{P}{4}$, Time: $2t$"
+    },
+    {
+      "label": "C",
+      "text": "Power: $\\frac{P}{2}$, Time: $\\frac{t}{2}$"
+    },
+    {
+      "label": "D",
+      "text": "Power: $\\frac{P}{2}$, Time: $2t$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Initially, $P = \\frac{V^2}{R}$ and energy $E = P \\cdot t$. In the second case, the total resistance is $2R$ (series), so the total power is $P_{total} = \\frac{V^2}{2R} = \\frac{P}{2}$. Since the resistors are identical, this power is split equally, so each resistor dissipates $\\frac{P}{4}$. The cell's total energy $E$ is constant; since the total power output is now $\\frac{P}{2}$, the time taken to discharge is $t' = \\frac{E}{P_{total}} = \\frac{P \\cdot t}{P/2} = 2t$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2019 HL TZ1 Q17 B.png"
+}

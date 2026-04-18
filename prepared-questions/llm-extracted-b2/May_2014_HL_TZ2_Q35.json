@@ -1,0 +1,43 @@
+{
+  "id": "May_2014_HL_TZ2_Q35",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ2 Q35 D.png"
+  },
+  "question_number": 35,
+  "content_markdown": "A black body has absolute temperature $T$ and surface area $A$. The intensity of the radiation emitted by the body is $I$. Another black body of surface area $2A$ has absolute temperature $2T$. What is the intensity of radiation emitted by this second black body?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$4I$"
+    },
+    {
+      "label": "B",
+      "text": "$8I$"
+    },
+    {
+      "label": "C",
+      "text": "$16I$"
+    },
+    {
+      "label": "D",
+      "text": "$32I$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "According to the Stefan-Boltzmann law, the intensity $I$ (power per unit area) emitted by a black body is proportional to the fourth power of its absolute temperature ($I = \\sigma T^4$). Note that intensity is defined as power per unit area, so it is independent of the surface area $A$. When the temperature doubles from $T$ to $2T$, the new intensity $I'$ becomes $\\sigma (2T)^4 = 16 \\sigma T^4 = 16I$.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2014 HL TZ2 Q35 D.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2018_HL_TZ1_Q14",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ1 Q14 B.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A system that is subject to a restoring force oscillates about an equilibrium position.\n\nFor the motion to be simple harmonic, the restoring force must be proportional to",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the amplitude of the oscillation."
+    },
+    {
+      "label": "B",
+      "text": "the displacement from the equilibrium position."
+    },
+    {
+      "label": "C",
+      "text": "the potential energy of the system."
+    },
+    {
+      "label": "D",
+      "text": "the period of the oscillation."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The defining condition for Simple Harmonic Motion (SHM) is that the acceleration (and therefore the net restoring force, since $F=ma$) is directly proportional to the displacement from the equilibrium position and directed towards it ($F \\propto -x$).",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2018 HL TZ1 Q14 B.png"
+}

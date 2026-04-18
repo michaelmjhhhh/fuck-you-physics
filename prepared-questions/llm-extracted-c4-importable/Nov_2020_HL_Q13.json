@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2020_HL_Q13",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2020,
+    "month": "Nov",
+    "session_label": "Nov 2020",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2020 HL Q13 C.png"
+  },
+  "question_number": 13,
+  "content_markdown": "The air in a pipe, open at both ends, vibrates in the second harmonic mode.\n\nWhat is the phase difference between the motion of a particle at P and the motion of a particle at Q?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A horizontal pipe open at both ends. Point P is located near the left end, and point Q is located near the center of the pipe.",
+    "labels_to_preserve": [
+      "P",
+      "Q"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{\\pi}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\pi$"
+    },
+    {
+      "label": "D",
+      "text": "$2\\pi$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In the second harmonic of an open pipe, there is a node at the center of the pipe. Points on opposite sides of a node in a standing wave vibrate in antiphase. Since P is in the first half of the pipe and Q is in the second half (separated by the central node), the phase difference between them is $\\pi$ radians.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2020 HL Q13 C.png"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "May_2015_HL_TZ1_Q13",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ1 Q13 B.png"
+  },
+  "question_number": 13,
+  "content_markdown": "A standing (stationary) wave is set up on a stretched string. The diagram below shows the string at three different instants of time. P, Q and R are three points on the string.\n\nWhich of the following gives two points on the string that are in phase and two points on the string that are one wavelength apart?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A standing wave diagram showing three loops. Point P is at the center of the first loop, point Q is at the center of the second loop, and point R is at the center of the third loop. The string is shown in its maximum positive displacement, maximum negative displacement, and equilibrium positions.",
+    "labels_to_preserve": [
+      "P",
+      "Q",
+      "R"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "In phase: P and Q; One wavelength apart: P and R"
+    },
+    {
+      "label": "B",
+      "text": "In phase: P and R; One wavelength apart: P and R"
+    },
+    {
+      "label": "C",
+      "text": "In phase: P and Q; One wavelength apart: P and Q"
+    },
+    {
+      "label": "D",
+      "text": "In phase: P and R; One wavelength apart: P and Q"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In a standing wave, all points within a single loop (between two adjacent nodes) are in phase with each other, while points in adjacent loops are $180^\\circ$ out of phase. Therefore, P and R (separated by two loops) are in phase, while P and Q (separated by one loop) are out of phase. One wavelength $\\lambda$ in a standing wave corresponds to the length of two loops; thus, the distance from the center of the first loop (P) to the center of the third loop (R) is exactly one wavelength.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2015 HL TZ1 Q13 B.png"
+}

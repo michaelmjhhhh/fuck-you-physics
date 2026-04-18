@@ -1,0 +1,50 @@
+{
+  "id": "Nov_2012_HL_Q10",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic cycles",
+  "paper": {
+    "year": 2012,
+    "month": "Nov",
+    "session_label": "Nov 2012",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2012 HL Q10 D.png"
+  },
+  "question_number": 10,
+  "content_markdown": "The diagram shows a $P-V$ cycle for a particular gas.\n\nIn which of the following changes is **no** work being done?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A Pressure-Volume (P-V) graph showing a four-stage cycle. Points are labeled 1, 2, 3, and 4. The path from 1 to 2 is a curve (compression), 2 to 3 is a vertical line (isochoric), 3 to 4 is a curve (expansion), and 4 to 1 is a vertical line (isochoric).",
+    "labels_to_preserve": [
+      "P",
+      "V",
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$1 \\rightarrow 2$"
+    },
+    {
+      "label": "B",
+      "text": "$1 \\rightarrow 2 \\rightarrow 3$"
+    },
+    {
+      "label": "C",
+      "text": "$1 \\rightarrow 2 \\rightarrow 3 \\rightarrow 4$"
+    },
+    {
+      "label": "D",
+      "text": "$2 \\rightarrow 3$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Work done in a thermodynamic process is given by $W = \\int P dV$. For work to be zero, there must be no change in volume ($dV = 0$). On a $P-V$ diagram, this corresponds to a vertical line (an isochoric process). Looking at the graph, the path from 2 to 3 is a vertical line where the volume remains constant, meaning no work is done during this specific transition.",
+  "source_image_path": "B4-Thermodynamics/Nov 2012 HL Q10 D.png"
+}

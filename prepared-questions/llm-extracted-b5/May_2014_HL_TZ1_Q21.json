@@ -1,0 +1,46 @@
+{
+  "id": "May_2014_HL_TZ1_Q21",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ1 Q21 B.png"
+  },
+  "question_number": 21,
+  "content_markdown": "Two resistors of resistance $10\\,\\Omega$ and $20\\,\\Omega$ are connected in parallel to a cell of negligible internal resistance.\n\nThe energy dissipated in the $10\\,\\Omega$ resistor in one second is $Q$. What is the energy dissipated in one second in the $20\\,\\Omega$ resistor?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a cell connected in parallel to two resistors. The top resistor is labeled 10 Ohms and the bottom resistor is labeled 20 Ohms.",
+    "labels_to_preserve": [
+      "10\\Omega",
+      "20\\Omega"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{Q}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{Q}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "$2Q$"
+    },
+    {
+      "label": "D",
+      "text": "$4Q$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Since the resistors are in parallel, they share the same potential difference $V$. The power (energy per second) dissipated is given by $P = \\frac{V^2}{R}$. For the $10\\,\\Omega$ resistor, $Q = \\frac{V^2}{10}$. For the $20\\,\\Omega$ resistor, the energy dissipated is $P_{20} = \\frac{V^2}{20}$. Comparing the two, $P_{20} = \\frac{1}{2} \\left(\\frac{V^2}{10}\\right) = \\frac{Q}{2}$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2014 HL TZ1 Q21 B.png"
+}

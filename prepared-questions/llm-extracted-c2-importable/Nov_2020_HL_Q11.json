@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2020_HL_Q11",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave properties",
+  "paper": {
+    "year": 2020,
+    "month": "Nov",
+    "session_label": "Nov 2020",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2020 HL Q11 C.png"
+  },
+  "question_number": 11,
+  "content_markdown": "A travelling wave has a frequency of $500\\text{ Hz}$. The closest distance between two points on the wave that have a phase difference of $60^\\circ$ $\\left(\\frac{\\pi}{3}\\text{ rad}\\right)$ is $0.050\\text{ m}$. What is the speed of the wave?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$25\\text{ m s}^{-1}$"
+    },
+    {
+      "label": "B",
+      "text": "$75\\text{ m s}^{-1}$"
+    },
+    {
+      "label": "C",
+      "text": "$150\\text{ m s}^{-1}$"
+    },
+    {
+      "label": "D",
+      "text": "$300\\text{ m s}^{-1}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "First, relate the phase difference to the wavelength. A phase difference of $2\\pi$ corresponds to one full wavelength $\\lambda$. Since $\\frac{\\pi}{3}$ is $\\frac{1}{6}$ of $2\\pi$, the distance $0.050\\text{ m}$ must be $\\frac{1}{6}$ of the wavelength. Therefore, $\\lambda = 6 \\times 0.050\\text{ m} = 0.30\\text{ m}$. Finally, use the wave speed formula $v = f\\lambda = 500\\text{ Hz} \\times 0.30\\text{ m} = 150\\text{ m s}^{-1}$.",
+  "source_image_path": "C2-Wave-Model/Nov 2020 HL Q11 C.png"
+}

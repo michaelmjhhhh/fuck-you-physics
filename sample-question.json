@@ -1,0 +1,42 @@
+{
+  "id": "May_2022_HL_TZ1_Q10",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Specific heat capacity",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ1 Q10 A.png"
+  },
+  "question_number": 10,
+  "content_markdown": "A sample of water of mass $0.25\\,kg$ is heated from $20^\\circ \\mathrm{C}$ to $28^\\circ \\mathrm{C}$. The specific heat capacity of water is $4.2 \\times 10^3\\,J\\,kg^{-1}\\,K^{-1}$. What is the thermal energy gained by the water?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$8.4 \\times 10^3\\,J$"
+    },
+    {
+      "label": "B",
+      "text": "$6.7 \\times 10^3\\,J$"
+    },
+    {
+      "label": "C",
+      "text": "$4.2 \\times 10^3\\,J$"
+    },
+    {
+      "label": "D",
+      "text": "$2.1 \\times 10^3\\,J$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Use $Q = mc\\Delta T$. The mass, heat capacity, and temperature rise combine directly to give the transferred thermal energy."
+}

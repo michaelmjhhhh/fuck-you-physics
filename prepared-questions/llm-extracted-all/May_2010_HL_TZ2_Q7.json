@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ2_Q7",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ2 Q7 B.png"
+  },
+  "question_number": 7,
+  "content_markdown": "Object P has a mass $m_{\\text{P}}$ and specific heat capacity $c_{\\text{P}}$. Object Q has a mass $m_{\\text{Q}}$ and specific heat capacity $c_{\\text{Q}}$. The temperature of each object increases by the same amount. Which of the following gives the ratio\n\n$$\\frac{\\text{thermal energy transferred to object P}}{\\text{thermal energy transferred to object Q}}?$$",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present, only text and mathematical expressions.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{m_{\\text{P}}c_{\\text{Q}}}{m_{\\text{Q}}c_{\\text{P}}}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{m_{\\text{P}}c_{\\text{P}}}{m_{\\text{Q}}c_{\\text{Q}}}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{m_{\\text{Q}}c_{\\text{Q}}}{m_{\\text{P}}c_{\\text{P}}}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{m_{\\text{Q}}c_{\\text{P}}}{m_{\\text{P}}c_{\\text{Q}}}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The thermal energy transferred to an object is given by the formula $Q = mc\\Delta T$. For object P, $Q_{\\text{P}} = m_{\\text{P}}c_{\\text{P}}\\Delta T$. For object Q, $Q_{\\text{Q}} = m_{\\text{Q}}c_{\\text{Q}}\\Delta T$. Since the temperature increase $\\Delta T$ is the same for both objects, it cancels out when taking the ratio $Q_{\\text{P}}/Q_{\\text{Q}}$, leaving $(m_{\\text{P}}c_{\\text{P}})/(m_{\\text{Q}}c_{\\text{Q}})$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2010 HL TZ2 Q7 B.png"
+}

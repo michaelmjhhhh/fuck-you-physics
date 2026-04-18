@@ -1,0 +1,43 @@
+{
+  "id": "May_2006_HL_TZ2_Q17",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ2 Q17 B.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A lump of metal is initially at a temperature of $100\\,^{\\circ}\\text{C}$. The metal is heated so that its temperature rises by $\\theta$ degrees, as measured on the Celsius scale. The rise in temperature, as measured on the Kelvin scale is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\theta - 273$."
+    },
+    {
+      "label": "B",
+      "text": "$\\theta$."
+    },
+    {
+      "label": "C",
+      "text": "$\\theta + 273$."
+    },
+    {
+      "label": "D",
+      "text": "$\\theta + 373$."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The key concept here is the difference between absolute temperature and temperature change. While $T/\\text{K} = t/^{\\circ}\\text{C} + 273.15$, the size of one degree Celsius is exactly the same as the size of one Kelvin. Therefore, any change in temperature $\\Delta T$ has the same numerical value on both the Celsius and Kelvin scales.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2006 HL TZ2 Q17 B.png"
+}

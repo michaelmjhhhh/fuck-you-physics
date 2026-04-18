@@ -1,0 +1,26 @@
+{
+  "id": "May_2008_HL_TZ1_Q20",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "",
+  "paper": {
+    "year": 2008,
+    "month": "May",
+    "session_label": "May 2008",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2008 HL TZ1 20 B.png"
+  },
+  "question_number": 20,
+  "correct_answer": "B",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "B4-Thermodynamics/May 2008 HL TZ1 20 B.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

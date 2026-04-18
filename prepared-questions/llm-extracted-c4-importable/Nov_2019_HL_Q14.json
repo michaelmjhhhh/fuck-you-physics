@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2019_HL_Q14",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves",
+  "paper": {
+    "year": 2019,
+    "month": "Nov",
+    "session_label": "Nov 2019",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2019 HL Q14 B.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A pipe of length $0.6\\text{ m}$ is filled with a gas and closed at one end. The speed of sound in the gas is $300\\text{ m s}^{-1}$. What are the frequencies of the first two harmonics in the tube?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$125\\text{ Hz}$ and $250\\text{ Hz}$"
+    },
+    {
+      "label": "B",
+      "text": "$125\\text{ Hz}$ and $375\\text{ Hz}$"
+    },
+    {
+      "label": "C",
+      "text": "$250\\text{ Hz}$ and $500\\text{ Hz}$"
+    },
+    {
+      "label": "D",
+      "text": "$250\\text{ Hz}$ and $750\\text{ Hz}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "For a pipe closed at one end, the fundamental frequency (first harmonic) is $f_1 = \\frac{v}{4L}$. Substituting the values: $f_1 = \\frac{300}{4 \\times 0.6} = \\frac{300}{2.4} = 125\\text{ Hz}$. In a closed pipe, only odd harmonics exist ($f_1, 3f_1, 5f_1, \\dots$). Therefore, the second harmonic (the next available frequency) is $3f_1 = 3 \\times 125 = 375\\text{ Hz}$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2019 HL Q14 B.png"
+}

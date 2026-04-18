@@ -1,0 +1,46 @@
+{
+  "id": "May_2022_HL_TZ2_Q17",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ2 Q17 A.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A battery of negligible internal resistance is connected to a lamp. A second identical lamp is added in series. What is the change in potential difference across the first lamp and what is the change in the output power of the battery?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the possible changes in potential difference and output power of the battery.",
+    "labels_to_preserve": [
+      "Change in potential difference",
+      "Output power of battery"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Change in potential difference: decreases; Output power of battery: decreases"
+    },
+    {
+      "label": "B",
+      "text": "Change in potential difference: decreases; Output power of battery: increases"
+    },
+    {
+      "label": "C",
+      "text": "Change in potential difference: no change; Output power of battery: decreases"
+    },
+    {
+      "label": "D",
+      "text": "Change in potential difference: no change; Output power of battery: increases"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "When a second lamp is added in series, the total resistance of the circuit increases. Since $V = IR$ and the battery voltage is constant, the total current $I$ decreases. The potential difference across the first lamp was originally the full battery voltage, but now it is shared between two lamps, so it decreases. The output power of the battery is $P = VI$; since $V$ is constant and $I$ has decreased, the total power output also decreases.",
+  "source_image_path": "B5-Current-and-Circuits/May 2022 HL TZ2 Q17 A.png"
+}

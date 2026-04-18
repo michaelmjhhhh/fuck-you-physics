@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2005_HL_Q28",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric current",
+  "paper": {
+    "year": 2005,
+    "month": "Nov",
+    "session_label": "Nov 2005",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2005 HL Q28 D.png"
+  },
+  "question_number": 28,
+  "content_markdown": "The drift velocity of the electrons in a copper wire in which there is an electric current is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "equal to the speed of light."
+    },
+    {
+      "label": "B",
+      "text": "close to that of the speed of light."
+    },
+    {
+      "label": "C",
+      "text": "of the order of a few kilometres per second."
+    },
+    {
+      "label": "D",
+      "text": "of the order of a few millimetres per second."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "While the electric field (the signal) propagates through a conductor at speeds approaching the speed of light, the actual physical movement of individual electrons (drift velocity $v$) is surprisingly slow due to frequent collisions with the lattice ions. For typical currents in household wiring, this velocity is usually on the order of $10^{-4}$ to $10^{-3}$ meters per second, which corresponds to a few millimetres per second.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2005 HL Q28 D.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2005_HL_TZ2_Q22",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ2 Q22 B.png"
+  },
+  "question_number": 22,
+  "content_markdown": "The **necessary** condition for two sources of waves to be coherent is that they vibrate",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "in phase."
+    },
+    {
+      "label": "B",
+      "text": "with a constant phase difference."
+    },
+    {
+      "label": "C",
+      "text": "with the same amplitude."
+    },
+    {
+      "label": "D",
+      "text": "with the same frequency."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Coherence is defined by a constant phase relationship over time. While having the same frequency is a prerequisite for maintaining a constant phase difference, the most fundamental definition of coherence in the context of wave interference is the existence of a constant phase difference.",
+  "source_image_path": "C2-Wave-Model/May 2005 HL TZ2 Q22 B.png"
+}

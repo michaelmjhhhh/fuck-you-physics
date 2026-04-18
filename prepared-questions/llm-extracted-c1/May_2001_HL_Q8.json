@@ -1,0 +1,43 @@
+{
+  "id": "May_2001_HL_Q8",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2001,
+    "month": "May",
+    "session_label": "May 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2001 HL Q8 C.png"
+  },
+  "question_number": 8,
+  "content_markdown": "A mass suspended from a spring is oscillating up and down with a **small** amplitude $A$. If the amplitude of the oscillation is doubled, the period will",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "halve."
+    },
+    {
+      "label": "B",
+      "text": "double."
+    },
+    {
+      "label": "C",
+      "text": "remain the same."
+    },
+    {
+      "label": "D",
+      "text": "increase by a factor of $\\sqrt{2}$."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In Simple Harmonic Motion (SHM), the period $T$ is independent of the amplitude $A$. For a mass-spring system, the period is given by $T = 2\\pi\\sqrt{\\frac{m}{k}}$, which depends only on the mass and the spring constant, not the displacement or amplitude.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2001 HL Q8 C.png"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "May_2006_HL_TZ2_Q23",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ2 Q23 D.png"
+  },
+  "question_number": 23,
+  "content_markdown": "A tube is filled with water and a vibrating tuning fork is held above its open end.\n\nThe tap at the base of the tube is opened. As the water runs out, the sound is loudest when the water level is a distance $x$ below the top of the tube. A second loud sound is heard when the water level is a distance $y$ below the top. Which **one** of the following is a correct expression for the wavelength $\\lambda$ of the sound produced by the tuning fork?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A vertical tube with a tuning fork at the top. Water is being drained from a tap at the bottom. Two water levels are marked: the first at distance x from the top, and the second at distance y from the top.",
+    "labels_to_preserve": [
+      "tuning fork",
+      "x",
+      "y",
+      "water",
+      "tap"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\lambda = y$"
+    },
+    {
+      "label": "B",
+      "text": "$\\lambda = 2x$"
+    },
+    {
+      "label": "C",
+      "text": "$\\lambda = y - x$"
+    },
+    {
+      "label": "D",
+      "text": "$\\lambda = 2(y - x)$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In a tube closed at one end (the water surface), resonance occurs when the length of the air column corresponds to an odd multiple of quarter-wavelengths. The first resonance occurs at $x \\approx \\frac{\\lambda}{4}$ and the second at $y \\approx \\frac{3\\lambda}{4}$. The distance between two successive resonances in such a tube is exactly half a wavelength ($\\frac{\\lambda}{2}$). Therefore, $y - x = \\frac{\\lambda}{2}$, which rearranges to $\\lambda = 2(y - x)$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2006 HL TZ2 Q23 D.png"
+}

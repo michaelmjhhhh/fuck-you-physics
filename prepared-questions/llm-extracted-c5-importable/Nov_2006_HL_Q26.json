@@ -1,0 +1,50 @@
+{
+  "id": "Nov_2006_HL_Q26",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2006,
+    "month": "Nov",
+    "session_label": "Nov 2006",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2006 HL Q26 A.png"
+  },
+  "question_number": 26,
+  "content_markdown": "A stationary source emits sound of frequency $f_0$. An observer is moving towards the source at constant speed along the path indicated by the dotted line. The observer passes very close to the source at time $T$.\n\nWhich **one** of the following graphs best shows the variation with time $t$ of the frequency $f$ heard by the observer?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing an observer moving in a straight line towards and then past a stationary source. Below are four graphs (A, B, C, D) plotting frequency f against time t.",
+    "labels_to_preserve": [
+      "observer",
+      "stationary source",
+      "f",
+      "f_0",
+      "t",
+      "T"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A graph showing a constant frequency higher than $f_0$ before time $T$, followed by a sharp drop at $T$ to a constant frequency lower than $f_0$."
+    },
+    {
+      "label": "B",
+      "text": "A graph showing frequency decreasing linearly towards $f_0$ until time $T$, then increasing linearly away from $f_0$."
+    },
+    {
+      "label": "C",
+      "text": "A graph showing frequency increasing linearly towards $f_0$ until time $T$, then decreasing linearly away from $f_0$."
+    },
+    {
+      "label": "D",
+      "text": "A graph showing a constant frequency lower than $f_0$ before time $T$, followed by a sharp rise at $T$ to a constant frequency higher than $f_0$."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "When an observer moves at a constant speed towards a stationary source, the observed frequency is constant and higher than the source frequency ($f = f_0(1 + v/c)$). As soon as the observer passes the source and moves away at the same constant speed, the observed frequency immediately drops to a constant value lower than the source frequency ($f = f_0(1 - v/c)$). This results in a step-down function at time $T$.",
+  "source_image_path": "C5-Doppler-Effect/Nov 2006 HL Q26 A.png"
+}

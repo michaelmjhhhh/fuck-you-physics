@@ -1,0 +1,43 @@
+{
+  "id": "May_2013_HL_TZ2_Q37",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ2 Q37 D.png"
+  },
+  "question_number": 37,
+  "content_markdown": "A student states that the following factors may lead to global warming\n\nI. decreased albedo of the Earth's surface\nII. increase in volcanic activity\nIII. deforestation.\n\nWhich of the above statements are correct?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "I and II only"
+    },
+    {
+      "label": "B",
+      "text": "II and III only"
+    },
+    {
+      "label": "C",
+      "text": "I and III only"
+    },
+    {
+      "label": "D",
+      "text": "I, II and III"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Decreased albedo (I) means less radiation is reflected and more is absorbed, warming the planet. Deforestation (III) reduces the removal of $CO_2$ from the atmosphere, enhancing the greenhouse effect. While volcanic activity (II) releases some greenhouse gases, its primary short-term effect is actually global cooling due to the release of aerosols that reflect incoming solar radiation.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2013 HL TZ2 Q37 D.png"
+}

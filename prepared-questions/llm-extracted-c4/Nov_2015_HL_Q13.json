@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2015_HL_Q13",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves",
+  "paper": {
+    "year": 2015,
+    "month": "Nov",
+    "session_label": "Nov 2015",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2015 HL Q13 C.png"
+  },
+  "question_number": 13,
+  "content_markdown": "A standing (stationary) wave is set up on a string at a particular frequency as shown.\n\nHow many nodes will be on the string if the frequency is doubled but nothing else is changed?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A standing wave on a string fixed at both ends showing three loops (the third harmonic).",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "2"
+    },
+    {
+      "label": "B",
+      "text": "3"
+    },
+    {
+      "label": "C",
+      "text": "7"
+    },
+    {
+      "label": "D",
+      "text": "8"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The initial diagram shows the 3rd harmonic ($n=3$), which has 4 nodes (including the ends). Since $v = f\\lambda$ and the wave speed $v$ is constant, doubling the frequency $f$ halves the wavelength $\\lambda$. This means the number of loops doubles from 3 to 6. A standing wave with 6 loops (the 6th harmonic) has $n+1$ nodes, which is $6+1=7$ nodes.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2015 HL Q13 C.png"
+}

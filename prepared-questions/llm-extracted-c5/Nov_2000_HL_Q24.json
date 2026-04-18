@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2000_HL_Q24",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2000,
+    "month": "Nov",
+    "session_label": "Nov 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2000 HL Q24 C.png"
+  },
+  "question_number": 24,
+  "content_markdown": "A sound source emits a note of constant frequency. An observer is travelling in a straight line towards the source at a constant speed. As she approaches the source she will hear a sound that",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "gets higher and higher in frequency."
+    },
+    {
+      "label": "B",
+      "text": "gets lower and lower in frequency."
+    },
+    {
+      "label": "C",
+      "text": "is of constant frequency but of a frequency higher than that of the sound from the source."
+    },
+    {
+      "label": "D",
+      "text": "is of constant frequency but of a frequency lower than that of the sound from the source."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "According to the Doppler effect formula for a moving observer $f' = f \\left( \\frac{v + v_o}{v} \\right)$, if the observer's speed $v_o$ is constant and the source is stationary, the observed frequency $f'$ will be constant and higher than the source frequency $f$. The frequency only changes (gets higher and higher) if the observer is accelerating.",
+  "source_image_path": "C5-Doppler-Effect/Nov 2000 HL Q24 C.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Specimen_2016_HL_Q29",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2016,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2016 HL Q29 D.png"
+  },
+  "question_number": 29,
+  "content_markdown": "A source emits sound of frequency $500\\text{ Hz}$. The source approaches a stationary observer at $30\\text{ m s}^{-1}$. The speed of sound is $330\\text{ m s}^{-1}$. What is the frequency of the sound detected by the observer?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$460\\text{ Hz}$"
+    },
+    {
+      "label": "B",
+      "text": "$500\\text{ Hz}$"
+    },
+    {
+      "label": "C",
+      "text": "$530\\text{ Hz}$"
+    },
+    {
+      "label": "D",
+      "text": "$550\\text{ Hz}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Since the source is moving towards a stationary observer, we use the Doppler effect formula for a moving source: $f' = f \\left( \\frac{v}{v - v_s} \\right)$. Plugging in the values: $f' = 500 \\left( \\frac{330}{330 - 30} \\right) = 500 \\left( \\frac{330}{300} \\right) = 500 \\times 1.1 = 550\\text{ Hz}$.",
+  "source_image_path": "C5-Doppler-Effect/Specimen Paper 2016 HL Q29 D.png"
+}

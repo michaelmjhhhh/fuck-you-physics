@@ -1,0 +1,43 @@
+{
+  "id": "May_2017_HL_TZ2_Q14",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ2 Q14 C.png"
+  },
+  "question_number": 14,
+  "content_markdown": "The frequency of the first harmonic standing wave in a pipe that is open at both ends is $200\\text{ Hz}$. What is the frequency of the first harmonic in a pipe of the same length that is open at one end and closed at the other?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "50 Hz"
+    },
+    {
+      "label": "B",
+      "text": "75 Hz"
+    },
+    {
+      "label": "C",
+      "text": "100 Hz"
+    },
+    {
+      "label": "D",
+      "text": "400 Hz"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "For a pipe open at both ends, the fundamental frequency is $f_{open} = \\frac{v}{2L} = 200\\text{ Hz}$. For a pipe of the same length $L$ closed at one end, the fundamental frequency is $f_{closed} = \\frac{v}{4L}$. Since $f_{closed} = \\frac{1}{2} f_{open}$, the new frequency is $100\\text{ Hz}$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2017 HL TZ2 Q14 C.png"
+}

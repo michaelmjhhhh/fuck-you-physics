@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2003_HL_Q30",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Internal resistance and electromotive force",
+  "paper": {
+    "year": 2003,
+    "month": "Nov",
+    "session_label": "Nov 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2003 HL Q30 B.png"
+  },
+  "question_number": 30,
+  "content_markdown": "A cell of e.m.f. $E$ and internal resistance $r$ is connected to a variable resistor. A voltmeter is connected so as to measure the potential difference across the terminals of the cell. Which **one** of the following is the correct circuit diagram of the arrangement?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four circuit diagrams labeled A, B, C, and D showing different configurations of a cell (E), internal resistance (r), a voltmeter (V), and a variable resistor.",
+    "labels_to_preserve": [
+      "E",
+      "r",
+      "V"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "To measure the terminal potential difference of a cell, the voltmeter must be connected in parallel across the entire cell unit (which consists of the ideal e.m.f. source $E$ and the internal resistance $r$ in series). In diagram B, the voltmeter is connected across both the e.m.f. and the internal resistor, which are themselves in series with the external variable resistor. This correctly captures the voltage drop $V = E - Ir$ available to the external circuit.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2003 HL Q30 B.png"
+}

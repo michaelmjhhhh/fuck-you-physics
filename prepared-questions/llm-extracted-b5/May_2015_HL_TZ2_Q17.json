@@ -1,0 +1,50 @@
+{
+  "id": "May_2015_HL_TZ2_Q17",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ2 Q17 C.png"
+  },
+  "question_number": 17,
+  "content_markdown": "The diagram shows an electric circuit containing a potentiometer of maximum resistance $R$. The potentiometer is connected in series with a resistor also of resistance $R$. The electromotive force (emf) of the battery is $6\\text{ V}$ and its internal resistance is negligible.\n\nThe slider on the potentiometer is moved from $P_1$ to $P_2$. Which graph shows the variation of the voltmeter $V$ reading with slider distance $d$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram with a 6V battery, a fixed resistor R, and a potentiometer R in series. A voltmeter is connected across the portion of the potentiometer between P1 and the slider.",
+    "labels_to_preserve": [
+      "6V",
+      "R",
+      "P_1",
+      "P_2",
+      "V",
+      "d"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A graph showing V starting at 0 at P1 and increasing linearly to 6V at P2."
+    },
+    {
+      "label": "B",
+      "text": "A graph showing V starting at a non-zero value at P1 and increasing linearly to 6V at P2."
+    },
+    {
+      "label": "C",
+      "text": "A graph showing V starting at 0 at P1 and increasing linearly to 3V at P2."
+    },
+    {
+      "label": "D",
+      "text": "A graph showing V starting at 6V at P1 and decreasing linearly towards P2."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The total resistance in the circuit is $R + R = 2R$. Since the battery is $6\\text{ V}$, the potential difference across the entire potentiometer (from $P_1$ to $P_2$) is $3\\text{ V}$ by the potential divider rule ($V_{pot} = 6 \\times \\frac{R}{R+R}$). At $P_1$, the voltmeter is shorted ($d=0$), so $V = 0$. At $P_2$, the voltmeter measures the full potential across the potentiometer, which is $3\\text{ V}$. The relationship is linear with distance $d$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2015 HL TZ2 Q17 C.png"
+}

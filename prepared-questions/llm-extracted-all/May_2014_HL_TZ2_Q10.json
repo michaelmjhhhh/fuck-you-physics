@@ -1,0 +1,43 @@
+{
+  "id": "May_2014_HL_TZ2_Q10",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ2 Q10 D.png"
+  },
+  "question_number": 10,
+  "content_markdown": "The specific latent heat is the energy required to change the phase of",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "one kilogram of a substance."
+    },
+    {
+      "label": "B",
+      "text": "a substance at constant temperature."
+    },
+    {
+      "label": "C",
+      "text": "a liquid at constant temperature."
+    },
+    {
+      "label": "D",
+      "text": "one kilogram of a substance at constant temperature."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Specific latent heat ($L$) is defined by the formula $Q = mL$. The term 'specific' in physics usually refers to 'per unit mass' (1 kg), and 'latent' refers to the energy involved in a phase change which occurs without a change in temperature.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2014 HL TZ2 Q10 D.png"
+}

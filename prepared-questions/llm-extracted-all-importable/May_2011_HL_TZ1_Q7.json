@@ -1,0 +1,47 @@
+{
+  "id": "May_2011_HL_TZ1_Q7",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2011,
+    "month": "May",
+    "session_label": "May 2011",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2011 HL TZ1 Q7 A.png"
+  },
+  "question_number": 7,
+  "content_markdown": "A heater of constant power heats a liquid of mass $m$ and specific heat capacity $c$. The graph below shows how the temperature of the liquid varies with time.\n\nThe gradient of the graph is $k$ and no energy is lost to the surroundings. What is the power of the heater?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A linear graph showing temperature on the y-axis and time on the x-axis. The line starts at a non-zero temperature and has a constant positive gradient.",
+    "labels_to_preserve": [
+      "temperature",
+      "time",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$kmc$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{k}{mc}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{mc}{k}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{1}{kmc}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The power $P$ is the rate of energy transfer, so $P = \\frac{Q}{t}$. Using the specific heat formula $Q = mc\\Delta T$, we can write $P = mc\\frac{\\Delta T}{t}$. Since the gradient of the temperature-time graph is $k = \\frac{\\Delta T}{t}$, substituting this gives $P = mck$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2011 HL TZ1 Q7 A.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2000_HL_Q14",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2000,
+    "month": "May",
+    "session_label": "May 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2000 HL Q14 B.png"
+  },
+  "question_number": 14,
+  "content_markdown": "Two identical containers P and Q hold two different ideal gases at the same temperature. The number of moles of each gas is the same. The molecular weight of the gas in container P is twice that of the gas in Q. The ratio of the pressure in P to that of Q will be",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{2}$"
+    },
+    {
+      "label": "B",
+      "text": "1"
+    },
+    {
+      "label": "C",
+      "text": "$\\sqrt{2}$"
+    },
+    {
+      "label": "D",
+      "text": "2"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "According to the ideal gas law $PV = nRT$, the pressure $P$ depends only on the volume $V$, the number of moles $n$, and the temperature $T$. Since the containers are identical ($V_P = V_Q$), the temperatures are the same ($T_P = T_Q$), and the number of moles are the same ($n_P = n_Q$), the pressure must be the same regardless of the molecular weight of the gas particles. Therefore, the ratio is 1.",
+  "source_image_path": "B3-Gas-Laws/May 2000 HL Q14 B.png"
+}

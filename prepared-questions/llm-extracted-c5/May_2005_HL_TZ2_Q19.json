@@ -1,0 +1,43 @@
+{
+  "id": "May_2005_HL_TZ2_Q19",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ2 Q19 A.png"
+  },
+  "question_number": 19,
+  "content_markdown": "The speed of sound in still air is $c$. A source of sound moves away from an observer at speed $v$. What will be the speed of sound as measured by the observer?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$c$"
+    },
+    {
+      "label": "B",
+      "text": "$c + v$"
+    },
+    {
+      "label": "C",
+      "text": "$c - v$"
+    },
+    {
+      "label": "D",
+      "text": "$v - c$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "This is a classic conceptual trap in the Doppler Effect. While the frequency and wavelength of the sound change due to the relative motion of the source, the speed of the wave itself is determined solely by the properties of the medium (still air). Since the observer is stationary relative to the air, they will measure the speed of sound as $c$, regardless of how fast the source is moving.",
+  "source_image_path": "C5-Doppler-Effect/May 2005 HL TZ2 Q19 A.png"
+}

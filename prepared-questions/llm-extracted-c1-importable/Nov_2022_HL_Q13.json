@@ -1,0 +1,50 @@
+{
+  "id": "Nov_2022_HL_Q13",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2022,
+    "month": "Nov",
+    "session_label": "Nov 2022",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2022 HL Q13 A.png"
+  },
+  "question_number": 13,
+  "content_markdown": "An object oscillates at the free end of a vertical spring. The graph shows the variation of the object's position with time.\n\nAt which position does the object have zero velocity and a negative acceleration?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A sinusoidal graph of position versus time for an oscillating object. Points A, B, C, and D are marked on the curve. A is at the first peak, B is at the first equilibrium crossing (moving downwards), C is at the first trough, and D is at the second equilibrium crossing (moving upwards).",
+    "labels_to_preserve": [
+      "position",
+      "time",
+      "A.",
+      "B.",
+      "C.",
+      "D."
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In simple harmonic motion, velocity is zero at the extremes (peaks and troughs) where the gradient of the position-time graph is zero. Acceleration is proportional to the negative of the displacement ($a \\propto -x$). Therefore, for acceleration to be negative, the displacement must be positive. Point A is at a positive maximum displacement, meaning velocity is zero and acceleration is at its most negative value.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2022 HL Q13 A.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2003_HL_Q11",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2003,
+    "month": "May",
+    "session_label": "May 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2003 HL Q11 B.png"
+  },
+  "question_number": 11,
+  "content_markdown": "The specific latent heat of vaporization of a substance is the quantity of energy required to",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "raise the temperature of a unit mass of a substance by one degree centigrade."
+    },
+    {
+      "label": "B",
+      "text": "convert a unit mass of liquid to vapour at constant temperature and pressure."
+    },
+    {
+      "label": "C",
+      "text": "convert a unit mass of solid to vapour at constant temperature and pressure."
+    },
+    {
+      "label": "D",
+      "text": "convert a unit mass of liquid to vapour at a temperature of $100\\,^{\\circ}\\text{C}$ and a pressure of one atmosphere."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Specific latent heat of vaporization refers specifically to the phase change from liquid to gas (vapor). The term 'specific' implies a unit mass (usually 1 kg), and 'latent' indicates that the energy transfer occurs without a change in temperature. While option D mentions specific conditions, the general definition (Option B) applies to any substance at its boiling point, not just water at standard atmospheric pressure.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2003 HL Q11 B.png"
+}

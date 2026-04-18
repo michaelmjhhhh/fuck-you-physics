@@ -1,0 +1,43 @@
+{
+  "id": "May_2022_HL_TZ1_Q10",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ1 Q10 A.png"
+  },
+  "question_number": 10,
+  "content_markdown": "A driver uses the brakes on a car to descend a hill at constant speed. What is correct about the internal energy of the brake discs?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The internal energy increases."
+    },
+    {
+      "label": "B",
+      "text": "The internal energy decreases."
+    },
+    {
+      "label": "C",
+      "text": "There is no change in the internal energy."
+    },
+    {
+      "label": "D",
+      "text": "The internal energy is zero."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "As the car descends the hill at a constant speed, its gravitational potential energy decreases while its kinetic energy remains constant. This loss in mechanical energy is converted into thermal energy due to the work done by friction between the brake pads and the discs. Consequently, the temperature and the internal energy of the brake discs increase.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2022 HL TZ1 Q10 A.png"
+}

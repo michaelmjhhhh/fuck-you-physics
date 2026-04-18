@@ -1,0 +1,50 @@
+{
+  "id": "Nov_2008_HL_Q24",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2008,
+    "month": "Nov",
+    "session_label": "Nov 2008",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2008 HL Q24 D.png"
+  },
+  "question_number": 24,
+  "content_markdown": "A railway engine, travelling at a constant speed on a straight level track is sounding its whistle. The whistle emits a sound of constant frequency. The engine approaches a station platform and passes an observer O standing on the platform at time $t = T$.\n\nWhich of the following sketch graphs best shows the variation with time $t$ of the frequency $f$ of the sound heard by O?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a railway engine moving towards a platform where an observer O is standing. Below are four graphs (A, B, C, D) plotting frequency f against time t.",
+    "labels_to_preserve": [
+      "engine",
+      "O",
+      "platform",
+      "f",
+      "t",
+      "T"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "When a source moves at a constant speed towards a stationary observer, the observed frequency is constant and higher than the source frequency. As it passes the observer at $t=T$ and moves away, the observed frequency immediately drops to a lower constant value. This step-change behavior is characteristic of the Doppler effect for a source moving in a straight line past an observer.",
+  "source_image_path": "C5-Doppler-Effect/Nov 2008 HL Q24 D.png"
+}

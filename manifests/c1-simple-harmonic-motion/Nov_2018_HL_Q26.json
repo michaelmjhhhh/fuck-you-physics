@@ -1,0 +1,26 @@
+{
+  "id": "Nov_2018_HL_Q26",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "",
+  "paper": {
+    "year": 2018,
+    "month": "Nov",
+    "session_label": "Nov 2018",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2018 HL Q26 C.png"
+  },
+  "question_number": 26,
+  "correct_answer": "C",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2018 HL Q26 C.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

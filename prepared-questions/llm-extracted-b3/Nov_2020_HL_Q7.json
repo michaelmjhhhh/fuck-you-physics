@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2020_HL_Q7",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2020,
+    "month": "Nov",
+    "session_label": "Nov 2020",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2020 HL Q7 C.png"
+  },
+  "question_number": 7,
+  "content_markdown": "What is **not** an assumption of the kinetic model of an ideal gas?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Attractive forces between molecules are negligible."
+    },
+    {
+      "label": "B",
+      "text": "Collision duration is negligible compared with time between collisions."
+    },
+    {
+      "label": "C",
+      "text": "Molecules suffer negligible momentum change during wall collisions."
+    },
+    {
+      "label": "D",
+      "text": "Molecular volume is negligible compared with gas volume."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The kinetic model of an ideal gas assumes that collisions with the walls are perfectly elastic. This means that while kinetic energy is conserved, the momentum of a molecule changes from $+mv$ to $-mv$ (a total change of $2mv$). If the momentum change were negligible, the gas would exert no pressure on the container walls, which contradicts the fundamental definition of gas pressure ($P = F/A = \\frac{\\Delta p / \\Delta t}{A}$).",
+  "source_image_path": "B3-Gas-Laws/Nov 2020 HL Q7 C.png"
+}

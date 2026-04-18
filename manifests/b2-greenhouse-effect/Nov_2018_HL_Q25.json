@@ -1,0 +1,26 @@
+{
+  "id": "Nov_2018_HL_Q25",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "",
+  "paper": {
+    "year": 2018,
+    "month": "Nov",
+    "session_label": "Nov 2018",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2018 HL Q25 B.png"
+  },
+  "question_number": 25,
+  "correct_answer": "B",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2018 HL Q25 B.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

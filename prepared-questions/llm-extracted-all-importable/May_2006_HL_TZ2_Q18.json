@@ -1,0 +1,43 @@
+{
+  "id": "May_2006_HL_TZ2_Q18",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ2 Q18 B.png"
+  },
+  "question_number": 18,
+  "content_markdown": "A large mass $M$ of ice of specific latent heat $L$ is at its melting point ($0\\,^{\\circ}\\text{C}$). A small mass $m$ of water at $\\theta\\,^{\\circ}\\text{C}$ is poured on to the block of ice. The specific heat capacity of water is $S$. Which **one** of the following is a correct expression for the mass of ice melted?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{mL}{S\\theta}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{mS\\theta}{L}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{MS\\theta}{L}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{ML}{S\\theta}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The heat lost by the cooling water must equal the heat gained by the melting ice. The water of mass $m$ cools from $\\theta$ to $0\\,^{\\circ}\\text{C}$, releasing energy $Q = mS\\theta$. This energy is used to melt a mass $m_{ice}$ of ice at $0\\,^{\\circ}\\text{C}$, where $Q = m_{ice}L$. Equating the two gives $m_{ice}L = mS\\theta$, so $m_{ice} = \\frac{mS\\theta}{L}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2006 HL TZ2 Q18 B.png"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2012_HL_Q13",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2012,
+    "month": "Nov",
+    "session_label": "Nov 2012",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2012 HL Q13 A.png"
+  },
+  "question_number": 13,
+  "content_markdown": "An object undergoes simple harmonic motion. Which graph shows the relationship between the acceleration $a$ and the displacement $x$ from the equilibrium position?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs showing acceleration 'a' on the vertical axis and displacement 'x' on the horizontal axis. Graph A is a straight line with a negative gradient passing through the origin. Graph B is a straight line with a positive gradient passing through the origin. Graph C is a curve with a negative gradient passing through the origin. Graph D is a curve with a positive gradient passing through the origin.",
+    "labels_to_preserve": [
+      "a",
+      "x",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The defining characteristic of Simple Harmonic Motion (SHM) is that the acceleration is directly proportional to the displacement and directed towards the equilibrium position. Mathematically, this is expressed as $a = -\\omega^2 x$. This equation represents a straight line passing through the origin with a constant negative gradient ($-\\omega^2$). Therefore, graph A is the only one that correctly represents this linear, negative relationship.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2012 HL Q13 A.png"
+}

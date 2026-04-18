@@ -1,0 +1,46 @@
+{
+  "id": "May_2019_HL_TZ2_Q17",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ2 Q17 D.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A mass on a spring is displaced from its equilibrium position. Which graph represents the variation of acceleration with displacement for the mass after it is released?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs showing acceleration on the y-axis and displacement on the x-axis. Graph A is a cubic-style curve passing through the origin. Graph B is a parabola opening upwards with its vertex at the origin. Graph C is a straight line with a positive gradient passing through the origin. Graph D is a straight line with a negative gradient passing through the origin.",
+    "labels_to_preserve": [
+      "acceleration",
+      "displacement"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Simple Harmonic Motion (SHM) is defined by the relationship $a \\propto -x$, where $a$ is acceleration and $x$ is displacement. This means the graph of acceleration against displacement must be a straight line passing through the origin with a negative gradient. Only graph D satisfies this condition.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2019 HL TZ2 Q17 D.png"
+}

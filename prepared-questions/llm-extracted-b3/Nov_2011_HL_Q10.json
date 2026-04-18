@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2011_HL_Q10",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2011,
+    "month": "Nov",
+    "session_label": "Nov 2011",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2011 HL Q10 A.png"
+  },
+  "question_number": 10,
+  "content_markdown": "The molar mass of magnesium is $24\\text{ g}$. $12\\text{ g}$ of magnesium contains the same number of particles as",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$6\\text{ g}$ of carbon-12."
+    },
+    {
+      "label": "B",
+      "text": "$12\\text{ g}$ of carbon-12."
+    },
+    {
+      "label": "C",
+      "text": "$24\\text{ g}$ of carbon-12."
+    },
+    {
+      "label": "D",
+      "text": "$6.02 \\times 10^{23}\\text{ g}$ of carbon-12."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The number of particles is proportional to the number of moles. For magnesium, $n = \\frac{m}{M} = \\frac{12\\text{ g}}{24\\text{ g/mol}} = 0.5\\text{ mol}$. To have the same number of particles, we need $0.5\\text{ mol}$ of carbon-12. Since the molar mass of carbon-12 is exactly $12\\text{ g/mol}$, the required mass is $0.5\\text{ mol} \\times 12\\text{ g/mol} = 6\\text{ g}$.",
+  "source_image_path": "B3-Gas-Laws/Nov 2011 HL Q10 A.png"
+}

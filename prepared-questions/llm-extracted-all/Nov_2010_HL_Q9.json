@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2010_HL_Q9",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2010,
+    "month": "Nov",
+    "session_label": "Nov 2010",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2010 HL Q9 B.png"
+  },
+  "question_number": 9,
+  "content_markdown": "An ice cube and an iceberg are both at a temperature of $0^{\\circ}\\text{C}$. Which of the following is a correct comparison of the average random kinetic energy and the total kinetic energy of the molecules of the ice cube and the iceberg?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table comparing average random kinetic energy and total kinetic energy for options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Average random kinetic energy",
+      "Total kinetic energy"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Average random kinetic energy: same; Total kinetic energy: same"
+    },
+    {
+      "label": "B",
+      "text": "Average random kinetic energy: same; Total kinetic energy: different"
+    },
+    {
+      "label": "C",
+      "text": "Average random kinetic energy: different; Total kinetic energy: same"
+    },
+    {
+      "label": "D",
+      "text": "Average random kinetic energy: different; Total kinetic energy: different"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Temperature is a measure of the average random kinetic energy of the molecules in a substance. Since both the ice cube and the iceberg are at $0^{\\circ}\\text{C}$, their average random kinetic energies must be the same. However, total kinetic energy depends on the total number of molecules (mass). Because an iceberg has significantly more mass than an ice cube, their total kinetic energies are different.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2010 HL Q9 B.png"
+}

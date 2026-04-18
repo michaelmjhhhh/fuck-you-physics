@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2007_HL_Q24",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave properties",
+  "paper": {
+    "year": 2007,
+    "month": "Nov",
+    "session_label": "Nov 2007",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2007 HL Q24 A.png"
+  },
+  "question_number": 24,
+  "content_markdown": "One end of a long string is vibrated at a constant frequency $f$. A travelling wave of wavelength $\\lambda$ and speed $v$ is set up on the string.\n\nThe frequency of vibration is doubled but the tension in the string is unchanged. Which of the following shows the wavelength and speed of the new travelling wave?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) with columns for Wavelength and Speed.",
+    "labels_to_preserve": [
+      "Wavelength",
+      "Speed",
+      "\\lambda",
+      "v"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Wavelength: $\\frac{\\lambda}{2}$, Speed: $v$"
+    },
+    {
+      "label": "B",
+      "text": "Wavelength: $\\frac{\\lambda}{2}$, Speed: $2v$"
+    },
+    {
+      "label": "C",
+      "text": "Wavelength: $2\\lambda$, Speed: $v$"
+    },
+    {
+      "label": "D",
+      "text": "Wavelength: $2\\lambda$, Speed: $2v$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The speed of a wave on a string depends only on the tension and the mass per unit length ($v = \\sqrt{T/\\mu}$). Since the tension is unchanged, the speed $v$ remains constant. Using the wave equation $v = f\\lambda$, if the frequency $f$ is doubled while $v$ stays the same, the wavelength $\\lambda$ must be halved to $\\frac{\\lambda}{2}$.",
+  "source_image_path": "C2-Wave-Model/Nov 2007 HL Q24 A.png"
+}

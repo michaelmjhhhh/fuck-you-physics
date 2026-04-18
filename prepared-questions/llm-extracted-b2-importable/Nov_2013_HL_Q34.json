@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2013_HL_Q34",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2013,
+    "month": "Nov",
+    "session_label": "Nov 2013",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2013 HL Q34 D.png"
+  },
+  "question_number": 34,
+  "content_markdown": "In the production of electric power, an advantage of using photovoltaic cells rather than fossil fuels is that the photovoltaic cells",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "can be effective in any location."
+    },
+    {
+      "label": "B",
+      "text": "can be used continuously."
+    },
+    {
+      "label": "C",
+      "text": "have low initial set-up costs."
+    },
+    {
+      "label": "D",
+      "text": "are more environmentally friendly when in use."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Photovoltaic cells produce electricity without emitting greenhouse gases or pollutants during operation, unlike fossil fuels which release $CO_2$ and other particulates. Options A and B are incorrect because solar energy depends on sunlight (location and time of day), and C is incorrect as PV systems typically have high initial capital costs compared to traditional power plants.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2013 HL Q34 D.png"
+}

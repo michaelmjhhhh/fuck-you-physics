@@ -1,0 +1,46 @@
+{
+  "id": "May_2011_HL_TZ1_Q6",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2011,
+    "month": "May",
+    "session_label": "May 2011",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2011 HL TZ1 Q6 A.png"
+  },
+  "question_number": 6,
+  "content_markdown": "A solid piece of tungsten melts into liquid without a change in temperature. Which of the following is correct for the molecules in the liquid phase compared with the molecules in the solid phase?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table comparing Kinetic energy and Potential energy for options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Kinetic energy",
+      "Potential energy"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy: same; Potential energy: greater"
+    },
+    {
+      "label": "B",
+      "text": "Kinetic energy: same; Potential energy: same"
+    },
+    {
+      "label": "C",
+      "text": "Kinetic energy: greater; Potential energy: greater"
+    },
+    {
+      "label": "D",
+      "text": "Kinetic energy: greater; Potential energy: same"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Temperature is a measure of the average kinetic energy of the molecules. Since the temperature remains constant during the phase change (melting), the kinetic energy must remain the same. However, energy is being added to break the intermolecular bonds to transition from solid to liquid, which increases the potential energy of the molecules.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2011 HL TZ1 Q6 A.png"
+}

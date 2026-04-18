@@ -1,0 +1,46 @@
+{
+  "id": "Specimen_2025_HL_Q15",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2025,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2025",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2025 HL Q15 A.png"
+  },
+  "question_number": 15,
+  "content_markdown": "Four identical resistors, each of resistance $R$, are connected as shown.\n\nWhat is the effective resistance between P and Q?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A square circuit arrangement of four resistors. Points P and Q are the terminals of one vertical resistor. The other three resistors are connected in series with each other, forming a parallel branch to the resistor between P and Q.",
+    "labels_to_preserve": [
+      "P",
+      "Q"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{3R}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "$R$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{4R}{3}$"
+    },
+    {
+      "label": "D",
+      "text": "$4R$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The circuit consists of two parallel branches between points P and Q. One branch contains a single resistor of resistance $R$. The other branch contains three resistors in series, giving a total resistance of $3R$. Using the parallel resistance formula: $\\frac{1}{R_{total}} = \\frac{1}{R} + \\frac{1}{3R} = \\frac{3}{3R} + \\frac{1}{3R} = \\frac{4}{3R}$. Inverting this gives $R_{total} = \\frac{3R}{4}$.",
+  "source_image_path": "B5-Current-and-Circuits/Specimen Paper 2025 HL Q15 A.png"
+}

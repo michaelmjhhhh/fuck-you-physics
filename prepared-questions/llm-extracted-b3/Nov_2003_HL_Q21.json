@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2003_HL_Q21",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2003,
+    "month": "Nov",
+    "session_label": "Nov 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2003 HL Q21 B.png"
+  },
+  "question_number": 21,
+  "content_markdown": "A container holds $20\\text{ g}$ of neon (mass number $20$) and also $8\\text{ g}$ of helium (mass number $4$).\n\nWhat is the ratio $\\frac{\\text{number of atoms of neon}}{\\text{number of atoms of helium}}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.4"
+    },
+    {
+      "label": "B",
+      "text": "0.5"
+    },
+    {
+      "label": "C",
+      "text": "2.0"
+    },
+    {
+      "label": "D",
+      "text": "2.5"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "To find the ratio of the number of atoms, we first find the number of moles for each gas. For neon, $n_{\\text{Ne}} = \\frac{20\\text{ g}}{20\\text{ g/mol}} = 1\\text{ mole}$. For helium, $n_{\\text{He}} = \\frac{8\\text{ g}}{4\\text{ g/mol}} = 2\\text{ moles}$. Since the number of atoms is proportional to the number of moles ($N = n \\times N_A$), the ratio of atoms is the same as the ratio of moles: $1 / 2 = 0.5$.",
+  "source_image_path": "B3-Gas-Laws/Nov 2003 HL Q21 B.png"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "May_2009_HL_TZ2_Q12",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ2 Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A cart, connected to two identical springs, is oscillating with simple harmonic motion between two points X and Y that are equidistant from point O.\n\nThe cart is in equilibrium at",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A cart on wheels attached to two horizontal springs on either side, fixed to walls. The cart is moving to the right. Below the cart is a scale with points X, O, and Y marked.",
+    "labels_to_preserve": [
+      "X",
+      "O",
+      "Y"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "all points between X and Y."
+    },
+    {
+      "label": "B",
+      "text": "point O only."
+    },
+    {
+      "label": "C",
+      "text": "points X and Y only."
+    },
+    {
+      "label": "D",
+      "text": "points O, X and Y only."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In Simple Harmonic Motion (SHM), equilibrium is defined as the position where the net force acting on the object is zero. For a mass-spring system, this occurs at the center of the oscillation (point O), where the restoring forces from the springs cancel each other out. At the endpoints X and Y, the displacement is at a maximum, meaning the restoring force (and thus acceleration) is also at its maximum, so the object is definitely not in equilibrium there.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2009 HL TZ2 Q12 B.png"
+}

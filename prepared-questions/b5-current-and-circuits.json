@@ -1,0 +1,4150 @@
+[
+  {
+    "id": "May_2004_HL_TZ2_Q30",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electromotive force and internal resistance",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ2 Q30 A.png"
+    },
+    "question_number": 30,
+    "content_markdown": "A battery is connected in series with a resistor $R$. The battery transfers $2\\,000\\text{ C}$ of charge completely round the circuit. During this process, $2\\,500\\text{ J}$ of energy is dissipated in the resistor $R$ and $1\\,500\\text{ J}$ is expended in the battery.\n\nThe e.m.f. of the battery is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "2.00 V."
+      },
+      {
+        "label": "B",
+        "text": "1.25 V."
+      },
+      {
+        "label": "C",
+        "text": "0.75 V."
+      },
+      {
+        "label": "D",
+        "text": "0.50 V."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Electromotive force (e.m.f.) is defined as the total energy supplied by the source per unit charge that passes through it. To find the e.m.f., we must sum the total energy expended in the entire circuit (both in the external resistor and the internal resistance of the battery) and divide by the total charge. Total energy $W = 2\\,500\\text{ J} + 1\\,500\\text{ J} = 4\\,000\\text{ J}$. The charge $Q = 2\\,000\\text{ C}$. Therefore, $\\text{e.m.f.} = \\frac{W}{Q} = \\frac{4\\,000}{2\\,000} = 2.00\\text{ V}$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2004 HL TZ2 Q30 A.png"
+  },
+  {
+    "id": "May_2009_HL_TZ1_Q21",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Potential dividers",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ1 Q21 D.png"
+    },
+    "question_number": 21,
+    "content_markdown": "The diagram shows a potential divider circuit.\n\nIn order to increase the reading on the voltmeter the",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A potential divider circuit with a 12 V DC source. It contains a fixed resistor of 3 k\u03a9 in series with a light-dependent resistor (LDR) labeled R. A voltmeter V is connected in parallel across the LDR.",
+      "labels_to_preserve": [
+        "12 V",
+        "3 k\u03a9",
+        "R",
+        "V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "temperature of $R$ should be increased."
+      },
+      {
+        "label": "B",
+        "text": "temperature of $R$ should be decreased."
+      },
+      {
+        "label": "C",
+        "text": "light intensity on $R$ should be increased."
+      },
+      {
+        "label": "D",
+        "text": "light intensity on $R$ should be decreased."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The component R is a Light Dependent Resistor (LDR), indicated by the arrows pointing towards it. In a potential divider, the voltage across a component is proportional to its resistance relative to the total resistance ($V_{out} = V_{in} \\times \\frac{R}{R + R_{fixed}}$). To increase the voltmeter reading, the resistance of $R$ must increase. For an LDR, resistance increases when the light intensity decreases (LURD: Light Up Resistance Down).",
+    "source_image_path": "B5-Current-and-Circuits/May 2009 HL TZ1 Q21 D.png"
+  },
+  {
+    "id": "May_2009_HL_TZ1_Q3",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Energy transfers and efficiency",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ1 Q3 D.png"
+    },
+    "question_number": 3,
+    "content_markdown": "A lift (elevator) is operated by an electric motor. It moves between the $10^{\\text{th}}$ floor and the $2^{\\text{nd}}$ floor at a constant speed. One main energy transformation during this journey is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "gravitational potential energy $\\rightarrow$ kinetic energy."
+      },
+      {
+        "label": "B",
+        "text": "electrical energy $\\rightarrow$ kinetic energy."
+      },
+      {
+        "label": "C",
+        "text": "kinetic energy $\\rightarrow$ thermal energy."
+      },
+      {
+        "label": "D",
+        "text": "electrical energy $\\rightarrow$ thermal energy."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Since the lift moves at a constant speed, its kinetic energy does not change. As it moves from the 10th floor to the 2nd floor, it loses gravitational potential energy. However, the question asks for a 'main energy transformation' during the journey operated by an electric motor. In real-world motors, electrical energy is converted into work (to move the lift) and a significant portion is dissipated as thermal energy due to resistance and friction. Among the choices, electrical energy to thermal energy represents a valid transformation occurring in the system's components.",
+    "source_image_path": "B5-Current-and-Circuits/May 2009 HL TZ1 Q3 D.png"
+  },
+  {
+    "id": "May_2009_HL_TZ2_Q21",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ2 Q21 C.png"
+    },
+    "question_number": 21,
+    "content_markdown": "Which of the following correctly gives the resistance of an ideal ammeter and resistance of an ideal voltmeter?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the resistance values for an ammeter and a voltmeter for four options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Ammeter",
+        "Voltmeter",
+        "infinite",
+        "zero"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Ammeter: infinite; Voltmeter: infinite"
+      },
+      {
+        "label": "B",
+        "text": "Ammeter: zero; Voltmeter: zero"
+      },
+      {
+        "label": "C",
+        "text": "Ammeter: zero; Voltmeter: infinite"
+      },
+      {
+        "label": "D",
+        "text": "Ammeter: infinite; Voltmeter: zero"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "An ideal ammeter is connected in series and should have zero resistance so it doesn't affect the current it is measuring. An ideal voltmeter is connected in parallel and should have infinite resistance so it doesn't draw any current away from the component it is measuring.",
+    "source_image_path": "B5-Current-and-Circuits/May 2009 HL TZ2 Q21 C.png"
+  },
+  {
+    "id": "May_2010_HL_TZ1_Q23",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric cells",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ1 Q23 A.png"
+    },
+    "question_number": 23,
+    "content_markdown": "The electromotive force (emf) of a cell is defined as",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the power supplied by the cell per unit current from the cell."
+      },
+      {
+        "label": "B",
+        "text": "the force that the cell provides to drive electrons round a circuit."
+      },
+      {
+        "label": "C",
+        "text": "the energy supplied by the cell per unit current from the cell."
+      },
+      {
+        "label": "D",
+        "text": "the potential difference across the terminals of the cell."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The definition of emf relates to the work done (energy) per unit charge. Since power is energy per unit time ($P = E/t$) and current is charge per unit time ($I = Q/t$), the ratio of power to current ($P/I$) simplifies to $(E/t) / (Q/t) = E/Q$, which is the energy per unit charge. This matches the standard definition of emf.",
+    "source_image_path": "B5-Current-and-Circuits/May 2010 HL TZ1 Q23 A.png"
+  },
+  {
+    "id": "May_2010_HL_TZ2_Q16",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ2 Q16 A.png"
+    },
+    "question_number": 16,
+    "content_markdown": "The graph shows how the current $I$ in a resistor varies with the voltage $V$ applied across it.\n\nWhich of the following gives the resistance of the resistor, when $I = I_1$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph of Current I (y-axis) against Voltage V (x-axis). The curve starts at the origin (0,0) and curves downwards (decreasing gradient). A specific point is marked with coordinates (V1, I1).",
+      "labels_to_preserve": [
+        "I",
+        "V",
+        "I_1",
+        "V_1",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{V_1}{I_1}$"
+      },
+      {
+        "label": "B",
+        "text": "The slope of the curve at the point $(V_1, I_1)$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{I_1}{V_1}$"
+      },
+      {
+        "label": "D",
+        "text": "The inverse of the slope of the curve at the point $(V_1, I_1)$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Resistance is defined by Ohm's Law as the ratio of potential difference to current at a specific point, $R = V/I$. While the slope of an I-V graph relates to conductance (or differential resistance if taking the derivative), the absolute resistance at any specific state is simply the ratio of the coordinates $V_1$ and $I_1$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2010 HL TZ2 Q16 A.png"
+  },
+  {
+    "id": "May_2010_HL_TZ2_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ2 Q17 B.png"
+    },
+    "question_number": 17,
+    "content_markdown": "Two $10\\,\\Omega$ resistors are connected as shown.\n\nWhat is the resistance across PQ?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing two 10 Ohm resistors in a specific configuration. A wire connects the left side of the first resistor to the right side of the second resistor. Terminal P is connected to the right side of the second resistor, and terminal Q is connected to the junction between the two resistors.",
+      "labels_to_preserve": [
+        "10 \\Omega",
+        "P",
+        "Q"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0\\,\\Omega$"
+      },
+      {
+        "label": "B",
+        "text": "$5\\,\\Omega$"
+      },
+      {
+        "label": "C",
+        "text": "$10\\,\\Omega$"
+      },
+      {
+        "label": "D",
+        "text": "$20\\,\\Omega$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "By tracing the paths from P to Q, we can see that the two resistors are actually in parallel. Terminal P is connected to the 'outer' ends of both resistors via the top bypass wire, while terminal Q is connected to the common junction between them. Therefore, the total resistance $R_{total}$ is given by $\\frac{1}{R_{total}} = \\frac{1}{10} + \\frac{1}{10}$, which results in $5\\,\\Omega$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2010 HL TZ2 Q17 B.png"
+  },
+  {
+    "id": "May_2011_HL_TZ1_Q18",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Potential Dividers",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ1 Q18 D.png"
+    },
+    "question_number": 18,
+    "content_markdown": "A light-dependent resistor (LDR) and a fixed resistor are connected in the potential divider circuit shown below.\n\nThe voltmeter reads $3.0\\text{ V}$. Which of the following changes would cause the reading on the voltmeter to increase?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A potential divider circuit with a 5.0V DC source. A 10k\u03a9 fixed resistor is in series with an LDR. A voltmeter is connected in parallel across the LDR.",
+      "labels_to_preserve": [
+        "5.0V",
+        "10k\u03a9",
+        "V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Swapping the positions of the LDR and the fixed resistor"
+      },
+      {
+        "label": "B",
+        "text": "Increasing the resistance of the fixed resistor"
+      },
+      {
+        "label": "C",
+        "text": "Increasing the amount of light shining on the LDR"
+      },
+      {
+        "label": "D",
+        "text": "Decreasing the amount of light shining on the LDR"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The voltmeter measures the potential difference across the LDR. According to the potential divider equation, $V_{\\text{out}} = V_{\\text{in}} \\times \\frac{R_{\\text{LDR}}}{R_{\\text{fixed}} + R_{\\text{LDR}}}$. To increase $V_{\\text{out}}$, we need to increase the ratio of the LDR's resistance to the total resistance. Since the resistance of an LDR increases as light intensity decreases, reducing the light will increase $R_{\\text{LDR}}$ and thus increase the voltmeter reading.",
+    "source_image_path": "B5-Current-and-Circuits/May 2011 HL TZ1 Q18 D.png"
+  },
+  {
+    "id": "May_2011_HL_TZ2_Q19",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ2 Q19 B.png"
+    },
+    "question_number": 19,
+    "content_markdown": "The definition of the ampere refers to the",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "number of electrons passing a given point per second."
+      },
+      {
+        "label": "B",
+        "text": "force between parallel current-carrying conductors."
+      },
+      {
+        "label": "C",
+        "text": "power dissipated per unit resistance."
+      },
+      {
+        "label": "D",
+        "text": "amount of charge transferred per second."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Historically, the SI definition of the ampere was based on the magnetic force between two parallel, current-carrying wires (the force per unit length). While modern SI definitions have shifted to fixing the value of the elementary charge, in the context of this classic IB question, the ampere is defined via the force between conductors.",
+    "source_image_path": "B5-Current-and-Circuits/May 2011 HL TZ2 Q19 B.png"
+  },
+  {
+    "id": "May_2011_HL_TZ2_Q20",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "B.5 Current and circuits",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ2 Q20 A.png"
+    },
+    "question_number": 20,
+    "content_markdown": "Two resistors, of resistance $R_1$ and $R_2$, are connected in series with a cell of emf $\\varepsilon$ and negligible internal resistance.\n\nWhich expression gives the potential difference across the resistor of resistance $R_1$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a cell with emf epsilon connected in series to two rectangular resistors labeled R1 and R2.",
+      "labels_to_preserve": [
+        "\\varepsilon",
+        "R_1",
+        "R_2"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\left( \\frac{R_1}{R_1 + R_2} \\right) \\varepsilon$"
+      },
+      {
+        "label": "B",
+        "text": "$\\left( \\frac{R_1 + R_2}{R_1} \\right) \\varepsilon$"
+      },
+      {
+        "label": "C",
+        "text": "$\\left( \\frac{R_2}{R_1 + R_2} \\right) \\varepsilon$"
+      },
+      {
+        "label": "D",
+        "text": "$\\left( \\frac{R_1 + R_2}{R_2} \\right) \\varepsilon$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "This is a classic potential divider problem. In a series circuit, the total voltage (emf) is shared between the resistors in direct proportion to their resistance. The current $I$ is the same for both, where $I = \\frac{\\varepsilon}{R_1 + R_2}$. The voltage across $R_1$ is $V_1 = I \\times R_1$, which leads directly to the potential divider formula.",
+    "source_image_path": "B5-Current-and-Circuits/May 2011 HL TZ2 Q20 A.png"
+  },
+  {
+    "id": "May_2012_HL_TZ1_Q16",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Internal resistance and electromotive force",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ1 Q16 B.png"
+    },
+    "question_number": 16,
+    "content_markdown": "A battery of emf $6.0\\text{ V}$ is connected to a $2.0\\text{ }\\Omega$ resistor. The current in the circuit is $2.0\\text{ A}$. The internal resistance of the battery is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "zero."
+      },
+      {
+        "label": "B",
+        "text": "$1.0\\text{ }\\Omega$."
+      },
+      {
+        "label": "C",
+        "text": "$3.0\\text{ }\\Omega$."
+      },
+      {
+        "label": "D",
+        "text": "$4.0\\text{ }\\Omega$."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Using the formula for emf $\\epsilon = I(R + r)$, where $\\epsilon$ is the emf, $I$ is the current, $R$ is the external resistance, and $r$ is the internal resistance. Substituting the given values: $6.0 = 2.0(2.0 + r)$. Dividing by $2.0$ gives $3.0 = 2.0 + r$, which leads to $r = 1.0\\text{ }\\Omega$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2012 HL TZ1 Q16 B.png"
+  },
+  {
+    "id": "May_2012_HL_TZ1_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ1 Q17 B.png"
+    },
+    "question_number": 17,
+    "content_markdown": "Which of the following gives the resistances of an ideal ammeter and an ideal voltmeter?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four combinations of resistance values (infinite or zero) for an ideal ammeter and an ideal voltmeter.",
+      "labels_to_preserve": [
+        "Resistance of ideal ammeter",
+        "Resistance of ideal voltmeter"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Resistance of ideal ammeter: infinite; Resistance of ideal voltmeter: infinite"
+      },
+      {
+        "label": "B",
+        "text": "Resistance of ideal ammeter: zero; Resistance of ideal voltmeter: infinite"
+      },
+      {
+        "label": "C",
+        "text": "Resistance of ideal ammeter: infinite; Resistance of ideal voltmeter: zero"
+      },
+      {
+        "label": "D",
+        "text": "Resistance of ideal ammeter: zero; Resistance of ideal voltmeter: zero"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "An ideal ammeter is connected in series and should not affect the current it measures, so it must have zero resistance. An ideal voltmeter is connected in parallel and should not draw any current from the circuit, so it must have infinite resistance.",
+    "source_image_path": "B5-Current-and-Circuits/May 2012 HL TZ1 Q17 B.png"
+  },
+  {
+    "id": "May_2012_HL_TZ2_Q21",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Resistance and Resistivity",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ2 Q21 A.png"
+    },
+    "question_number": 21,
+    "content_markdown": "A metal wire X with length $L$ and radius $r$ has a resistance $R$. A wire Y of length $4L$ made from the same material as X has the same resistance $R$. What is the radius of Y?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$2r$"
+      },
+      {
+        "label": "B",
+        "text": "$4r$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{r}{2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{r}{4}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Resistance is given by $R = \\rho \\frac{L}{A}$, where $A = \\pi r^2$. For wire X, $R = \\rho \\frac{L}{\\pi r^2}$. For wire Y, the resistance is the same $R = \\rho \\frac{4L}{\\pi r_Y^2}$. Equating the two expressions: $\\frac{L}{r^2} = \\frac{4L}{r_Y^2}$. This simplifies to $r_Y^2 = 4r^2$, which means $r_Y = 2r$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2012 HL TZ2 Q21 A.png"
+  },
+  {
+    "id": "May_2012_HL_TZ2_Q22",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ2 Q22 C.png"
+    },
+    "question_number": 22,
+    "content_markdown": "Which of the following is the correct way of connecting an ammeter and of connecting a voltmeter in a circuit designed to measure the characteristics of a thermistor?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four combinations of how an ammeter and a voltmeter can be connected relative to a thermistor.",
+      "labels_to_preserve": [
+        "Ammeter",
+        "Voltmeter"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Ammeter: in series with thermistor; Voltmeter: in series with thermistor"
+      },
+      {
+        "label": "B",
+        "text": "Ammeter: in parallel with thermistor; Voltmeter: in series with thermistor"
+      },
+      {
+        "label": "C",
+        "text": "Ammeter: in series with thermistor; Voltmeter: in parallel with thermistor"
+      },
+      {
+        "label": "D",
+        "text": "Ammeter: in parallel with thermistor; Voltmeter: in parallel with thermistor"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "To measure the characteristics of a component like a thermistor, you need to measure the current through it and the potential difference across it. Ammeters have very low resistance and must be connected in series to measure the flow of charge. Voltmeters have very high resistance and must be connected in parallel to measure the electrical potential difference between two points without drawing significant current away from the component.",
+    "source_image_path": "B5-Current-and-Circuits/May 2012 HL TZ2 Q22 C.png"
+  },
+  {
+    "id": "May_2013_HL_TZ1_Q18",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ1 Q18 D.png"
+    },
+    "question_number": 18,
+    "content_markdown": "Which of the following graphs shows the relationship between current $I$ and voltage $V$ for a filament lamp?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs labeled A, B, C, and D showing current I on the y-axis and voltage V on the x-axis. Graph A is a horizontal line. Graph B is a straight line through the origin. Graph C is a curve with increasing gradient. Graph D is a curve with decreasing gradient.",
+      "labels_to_preserve": [
+        "I",
+        "V",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "As the voltage across a filament lamp increases, the current increases, which causes the temperature of the filament to rise. This increase in temperature leads to an increase in resistance ($R = V/I$). On an $I-V$ graph, the resistance is the reciprocal of the gradient ($1/R$). Therefore, as resistance increases, the gradient of the $I-V$ curve must decrease, resulting in the characteristic curve shown in graph D.",
+    "source_image_path": "B5-Current-and-Circuits/May 2013 HL TZ1 Q18 D.png"
+  },
+  {
+    "id": "May_2013_HL_TZ1_Q19",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ1 Q19 B.png"
+    },
+    "question_number": 19,
+    "content_markdown": "A cell of negligible internal resistance is connected to three identical lamps. A voltmeter is connected across one of the lamps.\n\nIf the filament in lamp X breaks, the reading on the voltmeter will",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a cell connected to a series-parallel combination of three lamps. One lamp is in series with a parallel pair of two lamps. A voltmeter is connected across the first series lamp. One of the lamps in the parallel pair is labeled X.",
+      "labels_to_preserve": [
+        "V",
+        "X"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "become zero."
+      },
+      {
+        "label": "B",
+        "text": "decrease."
+      },
+      {
+        "label": "C",
+        "text": "stay the same."
+      },
+      {
+        "label": "D",
+        "text": "increase."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Initially, the circuit consists of one lamp in series with a parallel combination of two lamps. If the filament in lamp X breaks, that branch of the parallel circuit becomes an open circuit. This increases the total resistance of the parallel section, which in turn increases the total resistance of the entire circuit. As a result, the total current flowing from the cell decreases. Since the voltmeter measures the potential difference across the first lamp ($V = IR$), and the current $I$ through it has decreased while its resistance $R$ remains constant, the voltmeter reading must decrease.",
+    "source_image_path": "B5-Current-and-Circuits/May 2013 HL TZ1 Q19 B.png"
+  },
+  {
+    "id": "May_2013_HL_TZ2_Q19",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ2 Q19 B.png"
+    },
+    "question_number": 19,
+    "content_markdown": "An electric circuit consists of three identical resistors of resistance $R$ connected to a cell of emf $\\varepsilon$ and negligible internal resistance.\n\n![](https://example.com/image.png)\n\nWhat is the magnitude of the current in the cell?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a cell with emf epsilon connected in series with one resistor R, which is then connected in series to a parallel combination of two resistors, each with resistance R.",
+      "labels_to_preserve": [
+        "\\varepsilon",
+        "R"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{\\varepsilon}{3R}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{2\\varepsilon}{3R}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{3\\varepsilon}{2R}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{3\\varepsilon}{R}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "First, find the equivalent resistance of the circuit. The two resistors in parallel have an equivalent resistance of $R_p = \\frac{R \\times R}{R + R} = \\frac{R}{2}$. This parallel combination is in series with the third resistor, so the total resistance is $R_{total} = R + \\frac{R}{2} = \\frac{3R}{2}$. Using Ohm's law $I = \\frac{V}{R}$, the current in the cell is $I = \\frac{\\varepsilon}{\\frac{3R}{2}} = \\frac{2\\varepsilon}{3R}$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2013 HL TZ2 Q19 B.png"
+  },
+  {
+    "id": "May_2013_HL_TZ2_Q20",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Resistance and Resistivity",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ2 Q20 C.png"
+    },
+    "question_number": 20,
+    "content_markdown": "A copper wire with length $L$ and radius $r$ has a resistance $R$.\n\nWhat is the radius of a copper wire with length $\\frac{L}{2}$ and resistance $R$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$2r$"
+      },
+      {
+        "label": "B",
+        "text": "$\\sqrt{2}r$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{r}{\\sqrt{2}}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{r}{2}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Resistance is given by $R = \\rho \\frac{L}{A} = \\rho \\frac{L}{\\pi r^2}$. If the resistance $R$ remains constant while the length is halved to $L/2$, the cross-sectional area must also be halved to maintain the ratio. Since $A \\propto r^2$, halving the area means the new radius $r'$ must satisfy $(r')^2 = \\frac{r^2}{2}$, which gives $r' = \\frac{r}{\\sqrt{2}}$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2013 HL TZ2 Q20 C.png"
+  },
+  {
+    "id": "May_2014_HL_TZ1_Q21",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ1 Q21 B.png"
+    },
+    "question_number": 21,
+    "content_markdown": "Two resistors of resistance $10\\,\\Omega$ and $20\\,\\Omega$ are connected in parallel to a cell of negligible internal resistance.\n\nThe energy dissipated in the $10\\,\\Omega$ resistor in one second is $Q$. What is the energy dissipated in one second in the $20\\,\\Omega$ resistor?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a cell connected in parallel to two resistors. The top resistor is labeled 10 Ohms and the bottom resistor is labeled 20 Ohms.",
+      "labels_to_preserve": [
+        "10\\Omega",
+        "20\\Omega"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{Q}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{Q}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$2Q$"
+      },
+      {
+        "label": "D",
+        "text": "$4Q$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Since the resistors are in parallel, they share the same potential difference $V$. The power (energy per second) dissipated is given by $P = \\frac{V^2}{R}$. For the $10\\,\\Omega$ resistor, $Q = \\frac{V^2}{10}$. For the $20\\,\\Omega$ resistor, the energy dissipated is $P_{20} = \\frac{V^2}{20}$. Comparing the two, $P_{20} = \\frac{1}{2} \\left(\\frac{V^2}{10}\\right) = \\frac{Q}{2}$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2014 HL TZ1 Q21 B.png"
+  },
+  {
+    "id": "May_2014_HL_TZ1_Q22",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ1 Q22 D.png"
+    },
+    "question_number": 22,
+    "content_markdown": "A battery of emf $12\\text{ V}$ and negligible internal resistance is connected to a resistor of constant resistance $6\\text{ }\\Omega$, an ideal ammeter and an ideal voltmeter.\n\nWhat is the reading on the ammeter and on the voltmeter?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A series circuit containing a 12V battery, an ideal ammeter (A), a 6 ohm resistor, and an ideal voltmeter (V) all connected in a single loop.",
+      "labels_to_preserve": [
+        "12 V",
+        "A",
+        "V",
+        "6 \\Omega"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Ammeter: $2.0\\text{ A}$, Voltmeter: $0\\text{ V}$"
+      },
+      {
+        "label": "B",
+        "text": "Ammeter: $2.0\\text{ A}$, Voltmeter: $12\\text{ V}$"
+      },
+      {
+        "label": "C",
+        "text": "Ammeter: $0\\text{ A}$, Voltmeter: $0\\text{ V}$"
+      },
+      {
+        "label": "D",
+        "text": "Ammeter: $0\\text{ A}$, Voltmeter: $12\\text{ V}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "An ideal voltmeter has infinite resistance. Since it is connected in series with the rest of the circuit components, the total resistance of the circuit becomes effectively infinite. This results in zero current flowing through the circuit, so the ammeter reads 0. Because no current flows, there is no potential drop across the $6\\text{ }\\Omega$ resistor ($V=IR=0$), meaning the voltmeter effectively measures the full emf of the battery across its terminals, which is $12\\text{ V}$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2014 HL TZ1 Q22 D.png"
+  },
+  {
+    "id": "May_2014_HL_TZ2_Q20",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ2 Q20 C.png"
+    },
+    "question_number": 20,
+    "content_markdown": "Which of the following is a statement of Ohm\u2019s law?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The resistance of a conductor is constant."
+      },
+      {
+        "label": "B",
+        "text": "The current in a conductor is inversely proportional to the potential difference across the conductor provided the temperature is constant."
+      },
+      {
+        "label": "C",
+        "text": "The resistance of a conductor is constant provided that the temperature is constant."
+      },
+      {
+        "label": "D",
+        "text": "The current in a conductor is proportional to the potential difference across it."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Ohm's law specifically states that for certain conductors (ohmic conductors), the current is directly proportional to the potential difference across them, provided that physical conditions such as temperature remain constant. This is equivalent to saying the resistance $R = V/I$ is constant under those fixed conditions.",
+    "source_image_path": "B5-Current-and-Circuits/May 2014 HL TZ2 Q20 C.png"
+  },
+  {
+    "id": "May_2014_HL_TZ2_Q21",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ2 Q21 C.png"
+    },
+    "question_number": 21,
+    "content_markdown": "Three identical filament lamps W, X and Y are connected in the circuit as shown. The cell has negligible internal resistance.\n\nWhen the switch is closed, all the lamps light. Which of the following correctly describes what happens to the brightness of lamp W and lamp Y when the switch is opened?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram containing a DC cell and three lamps. Lamp W is in series with a parallel combination of Lamp X (with a switch) and Lamp Y.",
+      "labels_to_preserve": [
+        "W",
+        "X",
+        "Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Lamp W: decreases; Lamp Y: decreases"
+      },
+      {
+        "label": "B",
+        "text": "Lamp W: increases; Lamp Y: decreases"
+      },
+      {
+        "label": "C",
+        "text": "Lamp W: decreases; Lamp Y: increases"
+      },
+      {
+        "label": "D",
+        "text": "Lamp W: increases; Lamp Y: increases"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "When the switch is opened, lamp X is removed from the parallel combination. This increases the total resistance of the parallel section (from $R/2$ to $R$), which in turn increases the total circuit resistance. As a result, the total current flowing through lamp W decreases, making it dimmer. However, because the parallel section now takes a larger share of the total voltage (due to its increased resistance relative to W), the potential difference across lamp Y increases, making it brighter.",
+    "source_image_path": "B5-Current-and-Circuits/May 2014 HL TZ2 Q21 C.png"
+  },
+  {
+    "id": "May_2015_HL_TZ1_Q18",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Resistance and Resistivity",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ1 Q18 A.png"
+    },
+    "question_number": 18,
+    "content_markdown": "A wire of uniform circular cross-section is replaced in an electrical circuit. The new wire has the same length and same resistance but half the diameter of the old wire.\n\nWhat is the ratio $\\frac{\\text{resistivity of the new wire}}{\\text{resistivity of the old wire}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{2}{1}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{4}{1}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Resistance is given by $R = \\rho \\frac{L}{A}$. Since the cross-section is circular, $A = \\pi (\\frac{d}{2})^2$, so $R = \\rho \\frac{4L}{\\pi d^2}$. Rearranging for resistivity, $\\rho = \\frac{R \\pi d^2}{4L}$. If $R$ and $L$ are constant, then $\\rho \\propto d^2$. If the diameter $d$ is halved, the resistivity must be $(\\frac{1}{2})^2 = \\frac{1}{4}$ of the original value to maintain the same resistance.",
+    "source_image_path": "B5-Current-and-Circuits/May 2015 HL TZ1 Q18 A.png"
+  },
+  {
+    "id": "May_2015_HL_TZ2_Q16",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Resistance and Resistivity",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ2 Q16 D.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Two cylindrical copper wires, $W_1$ and $W_2$, are held at the same temperature. $W_2$ is twice as long and has half the diameter of $W_1$.\n\nWhat is the ratio $\\frac{\\text{resistance of } W_2}{\\text{resistance of } W_1}$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two horizontal cylindrical wires labeled W1 and W2. W1 has length l and diameter d. W2 has length 2l and diameter d/2.",
+      "labels_to_preserve": [
+        "W_1",
+        "W_2",
+        "l",
+        "2l",
+        "d",
+        "d/2"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "8"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Resistance is given by $R = \\rho \\frac{L}{A}$. Since the area $A$ of a circle is proportional to the square of the diameter ($A \\propto d^2$), the resistance is proportional to length and inversely proportional to the square of the diameter ($R \\propto \\frac{L}{d^2}$). For $W_2$, the length is $2L$ and the diameter is $d/2$. Thus, the ratio of resistances is $\\frac{R_2}{R_1} = \\frac{2L}{(d/2)^2} / \\frac{L}{d^2} = \\frac{2}{1/4} = 8$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2015 HL TZ2 Q16 D.png"
+  },
+  {
+    "id": "May_2015_HL_TZ2_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ2 Q17 C.png"
+    },
+    "question_number": 17,
+    "content_markdown": "The diagram shows an electric circuit containing a potentiometer of maximum resistance $R$. The potentiometer is connected in series with a resistor also of resistance $R$. The electromotive force (emf) of the battery is $6\\text{ V}$ and its internal resistance is negligible.\n\nThe slider on the potentiometer is moved from $P_1$ to $P_2$. Which graph shows the variation of the voltmeter $V$ reading with slider distance $d$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram with a 6V battery, a fixed resistor R, and a potentiometer R in series. A voltmeter is connected across the portion of the potentiometer between P1 and the slider.",
+      "labels_to_preserve": [
+        "6V",
+        "R",
+        "P_1",
+        "P_2",
+        "V",
+        "d"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A graph showing V starting at 0 at P1 and increasing linearly to 6V at P2."
+      },
+      {
+        "label": "B",
+        "text": "A graph showing V starting at a non-zero value at P1 and increasing linearly to 6V at P2."
+      },
+      {
+        "label": "C",
+        "text": "A graph showing V starting at 0 at P1 and increasing linearly to 3V at P2."
+      },
+      {
+        "label": "D",
+        "text": "A graph showing V starting at 6V at P1 and decreasing linearly towards P2."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The total resistance in the circuit is $R + R = 2R$. Since the battery is $6\\text{ V}$, the potential difference across the entire potentiometer (from $P_1$ to $P_2$) is $3\\text{ V}$ by the potential divider rule ($V_{pot} = 6 \\times \\frac{R}{R+R}$). At $P_1$, the voltmeter is shorted ($d=0$), so $V = 0$. At $P_2$, the voltmeter measures the full potential across the potentiometer, which is $3\\text{ V}$. The relationship is linear with distance $d$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2015 HL TZ2 Q17 C.png"
+  },
+  {
+    "id": "May_2016_HL_TZ0_Q12",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2016,
+      "month": "May",
+      "session_label": "May 2016",
+      "level": "HL",
+      "timezone": "TZ0",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2016 HL TZ0 Q12 C.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A circuit consists of a cell of electromotive force (emf) $6.0\\text{ V}$ and negligible internal resistance connected to two resistors of $4.0\\text{ }\\Omega$.\n\nThe ammeter has resistance equal to $1.0\\text{ }\\Omega$ and the voltmeter is ideal. What are the readings of the ammeter and the voltmeter?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a 6.0V cell in series with an ammeter (A) and a parallel combination of two 4.0 Ohm resistors. An ideal voltmeter (V) is connected in parallel across the two resistors.",
+      "labels_to_preserve": [
+        "6.0 V",
+        "4.0 \u03a9",
+        "A",
+        "V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Ammeter: 2.0 A; Voltmeter: 3.0 V"
+      },
+      {
+        "label": "B",
+        "text": "Ammeter: 3.0 A; Voltmeter: 3.0 V"
+      },
+      {
+        "label": "C",
+        "text": "Ammeter: 2.0 A; Voltmeter: 4.0 V"
+      },
+      {
+        "label": "D",
+        "text": "Ammeter: 3.0 A; Voltmeter: 4.0 V"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "First, calculate the equivalent resistance of the two $4.0\\text{ }\\Omega$ resistors in parallel: $R_p = \\frac{4.0 \\times 4.0}{4.0 + 4.0} = 2.0\\text{ }\\Omega$. The total resistance of the circuit includes the ammeter resistance ($1.0\\text{ }\\Omega$), so $R_{total} = 2.0 + 1.0 = 3.0\\text{ }\\Omega$. The total current (ammeter reading) is $I = \\frac{V}{R_{total}} = \\frac{6.0}{3.0} = 2.0\\text{ A}$. The voltmeter measures the potential difference across the parallel pair: $V = I \\times R_p = 2.0 \\times 2.0 = 4.0\\text{ V}$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2016 HL TZ0 Q12 C.png"
+  },
+  {
+    "id": "May_2017_HL_TZ1_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ1 Q17 D.png"
+    },
+    "question_number": 17,
+    "content_markdown": "Electrons, each with a charge $e$, move with speed $v$ along a metal wire. The electric current in the wire is $I$.\n\nPlane $P$ is perpendicular to the wire. How many electrons pass through plane $P$ in each second?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal metal wire with an electron moving to the right. A vertical dashed plane P intersects the wire perpendicularly.",
+      "labels_to_preserve": [
+        "e",
+        "plane P"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{e}{I}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{ve}{I}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{I}{ve}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{I}{e}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Current $I$ is defined as the rate of flow of charge, $I = \\frac{\\Delta Q}{\\Delta t}$. If $n$ electrons pass through the plane in time $\\Delta t$, the total charge is $\\Delta Q = n \\cdot e$. For 'each second', we set $\\Delta t = 1$. Thus, $I = n \\cdot e$, which rearranges to $n = \\frac{I}{e}$. The speed $v$ is a distractor here because the current already accounts for the rate of flow.",
+    "source_image_path": "B5-Current-and-Circuits/May 2017 HL TZ1 Q17 D.png"
+  },
+  {
+    "id": "May_2018_HL_TZ1_Q16",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ1 Q16 A.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Three resistors are connected as shown. What is the value of the total resistance between X and Y?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing three resistors. One $3\\,\\Omega$ resistor is in parallel with a series combination of another $3\\,\\Omega$ resistor and a $2\\,\\Omega$ resistor. Terminals X and Y are connected across the $2\\,\\Omega$ resistor.",
+      "labels_to_preserve": [
+        "3 \\Omega",
+        "2 \\Omega",
+        "X",
+        "Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$1.5\\,\\Omega$"
+      },
+      {
+        "label": "B",
+        "text": "$1.9\\,\\Omega$"
+      },
+      {
+        "label": "C",
+        "text": "$6.0\\,\\Omega$"
+      },
+      {
+        "label": "D",
+        "text": "$8.0\\,\\Omega$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "To find the resistance between X and Y, identify the parallel and series paths relative to those two points. The top $3\\,\\Omega$ resistor and the left $3\\,\\Omega$ resistor are in series with each other (forming a $6\\,\\Omega$ branch). This $6\\,\\Omega$ branch is then in parallel with the $2\\,\\Omega$ resistor located between X and Y. Using the parallel resistance formula: $1/R_{total} = 1/6 + 1/2 = 1/6 + 3/6 = 4/6$. Therefore, $R_{total} = 6/4 = 1.5\\,\\Omega$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2018 HL TZ1 Q16 A.png"
+  },
+  {
+    "id": "May_2018_HL_TZ1_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ1 Q17 C.png"
+    },
+    "question_number": 17,
+    "content_markdown": "When an electric cell of negligible internal resistance is connected to a resistor of resistance $4R$, the power dissipated in the resistor is $P$.\n\nWhat is the power dissipated in a resistor of resistance value $R$ when it is connected to the same cell?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{P}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$P$"
+      },
+      {
+        "label": "C",
+        "text": "$4P$"
+      },
+      {
+        "label": "D",
+        "text": "$16P$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Power dissipated in a resistor connected to a constant voltage source $V$ is given by $P = \\frac{V^2}{R_{total}}$. Initially, $P = \\frac{V^2}{4R}$. When the resistance is changed to $R$, the new power $P'$ is $\\frac{V^2}{R}$. Comparing the two, $P' = 4 \\times \\left(\\frac{V^2}{4R}\\right) = 4P$. Since the internal resistance is negligible, the terminal voltage remains constant.",
+    "source_image_path": "B5-Current-and-Circuits/May 2018 HL TZ1 Q17 C.png"
+  },
+  {
+    "id": "May_2018_HL_TZ2_Q14",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ2 Q14 C.png"
+    },
+    "question_number": 14,
+    "content_markdown": "A cell with negligible internal resistance is connected as shown. The ammeter and the voltmeter are both ideal.\n\nWhat changes occur in the ammeter reading and in the voltmeter reading when the resistance of the variable resistor is increased?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a cell connected in series with an ammeter and two resistors. The first resistor is a variable resistor with a voltmeter connected in parallel across it. The second resistor is a fixed resistor.",
+      "labels_to_preserve": [
+        "A",
+        "V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Ammeter: increases; Voltmeter: increases"
+      },
+      {
+        "label": "B",
+        "text": "Ammeter: increases; Voltmeter: decreases"
+      },
+      {
+        "label": "C",
+        "text": "Ammeter: decreases; Voltmeter: increases"
+      },
+      {
+        "label": "D",
+        "text": "Ammeter: decreases; Voltmeter: decreases"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Increasing the resistance of the variable resistor increases the total resistance of the circuit, which decreases the total current (ammeter reading). Since the variable resistor now takes up a larger proportion of the total resistance in the series combination, the potential difference across it (voltmeter reading) increases according to the potential divider principle.",
+    "source_image_path": "B5-Current-and-Circuits/May 2018 HL TZ2 Q14 C.png"
+  },
+  {
+    "id": "May_2018_HL_TZ2_Q16",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ2 Q16 C.png"
+    },
+    "question_number": 16,
+    "content_markdown": "A cell of emf $6.0\\text{ V}$ and negligible internal resistance is connected to three resistors as shown. The resistors have resistance of $3.0\\text{ }\\Omega$ and $6.0\\text{ }\\Omega$ as shown.\n\nWhat is the current in resistor X?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a 6.0V cell connected in series with resistor X (3.0 ohms). Resistor X is then in series with a parallel combination of two 6.0 ohm resistors.",
+      "labels_to_preserve": [
+        "X",
+        "3.0 \\Omega",
+        "6.0 \\Omega"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.40 A"
+      },
+      {
+        "label": "B",
+        "text": "0.50 A"
+      },
+      {
+        "label": "C",
+        "text": "1.0 A"
+      },
+      {
+        "label": "D",
+        "text": "2.0 A"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "First, calculate the equivalent resistance of the parallel section: two $6.0\\text{ }\\Omega$ resistors in parallel give $R_p = \\frac{6.0}{2} = 3.0\\text{ }\\Omega$. The total resistance of the circuit is the sum of resistor X and the parallel section: $R_{total} = 3.0\\text{ }\\Omega + 3.0\\text{ }\\Omega = 6.0\\text{ }\\Omega$. Using Ohm's law for the whole circuit, $I = \\frac{V}{R_{total}} = \\frac{6.0\\text{ V}}{6.0\\text{ }\\Omega} = 1.0\\text{ A}$. Since resistor X is in series with the rest of the circuit, the total current flows through it.",
+    "source_image_path": "B5-Current-and-Circuits/May 2018 HL TZ2 Q16 C.png"
+  },
+  {
+    "id": "May_2019_HL_TZ1_Q15",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric current",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ1 Q15 D.png"
+    },
+    "question_number": 15,
+    "content_markdown": "Charge flows through a liquid. The charge flow is made up of positive and negative ions. In one second $0.10\\text{ C}$ of negative ions flow in one direction and $0.10\\text{ C}$ of positive ions flow in the opposite direction.\n\nWhat is the magnitude of the electric current flowing through the liquid?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0\\text{ A}$"
+      },
+      {
+        "label": "B",
+        "text": "$0.05\\text{ A}$"
+      },
+      {
+        "label": "C",
+        "text": "$0.10\\text{ A}$"
+      },
+      {
+        "label": "D",
+        "text": "$0.20\\text{ A}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Electric current is defined as the rate of flow of net charge. Since negative charges moving in one direction and positive charges moving in the opposite direction both contribute to a conventional current in the same direction, the total charge transferred per second is the sum of the magnitudes: $0.10\\text{ C} + 0.10\\text{ C} = 0.20\\text{ C}$. Since this occurs in one second, the current is $0.20\\text{ A}$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2019 HL TZ1 Q15 D.png"
+  },
+  {
+    "id": "May_2019_HL_TZ1_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ1 Q17 B.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A resistor of resistance $R$ is connected to a fully charged cell of negligible internal resistance. A constant power $P$ is dissipated in the resistor and the cell discharges in time $t$. An identical cell is connected in series with two identical resistors each of resistance $R$.\n\nWhat is the power dissipated in each resistor and the time taken to discharge the cell?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A-D) for the power dissipated in each resistor and the time taken to discharge the cell.",
+      "labels_to_preserve": [
+        "P",
+        "t",
+        "R"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Power: $\\frac{P}{4}$, Time: $\\frac{t}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "Power: $\\frac{P}{4}$, Time: $2t$"
+      },
+      {
+        "label": "C",
+        "text": "Power: $\\frac{P}{2}$, Time: $\\frac{t}{2}$"
+      },
+      {
+        "label": "D",
+        "text": "Power: $\\frac{P}{2}$, Time: $2t$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Initially, $P = \\frac{V^2}{R}$ and energy $E = P \\cdot t$. In the second case, the total resistance is $2R$ (series), so the total power is $P_{total} = \\frac{V^2}{2R} = \\frac{P}{2}$. Since the resistors are identical, this power is split equally, so each resistor dissipates $\\frac{P}{4}$. The cell's total energy $E$ is constant; since the total power output is now $\\frac{P}{2}$, the time taken to discharge is $t' = \\frac{E}{P_{total}} = \\frac{P \\cdot t}{P/2} = 2t$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2019 HL TZ1 Q17 B.png"
+  },
+  {
+    "id": "May_2019_HL_TZ2_Q24",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "B.5 Current and circuits",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ2 Q24 C.png"
+    },
+    "question_number": 24,
+    "content_markdown": "In an experiment to determine the resistivity of a material, a student measures the resistance of several wires made from the pure material. The wires have the same length but different diameters.\n\nWhich quantities should the student plot on the $x$-axis and the $y$-axis of a graph to obtain a straight line?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) with corresponding variables for the x-axis and y-axis.",
+      "labels_to_preserve": [
+        "x-axis",
+        "y-axis",
+        "diameter",
+        "resistance"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$x$-axis: $\\text{diameter}^2$; $y$-axis: $\\text{resistance}$"
+      },
+      {
+        "label": "B",
+        "text": "$x$-axis: $\\text{diameter}$; $y$-axis: $\\text{resistance}$"
+      },
+      {
+        "label": "C",
+        "text": "$x$-axis: $\\text{diameter}^2$; $y$-axis: $\\frac{1}{\\text{resistance}}$"
+      },
+      {
+        "label": "D",
+        "text": "$x$-axis: $\\text{diameter}$; $y$-axis: $\\frac{1}{\\text{resistance}}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The resistance $R$ of a wire is given by $R = \\rho \\frac{L}{A}$, where $A$ is the cross-sectional area. Since $A = \\pi (\\frac{d}{2})^2 = \\frac{\\pi d^2}{4}$, we can write $R = \\frac{4\\rho L}{\\pi d^2}$. To get a straight line through the origin ($y = mx$), we need a direct proportionality. Rearranging the equation gives $\\frac{1}{R} = \\frac{\\pi}{4\\rho L} \\cdot d^2$. Thus, plotting $\\frac{1}{\\text{resistance}}$ on the $y$-axis against $\\text{diameter}^2$ on the $x$-axis yields a straight line.",
+    "source_image_path": "B5-Current-and-Circuits/May 2019 HL TZ2 Q24 C.png"
+  },
+  {
+    "id": "May_2019_HL_TZ2_Q25",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ2 Q25 D.png"
+    },
+    "question_number": 25,
+    "content_markdown": "Three resistors of resistance $1.0\\,\\Omega$, $6.0\\,\\Omega$ and $6.0\\,\\Omega$ are connected as shown. The voltmeter is ideal and the cell has an emf of $12\\,\\text{V}$ with negligible internal resistance.\n\nWhat is the reading on the voltmeter?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a 12V cell in series with a 1.0 ohm resistor. This combination is in parallel with two 6.0 ohm resistors that are themselves in parallel with each other. An ideal voltmeter is connected across the cell and the 1.0 ohm resistor.",
+      "labels_to_preserve": [
+        "V",
+        "12 V",
+        "1.0 \\Omega",
+        "6.0 \\Omega",
+        "6.0 \\Omega"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "3.0 V"
+      },
+      {
+        "label": "B",
+        "text": "4.0 V"
+      },
+      {
+        "label": "C",
+        "text": "8.0 V"
+      },
+      {
+        "label": "D",
+        "text": "9.0 V"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "First, find the equivalent resistance of the two $6.0\\,\\Omega$ resistors in parallel, which is $3.0\\,\\Omega$. This $3.0\\,\\Omega$ equivalent is in series with the $1.0\\,\\Omega$ resistor, making the total circuit resistance $4.0\\,\\Omega$. The total current from the cell is $I = V/R = 12/4 = 3.0\\,\\text{A}$. The voltmeter is connected across the cell and the $1.0\\,\\Omega$ resistor, which is equivalent to measuring the terminal potential difference or the voltage across the parallel network. The voltage across the $1.0\\,\\Omega$ resistor is $V = IR = 3.0 \\times 1.0 = 3.0\\,\\text{V}$. Since the voltmeter measures the potential difference between the start of the cell and the end of the first resistor, it reads $12\\,\\text{V} - 3.0\\,\\text{V} = 9.0\\,\\text{V}$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2019 HL TZ2 Q25 D.png"
+  },
+  {
+    "id": "May_2021_HL_TZ1_Q16",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ1 Q16 A.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Two conductors $S$ and $T$ have the $V/I$ characteristic graphs shown below.\n\nWhen the conductors are placed in the circuit below, the reading of the ammeter is $6.0\\text{ A}$.\n\nWhat is the emf of the cell?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "The first diagram is an I-V graph showing current I in Amperes on the y-axis (0 to 8) and potential difference V in Volts on the x-axis (0 to 8). Curve S is non-linear (upward curve), and line T is linear. They intersect at (4V, 3A). The second diagram is a circuit diagram showing a cell connected to an ammeter in series with a parallel combination of conductors S and T.",
+      "labels_to_preserve": [
+        "I / A",
+        "V / V",
+        "S",
+        "T",
+        "A"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "4.0 V"
+      },
+      {
+        "label": "B",
+        "text": "5.0 V"
+      },
+      {
+        "label": "C",
+        "text": "8.0 V"
+      },
+      {
+        "label": "D",
+        "text": "13 V"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In a parallel circuit, both conductors S and T experience the same potential difference V from the cell. The total current measured by the ammeter is the sum of the currents through each branch: $I_{total} = I_S + I_T$. We need to find a voltage $V$ on the graph where the sum of the currents for S and T equals $6.0\\text{ A}$. Looking at the graph at $V = 4.0\\text{ V}$, $I_S = 3.0\\text{ A}$ and $I_T = 3.0\\text{ A}$. Summing these gives $3.0 + 3.0 = 6.0\\text{ A}$, which matches the ammeter reading. Therefore, the emf must be $4.0\\text{ V}$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2021 HL TZ1 Q16 A.png"
+  },
+  {
+    "id": "May_2021_HL_TZ1_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Internal resistance and emf",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ1 Q17 A.png"
+    },
+    "question_number": 17,
+    "content_markdown": "For a real cell in a circuit, the terminal potential difference is at its closest to the emf when",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the internal resistance is much smaller than the load resistance."
+      },
+      {
+        "label": "B",
+        "text": "a large current flows in the circuit."
+      },
+      {
+        "label": "C",
+        "text": "the cell is not completely discharged."
+      },
+      {
+        "label": "D",
+        "text": "the cell is being recharged."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The relationship between terminal potential difference $V$, emf $\\epsilon$, current $I$, and internal resistance $r$ is given by $V = \\epsilon - Ir$. Using Ohm's law for the whole circuit, $I = \\frac{\\epsilon}{R+r}$, where $R$ is the load resistance. Substituting this gives $V = \\epsilon (\\frac{R}{R+r})$. For $V$ to be approximately equal to $\\epsilon$, the term $Ir$ must be very small, which occurs when the load resistance $R$ is much larger than the internal resistance $r$ ($R \\gg r$), resulting in a very small current.",
+    "source_image_path": "B5-Current-and-Circuits/May 2021 HL TZ1 Q17 A.png"
+  },
+  {
+    "id": "May_2021_HL_TZ2_Q15",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Resistance and Resistivity",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ2 Q15 D.png"
+    },
+    "question_number": 15,
+    "content_markdown": "The diagram shows two cylindrical wires, X and Y. Wire X has a length $l$, a diameter $d$, and a resistivity $\\rho$. Wire Y has a length $2l$, a diameter of $\\frac{d}{2}$ and a resistivity of $\\frac{\\rho}{2}$.\n\nWhat is $\\frac{\\text{resistance of X}}{\\text{resistance of Y}}$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two horizontal cylindrical wires labeled X and Y. Wire X has length l and diameter d. Wire Y is longer and thinner, with length 2l and diameter d/2.",
+      "labels_to_preserve": [
+        "X",
+        "Y",
+        "l",
+        "d",
+        "2l",
+        "d/2"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "0.5"
+      },
+      {
+        "label": "D",
+        "text": "0.25"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Resistance is given by $R = \\rho \\frac{L}{A}$. Since area $A \\propto d^2$, we have $R \\propto \\frac{\\rho L}{d^2}$. For wire X, $R_X \\propto \\frac{\\rho l}{d^2}$. For wire Y, $R_Y \\propto \\frac{(\\rho/2)(2l)}{(d/2)^2} = \\frac{\\rho l}{d^2/4} = 4 \\frac{\\rho l}{d^2}$. Therefore, $R_X / R_Y = 1/4 = 0.25$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2021 HL TZ2 Q15 D.png"
+  },
+  {
+    "id": "May_2021_HL_TZ2_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ2 Q17 C.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A circuit contains a variable resistor of maximum resistance $R$ and a fixed resistor, also of resistance $R$, connected in series. The emf of the battery is $6.0\\text{ V}$ and its internal resistance is negligible.\n\nWhat are the initial and final voltmeter readings when the variable resistor is increased from an initial resistance of zero to a final resistance of $R$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a 6.0V battery in series with a fixed resistor R and a variable resistor (0-R). A voltmeter is connected in parallel across the fixed resistor R.",
+      "labels_to_preserve": [
+        "6.0 V",
+        "R",
+        "V",
+        "0-R"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Initial: 0 V; Final: 6.0 V"
+      },
+      {
+        "label": "B",
+        "text": "Initial: 6.0 V; Final: 0 V"
+      },
+      {
+        "label": "C",
+        "text": "Initial: 6.0 V; Final: 3.0 V"
+      },
+      {
+        "label": "D",
+        "text": "Initial: 3.0 V; Final: 6.0 V"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Initially, the variable resistor is $0\\, \\Omega$, so the fixed resistor $R$ is the only resistance in the circuit. The entire $6.0\\text{ V}$ drops across it. Finally, when the variable resistor is $R$, the two resistors are equal in series, so the $6.0\\text{ V}$ is split equally between them, resulting in $3.0\\text{ V}$ across the fixed resistor.",
+    "source_image_path": "B5-Current-and-Circuits/May 2021 HL TZ2 Q17 C.png"
+  },
+  {
+    "id": "May_2022_HL_TZ1_Q21",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "B.5 Current and circuits",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ1 Q21 A.png"
+    },
+    "question_number": 21,
+    "content_markdown": "Two cells are connected in parallel as shown below. Each cell has an emf of $5.0\\text{ V}$ and an internal resistance of $2.0\\text{ }\\Omega$. The lamp has a resistance of $4.0\\text{ }\\Omega$. The ammeter is ideal.\n\nWhat is the reading on the ammeter?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing two identical cells in parallel, each with an internal resistance. They are connected in series with an ideal ammeter and a lamp.",
+      "labels_to_preserve": [
+        "A"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "1.0A"
+      },
+      {
+        "label": "B",
+        "text": "1.3A"
+      },
+      {
+        "label": "C",
+        "text": "2.0A"
+      },
+      {
+        "label": "D",
+        "text": "2.5A"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "First, find the equivalent emf and internal resistance of the parallel combination. Since the cells are identical and in parallel, the total emf remains $5.0\\text{ V}$. The equivalent internal resistance $r_{eq}$ is found using $\\frac{1}{r_{eq}} = \\frac{1}{2.0} + \\frac{1}{2.0}$, giving $r_{eq} = 1.0\\text{ }\\Omega$. The total resistance in the circuit is the sum of the equivalent internal resistance and the lamp resistance: $R_{total} = 1.0\\text{ }\\Omega + 4.0\\text{ }\\Omega = 5.0\\text{ }\\Omega$. Using Ohm's law $I = \\frac{V}{R}$, the current is $I = \\frac{5.0\\text{ V}}{5.0\\text{ }\\Omega} = 1.0\\text{ A}$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2022 HL TZ1 Q21 A.png"
+  },
+  {
+    "id": "May_2022_HL_TZ2_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ2 Q17 A.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A battery of negligible internal resistance is connected to a lamp. A second identical lamp is added in series. What is the change in potential difference across the first lamp and what is the change in the output power of the battery?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the possible changes in potential difference and output power of the battery.",
+      "labels_to_preserve": [
+        "Change in potential difference",
+        "Output power of battery"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Change in potential difference: decreases; Output power of battery: decreases"
+      },
+      {
+        "label": "B",
+        "text": "Change in potential difference: decreases; Output power of battery: increases"
+      },
+      {
+        "label": "C",
+        "text": "Change in potential difference: no change; Output power of battery: decreases"
+      },
+      {
+        "label": "D",
+        "text": "Change in potential difference: no change; Output power of battery: increases"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "When a second lamp is added in series, the total resistance of the circuit increases. Since $V = IR$ and the battery voltage is constant, the total current $I$ decreases. The potential difference across the first lamp was originally the full battery voltage, but now it is shared between two lamps, so it decreases. The output power of the battery is $P = VI$; since $V$ is constant and $I$ has decreased, the total power output also decreases.",
+    "source_image_path": "B5-Current-and-Circuits/May 2022 HL TZ2 Q17 A.png"
+  },
+  {
+    "id": "May_2022_HL_TZ2_Q18",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ2 Q18 B.png"
+    },
+    "question_number": 18,
+    "content_markdown": "A circuit consists of a cell of emf $E = 3.0\\text{ V}$ and four resistors connected as shown. Resistors $R_1$ and $R_4$ are $1.0\\,\\Omega$ and resistors $R_2$ and $R_3$ are $2.0\\,\\Omega$.\n\nWhat is the voltmeter reading?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A bridge circuit with a cell on the left and four resistors arranged in a diamond shape. A voltmeter is connected across the horizontal diagonal of the diamond.",
+      "labels_to_preserve": [
+        "E = 3.0V",
+        "R_1 = 1.0\\Omega",
+        "R_2 = 2.0\\Omega",
+        "R_3 = 2.0\\Omega",
+        "R_4 = 1.0\\Omega",
+        "V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.50 V"
+      },
+      {
+        "label": "B",
+        "text": "1.0 V"
+      },
+      {
+        "label": "C",
+        "text": "1.5 V"
+      },
+      {
+        "label": "D",
+        "text": "2.0 V"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "This is a potential divider problem. The circuit consists of two parallel branches. In the top-left to bottom-right branch ($R_1$ and $R_2$), the potential at the left node of the voltmeter is determined by the ratio of $R_1$ to the total resistance. In the bottom-left to top-right branch ($R_3$ and $R_4$), the potential at the right node is determined by $R_3$. Specifically, the potential at the left junction is $3.0 \\times \\frac{2.0}{1.0+2.0} = 2.0\\text{ V}$ (relative to the negative terminal) and the potential at the right junction is $3.0 \\times \\frac{1.0}{2.0+1.0} = 1.0\\text{ V}$. The difference between these two points is the voltmeter reading: $|2.0\\text{ V} - 1.0\\text{ V}| = 1.0\\text{ V}$.",
+    "source_image_path": "B5-Current-and-Circuits/May 2022 HL TZ2 Q18 B.png"
+  },
+  {
+    "id": "Nov_2000_HL_Q25",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2000,
+      "month": "Nov",
+      "session_label": "Nov 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2000 HL Q25 D.png"
+    },
+    "question_number": 25,
+    "content_markdown": "Two resistors of equal resistance are connected in **series** to a battery with negligible internal resistance. The current drawn from the battery is $1.0\\text{ A}$.\n\nWhen the two resistors are connected in **parallel** to the battery the current drawn will be",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.5 A."
+      },
+      {
+        "label": "B",
+        "text": "1.0 A."
+      },
+      {
+        "label": "C",
+        "text": "2.0 A."
+      },
+      {
+        "label": "D",
+        "text": "4.0 A."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In series, the total resistance is $R + R = 2R$, so $I_{series} = V / (2R) = 1.0\\text{ A}$. This implies $V/R = 2.0\\text{ A}$. When connected in parallel, the equivalent resistance is $R/2$. The new current is $I_{parallel} = V / (R/2) = 2(V/R)$. Substituting the value of $V/R$, we get $2 \\times 2.0\\text{ A} = 4.0\\text{ A}$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2000 HL Q25 D.png"
+  },
+  {
+    "id": "Nov_2000_HL_Q26",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2000,
+      "month": "Nov",
+      "session_label": "Nov 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2000 HL Q26 C.png"
+    },
+    "question_number": 26,
+    "content_markdown": "In the diagram the voltmeter V has a resistance of $100\\text{ k}\\Omega$ and is connected such as to measure the potential difference across the $100\\text{ k}\\Omega$ resistor. The battery has an emf of $5.0\\text{ V}$ and negligible internal resistance.\n\nThe reading on the voltmeter will be",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a 5.0 V battery connected in series with a 200 kOhm resistor and a parallel combination of a 100 kOhm resistor and a voltmeter with 100 kOhm resistance.",
+      "labels_to_preserve": [
+        "5.0 V",
+        "200 k\\Omega",
+        "100 k\\Omega",
+        "V",
+        "100 k\\Omega"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "4.0 V."
+      },
+      {
+        "label": "B",
+        "text": "2.5 V."
+      },
+      {
+        "label": "C",
+        "text": "1.0 V."
+      },
+      {
+        "label": "D",
+        "text": "zero."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "First, calculate the equivalent resistance of the parallel section (the $100\\text{ k}\\Omega$ resistor and the $100\\text{ k}\\Omega$ voltmeter). Two identical resistors in parallel have a combined resistance of half their value, so $R_p = 50\\text{ k}\\Omega$. Now, the circuit is a potential divider with a $200\\text{ k}\\Omega$ resistor in series with a $50\\text{ k}\\Omega$ equivalent resistance. The total resistance is $250\\text{ k}\\Omega$. The voltage across the parallel section (the voltmeter reading) is $V = 5.0\\text{ V} \\times \\frac{50\\text{ k}\\Omega}{200\\text{ k}\\Omega + 50\\text{ k}\\Omega} = 5.0 \\times \\frac{50}{250} = 5.0 \\times \\frac{1}{5} = 1.0\\text{ V}$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2000 HL Q26 C.png"
+  },
+  {
+    "id": "Nov_2002_HL_Q27",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2002,
+      "month": "Nov",
+      "session_label": "Nov 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2002 HL Q27 A.png"
+    },
+    "question_number": 27,
+    "content_markdown": "A voltmeter is used to measure the potential difference, $V$, across one of four identical filament light bulbs that are connected in series to a $12.0\\text{ V}$ battery as shown in the diagram below. The reading on the voltmeter is $3.0\\text{ V}$.\n\nIf the filament of the bulb being measured **breaks**, the reading on the voltmeter will be",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a 12V battery connected in series to four identical light bulbs. A voltmeter is connected in parallel across the fourth bulb.",
+      "labels_to_preserve": [
+        "12 V",
+        "V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "12.0 V."
+      },
+      {
+        "label": "B",
+        "text": "4.0 V."
+      },
+      {
+        "label": "C",
+        "text": "3.0 V."
+      },
+      {
+        "label": "D",
+        "text": "zero."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "When the filament of the bulb breaks, the circuit becomes open, meaning no current flows through the other bulbs. However, the voltmeter has a very high resistance. When it is connected across the break, it effectively becomes the only component in series with the battery (the other bulbs now act as simple wires with negligible resistance compared to the voltmeter). Therefore, the voltmeter will measure the full electromotive force (emf) of the battery.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2002 HL Q27 A.png"
+  },
+  {
+    "id": "Nov_2003_HL_Q29",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2003,
+      "month": "Nov",
+      "session_label": "Nov 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2003 HL Q29 D.png"
+    },
+    "question_number": 29,
+    "content_markdown": "The variation with potential difference $V$ of the current $I$ in an electric lamp is shown below.\n\nAt point P, the current is $I_p$, the potential difference is $V_p$ and the gradient of the tangent to the curve is $G$. What is the resistance of the lamp at point P?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph showing current I on the y-axis and potential difference V on the x-axis. The curve starts at the origin and curves downwards (decreasing gradient). A point P is marked on the curve with corresponding coordinates (Vp, Ip).",
+      "labels_to_preserve": [
+        "I",
+        "V",
+        "P",
+        "I_p",
+        "V_p",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{G}$"
+      },
+      {
+        "label": "B",
+        "text": "$G$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{I_p}{V_p}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{V_p}{I_p}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Resistance is defined by Ohm's Law as the ratio of potential difference to current at a specific point ($R = V/I$). While the gradient $G$ of an $I-V$ graph relates to the dynamic conductance, the actual resistance at point P is simply the ratio of the voltage coordinate to the current coordinate at that point.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2003 HL Q29 D.png"
+  },
+  {
+    "id": "Nov_2003_HL_Q30",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Internal resistance and electromotive force",
+    "paper": {
+      "year": 2003,
+      "month": "Nov",
+      "session_label": "Nov 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2003 HL Q30 B.png"
+    },
+    "question_number": 30,
+    "content_markdown": "A cell of e.m.f. $E$ and internal resistance $r$ is connected to a variable resistor. A voltmeter is connected so as to measure the potential difference across the terminals of the cell. Which **one** of the following is the correct circuit diagram of the arrangement?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four circuit diagrams labeled A, B, C, and D showing different configurations of a cell (E), internal resistance (r), a voltmeter (V), and a variable resistor.",
+      "labels_to_preserve": [
+        "E",
+        "r",
+        "V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "To measure the terminal potential difference of a cell, the voltmeter must be connected in parallel across the entire cell unit (which consists of the ideal e.m.f. source $E$ and the internal resistance $r$ in series). In diagram B, the voltmeter is connected across both the e.m.f. and the internal resistor, which are themselves in series with the external variable resistor. This correctly captures the voltage drop $V = E - Ir$ available to the external circuit.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2003 HL Q30 B.png"
+  },
+  {
+    "id": "Nov_2004_HL_Q29",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electromotive force and internal resistance",
+    "paper": {
+      "year": 2004,
+      "month": "Nov",
+      "session_label": "Nov 2004",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2004 HL Q29 D.png"
+    },
+    "question_number": 29,
+    "content_markdown": "The current in the circuit shown below is constant when the switch is closed.\n\nThe energy transfer in the internal resistance $r$ of the battery is $15\\text{ J}$ when a charge of $40\\text{ C}$ passes through it. For the same amount of charge, $45\\text{ J}$ of energy is transferred in the resistor $R$.\n\nWhich of the following gives the e.m.f. of the battery?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram containing a battery with internal resistance r, an external resistor R, and a switch, all connected in a single series loop.",
+      "labels_to_preserve": [
+        "r",
+        "R"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{15}{40}\\text{ V}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{30}{40}\\text{ V}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{45}{40}\\text{ V}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{60}{40}\\text{ V}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The electromotive force (e.m.f.) is defined as the total energy supplied by the battery per unit charge. In this circuit, energy is dissipated in both the internal resistance $r$ and the external resistor $R$. The total energy transferred for a charge of $40\\text{ C}$ is the sum of the energy in $r$ and $R$, which is $15\\text{ J} + 45\\text{ J} = 60\\text{ J}$. Using the formula $\\epsilon = \\frac{W}{Q}$, we get $\\epsilon = \\frac{60}{40}\\text{ V}$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2004 HL Q29 D.png"
+  },
+  {
+    "id": "Nov_2004_HL_Q30",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2004,
+      "month": "Nov",
+      "session_label": "Nov 2004",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2004 HL Q30 C.png"
+    },
+    "question_number": 30,
+    "content_markdown": "In the circuits below, the cells each have the same e.m.f. and zero internal resistance. All the resistors have the same resistance.\n\nWhich of the following gives the current through the cells in order of **increasing** magnitude?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Three circuit diagrams labeled Circuit X, Circuit Y, and Circuit Z. Circuit X has two resistors in parallel. Circuit Y has two resistors in series. Circuit Z has one resistor in series with a parallel combination of two resistors.",
+      "labels_to_preserve": [
+        "Circuit X",
+        "Circuit Y",
+        "Circuit Z"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "X, Y, Z"
+      },
+      {
+        "label": "B",
+        "text": "Z, X, Y"
+      },
+      {
+        "label": "C",
+        "text": "Y, Z, X"
+      },
+      {
+        "label": "D",
+        "text": "Y, X, Z"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "To find the current through the cell ($I = \\epsilon / R_{total}$), we need to compare the total resistance of each circuit. Let each resistor have resistance $R$. In Circuit X, the resistors are in parallel, so $R_X = R/2$. In Circuit Y, they are in series, so $R_Y = 2R$. In Circuit Z, one resistor is in series with a parallel pair, so $R_Z = R + R/2 = 1.5R$. Comparing the resistances: $R_X < R_Z < R_Y$. Since current is inversely proportional to resistance, the currents are $I_Y < I_Z < I_X$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2004 HL Q30 C.png"
+  },
+  {
+    "id": "Nov_2005_HL_Q27",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2005,
+      "month": "Nov",
+      "session_label": "Nov 2005",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2005 HL Q27 C.png"
+    },
+    "question_number": 27,
+    "content_markdown": "In the two circuits X and Y below, each cell has an e.m.f. $E$ and negligible internal resistance. Each resistor has a resistance $R$.\n\nThe power dissipated in circuit X is $P$.\n\nThe best estimate for the power dissipated in circuit Y is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two circuit diagrams. Circuit X shows a single cell with e.m.f. E connected to a single resistor R. Circuit Y shows a single cell with e.m.f. E connected to two resistors, each of resistance R, connected in parallel.",
+      "labels_to_preserve": [
+        "circuit X",
+        "circuit Y",
+        "E",
+        "R"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{P}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{P}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$2P$"
+      },
+      {
+        "label": "D",
+        "text": "$4P$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In circuit X, the power is $P = \\frac{E^2}{R}$. In circuit Y, the two resistors are in parallel, so the equivalent resistance is $R_{eq} = \\frac{R}{2}$. The power dissipated in circuit Y is $P_Y = \\frac{E^2}{R_{eq}} = \\frac{E^2}{R/2} = 2\\frac{E^2}{R} = 2P$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2005 HL Q27 C.png"
+  },
+  {
+    "id": "Nov_2005_HL_Q28",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric current",
+    "paper": {
+      "year": 2005,
+      "month": "Nov",
+      "session_label": "Nov 2005",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2005 HL Q28 D.png"
+    },
+    "question_number": 28,
+    "content_markdown": "The drift velocity of the electrons in a copper wire in which there is an electric current is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "equal to the speed of light."
+      },
+      {
+        "label": "B",
+        "text": "close to that of the speed of light."
+      },
+      {
+        "label": "C",
+        "text": "of the order of a few kilometres per second."
+      },
+      {
+        "label": "D",
+        "text": "of the order of a few millimetres per second."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "While the electric field (the signal) propagates through a conductor at speeds approaching the speed of light, the actual physical movement of individual electrons (drift velocity $v$) is surprisingly slow due to frequent collisions with the lattice ions. For typical currents in household wiring, this velocity is usually on the order of $10^{-4}$ to $10^{-3}$ meters per second, which corresponds to a few millimetres per second.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2005 HL Q28 D.png"
+  },
+  {
+    "id": "Nov_2005_HL_Q29",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2005,
+      "month": "Nov",
+      "session_label": "Nov 2005",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2005 HL Q29 B.png"
+    },
+    "question_number": 29,
+    "content_markdown": "In the circuit below, the voltmeter has a resistance $100\\text{ k}\\Omega$. The battery has negligible internal resistance and e.m.f. $6\\text{ V}$.\n\nThe reading on the voltmeter is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a 6V battery connected to two 100k\u03a9 resistors in series. A voltmeter with 100k\u03a9 resistance is connected in parallel with the second resistor.",
+      "labels_to_preserve": [
+        "6 V",
+        "100 k\u03a9",
+        "V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0 V."
+      },
+      {
+        "label": "B",
+        "text": "2 V."
+      },
+      {
+        "label": "C",
+        "text": "3 V."
+      },
+      {
+        "label": "D",
+        "text": "4 V."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The voltmeter is in parallel with the bottom $100\\text{ k}\\Omega$ resistor. Two $100\\text{ k}\\Omega$ resistors in parallel have an equivalent resistance of $50\\text{ k}\\Omega$. Now we have a potential divider with $100\\text{ k}\\Omega$ (top) and $50\\text{ k}\\Omega$ (bottom). The voltage across the bottom part is $V = 6 \\times \\frac{50}{100 + 50} = 6 \\times \\frac{1}{3} = 2\\text{ V}$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2005 HL Q29 B.png"
+  },
+  {
+    "id": "Nov_2006_HL_Q29",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2006,
+      "month": "Nov",
+      "session_label": "Nov 2006",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2006 HL Q29 C.png"
+    },
+    "question_number": 29,
+    "content_markdown": "In the circuit below, the battery has negligible internal resistance. Three identical lamps L, M and N of constant resistance are connected as shown.\n\nThe filament of lamp N breaks. Which **one** of the following shows the subsequent changes to the brightness of lamp L and lamp M?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a battery connected to a parallel combination of lamps L and N, which is then connected in series with lamp M.",
+      "labels_to_preserve": [
+        "L",
+        "M",
+        "N"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Lamp L: stays the same; Lamp M: decreases"
+      },
+      {
+        "label": "B",
+        "text": "Lamp L: increases; Lamp M: stays the same"
+      },
+      {
+        "label": "C",
+        "text": "Lamp L: increases; Lamp M: decreases"
+      },
+      {
+        "label": "D",
+        "text": "Lamp L: decreases; Lamp M: increases"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "When lamp N breaks, the total resistance of the parallel section (initially $R/2$) increases to $R$. This increases the total circuit resistance, causing the total current (which flows through M) to decrease, making M dimmer. However, because the parallel section now has a higher share of the total resistance, the potential difference across lamp L increases, making L brighter.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2006 HL Q29 C.png"
+  },
+  {
+    "id": "Nov_2007_HL_Q27",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2007,
+      "month": "Nov",
+      "session_label": "Nov 2007",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2007 HL Q27 D.png"
+    },
+    "question_number": 27,
+    "content_markdown": "Three identical resistors of constant resistance are connected in series to a battery of negligible internal resistance. The total power dissipated in the circuit is $P$.\n\nThe three resistors are now connected in parallel. The total power dissipated is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{P}{3}$"
+      },
+      {
+        "label": "B",
+        "text": "$P$"
+      },
+      {
+        "label": "C",
+        "text": "$3P$"
+      },
+      {
+        "label": "D",
+        "text": "$9P$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In series, the total resistance is $3R$, so the power is $P = \\frac{V^2}{3R}$. In parallel, the total resistance is $\\frac{R}{3}$, so the power is $P' = \\frac{V^2}{R/3} = \\frac{3V^2}{R}$. Comparing the two, $P' = 9 \\times \\frac{V^2}{3R} = 9P$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2007 HL Q27 D.png"
+  },
+  {
+    "id": "Nov_2008_HL_Q29",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2008,
+      "month": "Nov",
+      "session_label": "Nov 2008",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2008 HL Q29 A.png"
+    },
+    "question_number": 29,
+    "content_markdown": "The graph shows the variation with the current $I$ in a filament lamp of the potential difference $V$.\n\nWhich of the following is correct regarding the resistance of the filament and its temperature as the current is increasing in the filament?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph of potential difference V on the y-axis against current I on the x-axis. The curve starts at the origin and curves upwards with an increasing gradient.",
+      "labels_to_preserve": [
+        "V",
+        "I",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Resistance: equals $\\frac{V}{I}$ at any point; Temperature: increasing"
+      },
+      {
+        "label": "B",
+        "text": "Resistance: equals $\\frac{V}{I}$ at any point; Temperature: constant"
+      },
+      {
+        "label": "C",
+        "text": "Resistance: equals gradient of graph; Temperature: increasing"
+      },
+      {
+        "label": "D",
+        "text": "Resistance: equals gradient of graph; Temperature: constant"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Resistance is defined as the ratio of potential difference to current ($R = V/I$) at a specific point, not the gradient of the $V-I$ graph (which is the differential resistance). For a filament lamp, as current increases, the filament heats up due to collisions between electrons and lattice ions, causing the temperature to increase and the resistance to rise, which is why the graph curves upwards.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2008 HL Q29 A.png"
+  },
+  {
+    "id": "Nov_2008_HL_Q31",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2008,
+      "month": "Nov",
+      "session_label": "Nov 2008",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2008 HL Q31 B.png"
+    },
+    "question_number": 31,
+    "content_markdown": "Three identical filament lamps X, Y and Z are connected in a circuit as shown. Each lamp is operating at normal brightness.\n\nThe cell has negligible internal resistance. The filament of lamp Y breaks such that its resistance becomes infinite.\n\nWhich of the following correctly gives the change in brightness, if any, of the lamps X and Z?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a DC cell connected in parallel to three identical lamps labeled X, Y, and Z.",
+      "labels_to_preserve": [
+        "X",
+        "Y",
+        "Z"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Brightness of lamp X: increases; Brightness of lamp Z: stays the same"
+      },
+      {
+        "label": "B",
+        "text": "Brightness of lamp X: stays the same; Brightness of lamp Z: stays the same"
+      },
+      {
+        "label": "C",
+        "text": "Brightness of lamp X: increases; Brightness of lamp Z: increases"
+      },
+      {
+        "label": "D",
+        "text": "Brightness of lamp X: stays the same; Brightness of lamp Z: increases"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Since the cell has negligible internal resistance, the potential difference across the parallel branches remains constant and equal to the EMF of the cell. When lamp Y breaks, the voltage across lamps X and Z does not change. Because the resistance of lamps X and Z remains constant, the power dissipated ($P = V^2/R$) and thus the brightness of X and Z remains unchanged.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2008 HL Q31 B.png"
+  },
+  {
+    "id": "Nov_2009_HL_Q22",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Resistance and Resistivity",
+    "paper": {
+      "year": 2009,
+      "month": "Nov",
+      "session_label": "Nov 2009",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2009 HL Q22 B.png"
+    },
+    "question_number": 22,
+    "content_markdown": "A cylindrical conductor of length $l$, diameter $D$ and resistivity $\\rho$ has resistance $R$. A different cylindrical conductor of resistivity $2\\rho$, length $2l$ and diameter $2D$ has a resistance",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$2R$"
+      },
+      {
+        "label": "B",
+        "text": "$R$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{R}{2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{R}{4}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Resistance is given by $R = \\rho \\frac{L}{A}$. Since the cross-sectional area $A$ is proportional to the square of the diameter ($A = \\pi (D/2)^2$), doubling the diameter increases the area by a factor of 4. For the second conductor, the new resistance $R'$ is calculated as $R' = (2\\rho) \\frac{2l}{4A} = \\frac{4}{4} \\rho \\frac{l}{A} = R$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2009 HL Q22 B.png"
+  },
+  {
+    "id": "Nov_2010_HL_Q19",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Resistance and Resistivity",
+    "paper": {
+      "year": 2010,
+      "month": "Nov",
+      "session_label": "Nov 2010",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2010 HL Q19 C.png"
+    },
+    "question_number": 19,
+    "content_markdown": "Two resistors, made of the same material, are connected in series to a battery. The length of resistor X is twice that of resistor Y, and X has twice the cross-sectional area of Y.\n\nWhich of the following gives $\\frac{\\text{resistance of X}}{\\text{resistance of Y}}$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two cylindrical resistors X and Y connected in series. Resistor X is visibly longer and thicker than resistor Y.",
+      "labels_to_preserve": [
+        "X",
+        "Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "1"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Resistance is defined by $R = \\rho \\frac{L}{A}$. Since both resistors are made of the same material, $\\rho$ is constant. For resistor X, $L_X = 2L_Y$ and $A_X = 2A_Y$. Substituting these into the ratio: $\\frac{R_X}{R_Y} = \\frac{\\rho (2L_Y) / (2A_Y)}{\\rho L_Y / A_Y} = \\frac{2}{2} = 1$. The increase in length (which increases resistance) is perfectly offset by the increase in cross-sectional area (which decreases resistance).",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2010 HL Q19 C.png"
+  },
+  {
+    "id": "Nov_2010_HL_Q20",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2010,
+      "month": "Nov",
+      "session_label": "Nov 2010",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2010 HL Q20 C.png"
+    },
+    "question_number": 20,
+    "content_markdown": "The circuit shows a resistor $R$ connected in series with a battery and a resistor of resistance $10\\,\\Omega$. The emf of the battery is $20\\text{V}$ and it has negligible internal resistance. The current in the circuit is $1.0\\text{A}$.\n\nWhich of the following is the resistance of $R$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A series circuit containing a battery of 20V, a resistor of 10 ohms, and a resistor R. An ammeter reading or current arrow indicates 1.0A.",
+      "labels_to_preserve": [
+        "R",
+        "1.0A",
+        "10 \\Omega",
+        "20V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$1.0\\,\\Omega$"
+      },
+      {
+        "label": "B",
+        "text": "$2.0\\,\\Omega$"
+      },
+      {
+        "label": "C",
+        "text": "$10\\,\\Omega$"
+      },
+      {
+        "label": "D",
+        "text": "$20\\,\\Omega$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Using Ohm's Law for the whole circuit, $V = I \\times R_{total}$. Given $V = 20\\text{V}$ and $I = 1.0\\text{A}$, the total resistance $R_{total}$ must be $20\\,\\Omega$. Since the resistors are in series, $R_{total} = R + 10\\,\\Omega$. Therefore, $R = 20\\,\\Omega - 10\\,\\Omega = 10\\,\\Omega$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2010 HL Q20 C.png"
+  },
+  {
+    "id": "Nov_2011_HL_Q20",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2011,
+      "month": "Nov",
+      "session_label": "Nov 2011",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2011 HL Q20 A.png"
+    },
+    "question_number": 20,
+    "content_markdown": "A cell is connected in series with a $2.0\\,\\Omega$ resistor and a switch. The voltmeter is connected across the cell and reads $12\\text{V}$ when the switch is open and $8.0\\text{V}$ when the switch is closed.\n\nWhat is the internal resistance of the cell?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a cell in series with a switch and a 2.0 ohm resistor. A voltmeter is connected in parallel across the cell.",
+      "labels_to_preserve": [
+        "V",
+        "2.0\\,\\Omega"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$1.0\\,\\Omega$"
+      },
+      {
+        "label": "B",
+        "text": "$2.0\\,\\Omega$"
+      },
+      {
+        "label": "C",
+        "text": "$3.0\\,\\Omega$"
+      },
+      {
+        "label": "D",
+        "text": "$4.0\\,\\Omega$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "When the switch is open, no current flows, so the voltmeter reads the electromotive force (emf) $\\epsilon = 12\\text{V}$. When the switch is closed, the voltmeter reads the terminal potential difference $V = 8.0\\text{V}$. The current in the circuit is $I = \\frac{V}{R} = \\frac{8.0}{2.0} = 4.0\\text{A}$. The 'lost volts' due to internal resistance $r$ is $\\epsilon - V = Ir$, so $12 - 8 = 4.0 \\times r$, which gives $4 = 4r$, therefore $r = 1.0\\,\\Omega$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2011 HL Q20 A.png"
+  },
+  {
+    "id": "Nov_2012_HL_Q20",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2012,
+      "month": "Nov",
+      "session_label": "Nov 2012",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2012 HL Q20 D.png"
+    },
+    "question_number": 20,
+    "content_markdown": "An ideal ammeter is used to measure the current in a resistor. Which of the following gives the resistance of an ideal ammeter and the way it is connected to the resistor?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A-D) with columns for 'Resistance' and 'Connection'.",
+      "labels_to_preserve": [
+        "Resistance",
+        "Connection",
+        "infinite",
+        "zero",
+        "in parallel",
+        "in series"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Resistance: infinite; Connection: in parallel"
+      },
+      {
+        "label": "B",
+        "text": "Resistance: infinite; Connection: in series"
+      },
+      {
+        "label": "C",
+        "text": "Resistance: zero; Connection: in parallel"
+      },
+      {
+        "label": "D",
+        "text": "Resistance: zero; Connection: in series"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "An ideal ammeter is designed to measure current without affecting the circuit it is placed in. To ensure it doesn't change the total resistance of the branch, it must have zero resistance. Furthermore, to measure the flow of charge through a specific component, it must be placed in series so that the same current passes through both the ammeter and the resistor.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2012 HL Q20 D.png"
+  },
+  {
+    "id": "Nov_2012_HL_Q21",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Resistance and Ohm's Law",
+    "paper": {
+      "year": 2012,
+      "month": "Nov",
+      "session_label": "Nov 2012",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2012 HL Q21 A.png"
+    },
+    "question_number": 21,
+    "content_markdown": "The graph shows the variation of potential difference across a device with the current in the device.\n\nWhich of the following gives the resistance of the device at point X?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph of potential difference (y-axis) versus current (x-axis). The curve starts at the origin and curves upwards. Point X is marked on the curve corresponding to potential difference V and current I.",
+      "labels_to_preserve": [
+        "potential difference",
+        "current",
+        "V",
+        "I",
+        "X",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{V}{I}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{I}{V}$"
+      },
+      {
+        "label": "C",
+        "text": "gradient of tangent to curve at X"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{1}{\\text{gradient of tangent to curve at X}}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Resistance is defined by Ohm's Law as the ratio of potential difference to current ($R = V/I$) at a specific point. While the gradient of a V-I graph represents the differential resistance ($dV/dI$), the absolute resistance at any point is simply the ratio of the coordinates $V$ and $I$ at that point.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2012 HL Q21 A.png"
+  },
+  {
+    "id": "Nov_2013_HL_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Resistivity and Series Circuits",
+    "paper": {
+      "year": 2013,
+      "month": "Nov",
+      "session_label": "Nov 2013",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2013 HL Q17 C.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A resistor X of resistance $R$ is made of wire of length $L$ and cross-sectional area $A$. Resistor Y is made of the same material but has a length $4L$ and a cross-sectional area $2A$. X and Y are connected in series. What is the total resistance of the combination?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$1.5R$"
+      },
+      {
+        "label": "B",
+        "text": "$2R$"
+      },
+      {
+        "label": "C",
+        "text": "$3R$"
+      },
+      {
+        "label": "D",
+        "text": "$9R$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "First, find the resistance of Y using the resistivity formula $R = \\rho \\frac{L}{A}$. Since Y has $4 \\times$ the length and $2 \\times$ the area of X, its resistance is $R_Y = \\rho \\frac{4L}{2A} = 2 \\left( \\rho \\frac{L}{A} \\right) = 2R$. Because they are connected in series, the total resistance is the sum of the individual resistances: $R_{total} = R_X + R_Y = R + 2R = 3R$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2013 HL Q17 C.png"
+  },
+  {
+    "id": "Nov_2013_HL_Q18",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2013,
+      "month": "Nov",
+      "session_label": "Nov 2013",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2013 HL Q18 C.png"
+    },
+    "question_number": 18,
+    "content_markdown": "Each of the resistors in the circuit has a resistance of $2.0\\,\\Omega$. The cell has an emf of $3.0\\,\\text{V}$ and negligible internal resistance. The ammeter has negligible resistance.\n\nWhat is the ammeter reading?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a 3.0V cell connected in parallel to two branches. The top branch contains three resistors in series. The bottom branch contains one resistor in series with an ammeter.",
+      "labels_to_preserve": [
+        "3.0V",
+        "A"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.4 A"
+      },
+      {
+        "label": "B",
+        "text": "0.5 A"
+      },
+      {
+        "label": "C",
+        "text": "1.5 A"
+      },
+      {
+        "label": "D",
+        "text": "2.0 A"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The circuit consists of two parallel branches connected to a $3.0\\,\\text{V}$ source. The ammeter is in the bottom branch, which contains only one resistor of $2.0\\,\\Omega$. Since the branches are in parallel and there is no internal resistance, the potential difference across the bottom branch is the full $3.0\\,\\text{V}$. Using Ohm's Law ($I = V/R$), the current through the ammeter is $3.0\\,\\text{V} / 2.0\\,\\Omega = 1.5\\,\\text{A}$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2013 HL Q18 C.png"
+  },
+  {
+    "id": "Nov_2014_HL_Q18",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2014,
+      "month": "Nov",
+      "session_label": "Nov 2014",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2014 HL Q18 B.png"
+    },
+    "question_number": 18,
+    "content_markdown": "A lamp is connected to an electric cell and it lights at its working voltage. The lamp is then connected to the same cell in a circuit with an ideal ammeter and an ideal voltmeter. Which circuit allows the lamp to light at the original brightness?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four circuit diagrams labeled A, B, C, and D showing different configurations of a cell, a lamp (circle with an X), an ideal ammeter (circle with an A), and an ideal voltmeter (circle with a V).",
+      "labels_to_preserve": [
+        "A",
+        "V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "To light at the original brightness, the lamp must have the same potential difference across it as when it was connected directly to the cell. An ideal voltmeter has infinite resistance and must be connected in parallel, while an ideal ammeter has zero resistance and must be connected in series. In circuit D, the voltmeter is in parallel with the lamp (measuring voltage without drawing current) and the ammeter is in parallel with the cell (which would normally be a short circuit, but in this specific diagram's topology, it is actually in series with the main loop containing the lamp if we look at the nodes). Wait, looking closely at D: the ammeter is in parallel with the cell, which would short it out. Let's re-examine: In circuit B, the ammeter is in series with the lamp and the voltmeter is in parallel with the cell/lamp combination. This allows current to flow through the lamp while the voltmeter measures the EMF/terminal voltage without affecting the circuit.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2014 HL Q18 B.png"
+  },
+  {
+    "id": "Nov_2014_HL_Q19",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2014,
+      "month": "Nov",
+      "session_label": "Nov 2014",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2014 HL Q19 A.png"
+    },
+    "question_number": 19,
+    "content_markdown": "A voltmeter of resistance $50\\text{ k}\\Omega$ is used to measure the electric potential difference in a circuit, as shown. The cell has an electromotive force (emf) of $5.0\\text{ V}$ and negligible internal resistance.\n\nWhat is the reading on the voltmeter?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a 5.0V cell connected in series with two resistors of 50k\u03a9 and 100k\u03a9. A voltmeter is connected in parallel across the 50k\u03a9 resistor.",
+      "labels_to_preserve": [
+        "5.0 V",
+        "50 k\\Omega",
+        "100 k\\Omega",
+        "V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "1.0 V"
+      },
+      {
+        "label": "B",
+        "text": "1.7 V"
+      },
+      {
+        "label": "C",
+        "text": "4.0 V"
+      },
+      {
+        "label": "D",
+        "text": "5.0 V"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The voltmeter is not ideal; it has a resistance of $50\\text{ k}\\Omega$. When connected in parallel with the $50\\text{ k}\\Omega$ resistor, the equivalent resistance of that parallel combination is $R_p = \\frac{50 \\times 50}{50 + 50} = 25\\text{ k}\\Omega$. The circuit then acts as a potential divider with $25\\text{ k}\\Omega$ and $100\\text{ k}\\Omega$ in series. The voltmeter reading is the voltage across the parallel part: $V = 5.0 \\times \\frac{25}{25 + 100} = 5.0 \\times \\frac{25}{125} = 5.0 \\times \\frac{1}{5} = 1.0\\text{ V}$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2014 HL Q19 A.png"
+  },
+  {
+    "id": "Nov_2015_HL_Q19",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "B.5 Current and circuits",
+    "paper": {
+      "year": 2015,
+      "month": "Nov",
+      "session_label": "Nov 2015",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2015 HL Q19 C.png"
+    },
+    "question_number": 19,
+    "content_markdown": "A cylindrical resistor of length $l$ is made from a metal of mass $m$. It has a resistance $R$.\n\nTwo resistors, each of length $2l$ and mass $\\frac{m}{2}$, are then created from the same volume of the metal.\n\nWhat is the resistance of the two resistors when connected in parallel?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$R$"
+      },
+      {
+        "label": "B",
+        "text": "$2R$"
+      },
+      {
+        "label": "C",
+        "text": "$4R$"
+      },
+      {
+        "label": "D",
+        "text": "$8R$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "First, determine the resistance of one new resistor. Since mass is halved and length is doubled, and density is constant, the volume of each new resistor is half the original ($V' = V/2$). Since $V = A \\times l$, if $l' = 2l$, then $A'$ must be $A/4$ to satisfy the volume change. Resistance is given by $R = \\rho \\frac{l}{A}$. For the new resistor, $R_{new} = \\rho \\frac{2l}{A/4} = 8 \\rho \\frac{l}{A} = 8R$. When two such resistors ($8R$ each) are connected in parallel, the total resistance is $\\frac{8R}{2} = 4R$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2015 HL Q19 C.png"
+  },
+  {
+    "id": "Nov_2016_HL_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Internal resistance and electromotive force",
+    "paper": {
+      "year": 2016,
+      "month": "Nov",
+      "session_label": "Nov 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2016 HL Q17 C.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A $12\\text{ V}$ battery has an internal resistance of $2.0\\,\\Omega$. A load of variable resistance is connected across the battery and adjusted to have resistance equal to that of the internal resistance of the battery. Which statement is correct for this circuit?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The current in the battery is $6\\text{ A}$."
+      },
+      {
+        "label": "B",
+        "text": "The potential difference across the load is $12\\text{ V}$."
+      },
+      {
+        "label": "C",
+        "text": "The power dissipated in the battery is $18\\text{ W}$."
+      },
+      {
+        "label": "D",
+        "text": "The resistance in the circuit is $1.0\\,\\Omega$."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "First, calculate the total resistance: $R_{total} = R_{load} + r = 2.0\\,\\Omega + 2.0\\,\\Omega = 4.0\\,\\Omega$. Then, find the current: $I = \\frac{\\epsilon}{R_{total}} = \\frac{12\\text{ V}}{4.0\\,\\Omega} = 3\\text{ A}$. Now check the options: (A) Current is $3\\text{ A}$, not $6\\text{ A}$. (B) Terminal PD is $V = I \\times R_{load} = 3\\text{ A} \\times 2.0\\,\\Omega = 6\\text{ V}$, not $12\\text{ V}$. (C) Power dissipated in the battery (internal resistance) is $P = I^2 r = 3^2 \\times 2.0 = 9 \\times 2 = 18\\text{ W}$. This is correct. (D) Total resistance is $4.0\\,\\Omega$, not $1.0\\,\\Omega$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2016 HL Q17 C.png"
+  },
+  {
+    "id": "Nov_2017_HL_Q15",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2017,
+      "month": "Nov",
+      "session_label": "Nov 2017",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2017 HL Q15 A.png"
+    },
+    "question_number": 15,
+    "content_markdown": "Two wires, X and Y, are made from the same metal. The wires are connected in series. The radius of X is twice that of Y. The carrier drift speed in X is $v_X$ and in Y it is $v_Y$.\n\nWhat is the value of the ratio $\\frac{v_X}{v_Y}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.25"
+      },
+      {
+        "label": "B",
+        "text": "0.50"
+      },
+      {
+        "label": "C",
+        "text": "2.00"
+      },
+      {
+        "label": "D",
+        "text": "4.00"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Since the wires are in series, the current $I$ is the same for both. The formula for current is $I = nAve$, where $n$ is the charge carrier density, $A$ is the cross-sectional area, $v$ is the drift speed, and $e$ is the elementary charge. Because they are the same metal, $n$ is constant. Thus, $A_X v_X = A_Y v_Y$. Since $A = \\pi r^2$, the ratio of areas is the square of the ratio of radii. If $r_X = 2r_Y$, then $A_X = 4A_Y$. Substituting this into the continuity equation gives $4A_Y v_X = A_Y v_Y$, which simplifies to $v_X / v_Y = 1/4 = 0.25$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2017 HL Q15 A.png"
+  },
+  {
+    "id": "Nov_2017_HL_Q16",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Kirchhoff's laws",
+    "paper": {
+      "year": 2017,
+      "month": "Nov",
+      "session_label": "Nov 2017",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2017 HL Q16 B.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Kirchhoff's laws are applied to the circuit shown.\n\nWhat is the equation for the dotted loop?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram with a 6V battery, a 2 ohm resistor in series with a parallel combination of a 3 ohm and a 4 ohm resistor. Currents I1, I2, and I3 are labeled. A clockwise dotted loop is shown around the parallel section.",
+      "labels_to_preserve": [
+        "6 V",
+        "I_1",
+        "2 \\Omega",
+        "3 \\Omega",
+        "I_2",
+        "4 \\Omega",
+        "I_3"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0 = 3I_2 + 4I_3$"
+      },
+      {
+        "label": "B",
+        "text": "$0 = 4I_3 - 3I_2$"
+      },
+      {
+        "label": "C",
+        "text": "$6 = 2I_1 + 3I_2 + 4I_3$"
+      },
+      {
+        "label": "D",
+        "text": "$6 = 3I_2 + 4I_3$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "To find the equation for the dotted loop, we apply Kirchhoff's Loop Rule ($\\sum V = 0$). The dotted loop travels clockwise through the $3\\Omega$ resistor in the direction of $I_2$ (a potential drop of $-3I_2$) and then returns through the $4\\Omega$ resistor against the direction of $I_3$ (a potential gain of $+4I_3$). Setting the sum to zero gives $-3I_2 + 4I_3 = 0$, which rearranges to $0 = 4I_3 - 3I_2$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2017 HL Q16 B.png"
+  },
+  {
+    "id": "Nov_2018_HL_Q16",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2018,
+      "month": "Nov",
+      "session_label": "Nov 2018",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2018 HL Q16 B.png"
+    },
+    "question_number": 16,
+    "content_markdown": "A wire of length $L$ is used in an electric heater. When the potential difference across the wire is $200\\text{ V}$, the power dissipated in the wire is $1000\\text{ W}$. The same potential difference is applied across a second similar wire of length $2L$. What is the power dissipated in the second wire?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "250 W"
+      },
+      {
+        "label": "B",
+        "text": "500 W"
+      },
+      {
+        "label": "C",
+        "text": "2000 W"
+      },
+      {
+        "label": "D",
+        "text": "4000 W"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Resistance $R$ is proportional to length $L$ ($R = \\rho \\frac{L}{A}$). Doubling the length doubles the resistance. Since power $P = \\frac{V^2}{R}$ and the potential difference $V$ remains constant, doubling the resistance results in the power being halved ($1000\\text{ W} / 2 = 500\\text{ W}$).",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2018 HL Q16 B.png"
+  },
+  {
+    "id": "Nov_2018_HL_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2018,
+      "month": "Nov",
+      "session_label": "Nov 2018",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2018 HL Q17 C.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A combination of four identical resistors each of resistance $R$ are connected to a source of emf $\\varepsilon$ of negligible internal resistance. What is the current in the resistor X?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a battery with emf epsilon connected to a network of four resistors. One resistor is in series with a parallel combination. The parallel combination consists of two branches: the top branch has two resistors in series, and the bottom branch has one resistor labeled X.",
+      "labels_to_preserve": [
+        "\\varepsilon",
+        "X"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{\\varepsilon}{5R}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{3\\varepsilon}{10R}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{2\\varepsilon}{5R}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{3\\varepsilon}{5R}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "First, identify the circuit structure: there is one resistor in series with a parallel network. The parallel network has two branches: one with two resistors in series ($2R$) and one with resistor X ($R$). The equivalent resistance of the parallel part is $(1/2R + 1/R)^{-1} = 2R/3$. The total resistance of the circuit is $R + 2R/3 = 5R/3$. The total current from the source is $I_{total} = \\varepsilon / (5R/3) = 3\\varepsilon/5R$. Using the current divider rule, the current through resistor X (the $R$ branch) is $I_X = I_{total} \\times \\frac{2R}{2R + R} = \\frac{3\\varepsilon}{5R} \\times \\frac{2}{3} = \\frac{2\\varepsilon}{5R}$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2018 HL Q17 C.png"
+  },
+  {
+    "id": "Nov_2019_HL_Q16",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2019,
+      "month": "Nov",
+      "session_label": "Nov 2019",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2019 HL Q16 B.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Two power supplies, one of constant emf $24\\text{ V}$ and the other of variable emf $P$, are connected to two resistors as shown. Both power supplies have negligible internal resistances.\n\nWhat is the magnitude of $P$ for the reading on the ammeter to be zero?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram containing a 24V battery in parallel with a series combination of a 9 ohm and a 3 ohm resistor. A second branch containing an ammeter and a variable power supply P is connected across the 3 ohm resistor.",
+      "labels_to_preserve": [
+        "24 V",
+        "9 \\Omega",
+        "3 \\Omega",
+        "A",
+        "P"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Zero"
+      },
+      {
+        "label": "B",
+        "text": "6 V"
+      },
+      {
+        "label": "C",
+        "text": "8 V"
+      },
+      {
+        "label": "D",
+        "text": "18 V"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "For the ammeter reading to be zero, the potential difference across the branch containing the ammeter and power supply $P$ must be zero. This means the emf $P$ must exactly equal the potential drop across the $3\\,\\Omega$ resistor. Using the potential divider rule for the left loop: $V_{3\\Omega} = 24\\text{ V} \\times \\frac{3\\,\\Omega}{9\\,\\Omega + 3\\,\\Omega} = 24 \\times \\frac{3}{12} = 6\\text{ V}$. Therefore, $P$ must be $6\\text{ V}$ to oppose this potential difference perfectly.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2019 HL Q16 B.png"
+  },
+  {
+    "id": "Nov_2020_HL_Q14",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2020,
+      "month": "Nov",
+      "session_label": "Nov 2020",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2020 HL Q14 B.png"
+    },
+    "question_number": 14,
+    "content_markdown": "A metal wire has $n$ free charge carriers per unit volume. The charge on the carrier is $q$. What additional quantity is needed to determine the current per unit area in the wire?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Cross-sectional area of the wire"
+      },
+      {
+        "label": "B",
+        "text": "Drift speed of charge carriers"
+      },
+      {
+        "label": "C",
+        "text": "Potential difference across the wire"
+      },
+      {
+        "label": "D",
+        "text": "Resistivity of the metal"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The formula for electric current is $I = nAvq$, where $n$ is the number density, $A$ is the cross-sectional area, $v$ is the drift speed, and $q$ is the charge per carrier. The question asks for the current per unit area, which is current density $J = \\frac{I}{A} = nvq$. Since we are already given $n$ and $q$, we only need the drift speed $v$ to calculate $J$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2020 HL Q14 B.png"
+  },
+  {
+    "id": "Nov_2020_HL_Q15",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Kirchhoff's Laws",
+    "paper": {
+      "year": 2020,
+      "month": "Nov",
+      "session_label": "Nov 2020",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2020 HL Q15 D.png"
+    },
+    "question_number": 15,
+    "content_markdown": "A cell of electromotive force (emf) $E$ and zero internal resistance is in the circuit shown.\n\nWhat is correct for loop WXYUW?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A bridge circuit connected to a cell. The loop WXYUW starts at W, goes through a resistor R to X, then through another resistor R to Y, then through the cell back to W via U. Current I1 flows from W to Z through 2R. Current I2 flows from W to X through R. Current I3 flows from X to Z through R.",
+      "labels_to_preserve": [
+        "U",
+        "W",
+        "X",
+        "Y",
+        "Z",
+        "E",
+        "R",
+        "2R",
+        "I_1",
+        "I_2",
+        "I_3"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$E = 3I_1R - I_3R$"
+      },
+      {
+        "label": "B",
+        "text": "$E = I_3R - I_2R$"
+      },
+      {
+        "label": "C",
+        "text": "$E = I_3R$"
+      },
+      {
+        "label": "D",
+        "text": "$E = 2I_2R - I_3R$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "To solve this, apply Kirchhoff's Voltage Law (KVL) to the specific loop WXYUW. Starting at W and moving to X, we follow current $I_2$ through resistor $R$, giving a potential drop of $I_2R$. From X to Y, we need the current in that branch. By Kirchhoff's Current Law at junction X, the current entering is $I_2$ and the current leaving towards Z is $I_3$, so the current from X to Y must be $(I_2 - I_3)$. The potential drop from X to Y is $(I_2 - I_3)R$. Completing the loop through the cell from Y to W (via U) adds the emf $E$ back. Thus, $E = I_2R + (I_2 - I_3)R$, which simplifies to $E = 2I_2R - I_3R$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2020 HL Q15 D.png"
+  },
+  {
+    "id": "Nov_2020_HL_Q16",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Resistance and Resistivity",
+    "paper": {
+      "year": 2020,
+      "month": "Nov",
+      "session_label": "Nov 2020",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2020 HL Q16 D.png"
+    },
+    "question_number": 16,
+    "content_markdown": "What is the relationship between the resistivity $\\rho$ of a uniform wire, the radius $r$ of the wire and the length $l$ of the wire when its resistance is constant?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\rho \\propto r^2 l$"
+      },
+      {
+        "label": "B",
+        "text": "$\\rho \\propto rl^2$"
+      },
+      {
+        "label": "C",
+        "text": "$\\rho \\propto \\frac{l}{r^2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\rho \\propto \\frac{r^2}{l}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The resistance $R$ of a wire is given by $R = \\rho \\frac{l}{A}$, where $A$ is the cross-sectional area. For a wire with radius $r$, $A = \\pi r^2$. Substituting this gives $R = \\rho \\frac{l}{\\pi r^2}$. Rearranging for resistivity, we get $\\rho = \\frac{R \\pi r^2}{l}$. Since $R$ and $\\pi$ are constants, the relationship is $\\rho \\propto \\frac{r^2}{l}$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2020 HL Q16 D.png"
+  },
+  {
+    "id": "Nov_2020_HL_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric cells and power dissipation",
+    "paper": {
+      "year": 2020,
+      "month": "Nov",
+      "session_label": "Nov 2020",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2020 HL Q17 B.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A power station generates $250\\text{ kW}$ of power at a potential difference of $25\\text{ kV}$. The energy is transmitted through cables of total resistance $4.0\\text{ }\\Omega$.\n\nWhat is the power loss in the cables?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.04 kW"
+      },
+      {
+        "label": "B",
+        "text": "0.4 kW"
+      },
+      {
+        "label": "C",
+        "text": "4 kW"
+      },
+      {
+        "label": "D",
+        "text": "40 kW"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "First, calculate the current $I$ using $P = VI$, which gives $I = \\frac{250\\text{ kW}}{25\\text{ kV}} = 10\\text{ A}$. Then, calculate the power loss in the cables using $P_{\\text{loss}} = I^2 R$. This results in $10^2 \\times 4.0 = 400\\text{ W}$, which is $0.4\\text{ kW}$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2020 HL Q17 B.png"
+  },
+  {
+    "id": "Nov_2020_HL_Q18",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Internal resistance and electromotive force",
+    "paper": {
+      "year": 2020,
+      "month": "Nov",
+      "session_label": "Nov 2020",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2020 HL Q18 A.png"
+    },
+    "question_number": 18,
+    "content_markdown": "An electrical power supply has an internal resistance. It supplies a direct current $I$ to an external circuit for a time $t$. What is the electromotive force (emf) of the power supply?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{\\text{total energy transferred to the whole circuit}}{I \\times t}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{\\text{total power transferred to the whole circuit}}{I \\times t}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{\\text{total energy transferred to the external circuit}}{I \\times t}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{\\text{total power transferred to the external circuit}}{I \\times t}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The electromotive force (emf) is defined as the total work done (or energy transferred) per unit charge in moving a charge around a complete circuit. Since charge $Q = I \\times t$, the emf $\\epsilon = \\frac{W}{Q} = \\frac{\\text{Total Energy}}{I \\times t}$. This energy must account for the whole circuit, including the internal resistance of the power supply itself.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2020 HL Q18 A.png"
+  },
+  {
+    "id": "Nov_2021_HL_Q16",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Resistance and Resistivity",
+    "paper": {
+      "year": 2021,
+      "month": "Nov",
+      "session_label": "Nov 2021",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2021 HL Q16 A.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Two wires, X and Y, are made of the same material and have equal length. The diameter of X is twice that of Y.\n\nWhat is $\\frac{\\text{resistance of X}}{\\text{resistance of Y}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Resistance is given by $R = \\rho \\frac{L}{A}$. Since the material ($\\rho$) and length ($L$) are the same, $R \\propto \\frac{1}{A}$. The cross-sectional area $A$ is proportional to the square of the diameter ($A \\propto d^2$). Therefore, $R \\propto \\frac{1}{d^2}$. If the diameter of X is twice that of Y ($d_X = 2d_Y$), then the resistance of X will be $\\frac{1}{2^2} = \\frac{1}{4}$ times the resistance of Y.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2021 HL Q16 A.png"
+  },
+  {
+    "id": "Nov_2021_HL_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Internal resistance and electromotive force",
+    "paper": {
+      "year": 2021,
+      "month": "Nov",
+      "session_label": "Nov 2021",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2021 HL Q17 C.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A cell has an emf of $3.0\\text{ V}$ and an internal resistance of $2.0\\,\\Omega$. The cell is connected in series with a resistance of $10\\,\\Omega$.\n\nWhat is the terminal potential difference of the cell?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A simple circuit diagram showing a cell with an emf of 3.0V connected in a loop to a single resistor of 10 ohms.",
+      "labels_to_preserve": [
+        "3.0 V",
+        "10 \u03a9"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.5 V"
+      },
+      {
+        "label": "B",
+        "text": "1.5 V"
+      },
+      {
+        "label": "C",
+        "text": "2.5 V"
+      },
+      {
+        "label": "D",
+        "text": "3.0 V"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "To find the terminal potential difference ($V$), first calculate the total resistance of the circuit: $R_{total} = R + r = 10\\,\\Omega + 2.0\\,\\Omega = 12\\,\\Omega$. Then, find the current using Ohm's law for the whole circuit: $I = \\frac{\\epsilon}{R_{total}} = \\frac{3.0\\text{ V}}{12\\,\\Omega} = 0.25\\text{ A}$. Finally, the terminal potential difference is the voltage across the external resistor: $V = I \\times R = 0.25\\text{ A} \\times 10\\,\\Omega = 2.5\\text{ V}$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2021 HL Q17 C.png"
+  },
+  {
+    "id": "Nov_2022_HL_Q16",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2022,
+      "month": "Nov",
+      "session_label": "Nov 2022",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2022 HL Q16 D.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Two copper wires of equal lengths but different diameters are used to connect a cell to a load. Wire 1 has a diameter $M$, wire 2 has a diameter $2M$. The electron drift velocities in wires 1 and 2 are $v_1$ and $v_2$.\n\nWhat is $\\frac{v_2}{v_1}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{1}{4}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Since the wires are connected in series to the same load, the current $I$ is the same in both. Using the formula $I = nAve$, where $A$ is the cross-sectional area, we see that $v \\propto \\frac{1}{A}$. Since $A = \\pi(\\frac{d}{2})^2$, the area is proportional to the square of the diameter ($A \\propto d^2$). Therefore, $v \\propto \\frac{1}{d^2}$. If the diameter doubles ($M \\to 2M$), the area increases by a factor of 4, meaning the drift velocity must decrease by a factor of 4.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2022 HL Q16 D.png"
+  },
+  {
+    "id": "Nov_2022_HL_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2022,
+      "month": "Nov",
+      "session_label": "Nov 2022",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2022 HL Q17 B.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A cell of negligible internal resistance is connected to three identical resistors. The current in the cell is $3.0\\text{ A}$.\n\nThe resistors are now arranged in series.\n\nWhat is the new current in the cell?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a cell connected to one resistor in series with a parallel combination of two resistors.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "1.0 A"
+      },
+      {
+        "label": "B",
+        "text": "1.5 A"
+      },
+      {
+        "label": "C",
+        "text": "3.0 A"
+      },
+      {
+        "label": "D",
+        "text": "9.0 A"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In the first circuit, the total resistance is $R + \\frac{R}{2} = 1.5R$. The current is $I_1 = \\frac{V}{1.5R} = 3.0\\text{ A}$, which means $\\frac{V}{R} = 4.5\\text{ A}$. In the second circuit, the three resistors are in series, so the total resistance is $3R$. The new current is $I_2 = \\frac{V}{3R} = \\frac{1}{3} \\left(\\frac{V}{R}\\right) = \\frac{4.5}{3} = 1.5\\text{ A}$.",
+    "source_image_path": "B5-Current-and-Circuits/Nov 2022 HL Q17 B.png"
+  },
+  {
+    "id": "Specimen_2009_HL_Q20",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "B.5 Current and circuits",
+    "paper": {
+      "year": 2009,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2009",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2009 HL Q20 C.png"
+    },
+    "question_number": 20,
+    "content_markdown": "In the circuit below, the battery has negligible internal resistance. Three identical lamps L, M and N of constant resistance are connected as shown.\n\nThe filament of lamp N breaks. Which of the following shows the subsequent changes to the brightness of lamp L and lamp M?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a battery connected to a parallel combination of lamps L and N, which is then connected in series with lamp M.",
+      "labels_to_preserve": [
+        "L",
+        "M",
+        "N"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Lamp L: stays the same; Lamp M: decreases"
+      },
+      {
+        "label": "B",
+        "text": "Lamp L: increases; Lamp M: stays the same"
+      },
+      {
+        "label": "C",
+        "text": "Lamp L: increases; Lamp M: decreases"
+      },
+      {
+        "label": "D",
+        "text": "Lamp L: decreases; Lamp M: increases"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "When the filament of lamp N breaks, the total resistance of the circuit increases because the parallel combination of L and N (which had a resistance of $R/2$) is replaced by just L (resistance $R$). This increase in total resistance causes the total current in the circuit to decrease, so lamp M (which is in series with the rest) becomes dimmer. However, because the total current decreases, the potential drop across lamp M decreases, meaning a larger share of the battery's constant voltage now falls across lamp L, making lamp L brighter.",
+    "source_image_path": "B5-Current-and-Circuits/Specimen Paper 2009 HL Q20 C.png"
+  },
+  {
+    "id": "Specimen_2009_HL_Q21",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2009,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2009",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2009 HL Q21 B.png"
+    },
+    "question_number": 21,
+    "content_markdown": "In the circuit below, the voltmeter has a resistance $100\\text{ k}\\Omega$. The battery has negligible internal resistance and e.m.f. $6\\text{ V}$.\n\nThe reading on the voltmeter is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing a 6V battery connected in series with a 100kOhm resistor. This is then connected to a parallel combination of another 100kOhm resistor and a voltmeter with 100kOhm resistance.",
+      "labels_to_preserve": [
+        "6V",
+        "100k\\Omega",
+        "V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0 V."
+      },
+      {
+        "label": "B",
+        "text": "2 V."
+      },
+      {
+        "label": "C",
+        "text": "3 V."
+      },
+      {
+        "label": "D",
+        "text": "4 V."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The voltmeter is in parallel with the bottom $100\\text{ k}\\Omega$ resistor. Two $100\\text{ k}\\Omega$ resistors in parallel have an equivalent resistance of $50\\text{ k}\\Omega$. The circuit is now a potential divider with a $100\\text{ k}\\Omega$ resistor in series with a $50\\text{ k}\\Omega$ combination. The voltage across the $50\\text{ k}\\Omega$ part is $V = 6 \\times \\frac{50}{100 + 50} = 6 \\times \\frac{1}{3} = 2\\text{ V}$.",
+    "source_image_path": "B5-Current-and-Circuits/Specimen Paper 2009 HL Q21 B.png"
+  },
+  {
+    "id": "Specimen_2016_HL_Q15",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric current",
+    "paper": {
+      "year": 2016,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2016 HL Q15 D.png"
+    },
+    "question_number": 15,
+    "content_markdown": "In a particular lightning flash a charge of $15\\text{ C}$ flows in a time of $0.5\\text{ ms}$. What is the average current?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$33\\text{ \\mu A}$"
+      },
+      {
+        "label": "B",
+        "text": "$7.5\\text{ mA}$"
+      },
+      {
+        "label": "C",
+        "text": "$30\\text{ A}$"
+      },
+      {
+        "label": "D",
+        "text": "$30\\text{ kA}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Average current is defined as the rate of flow of charge, $I = \\frac{\\Delta Q}{\\Delta t}$. Here, $\\Delta Q = 15\\text{ C}$ and $\\Delta t = 0.5\\text{ ms} = 0.5 \\times 10^{-3}\\text{ s}$. Calculating the ratio gives $I = \\frac{15}{0.0005} = 30,000\\text{ A}$, which is $30\\text{ kA}$.",
+    "source_image_path": "B5-Current-and-Circuits/Specimen Paper 2016 HL Q15 D.png"
+  },
+  {
+    "id": "Specimen_2016_HL_Q16",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric circuits",
+    "paper": {
+      "year": 2016,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2016 HL Q16 C.png"
+    },
+    "question_number": 16,
+    "content_markdown": "A heating coil is connected to a battery of electromotive force (emf) $10\\text{ V}$ and negligible internal resistance. The power dissipated in the coil is $25\\text{ W}$. What is the resistance of the coil?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0.25\\,\\Omega$"
+      },
+      {
+        "label": "B",
+        "text": "$2.5\\,\\Omega$"
+      },
+      {
+        "label": "C",
+        "text": "$4.0\\,\\Omega$"
+      },
+      {
+        "label": "D",
+        "text": "$250\\,\\Omega$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "To find the resistance, we use the power formula relating voltage and resistance: $P = \\frac{V^2}{R}$. Rearranging for $R$ gives $R = \\frac{V^2}{P}$. Substituting the given values: $R = \\frac{10^2}{25} = \\frac{100}{25} = 4.0\\,\\Omega$.",
+    "source_image_path": "B5-Current-and-Circuits/Specimen Paper 2016 HL Q16 C.png"
+  },
+  {
+    "id": "Specimen_2016_HL_Q17",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Internal Resistance and Cells",
+    "paper": {
+      "year": 2016,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2016 HL Q17 A.png"
+    },
+    "question_number": 17,
+    "content_markdown": "Two identical cells, each of emf $1.6\\text{ V}$ and internal resistance $2.0\\text{ }\\Omega$, are connected in parallel with a $3.0\\text{ }\\Omega$ resistor.\n\nWhat is the current $I$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A circuit diagram showing two cells in parallel, each labeled 1.6V, 2.0 Ohms. They are connected to a 3.0 Ohm resistor in a single loop. An ammeter arrow indicates current I flowing through the main branch.",
+      "labels_to_preserve": [
+        "1.6V, 2.0 \\Omega",
+        "3.0 \\Omega",
+        "I"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.4 A"
+      },
+      {
+        "label": "B",
+        "text": "0.6 A"
+      },
+      {
+        "label": "C",
+        "text": "0.8 A"
+      },
+      {
+        "label": "D",
+        "text": "1.6 A"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "When two identical cells are in parallel, the total EMF remains the same as one cell ($1.6\\text{ V}$), but the total internal resistance is halved ($2.0\\text{ }\\Omega / 2 = 1.0\\text{ }\\Omega$). The total resistance in the circuit is the sum of the equivalent internal resistance and the external resistor ($1.0\\text{ }\\Omega + 3.0\\text{ }\\Omega = 4.0\\text{ }\\Omega$). Using Ohm's law, $I = V/R = 1.6\\text{ V} / 4.0\\text{ }\\Omega = 0.4\\text{ A}$.",
+    "source_image_path": "B5-Current-and-Circuits/Specimen Paper 2016 HL Q17 A.png"
+  },
+  {
+    "id": "Specimen_2016_HL_Q31",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Electric fields",
+    "paper": {
+      "year": 2016,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2016 HL Q31 D.png"
+    },
+    "question_number": 31,
+    "content_markdown": "What is the correct quantity and unit for electric potential?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table with two columns labeled 'Quantity' and 'Unit' and four rows labeled A, B, C, and D.",
+      "labels_to_preserve": [
+        "Quantity",
+        "Unit",
+        "vector",
+        "scalar",
+        "V m^{-1}",
+        "V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Quantity: vector; Unit: $\\text{V m}^{-1}$"
+      },
+      {
+        "label": "B",
+        "text": "Quantity: vector; Unit: $\\text{V}$"
+      },
+      {
+        "label": "C",
+        "text": "Quantity: scalar; Unit: $\\text{V m}^{-1}$"
+      },
+      {
+        "label": "D",
+        "text": "Quantity: scalar; Unit: $\\text{V}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Electric potential is defined as the work done per unit charge in bringing a small positive test charge from infinity to a point. Since work and charge are both scalars, electric potential is a scalar quantity. Its standard SI unit is the Volt (V). Note that $\\text{V m}^{-1}$ is the unit for electric field strength, which is a vector.",
+    "source_image_path": "B5-Current-and-Circuits/Specimen Paper 2016 HL Q31 D.png"
+  },
+  {
+    "id": "Specimen_2025_HL_Q15",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2025,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2025",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2025 HL Q15 A.png"
+    },
+    "question_number": 15,
+    "content_markdown": "Four identical resistors, each of resistance $R$, are connected as shown.\n\nWhat is the effective resistance between P and Q?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A square circuit arrangement of four resistors. Points P and Q are the terminals of one vertical resistor. The other three resistors are connected in series with each other, forming a parallel branch to the resistor between P and Q.",
+      "labels_to_preserve": [
+        "P",
+        "Q"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{3R}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$R$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{4R}{3}$"
+      },
+      {
+        "label": "D",
+        "text": "$4R$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The circuit consists of two parallel branches between points P and Q. One branch contains a single resistor of resistance $R$. The other branch contains three resistors in series, giving a total resistance of $3R$. Using the parallel resistance formula: $\\frac{1}{R_{total}} = \\frac{1}{R} + \\frac{1}{3R} = \\frac{3}{3R} + \\frac{1}{3R} = \\frac{4}{3R}$. Inverting this gives $R_{total} = \\frac{3R}{4}$.",
+    "source_image_path": "B5-Current-and-Circuits/Specimen Paper 2025 HL Q15 A.png"
+  },
+  {
+    "id": "Specimen_2025_HL_Q16",
+    "topic": "Current and Circuits",
+    "topic_code": "B5",
+    "sub_topic": "Current and Circuits",
+    "paper": {
+      "year": 2025,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2025",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2025 HL Q16 C.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Conductor X is connected to a cell of emf $E$. A power of $16\\text{ W}$ is dissipated in X.\n\nConductor Y is made from the same material with the same diameter as X but is twice as long. A cell of emf $2E$ is connected to Y.\n\nBoth cells have negligible internal resistance.\n\nWhat power is dissipated in Y?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two circuit diagrams. The first shows a cell with emf E connected to a cylindrical conductor X. The second shows a cell with emf 2E connected to a cylindrical conductor Y which is longer than X.",
+      "labels_to_preserve": [
+        "E",
+        "2E",
+        "X",
+        "Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "8.0 W"
+      },
+      {
+        "label": "B",
+        "text": "16 W"
+      },
+      {
+        "label": "C",
+        "text": "32 W"
+      },
+      {
+        "label": "D",
+        "text": "64 W"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Resistance $R = \\rho L / A$. Since Y is twice as long as X with the same material and diameter, $R_Y = 2R_X$. Power is given by $P = V^2 / R$. For conductor X, $P_X = E^2 / R_X = 16\\text{ W}$. For conductor Y, $P_Y = (2E)^2 / R_Y = 4E^2 / (2R_X) = 2(E^2 / R_X) = 2 \\times 16\\text{ W} = 32\\text{ W}$.",
+    "source_image_path": "B5-Current-and-Circuits/Specimen Paper 2025 HL Q16 C.png"
+  }
+]

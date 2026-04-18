@@ -1,0 +1,51 @@
+{
+  "id": "May_2018_HL_TZ1_Q24",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ1 Q24 A.png"
+  },
+  "question_number": 24,
+  "content_markdown": "The dashed line on the graph shows the variation with wavelength of the intensity of solar radiation before passing through the Earth's atmosphere.\n\nThe solid line on the graph shows the variation with wavelength of the intensity of solar radiation after it has passed through the Earth's atmosphere.\n\nWhich feature of the graph helps explain the greenhouse effect?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph showing intensity versus wavelength in micrometers. A dashed line represents solar radiation before the atmosphere, and a solid line represents radiation after passing through the atmosphere. A shaded region labeled 'visible' is shown between approximately 0.4 and 0.75 micrometers. Significant dips in the solid line are visible in the infrared region (wavelengths \u003e 0.75 micrometers).",
+    "labels_to_preserve": [
+      "visible",
+      "wavelength (μm)",
+      "0",
+      "0.5",
+      "1",
+      "1.5",
+      "2"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Infrared radiation is absorbed at specific wavelengths."
+    },
+    {
+      "label": "B",
+      "text": "There is little absorption at infrared wavelengths."
+    },
+    {
+      "label": "C",
+      "text": "There is substantial absorption at visible wavelengths."
+    },
+    {
+      "label": "D",
+      "text": "There is little absorption at UV wavelengths."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The greenhouse effect is driven by greenhouse gases absorbing specific wavelengths of outgoing long-wave (infrared) radiation. In the provided graph, the solid line (after atmosphere) shows significant 'dips' compared to the dashed line (before atmosphere) in the infrared region (wavelengths greater than 0.75 $\\mu$m), indicating that the atmosphere absorbs radiation at these specific infrared wavelengths.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2018 HL TZ1 Q24 A.png"
+}

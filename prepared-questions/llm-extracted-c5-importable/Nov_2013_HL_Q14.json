@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2013_HL_Q14",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2013,
+    "month": "Nov",
+    "session_label": "Nov 2013",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2013 HL Q14 C.png"
+  },
+  "question_number": 14,
+  "content_markdown": "An ambulance emits a sound of frequency $f$ as it travels along a straight road between stationary observers A and B.\n\nWhich of the following shows how the frequency of the sound heard by each observer compares with $f$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "An ambulance moving to the right towards observer B and away from observer A. An arrow above the ambulance indicates the direction of motion.",
+    "labels_to_preserve": [
+      "observer A",
+      "observer B",
+      "ambulance",
+      "direction of motion"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Observer A: greater than $f$; Observer B: greater than $f$"
+    },
+    {
+      "label": "B",
+      "text": "Observer A: greater than $f$; Observer B: less than $f$"
+    },
+    {
+      "label": "C",
+      "text": "Observer A: less than $f$; Observer B: greater than $f$"
+    },
+    {
+      "label": "D",
+      "text": "Observer A: less than $f$; Observer B: less than $f$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "According to the Doppler effect, when a source of sound moves away from an observer (Observer A), the observed frequency decreases (less than $f$). When the source moves toward an observer (Observer B), the observed frequency increases (greater than $f$).",
+  "source_image_path": "C5-Doppler-Effect/Nov 2013 HL Q14 C.png"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2008_HL_Q17",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2008,
+    "month": "Nov",
+    "session_label": "Nov 2008",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2008 HL Q17 C.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A lump of ice at $0^{\\circ}\\text{C}$ is placed into water at $0^{\\circ}\\text{C}$. Assuming that no thermal energy is lost to the surroundings, which of the following statements is true regarding the melting of the ice and the temperature change?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A-D) with two columns: 'Melting of ice' and 'Temperature change'.",
+    "labels_to_preserve": [
+      "Melting of ice",
+      "Temperature change"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Melting of ice: some of the ice will melt; Temperature change: the overall temperature of the water will initially fall before going back to $0^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "B",
+      "text": "Melting of ice: some of the ice will melt; Temperature change: the overall temperature of the water will remain the same"
+    },
+    {
+      "label": "C",
+      "text": "Melting of ice: none of the ice will melt; Temperature change: the temperature of the ice and water will remain the same"
+    },
+    {
+      "label": "D",
+      "text": "Melting of ice: none of the ice will melt; Temperature change: the overall temperature of the water will fall"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Thermal energy transfer requires a temperature gradient. Since both the ice and the water are at $0^{\\circ}\\text{C}$, they are in thermal equilibrium. No net heat will flow from the water to the ice, meaning no phase change (melting) will occur and the temperature of the system will remain constant.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2008 HL Q17 C.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2013_HL_Q17",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Resistivity and Series Circuits",
+  "paper": {
+    "year": 2013,
+    "month": "Nov",
+    "session_label": "Nov 2013",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2013 HL Q17 C.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A resistor X of resistance $R$ is made of wire of length $L$ and cross-sectional area $A$. Resistor Y is made of the same material but has a length $4L$ and a cross-sectional area $2A$. X and Y are connected in series. What is the total resistance of the combination?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$1.5R$"
+    },
+    {
+      "label": "B",
+      "text": "$2R$"
+    },
+    {
+      "label": "C",
+      "text": "$3R$"
+    },
+    {
+      "label": "D",
+      "text": "$9R$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "First, find the resistance of Y using the resistivity formula $R = \\rho \\frac{L}{A}$. Since Y has $4 \\times$ the length and $2 \\times$ the area of X, its resistance is $R_Y = \\rho \\frac{4L}{2A} = 2 \\left( \\rho \\frac{L}{A} \\right) = 2R$. Because they are connected in series, the total resistance is the sum of the individual resistances: $R_{total} = R_X + R_Y = R + 2R = 3R$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2013 HL Q17 C.png"
+}

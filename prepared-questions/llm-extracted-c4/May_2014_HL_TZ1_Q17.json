@@ -1,0 +1,43 @@
+{
+  "id": "May_2014_HL_TZ1_Q17",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ1 Q17 A.png"
+  },
+  "question_number": 17,
+  "content_markdown": "The diagram shows the fundamental (first harmonic) of a standing (stationary) sound wave in a pipe open at one end.\n\nAt any instant, all the molecules of air in the pipe oscillate with the same",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A horizontal pipe closed at the left end and open at the right end. Inside, a standing wave envelope is shown with a node at the closed end and an antinode at the open end, representing the fundamental frequency.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "phase."
+    },
+    {
+      "label": "B",
+      "text": "amplitude."
+    },
+    {
+      "label": "C",
+      "text": "velocity."
+    },
+    {
+      "label": "D",
+      "text": "acceleration."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In a standing wave between two adjacent nodes (or a node and an antinode in the fundamental mode), all particles oscillate in phase. While their amplitudes vary from zero at the node to a maximum at the antinode, they all reach their maximum displacement, zero velocity, and maximum acceleration at the same time.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2014 HL TZ1 Q17 A.png"
+}

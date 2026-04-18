@@ -1,0 +1,47 @@
+{
+  "id": "May_2018_HL_TZ2_Q16",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ2 Q16 C.png"
+  },
+  "question_number": 16,
+  "content_markdown": "A cell of emf $6.0\\text{ V}$ and negligible internal resistance is connected to three resistors as shown. The resistors have resistance of $3.0\\text{ }\\Omega$ and $6.0\\text{ }\\Omega$ as shown.\n\nWhat is the current in resistor X?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a 6.0V cell connected in series with resistor X (3.0 ohms). Resistor X is then in series with a parallel combination of two 6.0 ohm resistors.",
+    "labels_to_preserve": [
+      "X",
+      "3.0 \\Omega",
+      "6.0 \\Omega"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.40 A"
+    },
+    {
+      "label": "B",
+      "text": "0.50 A"
+    },
+    {
+      "label": "C",
+      "text": "1.0 A"
+    },
+    {
+      "label": "D",
+      "text": "2.0 A"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "First, calculate the equivalent resistance of the parallel section: two $6.0\\text{ }\\Omega$ resistors in parallel give $R_p = \\frac{6.0}{2} = 3.0\\text{ }\\Omega$. The total resistance of the circuit is the sum of resistor X and the parallel section: $R_{total} = 3.0\\text{ }\\Omega + 3.0\\text{ }\\Omega = 6.0\\text{ }\\Omega$. Using Ohm's law for the whole circuit, $I = \\frac{V}{R_{total}} = \\frac{6.0\\text{ V}}{6.0\\text{ }\\Omega} = 1.0\\text{ A}$. Since resistor X is in series with the rest of the circuit, the total current flows through it.",
+  "source_image_path": "B5-Current-and-Circuits/May 2018 HL TZ2 Q16 C.png"
+}

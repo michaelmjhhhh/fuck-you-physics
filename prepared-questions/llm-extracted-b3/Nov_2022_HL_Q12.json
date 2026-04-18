@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2022_HL_Q12",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2022,
+    "month": "Nov",
+    "session_label": "Nov 2022",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2022 HL Q12 A.png"
+  },
+  "question_number": 12,
+  "content_markdown": "Three statements about Boltzmann's constant $k_{\\text{B}}$ are:\n\nI. $k_{\\text{B}}$ has a unit of $\\text{J K}^{-1}$\n\nII. $k_{\\text{B}} = \\frac{\\text{gas constant}}{\\text{Avogadro's constant}}$\n\nIII. $k_{\\text{B}} = \\frac{\\text{the average kinetic energy of particles}}{\\text{temperature of the gas}}$\n\nWhich statements are correct?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present, only text-based statements and options.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "I and II only"
+    },
+    {
+      "label": "B",
+      "text": "I and III only"
+    },
+    {
+      "label": "C",
+      "text": "II and III only"
+    },
+    {
+      "label": "D",
+      "text": "I, II and III"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Statement I is correct because $k_{\\text{B}}$ relates energy to temperature ($E = \\frac{3}{2}k_{\\text{B}}T$). Statement II is correct by definition ($k_{\\text{B}} = R/N_{\\text{A}}$). Statement III is incorrect because the average kinetic energy is $\\frac{3}{2}k_{\\text{B}}T$, meaning $k_{\\text{B}} = \\frac{2}{3} \\frac{\\bar{E}_k}{T}$, so the ratio of energy to temperature is not simply $k_{\\text{B}}$ but includes a numerical factor.",
+  "source_image_path": "B3-Gas-Laws/Nov 2022 HL Q12 A.png"
+}

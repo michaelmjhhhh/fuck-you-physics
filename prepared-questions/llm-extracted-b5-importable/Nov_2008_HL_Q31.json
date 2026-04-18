@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2008_HL_Q31",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2008,
+    "month": "Nov",
+    "session_label": "Nov 2008",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2008 HL Q31 B.png"
+  },
+  "question_number": 31,
+  "content_markdown": "Three identical filament lamps X, Y and Z are connected in a circuit as shown. Each lamp is operating at normal brightness.\n\nThe cell has negligible internal resistance. The filament of lamp Y breaks such that its resistance becomes infinite.\n\nWhich of the following correctly gives the change in brightness, if any, of the lamps X and Z?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a DC cell connected in parallel to three identical lamps labeled X, Y, and Z.",
+    "labels_to_preserve": [
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Brightness of lamp X: increases; Brightness of lamp Z: stays the same"
+    },
+    {
+      "label": "B",
+      "text": "Brightness of lamp X: stays the same; Brightness of lamp Z: stays the same"
+    },
+    {
+      "label": "C",
+      "text": "Brightness of lamp X: increases; Brightness of lamp Z: increases"
+    },
+    {
+      "label": "D",
+      "text": "Brightness of lamp X: stays the same; Brightness of lamp Z: increases"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Since the cell has negligible internal resistance, the potential difference across the parallel branches remains constant and equal to the EMF of the cell. When lamp Y breaks, the voltage across lamps X and Z does not change. Because the resistance of lamps X and Z remains constant, the power dissipated ($P = V^2/R$) and thus the brightness of X and Z remains unchanged.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2008 HL Q31 B.png"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2017_HL_Q30",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2017,
+    "month": "Nov",
+    "session_label": "Nov 2017",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2017 HL Q30 A.png"
+  },
+  "question_number": 30,
+  "content_markdown": "A stationary sound source emits waves of wavelength $\\lambda$ and speed $v$. The source now moves away from a stationary observer. What are the wavelength and speed of the sound as measured by the observer?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) with columns for Wavelength and Speed.",
+    "labels_to_preserve": [
+      "Wavelength",
+      "Speed",
+      "\\lambda",
+      "v"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Wavelength: longer than $\\lambda$; Speed: equal to $v$"
+    },
+    {
+      "label": "B",
+      "text": "Wavelength: longer than $\\lambda$; Speed: less than $v$"
+    },
+    {
+      "label": "C",
+      "text": "Wavelength: shorter than $\\lambda$; Speed: equal to $v$"
+    },
+    {
+      "label": "D",
+      "text": "Wavelength: shorter than $\\lambda$; Speed: less than $v$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The speed of sound in a medium is determined solely by the properties of the medium itself (like temperature and density), not by the motion of the source. Therefore, the speed remains $v$. However, as the source moves away, each successive wave crest is emitted from a position further from the observer, 'stretching out' the distance between crests. This results in a longer observed wavelength (redshift).",
+  "source_image_path": "C5-Doppler-Effect/Nov 2017 HL Q30 A.png"
+}

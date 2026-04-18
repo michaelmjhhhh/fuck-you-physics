@@ -1,0 +1,50 @@
+{
+  "id": "May_2022_HL_TZ2_Q18",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ2 Q18 B.png"
+  },
+  "question_number": 18,
+  "content_markdown": "A circuit consists of a cell of emf $E = 3.0\\text{ V}$ and four resistors connected as shown. Resistors $R_1$ and $R_4$ are $1.0\\,\\Omega$ and resistors $R_2$ and $R_3$ are $2.0\\,\\Omega$.\n\nWhat is the voltmeter reading?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A bridge circuit with a cell on the left and four resistors arranged in a diamond shape. A voltmeter is connected across the horizontal diagonal of the diamond.",
+    "labels_to_preserve": [
+      "E = 3.0V",
+      "R_1 = 1.0\\Omega",
+      "R_2 = 2.0\\Omega",
+      "R_3 = 2.0\\Omega",
+      "R_4 = 1.0\\Omega",
+      "V"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.50 V"
+    },
+    {
+      "label": "B",
+      "text": "1.0 V"
+    },
+    {
+      "label": "C",
+      "text": "1.5 V"
+    },
+    {
+      "label": "D",
+      "text": "2.0 V"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "This is a potential divider problem. The circuit consists of two parallel branches. In the top-left to bottom-right branch ($R_1$ and $R_2$), the potential at the left node of the voltmeter is determined by the ratio of $R_1$ to the total resistance. In the bottom-left to top-right branch ($R_3$ and $R_4$), the potential at the right node is determined by $R_3$. Specifically, the potential at the left junction is $3.0 \\times \\frac{2.0}{1.0+2.0} = 2.0\\text{ V}$ (relative to the negative terminal) and the potential at the right junction is $3.0 \\times \\frac{1.0}{2.0+1.0} = 1.0\\text{ V}$. The difference between these two points is the voltmeter reading: $|2.0\\text{ V} - 1.0\\text{ V}| = 1.0\\text{ V}$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2022 HL TZ2 Q18 B.png"
+}

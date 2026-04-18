@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2017_HL_Q8",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2017,
+    "month": "Nov",
+    "session_label": "Nov 2017",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2017 HL Q8 B.png"
+  },
+  "question_number": 8,
+  "content_markdown": "A $1.0\\text{ kW}$ heater supplies energy to a liquid of mass $0.50\\text{ kg}$. The temperature of the liquid changes by $80\\text{ K}$ in a time of $200\\text{ s}$. The specific heat capacity of the liquid is $4.0\\text{ kJ kg}^{-1}\\text{ K}^{-1}$. What is the average power lost by the liquid?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0"
+    },
+    {
+      "label": "B",
+      "text": "200 W"
+    },
+    {
+      "label": "C",
+      "text": "800 W"
+    },
+    {
+      "label": "D",
+      "text": "1600 W"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "First, calculate the net power used to heat the liquid using $P_{net} = \\frac{mc\\Delta T}{t}$. Here, $P_{net} = \\frac{0.50 \\times 4000 \\times 80}{200} = \\frac{160000}{200} = 800\\text{ W}$. The heater supplies $1000\\text{ W}$ ($1.0\\text{ kW}$), but only $800\\text{ W}$ is actually increasing the liquid's temperature. Therefore, the power lost to the surroundings is $1000\\text{ W} - 800\\text{ W} = 200\\text{ W}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2017 HL Q8 B.png"
+}

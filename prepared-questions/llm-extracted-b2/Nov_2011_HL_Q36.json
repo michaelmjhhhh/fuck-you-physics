@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2011_HL_Q36",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2011,
+    "month": "Nov",
+    "session_label": "Nov 2011",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2011 HL Q36 A.png"
+  },
+  "question_number": 36,
+  "content_markdown": "The power emitted as electromagnetic radiation by the Sun is approximately $4 \\times 10^{26} \\text{ W}$. The radius of the orbit of Mars around the Sun is approximately $2 \\times 10^{11} \\text{ m}$. What is the best estimate for the power incident on an area of $1 \\text{ m}^2$ at the radius of Mars' orbit?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$10^3 \\text{ W}$"
+    },
+    {
+      "label": "B",
+      "text": "$10^7 \\text{ W}$"
+    },
+    {
+      "label": "C",
+      "text": "$10^{11} \\text{ W}$"
+    },
+    {
+      "label": "D",
+      "text": "$10^{15} \\text{ W}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "To find the power incident on $1 \\text{ m}^2$ (the intensity), we use the inverse square law: $I = \\frac{P}{4\\pi r^2}$. Substituting the values: $I = \\frac{4 \\times 10^{26}}{4 \\times \\pi \\times (2 \\times 10^{11})^2}$. This simplifies to $\\frac{10^{26}}{\\pi \\times 4 \\times 10^{22}} = \\frac{10^4}{4\\pi}$. Since $4\\pi \\approx 12.5$, the value is roughly $10^4 / 12.5$, which is closest to $10^3 \\text{ W}$.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2011 HL Q36 A.png"
+}

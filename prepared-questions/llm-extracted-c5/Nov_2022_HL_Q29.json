@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2022_HL_Q29",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2022,
+    "month": "Nov",
+    "session_label": "Nov 2022",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2022 HL Q29 A.png"
+  },
+  "question_number": 29,
+  "content_markdown": "An ambulance emitting a sound of frequency $f$ is moving towards a point X at a velocity of $+40\\text{ m s}^{-1}$. A car is moving away from X at a velocity of $+20\\text{ m s}^{-1}$.\n\nThe speed of sound is $v$.\n\nWhat is the frequency detected in the car?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing an ambulance on the left moving right towards point X at 40 m/s, and a car on the right moving right away from point X at 20 m/s.",
+    "labels_to_preserve": [
+      "40 m s^{-1}",
+      "20 m s^{-1}",
+      "X"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$f \\frac{(v - 20)}{(v - 40)}$"
+    },
+    {
+      "label": "B",
+      "text": "$f \\frac{v}{(v - 20)}$"
+    },
+    {
+      "label": "C",
+      "text": "$f \\frac{(v + 20)}{(v + 40)}$"
+    },
+    {
+      "label": "D",
+      "text": "$f \\frac{(v + 20)}{(v - 40)}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The general Doppler formula for a moving source and moving observer is $f' = f \\left( \\frac{v \\pm v_o}{v \\mp v_s} \\right)$. Here, the source (ambulance) is moving towards the observer, which tends to increase the frequency (denominator becomes $v - v_s$). The observer (car) is moving away from the source, which tends to decrease the frequency (numerator becomes $v - v_o$). Substituting the values gives $f' = f \\frac{v - 20}{v - 40}$.",
+  "source_image_path": "C5-Doppler-Effect/Nov 2022 HL Q29 A.png"
+}

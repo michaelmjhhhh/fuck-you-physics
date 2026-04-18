@@ -1,0 +1,43 @@
+{
+  "id": "May_2009_HL_TZ1_Q16",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ1 Q16 B.png"
+  },
+  "question_number": 16,
+  "content_markdown": "The wavelength of a standing (stationary) wave is equal to",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the distance between adjacent nodes."
+    },
+    {
+      "label": "B",
+      "text": "twice the distance between adjacent nodes."
+    },
+    {
+      "label": "C",
+      "text": "half the distance between adjacent nodes."
+    },
+    {
+      "label": "D",
+      "text": "the distance between a node and an adjacent antinode."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In a standing wave, the distance between two consecutive nodes (or two consecutive antinodes) is exactly half a wavelength ($\\lambda/2$). Therefore, a full wavelength ($\\lambda$) is equal to twice the distance between adjacent nodes.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2009 HL TZ1 Q16 B.png"
+}

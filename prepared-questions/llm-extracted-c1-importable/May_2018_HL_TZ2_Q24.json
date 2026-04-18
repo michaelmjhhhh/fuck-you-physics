@@ -1,0 +1,47 @@
+{
+  "id": "May_2018_HL_TZ2_Q24",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ2 Q24 D.png"
+  },
+  "question_number": 24,
+  "content_markdown": "A simple pendulum bob oscillates as shown.\n\nAt which position is the resultant force on the pendulum bob zero?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A simple pendulum shown at three positions: A (left extreme), B (equilibrium/center), and C (right extreme).",
+    "labels_to_preserve": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "At position A"
+    },
+    {
+      "label": "B",
+      "text": "At position B"
+    },
+    {
+      "label": "C",
+      "text": "At position C"
+    },
+    {
+      "label": "D",
+      "text": "Resultant force is never zero during the oscillation"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In a simple pendulum, the resultant force is never zero. At the extremes (A and C), there is a restoring force acting towards the center. At the equilibrium position (B), while the horizontal restoring force is zero, the bob is moving in a circular arc, meaning there must be a non-zero centripetal force (tension minus weight component) directed towards the pivot to maintain the circular path.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2018 HL TZ2 Q24 D.png"
+}

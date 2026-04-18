@@ -1,0 +1,50 @@
+{
+  "id": "May_2003_HL_Q14",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2003,
+    "month": "May",
+    "session_label": "May 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2003 HL Q14 B.png"
+  },
+  "question_number": 14,
+  "content_markdown": "Which **one** of the following diagrams correctly represents the directions of the energy transfers that take place in a heat pump?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four energy flow diagrams (A, B, C, D) showing a central 'pump' connected to a 'hot' reservoir and a 'cold' reservoir. Arrows indicate the direction of work $W$, heat from the cold reservoir $Q_c$, and heat to/from the hot reservoir $Q_h$.",
+    "labels_to_preserve": [
+      "hot",
+      "cold",
+      "pump",
+      "W",
+      "Q_h",
+      "Q_c"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Work $W$ leaves the pump; heat $Q_c$ enters from cold; heat $Q_h$ enters hot reservoir."
+    },
+    {
+      "label": "B",
+      "text": "Work $W$ enters the pump; heat $Q_c$ enters from cold; heat $Q_h$ enters hot reservoir."
+    },
+    {
+      "label": "C",
+      "text": "Work $W$ enters the pump; heat $Q_h$ leaves hot reservoir; heat $Q_c$ enters cold reservoir."
+    },
+    {
+      "label": "D",
+      "text": "Work $W$ leaves the pump; heat $Q_h$ leaves hot reservoir; heat $Q_c$ enters cold reservoir."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "A heat pump is a device that uses external work ($W$ into the system) to transfer thermal energy from a colder body ($Q_c$ out of the cold reservoir) to a warmer body ($Q_h$ into the hot reservoir). This process reverses the natural flow of heat, which requires an input of energy.",
+  "source_image_path": "B4-Thermodynamics/May 2003 HL Q14 B.png"
+}

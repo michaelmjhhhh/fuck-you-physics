@@ -1,0 +1,45 @@
+{
+  "id": "May_2012_HL_TZ2_Q15",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave phenomena",
+  "paper": {
+    "year": 2012,
+    "month": "May",
+    "session_label": "May 2012",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2012 HL TZ2 Q15 D.png"
+  },
+  "question_number": 15,
+  "content_markdown": "A wave pulse is travelling along a dense thick rope which is connected to a less dense thin rope.\n\n![diagram]\n\nWhich of the following is correct regarding the reflected and transmitted wave pulses after the wave pulse reaches the connection of the two ropes?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a wave pulse on a thick black line (dense rope) moving towards a thin black line (less dense rope). An arrow above the pulse indicates the direction of travel to the right.",
+    "labels_to_preserve": [
+      "direction of travel"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Reflected pulse: inverted; Transmitted pulse: inverted"
+    },
+    {
+      "label": "B",
+      "text": "Reflected pulse: not inverted; Transmitted pulse: inverted"
+    },
+    {
+      "label": "C",
+      "text": "Reflected pulse: inverted; Transmitted pulse: not inverted"
+    },
+    {
+      "label": "D",
+      "text": "Reflected pulse: not inverted; Transmitted pulse: not inverted"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "When a wave travels from a more dense medium to a less dense medium (a 'free' or 'soft' boundary), the reflected pulse is not inverted. Transmitted pulses are never inverted regardless of the change in medium density.",
+  "source_image_path": "C2-Wave-Model/May 2012 HL TZ2 Q15 D.png"
+}

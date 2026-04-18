@@ -1,0 +1,46 @@
+{
+  "id": "May_2007_HL_TZ1_Q17",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2007,
+    "month": "May",
+    "session_label": "May 2007",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2007 HL TZ1 Q17 A.png"
+  },
+  "question_number": 17,
+  "content_markdown": "Two objects X and Y are made of the same material. Object X is more massive than object Y. Both objects are at the same temperature.\n\nWhich of the following correctly compares the average kinetic energy and also the total energy of the molecules in the objects?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table comparing average kinetic energy and total energy of molecules for objects X and Y across four options A, B, C, and D.",
+    "labels_to_preserve": [
+      "average kinetic energy of the molecules in X and Y",
+      "total energy of the molecules in X and Y"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Average kinetic energy: same; Total energy: greater in X than in Y"
+    },
+    {
+      "label": "B",
+      "text": "Average kinetic energy: same; Total energy: less in X than in Y"
+    },
+    {
+      "label": "C",
+      "text": "Average kinetic energy: greater in X than in Y; Total energy: same"
+    },
+    {
+      "label": "D",
+      "text": "Average kinetic energy: less in X than in Y; Total energy: same"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Temperature is a measure of the average kinetic energy of the molecules in a substance. Since both objects are at the same temperature, their average kinetic energies must be the same. Total internal energy depends on both the average kinetic energy and the total number of molecules (mass). Since object X is more massive and made of the same material, it contains more molecules, and thus has a higher total energy.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2007 HL TZ1 Q17 A.png"
+}

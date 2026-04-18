@@ -1,0 +1,43 @@
+{
+  "id": "May_2014_HL_TZ2_Q11",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ2 Q11 A.png"
+  },
+  "question_number": 11,
+  "content_markdown": "Two containers, X and Y, are each filled by an ideal gas at the same temperature. The volume of Y is half the volume of X. The number of moles of gas in Y is three times the number of moles of the gas in X. The pressure of the gas in X is $P_X$ and the pressure of the gas in Y is $P_Y$.\n\nWhat is the ratio $\\frac{P_X}{P_Y}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{6}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{2}{3}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{3}{2}$"
+    },
+    {
+      "label": "D",
+      "text": "6"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Using the ideal gas law $PV = nRT$, we can express pressure as $P = \\frac{nRT}{V}$. Since temperature $T$ and the gas constant $R$ are the same for both containers, the ratio of pressures is $\\frac{P_X}{P_Y} = \\frac{n_X/V_X}{n_Y/V_Y} = \\frac{n_X}{n_Y} \\cdot \\frac{V_Y}{V_X}$. Given $V_Y = \\frac{1}{2}V_X$ and $n_Y = 3n_X$, we substitute these into the ratio: $\\frac{P_X}{P_Y} = \\frac{n_X}{3n_X} \\cdot \\frac{0.5V_X}{V_X} = \\frac{1}{3} \\cdot \\frac{1}{2} = \\frac{1}{6}$.",
+  "source_image_path": "B3-Gas-Laws/May 2014 HL TZ2 Q11 A.png"
+}

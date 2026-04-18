@@ -1,0 +1,58 @@
+{
+  "id": "May_2007_HL_TZ1_Q21",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2007,
+    "month": "May",
+    "session_label": "May 2007",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2007 HL TZ1 Q21 D.png"
+  },
+  "question_number": 21,
+  "content_markdown": "A wave is travelling through a medium. The diagram shows the variation with time $t$ of the displacement $d$ of a particle of the medium from $t = 0$ to $t = 25\\text{ ms}$.\n\nWhich of the following correctly gives the frequency and the amplitude of the wave?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A displacement-time graph showing a sinusoidal wave. The y-axis is displacement d in cm, ranging from -1.5 to 1.5. The x-axis is time t in ms, ranging from 0 to 25. The wave starts at d = 1.0 cm at t = 0, crosses zero at t = 5 ms, reaches a minimum at t = 10 ms, crosses zero at t = 15 ms, reaches a maximum at t = 20 ms, and crosses zero at t = 25 ms.",
+    "labels_to_preserve": [
+      "d/cm",
+      "t/ms",
+      "0",
+      "5",
+      "10",
+      "15",
+      "20",
+      "25",
+      "1.5",
+      "1",
+      "0.5",
+      "-0.5",
+      "-1",
+      "-1.5"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "frequency / Hz: $2.0 \\times 10^{-2}$, amplitude / cm: $2.0$"
+    },
+    {
+      "label": "B",
+      "text": "frequency / Hz: $2.0 \\times 10^{-2}$, amplitude / cm: $1.0$"
+    },
+    {
+      "label": "C",
+      "text": "frequency / Hz: $50$, amplitude / cm: $2.0$"
+    },
+    {
+      "label": "D",
+      "text": "frequency / Hz: $50$, amplitude / cm: $1.0$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "From the graph, the maximum displacement from the equilibrium position (amplitude) is $1.0\\text{ cm}$. The time for one complete cycle (period $T$) can be seen from peak to peak, which is from $t = 0$ to $t = 20\\text{ ms}$. Therefore, $T = 20\\text{ ms} = 20 \\times 10^{-3}\\text{ s}$. The frequency $f$ is the reciprocal of the period: $f = 1/T = 1 / (20 \\times 10^{-3}) = 1000 / 20 = 50\\text{ Hz}$.",
+  "source_image_path": "C2-Wave-Model/May 2007 HL TZ1 Q21 D.png"
+}

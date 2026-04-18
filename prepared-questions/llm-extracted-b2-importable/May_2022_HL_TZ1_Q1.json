@@ -1,0 +1,43 @@
+{
+  "id": "May_2022_HL_TZ1_Q1",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ1 Q1 D.png"
+  },
+  "question_number": 1,
+  "content_markdown": "The intensity of a wave can be defined as the energy per unit area per unit time. What is the unit of intensity expressed in fundamental SI units?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\text{kg} \\, \\text{m}^{-2} \\, \\text{s}^{-1}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\text{kg} \\, \\text{m}^{2} \\, \\text{s}^{-3}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\text{kg} \\, \\text{s}^{-2}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\text{kg} \\, \\text{s}^{-3}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Intensity is defined as $\\frac{\\text{Energy}}{\\text{Area} \\times \\text{Time}}$. In SI units, Energy (Joules) is $\\text{kg} \\, \\text{m}^2 \\, \\text{s}^{-2}$. Dividing this by Area ($\\text{m}^2$) and Time ($\\text{s}$) results in $\\frac{\\text{kg} \\, \\text{m}^2 \\, \\text{s}^{-2}}{\\text{m}^2 \\, \\text{s}}$, which simplifies to $\\text{kg} \\, \\text{s}^{-3}$.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2022 HL TZ1 Q1 D.png"
+}

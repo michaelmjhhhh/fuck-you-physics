@@ -1,0 +1,43 @@
+{
+  "id": "May_2008_HL_TZ2_Q18",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2008,
+    "month": "May",
+    "session_label": "May 2008",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2008 HL TZ2 18 C.png"
+  },
+  "question_number": 18,
+  "content_markdown": "A block of metal at a temperature of $90^{\\circ}\\text{C}$ is placed in a beaker of water at a temperature of $0^{\\circ}\\text{C}$. The mass of the metal block and the mass of the water are equal. The final temperature of the water and the metal block is $9^{\\circ}\\text{C}$.\n\nWhich of the following is the best estimate of the ratio\n\n$$\\frac{\\text{specific heat of water}}{\\text{specific heat of metal}}?$$",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{10}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{9}$"
+    },
+    {
+      "label": "C",
+      "text": "9"
+    },
+    {
+      "label": "D",
+      "text": "10"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Using the principle of conservation of energy, the heat lost by the metal equals the heat gained by the water: $m c_m \\Delta T_m = m c_w \\Delta T_w$. Since the masses are equal, they cancel out. The temperature change for the metal is $90 - 9 = 81^{\\circ}\\text{C}$, and for the water it is $9 - 0 = 9^{\\circ}\\text{C}$. Rearranging the equation to find the ratio $\\frac{c_w}{c_m} = \\frac{\\Delta T_m}{\\Delta T_w} = \\frac{81}{9} = 9$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2008 HL TZ2 18 C.png"
+}

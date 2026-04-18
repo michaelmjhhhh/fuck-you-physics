@@ -1,0 +1,52 @@
+{
+  "id": "May_2015_HL_TZ2_Q11",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ2 Q11 A.png"
+  },
+  "question_number": 11,
+  "content_markdown": "The bob of a pendulum has an initial displacement $x_0$ to the right. The bob is released and allowed to oscillate. The graph shows how the displacement varies with time. At which point is the velocity of the bob at maximum towards the right?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A displacement-time graph for a simple harmonic oscillator starting at positive maximum displacement x0. Points A, B, C, and D are marked on the curve.",
+    "labels_to_preserve": [
+      "displacement",
+      "time",
+      "x_0",
+      "0",
+      "A.",
+      "B.",
+      "C.",
+      "D."
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Velocity is the gradient of the displacement-time graph. To find the maximum velocity towards the right (positive direction), we look for the point where the slope is steepest and positive. At point A, the graph crosses the equilibrium position with its maximum positive gradient. Points B and D are turning points where velocity is zero, and at point C, the velocity is at its maximum but in the negative direction (towards the left).",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2015 HL TZ2 Q11 A.png"
+}

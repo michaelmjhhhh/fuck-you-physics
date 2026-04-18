@@ -1,0 +1,26 @@
+{
+  "id": "May_2010_HL_TZ1_Q15",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ1 Q15 C.png"
+  },
+  "question_number": 15,
+  "correct_answer": "C",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2010 HL TZ1 Q15 C.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

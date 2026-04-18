@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2007_HL_Q19",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2007,
+    "month": "Nov",
+    "session_label": "Nov 2007",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2007 HL Q19 B.png"
+  },
+  "question_number": 19,
+  "content_markdown": "A string with both ends fixed is made to vibrate in the second harmonic mode as shown by the dashed lines in the diagram below.\n\n$$\\text{Diagram showing a standing wave with two loops. Point P is in the first loop and point Q is in the second loop.}$$\n\nThe solid line shows a photograph of the string at a particular instant of time. Two points on the string have been marked P and Q.\n\nWhich of the following correctly compares both the period of vibration of P and Q and the average speed of P and Q?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A standing wave on a string fixed at both ends, vibrating in its second harmonic (two loops). Point P is located in the first loop, and point Q is located in the second loop. A solid line represents the instantaneous position of the string, while dashed lines represent the envelope of the vibration.",
+    "labels_to_preserve": [
+      "P",
+      "Q"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Period: same; Average speed: same"
+    },
+    {
+      "label": "B",
+      "text": "Period: same; Average speed: different"
+    },
+    {
+      "label": "C",
+      "text": "Period: different; Average speed: same"
+    },
+    {
+      "label": "D",
+      "text": "Period: different; Average speed: different"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In a standing wave, all points on the string (except nodes) vibrate with the same frequency and therefore the same period. However, the amplitude of vibration varies depending on the position along the string. Since average speed over a cycle is proportional to amplitude ($v_{avg} = \\frac{4A}{T}$), and points P and Q are at different distances from the nodes/antinodes, they have different amplitudes and thus different average speeds.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2007 HL Q19 B.png"
+}

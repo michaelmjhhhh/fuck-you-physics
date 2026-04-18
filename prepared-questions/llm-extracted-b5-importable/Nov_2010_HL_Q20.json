@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2010_HL_Q20",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric circuits",
+  "paper": {
+    "year": 2010,
+    "month": "Nov",
+    "session_label": "Nov 2010",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2010 HL Q20 C.png"
+  },
+  "question_number": 20,
+  "content_markdown": "The circuit shows a resistor $R$ connected in series with a battery and a resistor of resistance $10\\,\\Omega$. The emf of the battery is $20\\text{V}$ and it has negligible internal resistance. The current in the circuit is $1.0\\text{A}$.\n\nWhich of the following is the resistance of $R$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A series circuit containing a battery of 20V, a resistor of 10 ohms, and a resistor R. An ammeter reading or current arrow indicates 1.0A.",
+    "labels_to_preserve": [
+      "R",
+      "1.0A",
+      "10 \\Omega",
+      "20V"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$1.0\\,\\Omega$"
+    },
+    {
+      "label": "B",
+      "text": "$2.0\\,\\Omega$"
+    },
+    {
+      "label": "C",
+      "text": "$10\\,\\Omega$"
+    },
+    {
+      "label": "D",
+      "text": "$20\\,\\Omega$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Using Ohm's Law for the whole circuit, $V = I \\times R_{total}$. Given $V = 20\\text{V}$ and $I = 1.0\\text{A}$, the total resistance $R_{total}$ must be $20\\,\\Omega$. Since the resistors are in series, $R_{total} = R + 10\\,\\Omega$. Therefore, $R = 20\\,\\Omega - 10\\,\\Omega = 10\\,\\Omega$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2010 HL Q20 C.png"
+}

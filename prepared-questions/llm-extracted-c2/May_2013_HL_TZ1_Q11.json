@@ -1,0 +1,48 @@
+{
+  "id": "May_2013_HL_TZ1_Q11",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ1 Q11 B.png"
+  },
+  "question_number": 11,
+  "content_markdown": "Gas particles are equally spaced along a straight line. A sound wave passes through the gas. The positions of the gas particles at one instant are shown below.\n\nWhich of the distances shown is equal to the wavelength of the wave?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a series of dots representing gas particles along a horizontal line. Some areas have particles bunched together (compressions) and others have them spread apart (rarefactions). Four horizontal distances are labeled A, B, C, and D using arrows between vertical dashed lines.",
+    "labels_to_preserve": [
+      "A.",
+      "B.",
+      "C.",
+      "D."
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In a longitudinal wave like sound, the wavelength is the distance between two consecutive points in phase. This is most easily measured as the distance from the center of one compression to the center of the next compression, or from the center of one rarefaction to the center of the next rarefaction. In the diagram, distance A spans from the center of one compression to the center of the next compression, representing one full wavelength.",
+  "source_image_path": "C2-Wave-Model/May 2013 HL TZ1 Q11 B.png"
+}

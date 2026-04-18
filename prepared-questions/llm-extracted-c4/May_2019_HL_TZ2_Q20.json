@@ -1,0 +1,43 @@
+{
+  "id": "May_2019_HL_TZ2_Q20",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ2 Q20 C.png"
+  },
+  "question_number": 20,
+  "content_markdown": "A third-harmonic standing wave of wavelength $0.80\\text{ m}$ is set up on a string fixed at both ends. Two points on the wave are separated by a distance of $0.60\\text{ m}$. What is a possible phase difference between the two points on the wave?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{\\pi}{4}\\text{ rad}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{\\pi}{2}\\text{ rad}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\pi\\text{ rad}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{3\\pi}{2}\\text{ rad}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In a standing wave, all points between two adjacent nodes vibrate in phase (phase difference = 0), and points in adjacent loops vibrate in antiphase (phase difference = $\\pi$). Since the wavelength is $0.80\\text{ m}$, the distance between nodes is $\\lambda/2 = 0.40\\text{ m}$. A distance of $0.60\\text{ m}$ is greater than the distance between nodes but less than a full wavelength, meaning the two points must be in different loops. Specifically, for a third harmonic, they could be in the first and second loops or the first and third loops. If they are in adjacent loops, the phase difference is $\\pi$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2019 HL TZ2 Q20 C.png"
+}

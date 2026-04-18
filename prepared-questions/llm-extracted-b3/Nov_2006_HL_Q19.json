@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2006_HL_Q19",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2006,
+    "month": "Nov",
+    "session_label": "Nov 2006",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2006 HL Q19 C.png"
+  },
+  "question_number": 19,
+  "content_markdown": "An ideal gas expands isothermally, doing $2500\\text{ J}$ of external work in the process. The thermal energy absorbed by the gas in this process is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "zero."
+    },
+    {
+      "label": "B",
+      "text": "less than $2500\\text{ J}$."
+    },
+    {
+      "label": "C",
+      "text": "equal to $2500\\text{ J}$."
+    },
+    {
+      "label": "D",
+      "text": "more than $2500\\text{ J}$."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "According to the first law of thermodynamics, $Q = \\Delta U + W$. For an isothermal expansion of an ideal gas, the temperature remains constant, which means the internal energy change $\\Delta U$ is zero. Therefore, the thermal energy absorbed $Q$ must be exactly equal to the work done $W$ by the gas.",
+  "source_image_path": "B3-Gas-Laws/Nov 2006 HL Q19 C.png"
+}

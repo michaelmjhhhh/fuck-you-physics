@@ -1,0 +1,43 @@
+{
+  "id": "May_2008_HL_TZ1_Q18",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2008,
+    "month": "May",
+    "session_label": "May 2008",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2008 HL TZ1 18 A.png"
+  },
+  "question_number": 18,
+  "content_markdown": "A hot liquid X has specific heat capacity $S_{\\text{H}}$. It is mixed with an equal mass of a cold liquid Y of specific heat capacity $S_{\\text{C}}$.\n\nThe best estimate of the ratio\n\n$$\\frac{\\text{temperature fall of liquid X}}{\\text{temperature rise of liquid Y}}$$\n\nis",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{S_{\\text{C}}}{S_{\\text{H}}}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{S_{\\text{H}}}{S_{\\text{C}}}$"
+    },
+    {
+      "label": "C",
+      "text": "$2\\frac{S_{\\text{C}}}{S_{\\text{H}}}$"
+    },
+    {
+      "label": "D",
+      "text": "$2\\frac{S_{\\text{H}}}{S_{\\text{C}}}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Assuming no energy is lost to the surroundings, the energy lost by liquid X equals the energy gained by liquid Y ($Q_{\\text{lost}} = Q_{\\text{gain}}$). Using the formula $Q = mc\\Delta T$, we have $m S_{\\text{H}} \\Delta T_{\\text{X}} = m S_{\\text{C}} \\Delta T_{\\text{Y}}$. Since the masses $m$ are equal, they cancel out, leaving $S_{\\text{H}} \\Delta T_{\\text{X}} = S_{\\text{C}} \\Delta T_{\\text{Y}}$. Rearranging for the ratio $\\frac{\\Delta T_{\\text{X}}}{\\Delta T_{\\text{Y}}}$ gives $\\frac{S_{\\text{C}}}{S_{\\text{H}}}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2008 HL TZ1 18 A.png"
+}

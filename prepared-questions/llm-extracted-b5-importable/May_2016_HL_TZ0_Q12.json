@@ -1,0 +1,48 @@
+{
+  "id": "May_2016_HL_TZ0_Q12",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2016,
+    "month": "May",
+    "session_label": "May 2016",
+    "level": "HL",
+    "timezone": "TZ0",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2016 HL TZ0 Q12 C.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A circuit consists of a cell of electromotive force (emf) $6.0\\text{ V}$ and negligible internal resistance connected to two resistors of $4.0\\text{ }\\Omega$.\n\nThe ammeter has resistance equal to $1.0\\text{ }\\Omega$ and the voltmeter is ideal. What are the readings of the ammeter and the voltmeter?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a 6.0V cell in series with an ammeter (A) and a parallel combination of two 4.0 Ohm resistors. An ideal voltmeter (V) is connected in parallel across the two resistors.",
+    "labels_to_preserve": [
+      "6.0 V",
+      "4.0 Ω",
+      "A",
+      "V"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Ammeter: 2.0 A; Voltmeter: 3.0 V"
+    },
+    {
+      "label": "B",
+      "text": "Ammeter: 3.0 A; Voltmeter: 3.0 V"
+    },
+    {
+      "label": "C",
+      "text": "Ammeter: 2.0 A; Voltmeter: 4.0 V"
+    },
+    {
+      "label": "D",
+      "text": "Ammeter: 3.0 A; Voltmeter: 4.0 V"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "First, calculate the equivalent resistance of the two $4.0\\text{ }\\Omega$ resistors in parallel: $R_p = \\frac{4.0 \\times 4.0}{4.0 + 4.0} = 2.0\\text{ }\\Omega$. The total resistance of the circuit includes the ammeter resistance ($1.0\\text{ }\\Omega$), so $R_{total} = 2.0 + 1.0 = 3.0\\text{ }\\Omega$. The total current (ammeter reading) is $I = \\frac{V}{R_{total}} = \\frac{6.0}{3.0} = 2.0\\text{ A}$. The voltmeter measures the potential difference across the parallel pair: $V = I \\times R_p = 2.0 \\times 2.0 = 4.0\\text{ V}$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2016 HL TZ0 Q12 C.png"
+}

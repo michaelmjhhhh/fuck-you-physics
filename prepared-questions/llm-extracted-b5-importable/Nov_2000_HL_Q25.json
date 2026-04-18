@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2000_HL_Q25",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2000,
+    "month": "Nov",
+    "session_label": "Nov 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2000 HL Q25 D.png"
+  },
+  "question_number": 25,
+  "content_markdown": "Two resistors of equal resistance are connected in **series** to a battery with negligible internal resistance. The current drawn from the battery is $1.0\\text{ A}$.\n\nWhen the two resistors are connected in **parallel** to the battery the current drawn will be",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.5 A."
+    },
+    {
+      "label": "B",
+      "text": "1.0 A."
+    },
+    {
+      "label": "C",
+      "text": "2.0 A."
+    },
+    {
+      "label": "D",
+      "text": "4.0 A."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In series, the total resistance is $R + R = 2R$, so $I_{series} = V / (2R) = 1.0\\text{ A}$. This implies $V/R = 2.0\\text{ A}$. When connected in parallel, the equivalent resistance is $R/2$. The new current is $I_{parallel} = V / (R/2) = 2(V/R)$. Substituting the value of $V/R$, we get $2 \\times 2.0\\text{ A} = 4.0\\text{ A}$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2000 HL Q25 D.png"
+}

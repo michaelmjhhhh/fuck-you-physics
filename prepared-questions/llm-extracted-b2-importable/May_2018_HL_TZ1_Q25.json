@@ -1,0 +1,50 @@
+{
+  "id": "May_2018_HL_TZ1_Q25",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ1 Q25 A.png"
+  },
+  "question_number": 25,
+  "content_markdown": "The diagram shows a simple climate model for the Earth.\n\nWhat does this model predict for the average albedo of the Earth?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A Sankey-style diagram showing energy flow for Earth's climate model. Incoming solar energy is 100%. Energy is split into absorbed by atmosphere and clouds (19%), absorbed by the surface of the Earth (51%), reflected by the atmosphere (6%), reflected by the clouds (20%), and reflected by the surface of the Earth (4%).",
+    "labels_to_preserve": [
+      "incoming solar energy 100 %",
+      "absorbed by atmosphere and clouds 19 %",
+      "absorbed by the surface of the Earth 51 %",
+      "reflected by the atmosphere 6 %",
+      "reflected by the clouds 20 %",
+      "reflected by the surface of the Earth 4 %"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.30"
+    },
+    {
+      "label": "B",
+      "text": "0.51"
+    },
+    {
+      "label": "C",
+      "text": "0.70"
+    },
+    {
+      "label": "D",
+      "text": "0.81"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Albedo is defined as the ratio of total reflected power to total incident power. From the diagram, the total reflected energy is the sum of energy reflected by the atmosphere (6%), clouds (20%), and the surface (4%). Total reflected = $6\\% + 20\\% + 4\\% = 30\\%$. Since the incident energy is $100\\%$, the albedo is $30/100 = 0.30$.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2018 HL TZ1 Q25 A.png"
+}

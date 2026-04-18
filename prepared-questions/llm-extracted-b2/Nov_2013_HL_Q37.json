@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2013_HL_Q37",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2013,
+    "month": "Nov",
+    "session_label": "Nov 2013",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2013 HL Q37 A.png"
+  },
+  "question_number": 37,
+  "content_markdown": "Which option is **not** a possible solution to reduce the enhanced greenhouse effect?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Decommission nuclear power plants"
+    },
+    {
+      "label": "B",
+      "text": "Replace the use of coal and oil with natural gas"
+    },
+    {
+      "label": "C",
+      "text": "Use combined heating and power (CHP) systems"
+    },
+    {
+      "label": "D",
+      "text": "Use hybrid motor vehicles"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Nuclear power plants do not emit greenhouse gases during operation. Decommissioning them would likely lead to an increase in fossil fuel usage to meet energy demands, thereby increasing the enhanced greenhouse effect rather than reducing it. Options B, C, and D all represent methods to improve efficiency or switch to lower-carbon alternatives.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2013 HL Q37 A.png"
+}

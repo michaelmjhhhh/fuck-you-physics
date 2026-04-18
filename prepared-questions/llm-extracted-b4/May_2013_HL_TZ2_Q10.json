@@ -1,0 +1,49 @@
+{
+  "id": "May_2013_HL_TZ2_Q10",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic processes",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ2 Q10 B.png"
+  },
+  "question_number": 10,
+  "content_markdown": "The graph shows the variation of pressure $P$ with volume $V$ for a gas undergoing an adiabatic expansion.\n\nWhich of the following areas correctly identifies the work done by the gas?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A P-V diagram showing an adiabatic expansion curve. The area under the curve is divided into two regions: a shaded upper region labeled X and a dotted lower rectangular region labeled Z extending to the V-axis.",
+    "labels_to_preserve": [
+      "P",
+      "V",
+      "0",
+      "X",
+      "Z"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "X"
+    },
+    {
+      "label": "B",
+      "text": "X + Z"
+    },
+    {
+      "label": "C",
+      "text": "X - Z"
+    },
+    {
+      "label": "D",
+      "text": "Z"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In a pressure-volume (P-V) diagram, the work done by a gas during an expansion is represented by the total area under the curve between the initial and final volumes. This area is the integral $\\int P dV$. In the provided diagram, the total area under the adiabatic curve consists of both the shaded region X and the dotted region Z, so the total work done is X + Z.",
+  "source_image_path": "B4-Thermodynamics/May 2013 HL TZ2 Q10 B.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2001_HL_Q25",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic processes",
+  "paper": {
+    "year": 2001,
+    "month": "May",
+    "session_label": "May 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2001 HL Q25 A.png"
+  },
+  "question_number": 25,
+  "content_markdown": "The energy absorbed by an ideal gas during an isothermal expansion is equal to",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the work done by the gas."
+    },
+    {
+      "label": "B",
+      "text": "the work done on the gas."
+    },
+    {
+      "label": "C",
+      "text": "the change in the internal energy of the gas."
+    },
+    {
+      "label": "D",
+      "text": "zero."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In an isothermal process for an ideal gas, the temperature remains constant, which means the internal energy change $\\Delta U$ is zero. According to the first law of thermodynamics, $Q = \\Delta U + W$. Since $\\Delta U = 0$, the heat absorbed $Q$ must be exactly equal to the work done by the gas $W$.",
+  "source_image_path": "B4-Thermodynamics/May 2001 HL Q25 A.png"
+}

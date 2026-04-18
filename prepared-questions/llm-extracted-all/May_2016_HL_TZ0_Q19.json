@@ -1,0 +1,43 @@
+{
+  "id": "May_2016_HL_TZ0_Q19",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2016,
+    "month": "May",
+    "session_label": "May 2016",
+    "level": "HL",
+    "timezone": "TZ0",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2016 HL TZ0 Q19 B.png"
+  },
+  "question_number": 19,
+  "content_markdown": "What is the correct order of energy transformations in a coal power station?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "thermal $\\rightarrow$ chemical $\\rightarrow$ kinetic $\\rightarrow$ electrical"
+    },
+    {
+      "label": "B",
+      "text": "chemical $\\rightarrow$ thermal $\\rightarrow$ kinetic $\\rightarrow$ electrical"
+    },
+    {
+      "label": "C",
+      "text": "chemical $\\rightarrow$ kinetic $\\rightarrow$ thermal $\\rightarrow$ electrical"
+    },
+    {
+      "label": "D",
+      "text": "kinetic $\\rightarrow$ chemical $\\rightarrow$ electrical $\\rightarrow$ thermal"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In a coal power station, the process begins with the chemical energy stored in coal. This coal is burned to produce thermal energy (heat), which is used to turn water into steam. The moving steam possesses kinetic energy, which turns a turbine. Finally, the rotating turbine drives a generator to produce electrical energy.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2016 HL TZ0 Q19 B.png"
+}

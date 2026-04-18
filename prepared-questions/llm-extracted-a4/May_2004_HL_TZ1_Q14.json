@@ -1,0 +1,43 @@
+{
+  "id": "May_2004_HL_TZ1_Q14",
+  "topic": "Rigid Body Mechanics",
+  "topic_code": "A4",
+  "sub_topic": "Rigid Body Mechanics",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ1 Q14 B.png"
+  },
+  "question_number": 14,
+  "content_markdown": "For a body to be in both translational and rotational equilibrium",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "it must not be in contact with any other objects."
+    },
+    {
+      "label": "B",
+      "text": "the net torque and the net force acting on it must be zero."
+    },
+    {
+      "label": "C",
+      "text": "the net torque acting on it must be zero."
+    },
+    {
+      "label": "D",
+      "text": "the net force acting on it must be zero."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Translational equilibrium requires the vector sum of all external forces to be zero ($\\sum \\vec{F} = 0$), ensuring no linear acceleration. Rotational equilibrium requires the vector sum of all external torques to be zero ($\\sum \\vec{\\tau} = 0$), ensuring no angular acceleration. For a body to be in both, both conditions must be satisfied simultaneously.",
+  "source_image_path": "A4-Rigid-Body-Mechanics/May 2004 HL TZ1 Q14 B.png"
+}

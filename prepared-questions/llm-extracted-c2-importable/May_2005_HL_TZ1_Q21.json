@@ -1,0 +1,53 @@
+{
+  "id": "May_2005_HL_TZ1_Q21",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave properties",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ1 Q21 C.png"
+  },
+  "question_number": 21,
+  "content_markdown": "Graph P shows how the displacement at one point in a wave varies with time.\n\nGraph Q shows how the displacement in the same wave varies with distance along the wave at one particular time.\n\nGraph P\n\nGraph Q\n\nWhich **one** of the following expressions gives the speed of the wave?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two sinusoidal graphs. Graph P is displacement vs time showing points t1 and t2 on the time axis. Graph Q is displacement vs distance showing points x1, x2, and x3 on the distance axis.",
+    "labels_to_preserve": [
+      "displacement",
+      "time",
+      "distance",
+      "t_1",
+      "t_2",
+      "x_1",
+      "x_2",
+      "x_3",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{x_1}{t_1}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{x_2}{t_2}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{(x_2 - x_1)}{(t_2 - t_1)}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{(x_3 - x_1)}{(t_2 - t_1)}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Wave speed is defined as $v = f\\lambda = \\frac{\\lambda}{T}$. From Graph P, the time interval between two consecutive points in the same phase (like two zero-crossings in the same direction) represents the period $T$. Here, $t_2 - t_1$ represents half a period ($T/2$). From Graph Q, the distance between two consecutive points in the same phase represents the wavelength $\\lambda$. Here, $x_3 - x_1$ represents one full wavelength $\\lambda$. Therefore, the speed $v = \\frac{\\lambda}{T} = \\frac{x_3 - x_1}{2(t_2 - t_1)}$ is not directly an option, but we must look at the ratios. $x_2 - x_1$ is $\\lambda/2$ and $t_2 - t_1$ is $T/2$. Thus, $v = \\frac{\\lambda/2}{T/2} = \\frac{x_2 - x_1}{t_2 - t_1}$.",
+  "source_image_path": "C2-Wave-Model/May 2005 HL TZ1 Q21 C.png"
+}

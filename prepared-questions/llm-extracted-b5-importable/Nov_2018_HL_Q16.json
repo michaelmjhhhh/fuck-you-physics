@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2018_HL_Q16",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric circuits",
+  "paper": {
+    "year": 2018,
+    "month": "Nov",
+    "session_label": "Nov 2018",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2018 HL Q16 B.png"
+  },
+  "question_number": 16,
+  "content_markdown": "A wire of length $L$ is used in an electric heater. When the potential difference across the wire is $200\\text{ V}$, the power dissipated in the wire is $1000\\text{ W}$. The same potential difference is applied across a second similar wire of length $2L$. What is the power dissipated in the second wire?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "250 W"
+    },
+    {
+      "label": "B",
+      "text": "500 W"
+    },
+    {
+      "label": "C",
+      "text": "2000 W"
+    },
+    {
+      "label": "D",
+      "text": "4000 W"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Resistance $R$ is proportional to length $L$ ($R = \\rho \\frac{L}{A}$). Doubling the length doubles the resistance. Since power $P = \\frac{V^2}{R}$ and the potential difference $V$ remains constant, doubling the resistance results in the power being halved ($1000\\text{ W} / 2 = 500\\text{ W}$).",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2018 HL Q16 B.png"
+}

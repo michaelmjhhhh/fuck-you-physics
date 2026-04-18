@@ -1,0 +1,43 @@
+{
+  "id": "May_2019_HL_TZ1_Q26",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ1 Q26 C.png"
+  },
+  "question_number": 26,
+  "content_markdown": "A beaker containing $1\\text{ kg}$ of water at room temperature is heated on a $400\\text{ W}$ hot plate. The specific heat capacity of water is $4200\\text{ J kg}^{-1}\\text{ K}^{-1}$.\n\nThe temperature of the water increases until it reaches a constant value. It is then removed from the hot plate.\n\nWhat will be the initial rate of change of temperature?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$10\\text{ K s}^{-1}$"
+    },
+    {
+      "label": "B",
+      "text": "$1\\text{ K s}^{-1}$"
+    },
+    {
+      "label": "C",
+      "text": "$0.1\\text{ K s}^{-1}$"
+    },
+    {
+      "label": "D",
+      "text": "$0.01\\text{ K s}^{-1}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "When the water reaches a constant temperature, the rate of energy gain from the hot plate equals the rate of energy loss to the surroundings. At the moment it is removed, the heating power ($400\\text{ W}$) stops, but the cooling rate remains the same as it was at the steady state. Using $P = mc\\frac{\\Delta T}{\\Delta t}$, we have $400 = 1 \\times 4200 \\times \\frac{\\Delta T}{\\Delta t}$. Solving for the rate gives $\\frac{400}{4200} \\approx 0.095\\text{ K s}^{-1}$, which rounds to $0.1\\text{ K s}^{-1}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2019 HL TZ1 Q26 C.png"
+}

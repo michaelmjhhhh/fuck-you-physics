@@ -1,0 +1,47 @@
+{
+  "id": "May_2013_HL_TZ1_Q18",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric circuits",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ1 Q18 D.png"
+  },
+  "question_number": 18,
+  "content_markdown": "Which of the following graphs shows the relationship between current $I$ and voltage $V$ for a filament lamp?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs labeled A, B, C, and D showing current I on the y-axis and voltage V on the x-axis. Graph A is a horizontal line. Graph B is a straight line through the origin. Graph C is a curve with increasing gradient. Graph D is a curve with decreasing gradient.",
+    "labels_to_preserve": [
+      "I",
+      "V",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "As the voltage across a filament lamp increases, the current increases, which causes the temperature of the filament to rise. This increase in temperature leads to an increase in resistance ($R = V/I$). On an $I-V$ graph, the resistance is the reciprocal of the gradient ($1/R$). Therefore, as resistance increases, the gradient of the $I-V$ curve must decrease, resulting in the characteristic curve shown in graph D.",
+  "source_image_path": "B5-Current-and-Circuits/May 2013 HL TZ1 Q18 D.png"
+}

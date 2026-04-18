@@ -1,0 +1,50 @@
+{
+  "id": "Nov_2008_HL_Q19",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic cycles",
+  "paper": {
+    "year": 2008,
+    "month": "Nov",
+    "session_label": "Nov 2008",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2008 HL Q19 B.png"
+  },
+  "question_number": 19,
+  "content_markdown": "The diagram below shows the relation between the pressure and the volume of the gas in an engine for one cycle of operation of the engine.\n\nWork is done by the gas in the engine during",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A pressure-volume (P-V) graph showing a four-stage cycle: Q to R (isobaric expansion), R to S (expansion), S to T (isochoric cooling/pressure drop), and T back to Q (compression).",
+    "labels_to_preserve": [
+      "pressure",
+      "volume",
+      "Q",
+      "R",
+      "S",
+      "T"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$Q \\rightarrow R$ only."
+    },
+    {
+      "label": "B",
+      "text": "$Q \\rightarrow R$ and $R \\rightarrow S$."
+    },
+    {
+      "label": "C",
+      "text": "$S \\rightarrow T$ only."
+    },
+    {
+      "label": "D",
+      "text": "$S \\rightarrow T$ and $Q \\rightarrow R$."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Work is done by a gas when it expands, which corresponds to an increase in volume ($ΔV \u003e 0$). Looking at the P-V diagram, the volume increases during the processes $Q \\rightarrow R$ and $R \\rightarrow S$. During $S \\rightarrow T$, the volume is constant (no work), and during $T \\rightarrow Q$, the volume decreases (work is done on the gas).",
+  "source_image_path": "B4-Thermodynamics/Nov 2008 HL Q19 B.png"
+}

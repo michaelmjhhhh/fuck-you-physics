@@ -1,0 +1,43 @@
+{
+  "id": "May_2022_HL_TZ1_Q17",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ1 Q17 A.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A standing wave is formed on a string. P and Q are adjacent antinodes on the wave. Three statements are made by a student:\n\nI. The distance between P and Q is half a wavelength.\nII. P and Q have a phase difference of $\\pi$ rad.\nIII. Energy is transferred between P and Q.\n\nWhich statements are correct?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "I and II only"
+    },
+    {
+      "label": "B",
+      "text": "I and III only"
+    },
+    {
+      "label": "C",
+      "text": "II and III only"
+    },
+    {
+      "label": "D",
+      "text": "I, II and III"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Statement I is correct because the distance between consecutive antinodes is $\\lambda/2$. Statement II is correct because adjacent antinodes are separated by a node; points on opposite sides of a node move in opposite directions, meaning they are $180^\\circ$ or $\\pi$ radians out of phase. Statement III is incorrect because standing waves do not transfer energy; energy is stored within the system.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2022 HL TZ1 Q17 A.png"
+}

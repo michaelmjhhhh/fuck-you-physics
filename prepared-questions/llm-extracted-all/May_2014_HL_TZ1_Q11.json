@@ -1,0 +1,43 @@
+{
+  "id": "May_2014_HL_TZ1_Q11",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ1 Q11 C.png"
+  },
+  "question_number": 11,
+  "content_markdown": "A block of iron of mass $10\\text{ kg}$ and temperature $10^{\\circ}\\text{C}$ is brought into contact with a block of iron of mass $20\\text{ kg}$ and temperature $70^{\\circ}\\text{C}$. No energy transfer takes place except between the two blocks. What will be the final temperature of both blocks?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$30^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "B",
+      "text": "$40^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "C",
+      "text": "$50^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "D",
+      "text": "$60^{\\circ}\\text{C}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Since both blocks are made of the same material (iron), their specific heat capacities $c$ are identical and cancel out in the energy balance equation $m_1 c (T_f - T_1) = m_2 c (T_2 - T_f)$. This simplifies to a weighted average of the temperatures: $T_f = \\frac{m_1 T_1 + m_2 T_2}{m_1 + m_2}$. Plugging in the values: $T_f = \\frac{(10 \\times 10) + (20 \\times 70)}{10 + 20} = \\frac{100 + 1400}{30} = \\frac{1500}{30} = 50^{\\circ}\\text{C}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2014 HL TZ1 Q11 C.png"
+}

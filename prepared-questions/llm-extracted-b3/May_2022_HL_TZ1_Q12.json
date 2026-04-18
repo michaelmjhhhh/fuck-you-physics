@@ -1,0 +1,61 @@
+{
+  "id": "May_2022_HL_TZ1_Q12",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ1 Q12 C.png"
+  },
+  "question_number": 12,
+  "content_markdown": "An ideal gas is maintained at a temperature of $100\\text{ K}$. The variation of the pressure $P$ and $\\frac{1}{\\text{volume}}$ of the gas is shown.\n\nWhat is the quantity of the gas?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A linear graph passing through the origin showing Pressure P in kPa on the y-axis and 1/volume in m^-3 on the x-axis. The line passes through the point (70, 560) approximately, or more clearly (50, 400).",
+    "labels_to_preserve": [
+      "P / kPa",
+      "1 / volume / m^{-3}",
+      "0",
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "10",
+      "20",
+      "30",
+      "40",
+      "50",
+      "60",
+      "70",
+      "80"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{2 \\times 10^5}{R} \\text{ mol}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{200}{R} \\text{ mol}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{80}{R} \\text{ mol}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{4}{5R} \\text{ mol}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Using the ideal gas law $PV = nRT$, we can rewrite it as $P = nRT \\left(\\frac{1}{V}\\right)$. This means the gradient of the $P$ vs $1/V$ graph is equal to $nRT$. From the graph, the gradient is $\\frac{400 \\text{ kPa}}{50 \\text{ m}^{-3}} = \\frac{400 \\times 10^3}{50} = 8000 \\text{ Pa m}^3$. Setting $nRT = 8000$ with $T = 100\\text{ K}$, we get $n \\cdot R \\cdot 100 = 8000$, which simplifies to $n = \\frac{80}{R}$.",
+  "source_image_path": "B3-Gas-Laws/May 2022 HL TZ1 Q12 C.png"
+}

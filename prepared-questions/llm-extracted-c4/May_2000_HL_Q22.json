@@ -1,0 +1,43 @@
+{
+  "id": "May_2000_HL_Q22",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2000,
+    "month": "May",
+    "session_label": "May 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2000 HL Q22 A.png"
+  },
+  "question_number": 22,
+  "content_markdown": "Two travelling waves, $y_1 = A \\sin(\\omega t - kx)$ and $y_2 = A \\sin(\\omega t + kx)$ are superposed on the same string. The distance between adjacent nodes of the resulting standing wave is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{\\pi}{k}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{vt}{2\\pi}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{\\pi}{2k}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{2\\pi}{k}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The distance between adjacent nodes in a standing wave is half a wavelength ($\\lambda/2$). Given the wave number $k = \\frac{2\\pi}{\\lambda}$, we can rearrange this to find $\\lambda = \\frac{2\\pi}{k}$. Therefore, the distance between adjacent nodes is $\\frac{1}{2} \\times \\frac{2\\pi}{k} = \\frac{\\pi}{k}$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2000 HL Q22 A.png"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "May_2009_HL_TZ2_Q37",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ2 Q37 B.png"
+  },
+  "question_number": 37,
+  "content_markdown": "Global warming reduces the ice and snow cover on Earth. Which of the following correctly describes the changes in albedo and rate of energy absorption by Earth?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A-D) with columns for 'Albedo' and 'Rate of energy absorption'.",
+    "labels_to_preserve": [
+      "Albedo",
+      "Rate of energy absorption"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Albedo: increase; Rate of energy absorption: increase"
+    },
+    {
+      "label": "B",
+      "text": "Albedo: decrease; Rate of energy absorption: increase"
+    },
+    {
+      "label": "C",
+      "text": "Albedo: increase; Rate of energy absorption: decrease"
+    },
+    {
+      "label": "D",
+      "text": "Albedo: decrease; Rate of energy absorption: decrease"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Ice and snow have high albedo because they reflect a large portion of incident sunlight. When they melt, they are often replaced by darker surfaces (like ocean water or soil) which have lower albedo. Since albedo is the ratio of reflected to incident power, a decrease in albedo means less energy is reflected and consequently more energy is absorbed by the Earth's surface.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2009 HL TZ2 Q37 B.png"
+}

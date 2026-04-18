@@ -1,0 +1,47 @@
+{
+  "id": "May_2015_HL_TZ1_Q11",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave properties",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ1 Q11 A.png"
+  },
+  "question_number": 11,
+  "content_markdown": "Which graph shows the variation with amplitude $A$ of the intensity $I$ for a wave?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs showing different relationships between intensity I (y-axis) and amplitude A (x-axis).",
+    "labels_to_preserve": [
+      "I",
+      "A",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A graph showing a parabolic curve starting from the origin where $I$ increases at an increasing rate with $A$."
+    },
+    {
+      "label": "B",
+      "text": "A graph showing a square root curve starting from the origin where $I$ increases at a decreasing rate with $A$."
+    },
+    {
+      "label": "C",
+      "text": "A graph showing a linear relationship starting from the origin where $I$ is directly proportional to $A$."
+    },
+    {
+      "label": "D",
+      "text": "A graph showing a linear relationship with a non-zero y-intercept."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In wave physics, the intensity $I$ of a wave is directly proportional to the square of its amplitude $A$ ($I \\propto A^2$). This mathematical relationship results in a parabolic curve that passes through the origin, which is correctly represented in graph A.",
+  "source_image_path": "C2-Wave-Model/May 2015 HL TZ1 Q11 A.png"
+}

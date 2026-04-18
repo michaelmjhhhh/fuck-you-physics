@@ -1,0 +1,43 @@
+{
+  "id": "May_2019_HL_TZ1_Q11",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ1 Q11 C.png"
+  },
+  "question_number": 11,
+  "content_markdown": "A particle performs simple harmonic motion (shm). What is the phase difference between the displacement and the acceleration of the particle?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{\\pi}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\pi$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{3\\pi}{2}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In simple harmonic motion, the defining equation is $a = -\\omega^2 x$. The negative sign indicates that the acceleration is always in the opposite direction to the displacement. In terms of wave phase, a complete reversal of direction corresponds to a phase shift of $180^\\circ$, which is $\\pi$ radians.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2019 HL TZ1 Q11 C.png"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2003_HL_Q18",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2003,
+    "month": "Nov",
+    "session_label": "Nov 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2003 HL Q18 A.png"
+  },
+  "question_number": 18,
+  "content_markdown": "A sample of an ideal gas is held in an insulated container and it undergoes an adiabatic change. The graph below shows the change in pressure $p$ with change in volume $V$ as the gas changes from X to Y.\n\nWhich of the following describes correctly the work done and the change in the internal energy of the gas?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A pressure-volume (p-V) graph showing a curve from point X to point Y. The volume decreases and the pressure increases. An arrow on the curve points from X to Y.",
+    "labels_to_preserve": [
+      "p",
+      "V",
+      "X",
+      "Y"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Work done: on the gas; Internal energy: increases"
+    },
+    {
+      "label": "B",
+      "text": "Work done: on the gas; Internal energy: decreases"
+    },
+    {
+      "label": "C",
+      "text": "Work done: by the gas; Internal energy: decreases"
+    },
+    {
+      "label": "D",
+      "text": "Work done: by the gas; Internal energy: increases"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In an adiabatic process, no heat is exchanged ($Q = 0$). According to the first law of thermodynamics, $\\Delta U = Q - W$. Since the gas is being compressed (volume decreases from X to Y), work is done on the gas ($W$ is negative). Therefore, $\\Delta U = 0 - (-W) = +W$, meaning the internal energy must increase.",
+  "source_image_path": "B4-Thermodynamics/Nov 2003 HL Q18 A.png"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2003_HL_Q15",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2003,
+    "month": "Nov",
+    "session_label": "Nov 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2003 HL Q15 C.png"
+  },
+  "question_number": 15,
+  "content_markdown": "Which two values of temperature are equivalent to the nearest degree when measured on the Kelvin and on the Celsius scales of temperature?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table with two columns labeled 'Kelvin scale' and 'Celsius scale' containing numerical values for four options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Kelvin scale",
+      "Celsius scale"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Kelvin: 40, Celsius: 313"
+    },
+    {
+      "label": "B",
+      "text": "Kelvin: 273, Celsius: 100"
+    },
+    {
+      "label": "C",
+      "text": "Kelvin: 313, Celsius: 40"
+    },
+    {
+      "label": "D",
+      "text": "Kelvin: 373, Celsius: 0"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The relationship between the Kelvin scale ($T$) and the Celsius scale ($t$) is given by $T = t + 273$. To find the equivalent pair, we check which option satisfies this equation. For option C, $40^\\circ\\text{C} + 273 = 313\\text{ K}$, which matches the values provided in the table.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2003 HL Q15 C.png"
+}

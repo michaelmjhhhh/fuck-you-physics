@@ -1,0 +1,3274 @@
+[
+  {
+    "id": "May_2000_HL_Q19",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2000,
+      "month": "May",
+      "session_label": "May 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2000 HL Q19 C.png"
+    },
+    "question_number": 19,
+    "content_markdown": "Radio waves of wavelength $30\\text{ cm}$ have a frequency of about",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "10 MHz."
+      },
+      {
+        "label": "B",
+        "text": "90 MHz."
+      },
+      {
+        "label": "C",
+        "text": "1000 MHz."
+      },
+      {
+        "label": "D",
+        "text": "9000 MHz."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Radio waves are electromagnetic waves and travel at the speed of light $c \\approx 3 \\times 10^8\\text{ m s}^{-1}$. Using the wave equation $c = f\\lambda$, we can solve for frequency: $f = \\frac{c}{\\lambda} = \\frac{3 \\times 10^8\\text{ m s}^{-1}}{0.30\\text{ m}} = 10 \\times 10^8\\text{ Hz} = 1000 \\times 10^6\\text{ Hz} = 1000\\text{ MHz}$.",
+    "source_image_path": "C2-Wave-Model/May 2000 HL Q19 C.png"
+  },
+  {
+    "id": "May_2000_HL_Q23",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave phenomena",
+    "paper": {
+      "year": 2000,
+      "month": "May",
+      "session_label": "May 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2000 HL Q23 D.png"
+    },
+    "question_number": 23,
+    "content_markdown": "The figure below shows two idealised pulses travelling to the right along a string towards a fixed boundary.\n\nAfter both have been reflected the string shape could appear as",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing two pulses on a string moving right towards a vertical fixed boundary. The first pulse is a small upward crest, and the second pulse is a larger downward trough. An arrow indicates the direction of travel.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "When a pulse reflects from a fixed boundary, it undergoes a phase change of 180 degrees (it is inverted). The pulse that hits the wall first (the small crest) will be reflected first and will be travelling back to the left as a small trough. The pulse that hits second (the large trough) will be reflected second and will be travelling back to the left as a large crest. Therefore, the reflected pattern moving left should have the small trough further from the wall and the large crest closer to the wall.",
+    "source_image_path": "C2-Wave-Model/May 2000 HL Q23 D.png"
+  },
+  {
+    "id": "May_2001_HL_Q14",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2001,
+      "month": "May",
+      "session_label": "May 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2001 HL Q14 C.png"
+    },
+    "question_number": 14,
+    "content_markdown": "A surfer is out beyond the breaking surf in a deep-water region where the ocean waves are sinusoidal in shape. The crests are $20\\text{ m}$ apart and the surfer rises a vertical distance of $4.0\\text{ m}$ from wave **trough** to **crest**, in a time of $2.0\\text{ s}$. What is the speed of the waves?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$1.0\\text{ ms}^{-1}$"
+      },
+      {
+        "label": "B",
+        "text": "$2.0\\text{ ms}^{-1}$"
+      },
+      {
+        "label": "C",
+        "text": "$5.0\\text{ ms}^{-1}$"
+      },
+      {
+        "label": "D",
+        "text": "$10.0\\text{ ms}^{-1}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "To find the wave speed $v$, we use the formula $v = f\\lambda$ or $v = \\frac{\\lambda}{T}$. The distance between crests is the wavelength, so $\\lambda = 20\\text{ m}$. The time taken to go from trough to crest is half a period ($T/2$), because a full cycle is trough-to-trough or crest-to-crest. Given $T/2 = 2.0\\text{ s}$, the full period $T = 4.0\\text{ s}$. Therefore, $v = \\frac{20\\text{ m}}{4.0\\text{ s}} = 5.0\\text{ ms}^{-1}$. Note that the vertical distance (amplitude information) is irrelevant for calculating wave speed.",
+    "source_image_path": "C2-Wave-Model/May 2001 HL Q14 C.png"
+  },
+  {
+    "id": "May_2001_HL_Q16",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Electromagnetic waves",
+    "paper": {
+      "year": 2001,
+      "month": "May",
+      "session_label": "May 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2001 HL Q16 C.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Which **one** of the following is **not** an electromagnetic wave?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "radio"
+      },
+      {
+        "label": "B",
+        "text": "microwaves"
+      },
+      {
+        "label": "C",
+        "text": "ultrasound"
+      },
+      {
+        "label": "D",
+        "text": "X-rays"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Electromagnetic waves consist of oscillating electric and magnetic fields and can travel through a vacuum. Radio waves, microwaves, and X-rays are all parts of the electromagnetic spectrum. Ultrasound, however, is a high-frequency mechanical longitudinal wave (sound) that requires a medium to propagate, making it the correct answer for what is NOT an electromagnetic wave.",
+    "source_image_path": "C2-Wave-Model/May 2001 HL Q16 C.png"
+  },
+  {
+    "id": "May_2001_HL_Q18",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2001,
+      "month": "May",
+      "session_label": "May 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2001 HL Q18 D.png"
+    },
+    "question_number": 18,
+    "content_markdown": "A pure tone is produced by a tuning fork. The diagram below represents the air particles nearby, at a given instant of time.\n\nThe wavelength of this pure tone is equal to the distance between which of the marked positions?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A longitudinal wave representation showing compressions and rarefactions of air particles. Points P and S are located at the centers of rarefactions (low density regions). Points Q and R are located at the centers of compressions (high density regions).",
+      "labels_to_preserve": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "P and Q"
+      },
+      {
+        "label": "B",
+        "text": "P and S"
+      },
+      {
+        "label": "C",
+        "text": "Q and S"
+      },
+      {
+        "label": "D",
+        "text": "Q and R"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Wavelength in a longitudinal wave is the distance between two consecutive points in phase. In this diagram, Q and R are consecutive compressions, while P and S are consecutive rarefactions. Therefore, the distance between P and S represents one full wavelength.",
+    "source_image_path": "C2-Wave-Model/May 2001 HL Q18 D.png"
+  },
+  {
+    "id": "May_2002_HL_Q20",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave interference",
+    "paper": {
+      "year": 2002,
+      "month": "May",
+      "session_label": "May 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2002 HL Q20 C.png"
+    },
+    "question_number": 20,
+    "content_markdown": "Two identical sources dipping in phase into water in a ripple tank generate the wave pattern shown below.\n\nAlong which of the labelled lines is the difference in path length from the two sources equal to **two** wavelengths?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A ripple tank interference pattern showing two point sources and several radial lines labelled A, B, C, and D. The central dashed line represents the zero-order maximum. Line A is the first nodal line, line B is the first-order maximum, line C is the second nodal line, and line D is the second-order maximum.",
+      "labels_to_preserve": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In an interference pattern from two in-phase sources, constructive interference (maxima) occurs when the path difference is an integer multiple of the wavelength ($n\\lambda$). The central line is $n=0$. The first line of constructive interference (maxima) to the side is $n=1$ (line B), and the second line of constructive interference is $n=2$ (line D). Lines A and C represent destructive interference (nodal lines) where the path difference is $(n + 1/2)\\lambda$.",
+    "source_image_path": "C2-Wave-Model/May 2002 HL Q20 C.png"
+  },
+  {
+    "id": "May_2002_HL_Q23",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Doppler Effect",
+    "paper": {
+      "year": 2002,
+      "month": "May",
+      "session_label": "May 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2002 HL Q23 C.png"
+    },
+    "question_number": 23,
+    "content_markdown": "A strong wind is blowing in the direction P to Q as shown, at less than the speed of sound.\n\nA whistle at Q emits sound of frequency $f$. Which of the following will be true for a listener at point P?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal arrow pointing from left to right labeled 'Wind'. Point P is on the left side of the arrow and point Q is on the right side.",
+      "labels_to_preserve": [
+        "P",
+        "Q",
+        "Wind"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "No sound will be heard."
+      },
+      {
+        "label": "B",
+        "text": "The sound heard will have frequency less than $f$."
+      },
+      {
+        "label": "C",
+        "text": "The sound heard will have frequency $f$."
+      },
+      {
+        "label": "D",
+        "text": "The sound heard will have frequency greater than $f$."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The Doppler effect depends on the relative motion between the source and the observer. In this scenario, both the source (Q) and the listener (P) are stationary relative to the ground. While the wind changes the speed of the sound waves relative to the ground (making them slower when traveling from Q to P), it does not change the rate at which wave fronts are emitted or received. Therefore, the frequency remains unchanged.",
+    "source_image_path": "C2-Wave-Model/May 2002 HL Q23 C.png"
+  },
+  {
+    "id": "May_2003_HL_Q16",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2003,
+      "month": "May",
+      "session_label": "May 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2003 HL Q16 B.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Water waves at the surface of a pond pass a floating log of length $L$. The log is at rest relative to the bank. The diagram shows wave crests at one instant.\n\nThe number of crests passing the log per unit time is $N$. The speed of the water waves relative to the log at rest is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a log of length L with vertical lines representing wave crests passing over it. There are 7 crest intervals spanning the length L of the log.",
+      "labels_to_preserve": [
+        "L"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{L}{7}(N-1)$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{L}{6}(N-1)$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{L}{7}(N)$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{L}{6}(N)$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "First, determine the wavelength $\\lambda$ from the diagram. The length $L$ of the log is divided into 7 equal intervals by the wave crests, so $\\lambda = L/7$. The problem states that $N$ crests pass a point per unit time, which is the definition of frequency $f = N$. Using the wave speed formula $v = f\\lambda$, we substitute the values to get $v = N \\times (L/7) = \\frac{L}{7}(N)$.",
+    "source_image_path": "C2-Wave-Model/May 2003 HL Q16 B.png"
+  },
+  {
+    "id": "May_2003_HL_Q17",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2003,
+      "month": "May",
+      "session_label": "May 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2003 HL Q17 D.png"
+    },
+    "question_number": 17,
+    "content_markdown": "Two identical triangular pulses of amplitude $X$ travel toward each other along a string. At the instant shown on the diagram, point M is midway between the two pulses.\n\nThe amplitude of the disturbance in the string as the pulses move through M is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal string with two triangular pulses. One pulse is inverted (downward) moving to the right, and the other is upright (upward) moving to the left. Both have amplitude X. Point M is marked on the equilibrium line exactly halfway between the two pulses.",
+      "labels_to_preserve": [
+        "X",
+        "M"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$2X$."
+      },
+      {
+        "label": "B",
+        "text": "$X$."
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{X}{2}$."
+      },
+      {
+        "label": "D",
+        "text": "0."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "This question tests the principle of superposition. One pulse has a displacement of $-X$ (downward) and the other has a displacement of $+X$ (upward). When these two identical but opposite pulses meet at point M, their displacements add algebraically: $+X + (-X) = 0$. This results in total destructive interference at that point.",
+    "source_image_path": "C2-Wave-Model/May 2003 HL Q17 D.png"
+  },
+  {
+    "id": "May_2004_HL_TZ2_Q21",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ2 Q21 D.png"
+    },
+    "question_number": 21,
+    "content_markdown": "On which **one** of the following graphs is the wavelength $\\lambda$ and the amplitude $a$ of a wave correctly represented?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs showing displacement versus distance along a wave. Each graph labels wavelength lambda and amplitude a differently.",
+      "labels_to_preserve": [
+        "Displacement",
+        "Distance along wave",
+        "\\lambda",
+        "a",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "To identify the correct graph, we must apply the definitions of wave properties: Wavelength ($\\lambda$) is the distance between two consecutive corresponding points on a wave (such as peak-to-peak or trough-to-trough). Amplitude ($a$) is the maximum displacement from the equilibrium position (the distance from the center line to a peak or a trough, not the total peak-to-trough height). Graph D correctly shows $\\lambda$ as the distance between two adjacent peaks and $a$ as the distance from the equilibrium axis to a trough.",
+    "source_image_path": "C2-Wave-Model/May 2004 HL TZ2 Q21 D.png"
+  },
+  {
+    "id": "May_2004_HL_TZ2_Q22",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ2 Q22 B.png"
+    },
+    "question_number": 22,
+    "content_markdown": "The diagram below shows two wave pulses moving towards one another.\n\nWhich **one** of the following diagrams shows the resultant pulse when the two pulses are superposed?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A rectangular pulse moving to the right and a right-angled triangular pulse moving to the left on a string. The triangular pulse has its vertical edge on the left side.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "According to the principle of superposition, the displacement of the medium at any point is the algebraic sum of the displacements of the individual pulses. When the rectangular pulse (constant height) and the triangular pulse (linearly increasing height from right to left) overlap perfectly, the resulting shape is the sum of their heights. Adding a constant value to a linear slope shifts the entire slope upwards, resulting in a trapezoidal shape with a vertical leading edge and a sloped trailing edge, as seen in option B.",
+    "source_image_path": "C2-Wave-Model/May 2004 HL TZ2 Q22 B.png"
+  },
+  {
+    "id": "May_2005_HL_TZ1_Q21",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ1 Q21 C.png"
+    },
+    "question_number": 21,
+    "content_markdown": "Graph P shows how the displacement at one point in a wave varies with time.\n\nGraph Q shows how the displacement in the same wave varies with distance along the wave at one particular time.\n\nGraph P\n\nGraph Q\n\nWhich **one** of the following expressions gives the speed of the wave?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two sinusoidal graphs. Graph P is displacement vs time showing points t1 and t2 on the time axis. Graph Q is displacement vs distance showing points x1, x2, and x3 on the distance axis.",
+      "labels_to_preserve": [
+        "displacement",
+        "time",
+        "distance",
+        "t_1",
+        "t_2",
+        "x_1",
+        "x_2",
+        "x_3",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{x_1}{t_1}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{x_2}{t_2}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{(x_2 - x_1)}{(t_2 - t_1)}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{(x_3 - x_1)}{(t_2 - t_1)}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Wave speed is defined as $v = f\\lambda = \\frac{\\lambda}{T}$. From Graph P, the time interval between two consecutive points in the same phase (like two zero-crossings in the same direction) represents the period $T$. Here, $t_2 - t_1$ represents half a period ($T/2$). From Graph Q, the distance between two consecutive points in the same phase represents the wavelength $\\lambda$. Here, $x_3 - x_1$ represents one full wavelength $\\lambda$. Therefore, the speed $v = \\frac{\\lambda}{T} = \\frac{x_3 - x_1}{2(t_2 - t_1)}$ is not directly an option, but we must look at the ratios. $x_2 - x_1$ is $\\lambda/2$ and $t_2 - t_1$ is $T/2$. Thus, $v = \\frac{\\lambda/2}{T/2} = \\frac{x_2 - x_1}{t_2 - t_1}$.",
+    "source_image_path": "C2-Wave-Model/May 2005 HL TZ1 Q21 C.png"
+  },
+  {
+    "id": "May_2005_HL_TZ1_Q22",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Superposition",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ1 Q22 B.png"
+    },
+    "question_number": 22,
+    "content_markdown": "The two graphs show the variation with time of the individual displacements of two waves as they pass through the same point.\n\nThe displacement of the resultant wave at the point at time $T$ is equal to",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two displacement-time graphs. The first graph shows a wave with amplitude $A_1$; at time $T$, the displacement is $x_1$. The second graph shows a wave with amplitude $A_2$; at time $T$, the displacement is $-x_2$.",
+      "labels_to_preserve": [
+        "displacement",
+        "time",
+        "A_1",
+        "-A_1",
+        "x_1",
+        "T",
+        "A_2",
+        "-A_2",
+        "-x_2"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$x_1 + x_2$"
+      },
+      {
+        "label": "B",
+        "text": "$x_1 - x_2$"
+      },
+      {
+        "label": "C",
+        "text": "$A_1 + A_2$"
+      },
+      {
+        "label": "D",
+        "text": "$A_1 - A_2$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "According to the principle of superposition, the resultant displacement at any point is the algebraic sum of the individual displacements. At time $T$, the first wave has a displacement of $+x_1$ and the second wave has a displacement of $-x_2$. Summing these gives $x_1 + (-x_2) = x_1 - x_2$.",
+    "source_image_path": "C2-Wave-Model/May 2005 HL TZ1 Q22 B.png"
+  },
+  {
+    "id": "May_2005_HL_TZ1_Q25",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave interference",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ1 Q25 A.png"
+    },
+    "question_number": 25,
+    "content_markdown": "The waves from two light sources meet at a point. Which condition is essential for interference to be observed?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Constant phase difference between the waves"
+      },
+      {
+        "label": "B",
+        "text": "Equal amplitude of the waves"
+      },
+      {
+        "label": "C",
+        "text": "Equal frequency of the waves"
+      },
+      {
+        "label": "D",
+        "text": "Equal intensities of the waves"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "For a stable interference pattern to be observed (coherence), the phase difference between the sources must remain constant over time. While equal frequency is a prerequisite for a constant phase difference, the most fundamental 'essential' condition for observable interference in this context is coherence, which is defined by a constant phase relationship.",
+    "source_image_path": "C2-Wave-Model/May 2005 HL TZ1 Q25 A.png"
+  },
+  {
+    "id": "May_2005_HL_TZ2_Q21",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Superposition and interference",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ2 Q21 B.png"
+    },
+    "question_number": 21,
+    "content_markdown": "The diagram below shows two pulses on a string travelling toward each other.\n\nWhich of the following diagrams best shows the shape of the string after the pulses have passed through each other?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal string with two pulses: a positive (upward) pulse moving to the right and a negative (downward) pulse moving to the left.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A straight horizontal line with no pulses."
+      },
+      {
+        "label": "B",
+        "text": "A string with a negative pulse on the left moving left and a positive pulse on the right moving right."
+      },
+      {
+        "label": "C",
+        "text": "A string with a positive pulse on the left and a negative pulse on the right."
+      },
+      {
+        "label": "D",
+        "text": "A string with two wide, shallow pulses."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "According to the principle of superposition, wave pulses pass through each other unchanged in shape and speed. The positive pulse moving right will continue moving right after the encounter, and the negative pulse moving left will continue moving left. Therefore, after they pass, the negative pulse will be on the left side and the positive pulse will be on the right side.",
+    "source_image_path": "C2-Wave-Model/May 2005 HL TZ2 Q21 B.png"
+  },
+  {
+    "id": "May_2005_HL_TZ2_Q22",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ2 Q22 B.png"
+    },
+    "question_number": 22,
+    "content_markdown": "The **necessary** condition for two sources of waves to be coherent is that they vibrate",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "in phase."
+      },
+      {
+        "label": "B",
+        "text": "with a constant phase difference."
+      },
+      {
+        "label": "C",
+        "text": "with the same amplitude."
+      },
+      {
+        "label": "D",
+        "text": "with the same frequency."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Coherence is defined by a constant phase relationship over time. While having the same frequency is a prerequisite for maintaining a constant phase difference, the most fundamental definition of coherence in the context of wave interference is the existence of a constant phase difference.",
+    "source_image_path": "C2-Wave-Model/May 2005 HL TZ2 Q22 B.png"
+  },
+  {
+    "id": "May_2005_HL_TZ2_Q37",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ2 Q37 D.png"
+    },
+    "question_number": 37,
+    "content_markdown": "Which of the following graphs best shows how photon energy $E$ varies with the wavelength $\\lambda$ of the light?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs showing the relationship between photon energy E on the y-axis and wavelength lambda on the x-axis. Graph A is a linear increase, Graph B is an exponential/upward curve, Graph C is a linear decrease, and Graph D is a hyperbolic decrease.",
+      "labels_to_preserve": [
+        "E",
+        "\\lambda",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The energy of a photon is given by the equation $E = \\frac{hc}{\\lambda}$. This represents an inverse relationship where $E \\propto \\frac{1}{\\lambda}$. Mathematically, this produces a rectangular hyperbola graph where the energy decreases as the wavelength increases, approaching the axes asymptotically. Graph D correctly illustrates this non-linear inverse relationship.",
+    "source_image_path": "C2-Wave-Model/May 2005 HL TZ2 Q37 D.png"
+  },
+  {
+    "id": "May_2006_HL_TZ1_Q20",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2006,
+      "month": "May",
+      "session_label": "May 2006",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2006 HL TZ1 Q20 D.png"
+    },
+    "question_number": 20,
+    "content_markdown": "A source produces water waves of frequency $10\\text{ Hz}$. The graph shows the variation with horizontal position of the vertical displacement of the surface of water at one instant in time.\n\nThe speed of the water waves is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A displacement-position graph showing a sinusoidal wave. The vertical axis is 'vertical displacement / cm' with peaks at 0.4 and troughs at -0.4. The horizontal axis is 'horizontal position / cm' with markings at 0, 1.0, 2.0, 3.0, and 4.0. One full wave cycle is completed between 0 and 2.0 cm.",
+      "labels_to_preserve": [
+        "vertical displacement / cm",
+        "horizontal position / cm",
+        "0.4",
+        "-0.4",
+        "0",
+        "1.0",
+        "2.0",
+        "3.0",
+        "4.0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0.20\\text{ cm s}^{-1}$"
+      },
+      {
+        "label": "B",
+        "text": "$4.0\\text{ cm s}^{-1}$"
+      },
+      {
+        "label": "C",
+        "text": "$10\\text{ cm s}^{-1}$"
+      },
+      {
+        "label": "D",
+        "text": "$20\\text{ cm s}^{-1}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "To find the wave speed, use the wave equation $v = f\\lambda$. From the graph, we can see that one full wavelength $\\lambda$ corresponds to the distance between $0$ and $2.0\\text{ cm}$, so $\\lambda = 2.0\\text{ cm}$. Given the frequency $f = 10\\text{ Hz}$, the speed is $v = 10\\text{ Hz} \\times 2.0\\text{ cm} = 20\\text{ cm s}^{-1}$.",
+    "source_image_path": "C2-Wave-Model/May 2006 HL TZ1 Q20 D.png"
+  },
+  {
+    "id": "May_2006_HL_TZ2_Q21",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "C.2 Wave model",
+    "paper": {
+      "year": 2006,
+      "month": "May",
+      "session_label": "May 2006",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2006 HL TZ2 Q21 D.png"
+    },
+    "question_number": 21,
+    "content_markdown": "The diagram below shows a transverse wave on a string. The wave is moving from right to left.\n\nIn the position shown, point X has zero displacement and point Y is at a position of maximum displacement. Which **one** of the following gives the subsequent direction of motion of point X and of point Y?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A transverse wave moving to the left. Point X is at the equilibrium position (zero displacement) on a downward slope. Point Y is at a trough (maximum negative displacement). A coordinate system shows upwards, downwards, left, and right.",
+      "labels_to_preserve": [
+        "X",
+        "Y",
+        "direction of wave",
+        "upwards",
+        "downwards",
+        "left",
+        "right"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Point X: left; Point Y: left"
+      },
+      {
+        "label": "B",
+        "text": "Point X: upwards; Point Y: upwards"
+      },
+      {
+        "label": "C",
+        "text": "Point X: downwards; Point Y: left"
+      },
+      {
+        "label": "D",
+        "text": "Point X: downwards; Point Y: upwards"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In a transverse wave, particles move perpendicular to the direction of wave propagation (up and down, not left or right). To find the motion, shift the wave slightly to the left (the direction of travel). For point X, the crest to its right will move into its position, meaning X must move downwards to meet the incoming trough. For point Y, which is currently at a trough, the only possible subsequent motion is upwards back toward the equilibrium position.",
+    "source_image_path": "C2-Wave-Model/May 2006 HL TZ2 Q21 D.png"
+  },
+  {
+    "id": "May_2007_HL_TZ1_Q21",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2007,
+      "month": "May",
+      "session_label": "May 2007",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2007 HL TZ1 Q21 D.png"
+    },
+    "question_number": 21,
+    "content_markdown": "A wave is travelling through a medium. The diagram shows the variation with time $t$ of the displacement $d$ of a particle of the medium from $t = 0$ to $t = 25\\text{ ms}$.\n\nWhich of the following correctly gives the frequency and the amplitude of the wave?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A displacement-time graph showing a sinusoidal wave. The y-axis is displacement d in cm, ranging from -1.5 to 1.5. The x-axis is time t in ms, ranging from 0 to 25. The wave starts at d = 1.0 cm at t = 0, crosses zero at t = 5 ms, reaches a minimum at t = 10 ms, crosses zero at t = 15 ms, reaches a maximum at t = 20 ms, and crosses zero at t = 25 ms.",
+      "labels_to_preserve": [
+        "d/cm",
+        "t/ms",
+        "0",
+        "5",
+        "10",
+        "15",
+        "20",
+        "25",
+        "1.5",
+        "1",
+        "0.5",
+        "-0.5",
+        "-1",
+        "-1.5"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "frequency / Hz: $2.0 \\times 10^{-2}$, amplitude / cm: $2.0$"
+      },
+      {
+        "label": "B",
+        "text": "frequency / Hz: $2.0 \\times 10^{-2}$, amplitude / cm: $1.0$"
+      },
+      {
+        "label": "C",
+        "text": "frequency / Hz: $50$, amplitude / cm: $2.0$"
+      },
+      {
+        "label": "D",
+        "text": "frequency / Hz: $50$, amplitude / cm: $1.0$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "From the graph, the maximum displacement from the equilibrium position (amplitude) is $1.0\\text{ cm}$. The time for one complete cycle (period $T$) can be seen from peak to peak, which is from $t = 0$ to $t = 20\\text{ ms}$. Therefore, $T = 20\\text{ ms} = 20 \\times 10^{-3}\\text{ s}$. The frequency $f$ is the reciprocal of the period: $f = 1/T = 1 / (20 \\times 10^{-3}) = 1000 / 20 = 50\\text{ Hz}$.",
+    "source_image_path": "C2-Wave-Model/May 2007 HL TZ1 Q21 D.png"
+  },
+  {
+    "id": "May_2008_HL_TZ2_Q22",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Standing waves",
+    "paper": {
+      "year": 2008,
+      "month": "May",
+      "session_label": "May 2008",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2008 HL TZ2 22 D.png"
+    },
+    "question_number": 22,
+    "content_markdown": "A standing wave is established on a string between two fixed points.\n\nAt the instant shown, point T is moving downwards. Which arrow gives the direction of movement of point U at this instant?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A standing wave on a string with two fixed ends. Point T is in the first antinode (crest) with a downward arrow. Point U is in the third antinode (crest) with four arrows labeled A (left), B (up), C (right), and D (down).",
+      "labels_to_preserve": [
+        "T",
+        "U",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In a standing wave, all points within the same loop (between two adjacent nodes) move in phase, while points in adjacent loops move in antiphase. Point T is in the first loop and point U is in the third loop. Since there is an odd number of loops between them (or they are separated by two nodes), they are in phase. Therefore, if T is moving downwards, U must also be moving downwards (direction D).",
+    "source_image_path": "C2-Wave-Model/May 2008 HL TZ2 22 D.png"
+  },
+  {
+    "id": "May_2009_HL_TZ2_Q34",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ2 Q34 D.png"
+    },
+    "question_number": 34,
+    "content_markdown": "The power per unit length $P$ of an oscillating water column (OWC) is due to the action of a surface wave of amplitude $A$. Which of the following correctly relates $P$ and $A$, and correctly identifies the nature of the energy of the water column?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table with two columns: 'Relation between P and A' and 'Nature of energy'.",
+      "labels_to_preserve": [
+        "Relation between P and A",
+        "Nature of energy"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$P \\propto A$; kinetic"
+      },
+      {
+        "label": "B",
+        "text": "$P \\propto A$; kinetic and potential"
+      },
+      {
+        "label": "C",
+        "text": "$P \\propto A^2$; kinetic"
+      },
+      {
+        "label": "D",
+        "text": "$P \\propto A^2$; kinetic and potential"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In any simple harmonic motion or wave system, the energy (and thus the power) is proportional to the square of the amplitude ($P \\propto A^2$). Furthermore, mechanical waves like water waves involve both the movement of particles (kinetic energy) and the displacement against gravity or pressure (potential energy).",
+    "source_image_path": "C2-Wave-Model/May 2009 HL TZ2 Q34 D.png"
+  },
+  {
+    "id": "May_2010_HL_TZ1_Q17",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Electromagnetic waves",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ1 Q17 B.png"
+    },
+    "question_number": 17,
+    "content_markdown": "Which of the following is a value of wavelength that is found in the visible region of the electromagnetic spectrum?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$4 \\times 10^{-5} \\text{ m}$"
+      },
+      {
+        "label": "B",
+        "text": "$4 \\times 10^{-7} \\text{ m}$"
+      },
+      {
+        "label": "C",
+        "text": "$4 \\times 10^{-9} \\text{ m}$"
+      },
+      {
+        "label": "D",
+        "text": "$4 \\times 10^{-11} \\text{ m}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The visible spectrum of light ranges approximately from $400 \\text{ nm}$ to $700 \\text{ nm}$. Converting $400 \\text{ nm}$ to meters gives $400 \\times 10^{-9} \\text{ m}$, which is equivalent to $4 \\times 10^{-7} \\text{ m}$. Therefore, option B falls within the visible range, while the other options represent infrared (A), ultraviolet (C), or X-rays/Gamma rays (D).",
+    "source_image_path": "C2-Wave-Model/May 2010 HL TZ1 Q17 B.png"
+  },
+  {
+    "id": "May_2010_HL_TZ1_Q20",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "C.2 Wave Model - Single Slit Diffraction",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ1 Q20 A.png"
+    },
+    "question_number": 20,
+    "content_markdown": "A beam of coherent light is incident on a single slit of width $b$. After passing through the slit, the light is incident on a screen at a distance $D$ from the slit.\n\nWhich of the following changes, carried out separately, in respect of $b$ and $D$ will result in an increase in width of the first diffraction maximum formed on the screen?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing incident light rays hitting a single slit of width b, with a screen located at a distance D from the slit.",
+      "labels_to_preserve": [
+        "b",
+        "D",
+        "incident light",
+        "single slit",
+        "screen"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "b: decrease; D: increase"
+      },
+      {
+        "label": "B",
+        "text": "b: increase; D: increase"
+      },
+      {
+        "label": "C",
+        "text": "b: decrease; D: decrease"
+      },
+      {
+        "label": "D",
+        "text": "b: increase; D: decrease"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The angular width of the central maximum in single-slit diffraction is given by $\\theta \\approx \\frac{\\lambda}{b}$. The linear width on the screen is proportional to $D\\theta$, which is approximately $\\frac{D\\lambda}{b}$. Therefore, to increase the width, you must either increase the distance to the screen $D$ or decrease the slit width $b$.",
+    "source_image_path": "C2-Wave-Model/May 2010 HL TZ1 Q20 A.png"
+  },
+  {
+    "id": "May_2010_HL_TZ2_Q13",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Doppler effect",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ2 Q13 A.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A man standing by the shore observes sea waves approaching at a frequency of $0.20\\text{ Hz}$. A man on a boat observes that waves are approaching the boat at a frequency of $0.50\\text{ Hz}$. The speed of the waves is $2.0\\text{ m s}^{-1}$. Which of the following gives a possible value for the speed of the boat and its direction?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) with columns for Speed in m/s and Direction.",
+      "labels_to_preserve": [
+        "Speed / m s^{-1}",
+        "Direction"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Speed: 3.0; Direction: away from the shore"
+      },
+      {
+        "label": "B",
+        "text": "Speed: 3.0; Direction: towards the shore"
+      },
+      {
+        "label": "C",
+        "text": "Speed: 1.2; Direction: away from the shore"
+      },
+      {
+        "label": "D",
+        "text": "Speed: 1.2; Direction: towards the shore"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "First, find the wavelength using the shore observer: $\\lambda = v/f = 2.0 / 0.20 = 10\\text{ m}$. For the boat observer, the relative frequency is higher ($0.50\\text{ Hz}$), meaning the boat must be moving towards the source of the waves (away from the shore). The relative speed of the waves to the boat is $v_{rel} = f' \\lambda = 0.50 \\times 10 = 5.0\\text{ m s}^{-1}$. Since the waves move at $2.0\\text{ m s}^{-1}$ and the boat moves towards them, the boat's speed $v_b$ satisfies $v_{rel} = v_w + v_b$, so $5.0 = 2.0 + v_b$, giving $v_b = 3.0\\text{ m s}^{-1}$.",
+    "source_image_path": "C2-Wave-Model/May 2010 HL TZ2 Q13 A.png"
+  },
+  {
+    "id": "May_2011_HL_TZ1_Q11",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ1 Q11 C.png"
+    },
+    "question_number": 11,
+    "content_markdown": "A transverse wave travels from left to right. The graph below shows how, at a particular instant of time, the displacement of particles in the medium varies with position. Which arrow represents the direction of the velocity of the particle marked P?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A displacement-position graph for a transverse wave. A particle P is located on the equilibrium line where the wave is rising. Four arrows are drawn from P: A (up), B (right), C (down), and D (left).",
+      "labels_to_preserve": [
+        "displacement",
+        "position",
+        "P",
+        "A",
+        "B",
+        "C",
+        "D",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In a transverse wave moving to the right, you can determine the motion of a particle by shifting the entire wave profile slightly to the right. When the wave moves right, the section of the wave currently to the left of point P will soon arrive at P's position. Since the wave profile to the left of P is below the equilibrium line, particle P must move downwards (direction C) to reach the incoming trough.",
+    "source_image_path": "C2-Wave-Model/May 2011 HL TZ1 Q11 C.png"
+  },
+  {
+    "id": "May_2011_HL_TZ2_Q14",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ2 Q14 C.png"
+    },
+    "question_number": 14,
+    "content_markdown": "Two waves meet at a point. The waves have a path difference of $\\frac{\\lambda}{4}$. The phase difference between the waves is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{\\pi}{8}$ rad."
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{\\pi}{4}$ rad."
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{\\pi}{2}$ rad."
+      },
+      {
+        "label": "D",
+        "text": "$\\pi$ rad."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The relationship between phase difference ($\\phi$) and path difference ($\\Delta x$) is given by the formula $\\phi = \\frac{2\\pi}{\\lambda} \\Delta x$. Substituting the given path difference $\\Delta x = \\frac{\\lambda}{4}$ into the formula gives $\\phi = \\frac{2\\pi}{\\lambda} \\cdot \\frac{\\lambda}{4} = \\frac{2\\pi}{4} = \\frac{\\pi}{2}$ radians.",
+    "source_image_path": "C2-Wave-Model/May 2011 HL TZ2 Q14 C.png"
+  },
+  {
+    "id": "May_2012_HL_TZ2_Q15",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave phenomena",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ2 Q15 D.png"
+    },
+    "question_number": 15,
+    "content_markdown": "A wave pulse is travelling along a dense thick rope which is connected to a less dense thin rope.\n\n![diagram]\n\nWhich of the following is correct regarding the reflected and transmitted wave pulses after the wave pulse reaches the connection of the two ropes?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a wave pulse on a thick black line (dense rope) moving towards a thin black line (less dense rope). An arrow above the pulse indicates the direction of travel to the right.",
+      "labels_to_preserve": [
+        "direction of travel"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Reflected pulse: inverted; Transmitted pulse: inverted"
+      },
+      {
+        "label": "B",
+        "text": "Reflected pulse: not inverted; Transmitted pulse: inverted"
+      },
+      {
+        "label": "C",
+        "text": "Reflected pulse: inverted; Transmitted pulse: not inverted"
+      },
+      {
+        "label": "D",
+        "text": "Reflected pulse: not inverted; Transmitted pulse: not inverted"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "When a wave travels from a more dense medium to a less dense medium (a 'free' or 'soft' boundary), the reflected pulse is not inverted. Transmitted pulses are never inverted regardless of the change in medium density.",
+    "source_image_path": "C2-Wave-Model/May 2012 HL TZ2 Q15 D.png"
+  },
+  {
+    "id": "May_2012_HL_TZ2_Q16",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "C.2 Wave Model",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ2 Q16 A.png"
+    },
+    "question_number": 16,
+    "content_markdown": "The diagrams show the variation with time $t$ of the displacement $y$ of a particle of a medium through which a wave travels. Which diagram correctly shows the period $T$ and amplitude $A$ of the wave?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs (A, B, C, D) showing displacement y vs time t for a sinusoidal wave. Each graph labels a horizontal distance as T and a vertical distance as A.",
+      "labels_to_preserve": [
+        "y",
+        "t",
+        "0",
+        "A",
+        "T"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Amplitude $A$ is defined as the maximum displacement from the equilibrium position (the distance from the center line to a peak or trough). Period $T$ is the time taken for one complete oscillation (the horizontal distance between two consecutive corresponding points on the wave). In diagram A, $A$ correctly shows the distance from equilibrium to a trough, and $T$ correctly shows the time for one full cycle.",
+    "source_image_path": "C2-Wave-Model/May 2012 HL TZ2 Q16 A.png"
+  },
+  {
+    "id": "May_2013_HL_TZ1_Q10",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Simple harmonic motion",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ1 Q10 B.png"
+    },
+    "question_number": 10,
+    "content_markdown": "Microwave ovens cause the water molecules in food to resonate. Water molecules have a natural frequency of vibration $f$. In order to heat the food most effectively, the frequency of the microwaves should have a value",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "less than $f$."
+      },
+      {
+        "label": "B",
+        "text": "equal to $f$."
+      },
+      {
+        "label": "C",
+        "text": "greater than $f$."
+      },
+      {
+        "label": "D",
+        "text": "as large as possible."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Resonance occurs when the frequency of a periodic driving force (the microwaves) matches the natural frequency of the system (the water molecules). At this frequency, the amplitude of vibration is maximized, leading to the most efficient transfer of energy and thus the most effective heating.",
+    "source_image_path": "C2-Wave-Model/May 2013 HL TZ1 Q10 B.png"
+  },
+  {
+    "id": "May_2013_HL_TZ1_Q11",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ1 Q11 B.png"
+    },
+    "question_number": 11,
+    "content_markdown": "Gas particles are equally spaced along a straight line. A sound wave passes through the gas. The positions of the gas particles at one instant are shown below.\n\nWhich of the distances shown is equal to the wavelength of the wave?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a series of dots representing gas particles along a horizontal line. Some areas have particles bunched together (compressions) and others have them spread apart (rarefactions). Four horizontal distances are labeled A, B, C, and D using arrows between vertical dashed lines.",
+      "labels_to_preserve": [
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In a longitudinal wave like sound, the wavelength is the distance between two consecutive points in phase. This is most easily measured as the distance from the center of one compression to the center of the next compression, or from the center of one rarefaction to the center of the next rarefaction. In the diagram, distance A spans from the center of one compression to the center of the next compression, representing one full wavelength.",
+    "source_image_path": "C2-Wave-Model/May 2013 HL TZ1 Q11 B.png"
+  },
+  {
+    "id": "May_2014_HL_TZ1_Q14",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ1 Q14 C.png"
+    },
+    "question_number": 14,
+    "content_markdown": "A wave of period $5.0\\text{ ms}$ travels through a medium. The graph shows the variation with distance $d$ of the displacement $x$ of points in the medium.\n\nWhat is the average speed of a point in the medium during one full oscillation?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A displacement-distance graph showing a sinusoidal wave. The vertical axis is displacement x in cm, ranging from -2 to 2. The horizontal axis is distance d in m, ranging from 0 to 4. The wave has a peak at d=0, a trough at d=1, a peak at d=2, a trough at d=3, and a peak at d=4.",
+      "labels_to_preserve": [
+        "x / cm",
+        "d / m",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "-1",
+        "-2"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0\\text{ m s}^{-1}$"
+      },
+      {
+        "label": "B",
+        "text": "$4.0\\text{ m s}^{-1}$"
+      },
+      {
+        "label": "C",
+        "text": "$16\\text{ m s}^{-1}$"
+      },
+      {
+        "label": "D",
+        "text": "$400\\text{ m s}^{-1}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "To find the average speed of a point in the medium, we look at the total distance traveled by a single particle in one period. From the graph, the amplitude $A$ is $2\\text{ cm}$ ($0.02\\text{ m}$). In one full oscillation, a particle moves from equilibrium to max positive displacement, back to equilibrium, to max negative displacement, and back to equilibrium\u2014a total distance of $4A = 4 \\times 2\\text{ cm} = 8\\text{ cm} = 0.08\\text{ m}$. The time taken for one oscillation is the period $T = 5.0\\text{ ms} = 0.005\\text{ s}$. Average speed is $\\text{distance} / \\text{time} = 0.08\\text{ m} / 0.005\\text{ s} = 16\\text{ m s}^{-1}$.",
+    "source_image_path": "C2-Wave-Model/May 2014 HL TZ1 Q14 C.png"
+  },
+  {
+    "id": "May_2015_HL_TZ1_Q11",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ1 Q11 A.png"
+    },
+    "question_number": 11,
+    "content_markdown": "Which graph shows the variation with amplitude $A$ of the intensity $I$ for a wave?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs showing different relationships between intensity I (y-axis) and amplitude A (x-axis).",
+      "labels_to_preserve": [
+        "I",
+        "A",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A graph showing a parabolic curve starting from the origin where $I$ increases at an increasing rate with $A$."
+      },
+      {
+        "label": "B",
+        "text": "A graph showing a square root curve starting from the origin where $I$ increases at a decreasing rate with $A$."
+      },
+      {
+        "label": "C",
+        "text": "A graph showing a linear relationship starting from the origin where $I$ is directly proportional to $A$."
+      },
+      {
+        "label": "D",
+        "text": "A graph showing a linear relationship with a non-zero y-intercept."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In wave physics, the intensity $I$ of a wave is directly proportional to the square of its amplitude $A$ ($I \\propto A^2$). This mathematical relationship results in a parabolic curve that passes through the origin, which is correctly represented in graph A.",
+    "source_image_path": "C2-Wave-Model/May 2015 HL TZ1 Q11 A.png"
+  },
+  {
+    "id": "May_2015_HL_TZ2_Q12",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ2 Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A wave pulse is sent along a light string which is attached to a heavy rope as shown. The diagrams are not to scale.\n\nWhich diagram shows the shape of the string and the rope after a short time?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a positive displacement wave pulse traveling to the right on a thin 'light string' towards a junction with a thicker 'heavy rope'.",
+      "labels_to_preserve": [
+        "light string",
+        "heavy rope"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A diagram showing a reflected pulse on the light string with positive displacement moving left, and a transmitted pulse on the heavy rope with positive displacement moving right."
+      },
+      {
+        "label": "B",
+        "text": "A diagram showing a reflected pulse on the light string with negative displacement (inverted) moving left, and a transmitted pulse on the heavy rope with positive displacement moving right."
+      },
+      {
+        "label": "C",
+        "text": "A diagram showing a reflected pulse on the light string with positive displacement moving left, and a transmitted pulse on the heavy rope with negative displacement (inverted) moving right."
+      },
+      {
+        "label": "D",
+        "text": "A diagram showing a reflected pulse on the light string with negative displacement (inverted) moving left, and a transmitted pulse on the heavy rope with negative displacement (inverted) moving right."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "When a wave pulse travels from a less dense medium (light string) to a more dense medium (heavy rope), the boundary acts somewhat like a fixed end. This results in a reflected pulse that is phase-shifted by 180 degrees (inverted). The transmitted pulse, however, never undergoes a phase change and remains upright (positive displacement).",
+    "source_image_path": "C2-Wave-Model/May 2015 HL TZ2 Q12 B.png"
+  },
+  {
+    "id": "May_2017_HL_TZ1_Q12",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "C.2 Wave model",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ1 Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A travelling wave of period $5.0\\text{ ms}$ travels along a stretched string at a speed of $40\\text{ m s}^{-1}$. Two points on the string are $0.050\\text{ m}$ apart.\n\nWhat is the phase difference between the two points?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{\\pi}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\pi$"
+      },
+      {
+        "label": "D",
+        "text": "$2\\pi$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "First, calculate the wavelength using $\\lambda = vT$. Given $v = 40\\text{ m s}^{-1}$ and $T = 5.0 \\times 10^{-3}\\text{ s}$, we get $\\lambda = 40 \\times 0.005 = 0.20\\text{ m}$. The phase difference $\\phi$ is related to the path difference $\\Delta x$ by the formula $\\phi = \\frac{2\\pi \\Delta x}{\\lambda}$. Substituting the values: $\\phi = \\frac{2\\pi \\times 0.050}{0.20} = \\frac{2\\pi}{4} = \\frac{\\pi}{2}$.",
+    "source_image_path": "C2-Wave-Model/May 2017 HL TZ1 Q12 B.png"
+  },
+  {
+    "id": "May_2017_HL_TZ2_Q12",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ2 Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "The graph shows the variation with distance $x$ of the displacement of the particles of a medium in which a longitudinal wave is travelling from left to right. Displacements to the right of equilibrium positions are positive.\n\nWhich point is at the centre of a compression?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph showing displacement in mm on the y-axis against distance x in m on the x-axis. The curve is a cosine wave starting at a maximum displacement of 4 mm at x=0, crossing zero at x=1, reaching a minimum of -4 mm at x=2, crossing zero at x=3, and returning to 4 mm at x=4.",
+      "labels_to_preserve": [
+        "displacement / mm",
+        "x / m",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "6",
+        "4",
+        "2",
+        "-2",
+        "-4",
+        "-6"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$x = 0$"
+      },
+      {
+        "label": "B",
+        "text": "$x = 1\\text{ m}$"
+      },
+      {
+        "label": "C",
+        "text": "$x = 2\\text{ m}$"
+      },
+      {
+        "label": "D",
+        "text": "$x = 3\\text{ m}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In a longitudinal wave displacement-distance graph, a compression occurs where particles are moving toward each other. To the left of a compression, particles have positive displacement (moving right), and to the right of a compression, particles have negative displacement (moving left). At $x=1\\text{ m}$, the displacement is zero, but just to the left ($x < 1$) the displacement is positive (moving right toward $x=1$) and just to the right ($x > 1$) the displacement is negative (moving left toward $x=1$). This convergence identifies $x=1\\text{ m}$ as the center of a compression.",
+    "source_image_path": "C2-Wave-Model/May 2017 HL TZ2 Q12 B.png"
+  },
+  {
+    "id": "May_2018_HL_TZ1_Q12",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ1 Q12 D.png"
+    },
+    "question_number": 12,
+    "content_markdown": "Two travelling waves are moving through a medium. The diagram shows, for a point in the medium, the variation with time $t$ of the displacement $d$ of each of the waves.\n\nFor the instant when $t = 2.0\\text{ ms}$, what is the phase difference between the waves and what is the resultant displacement of the waves?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph showing two sinusoidal waves plotted as displacement d in mm against time t in ms. One wave starts at d=0 and the other starts at d=+2. Both have a period of 4 ms.",
+      "labels_to_preserve": [
+        "d / mm",
+        "t / ms",
+        "+2",
+        "+1",
+        "0",
+        "-1",
+        "-2",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Phase difference: $45^\\circ$; Resultant displacement: $-0.6\\text{ mm}$"
+      },
+      {
+        "label": "B",
+        "text": "Phase difference: $90^\\circ$; Resultant displacement: $2.6\\text{ mm}$"
+      },
+      {
+        "label": "C",
+        "text": "Phase difference: $45^\\circ$; Resultant displacement: $2.6\\text{ mm}$"
+      },
+      {
+        "label": "D",
+        "text": "Phase difference: $90^\\circ$; Resultant displacement: $-0.6\\text{ mm}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "To find the phase difference, observe that one wave is at a peak when the other is at a zero-crossing; this represents a quarter-cycle or $90^\\circ$ difference. For the resultant displacement at $t = 2.0\\text{ ms}$, read the values from the graph: one wave is at $0\\text{ mm}$ and the other is at approximately $-0.6\\text{ mm}$ (or more precisely, $-2\\text{ mm}$ for the cosine-like wave and $0$ for the sine-like wave depending on the specific curve, but based on the options provided, we sum the individual displacements seen at that vertical grid line).",
+    "source_image_path": "C2-Wave-Model/May 2018 HL TZ1 Q12 D.png"
+  },
+  {
+    "id": "May_2019_HL_TZ2_Q15",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ2 Q15 C.png"
+    },
+    "question_number": 15,
+    "content_markdown": "The graph shows the variation of the displacement of a wave with distance along the wave. The wave speed is $0.50\\text{ m s}^{-1}$.\n\nWhat is the period of the wave?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A displacement-distance graph showing a sinusoidal wave. The x-axis is labeled 'distance along wave / m' with values 0.0, 0.75, 1.50, 2.25, and 3.0. The y-axis is labeled 'wave displacement'. One full wavelength is shown between 0.0 and 1.50 m.",
+      "labels_to_preserve": [
+        "wave displacement",
+        "distance along wave / m",
+        "0.0",
+        "0.75",
+        "1.50",
+        "2.25",
+        "3.0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.33 s"
+      },
+      {
+        "label": "B",
+        "text": "1.5 s"
+      },
+      {
+        "label": "C",
+        "text": "3.0 s"
+      },
+      {
+        "label": "D",
+        "text": "6.0 s"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "From the graph, the wavelength $\\lambda$ is the distance for one complete cycle, which is $1.50\\text{ m}$. Given the wave speed $v = 0.50\\text{ m s}^{-1}$, we use the wave equation $v = f\\lambda$ or $v = \\frac{\\lambda}{T}$. Rearranging for the period $T$, we get $T = \\frac{\\lambda}{v} = \\frac{1.50}{0.50} = 3.0\\text{ s}$.",
+    "source_image_path": "C2-Wave-Model/May 2019 HL TZ2 Q15 C.png"
+  },
+  {
+    "id": "May_2021_HL_TZ1_Q12",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ1 Q12 C.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A sound wave has a frequency of $1.0\\text{ kHz}$ and a wavelength of $0.33\\text{ m}$. What is the distance travelled by the wave in $2.0\\text{ ms}$ and the nature of the wave?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options for the distance travelled in 2.0 ms and the nature of the wave.",
+      "labels_to_preserve": [
+        "Distance travelled in 2.0 ms",
+        "Nature of the wave"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Distance: $0.17\\text{ m}$; Nature: longitudinal"
+      },
+      {
+        "label": "B",
+        "text": "Distance: $0.17\\text{ m}$; Nature: transverse"
+      },
+      {
+        "label": "C",
+        "text": "Distance: $0.66\\text{ m}$; Nature: longitudinal"
+      },
+      {
+        "label": "D",
+        "text": "Distance: $0.66\\text{ m}$; Nature: transverse"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "First, calculate the wave speed using $v = f\\lambda = 1000\\text{ Hz} \\times 0.33\\text{ m} = 330\\text{ m s}^{-1}$. Then, find the distance travelled using $d = v \\times t = 330\\text{ m s}^{-1} \\times 0.002\\text{ s} = 0.66\\text{ m}$. Finally, recall that sound waves in air are longitudinal waves, as they consist of compressions and rarefactions parallel to the direction of energy transfer.",
+    "source_image_path": "C2-Wave-Model/May 2021 HL TZ1 Q12 C.png"
+  },
+  {
+    "id": "May_2021_HL_TZ2_Q12",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ2 Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "Which graph shows the variation of amplitude with intensity for a wave?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs showing different relationships between amplitude (y-axis) and intensity (x-axis). Graph A shows a square root curve, Graph B shows a parabolic curve, Graph C shows a linear relationship, and Graph D shows an inverse relationship.",
+      "labels_to_preserve": [
+        "amplitude",
+        "intensity",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In physics, the intensity $I$ of a wave is proportional to the square of its amplitude $A$, expressed as $I \\propto A^2$. Rearranging this for amplitude gives $A \\propto \\sqrt{I}$. Therefore, the graph of amplitude against intensity should follow a square root shape, which starts at the origin and increases with a decreasing gradient, as shown in graph A.",
+    "source_image_path": "C2-Wave-Model/May 2021 HL TZ2 Q12 B.png"
+  },
+  {
+    "id": "May_2022_HL_TZ1_Q13",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ1 Q13 C.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A wave of period $10\\text{ ms}$ travels through a medium. The graph shows the variation of particle displacement with distance for the wave.\n\nWhat is the average speed of a particle in the medium during one cycle?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A displacement-distance graph for a wave. The y-axis is displacement in cm, ranging from -5.0 to 5.0. The x-axis is distance in cm, ranging from 0 to 25.0. The wave starts at a peak of 4.0 cm at distance 0, crosses zero at 5.0, reaches a trough of -4.0 cm at 10.0, crosses zero at 15.0, and reaches a peak of 4.0 cm at 20.0.",
+      "labels_to_preserve": [
+        "displacement / cm",
+        "distance / cm",
+        "5.0",
+        "10.0",
+        "15.0",
+        "20.0",
+        "25.0",
+        "4.0",
+        "-4.0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$4.0\\text{ m s}^{-1}$"
+      },
+      {
+        "label": "B",
+        "text": "$8.0\\text{ m s}^{-1}$"
+      },
+      {
+        "label": "C",
+        "text": "$16\\text{ m s}^{-1}$"
+      },
+      {
+        "label": "D",
+        "text": "$20\\text{ m s}^{-1}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "To find the average speed of a particle, we need the total distance it travels in one cycle divided by the period. From the graph, the amplitude $A$ is $4.0\\text{ cm}$. In one full cycle (one period $T$), a particle moves from equilibrium to maximum positive displacement, back to equilibrium, to maximum negative displacement, and back to equilibrium. This is a total distance of $4A = 4 \\times 4.0\\text{ cm} = 16.0\\text{ cm} = 0.16\\text{ m}$. The period $T$ is $10\\text{ ms} = 0.01\\text{ s}$. Therefore, average speed $v = \\frac{\\text{distance}}{\\text{time}} = \\frac{0.16\\text{ m}}{0.01\\text{ s}} = 16\\text{ m s}^{-1}$.",
+    "source_image_path": "C2-Wave-Model/May 2022 HL TZ1 Q13 C.png"
+  },
+  {
+    "id": "May_2022_HL_TZ2_Q13",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ2 Q13 C.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A wave travels along a string. Graph M shows the variation with time of the displacement of a point X on the string. Graph N shows the variation with distance of the displacement of the string. PQ and RS are marked on the graphs.\n\nWhat is the speed of the wave?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two sinusoidal wave graphs. Graph M is displacement vs time, showing points P and Q at consecutive peaks. Graph N is displacement vs distance, showing points R and S at consecutive troughs.",
+      "labels_to_preserve": [
+        "Graph M",
+        "Graph N",
+        "displacement",
+        "time",
+        "distance",
+        "P",
+        "Q",
+        "R",
+        "S"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{PQ}{RS}$"
+      },
+      {
+        "label": "B",
+        "text": "$PQ \\times RS$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{RS}{PQ}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{1}{PQ \\times RS}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In Graph M (displacement vs time), the horizontal distance between two consecutive peaks PQ represents the period $T$. In Graph N (displacement vs distance), the horizontal distance between two consecutive troughs RS represents the wavelength $\\lambda$. The wave speed $v$ is defined as $v = \\frac{\\lambda}{T}$. Substituting the variables from the graphs, we get $v = \\frac{RS}{PQ}$.",
+    "source_image_path": "C2-Wave-Model/May 2022 HL TZ2 Q13 C.png"
+  },
+  {
+    "id": "Nov_2002_HL_Q19",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2002,
+      "month": "Nov",
+      "session_label": "Nov 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2002 HL Q19 A.png"
+    },
+    "question_number": 19,
+    "content_markdown": "The diagram below shows ripples on the surface of water at one instant of time. The ripples are moving **right to left** and a small object, $P$, is floating in the water. After a **quarter** of a time period, which letter correctly shows the position of the floating object?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A transverse wave moving from right to left. Object P is currently at the equilibrium position (node) on a rising slope. Points A, B, C, and D represent potential future positions: A is at the crest, C is at the trough, B is to the right on the equilibrium line, and D is to the left on the equilibrium line.",
+      "labels_to_preserve": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "Object P",
+        "Direction of travel of the wave"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In a transverse water wave, the particles of the medium (and floating objects) move up and down, not horizontally with the wave. Since the wave is moving right to left, the crest to the right of $P$ is approaching. In a quarter of a period ($T/4$), the wave profile shifts left by a quarter wavelength, meaning the crest currently to the right of $P$ will arrive at $P$'s horizontal position, moving the object to its maximum positive displacement (position A).",
+    "source_image_path": "C2-Wave-Model/Nov 2002 HL Q19 A.png"
+  },
+  {
+    "id": "Nov_2002_HL_Q22",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2002,
+      "month": "Nov",
+      "session_label": "Nov 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2002 HL Q22 C.png"
+    },
+    "question_number": 22,
+    "content_markdown": "A longitudinal wave travels down a spring. The graph below shows the variation of **displacement with time** for one piece of the spring.\n\nWhich **one** of the following quantities **cannot** be determined from the graph?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A sinusoidal graph showing displacement in cm on the y-axis against time in s on the x-axis. The peak displacement is +1.0 cm and the trough is -1.0 cm. One full cycle is completed at 0.4 s.",
+      "labels_to_preserve": [
+        "Displacement / cm",
+        "Time / s",
+        "+1.0",
+        "0",
+        "-1.0",
+        "0.2",
+        "0.4",
+        "0.6"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The amplitude of the wave"
+      },
+      {
+        "label": "B",
+        "text": "The time period of the oscillations"
+      },
+      {
+        "label": "C",
+        "text": "The speed of the wave"
+      },
+      {
+        "label": "D",
+        "text": "The frequency of the wave"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The graph provides displacement (allowing amplitude to be found) and time (allowing the period $T$ and frequency $f = 1/T$ to be found). However, wave speed $v$ depends on wavelength $\\lambda$ ($v = f\\lambda$), and since the graph is displacement-time (not displacement-distance), the wavelength cannot be determined, making it impossible to calculate the wave speed.",
+    "source_image_path": "C2-Wave-Model/Nov 2002 HL Q22 C.png"
+  },
+  {
+    "id": "Nov_2003_HL_Q22",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave characteristics",
+    "paper": {
+      "year": 2003,
+      "month": "Nov",
+      "session_label": "Nov 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2003 HL Q22 C.png"
+    },
+    "question_number": 22,
+    "content_markdown": "The speed of a wave is defined as",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the speed at which the particles of the wave vibrate."
+      },
+      {
+        "label": "B",
+        "text": "the speed of the medium through which the wave passes."
+      },
+      {
+        "label": "C",
+        "text": "the speed of transfer of the energy of the wave."
+      },
+      {
+        "label": "D",
+        "text": "the speed at which the vibrations of the wave are produced."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Wave speed refers to the rate at which the wave profile (and thus the energy it carries) travels through a medium. It is distinct from the particle speed (which varies in simple harmonic motion) or the speed of the medium itself (which generally stays in place).",
+    "source_image_path": "C2-Wave-Model/Nov 2003 HL Q22 C.png"
+  },
+  {
+    "id": "Nov_2006_HL_Q21",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2006,
+      "month": "Nov",
+      "session_label": "Nov 2006",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2006 HL Q21 C.png"
+    },
+    "question_number": 21,
+    "content_markdown": "A string is held horizontally with one end attached to a fixed support. Two pulses are created at the free end of the string. The pulses are moving towards the fixed support as shown in the diagram below.\n\nWhich **one** of the following diagrams is a possible subsequent picture of the string?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal string with two pulses: a crest followed by a trough, moving to the right towards a vertical fixed support.",
+      "labels_to_preserve": [
+        "string",
+        "fixed support"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "When a wave pulse reflects from a fixed support, it undergoes a phase change of $\\pi$ radians (180 degrees), meaning a crest reflects as a trough and a trough reflects as a crest. In the initial diagram, the trough is leading and the crest is following. After the trough hits the wall, it reflects as a crest moving to the left. Meanwhile, the original crest is still moving to the right. Depending on the timing, these two can superpose. Option C shows a moment where the reflected trough (now a crest) and the incoming crest overlap to create a larger crest via constructive interference.",
+    "source_image_path": "C2-Wave-Model/Nov 2006 HL Q21 C.png"
+  },
+  {
+    "id": "Nov_2006_HL_Q22",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2006,
+      "month": "Nov",
+      "session_label": "Nov 2006",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2006 HL Q22 A.png"
+    },
+    "question_number": 22,
+    "content_markdown": "A water surface wave (ripple) is travelling to the right on the surface of a lake. The wave has period $T$. The diagram below shows the surface of the lake at a particular instant of time. A piece of cork is floating in the water in the position shown.\n\nWhich is the correct position of the cork a time $\\frac{T}{4}$ later?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A transverse wave moving to the right. A cork is currently at the crest of the wave. Four points A, B, C, and D are marked. A is directly below the crest, B is on the downward slope to the right, C is further down vertically from A, and D is at the equilibrium position/node to the right of the crest.",
+      "labels_to_preserve": [
+        "cork",
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In a transverse water wave, the particles of the medium (and the floating cork) move only vertically, not horizontally with the wave. Since the wave is moving to the right, the crest currently at the cork's horizontal position will move to the right. After a quarter period ($T/4$), the point on the wave that was a quarter-wavelength to the left of the cork (the equilibrium point moving downwards) will have reached the cork's horizontal position. Therefore, the cork moves vertically down to the equilibrium level, which corresponds to position A.",
+    "source_image_path": "C2-Wave-Model/Nov 2006 HL Q22 A.png"
+  },
+  {
+    "id": "Nov_2007_HL_Q24",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2007,
+      "month": "Nov",
+      "session_label": "Nov 2007",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2007 HL Q24 A.png"
+    },
+    "question_number": 24,
+    "content_markdown": "One end of a long string is vibrated at a constant frequency $f$. A travelling wave of wavelength $\\lambda$ and speed $v$ is set up on the string.\n\nThe frequency of vibration is doubled but the tension in the string is unchanged. Which of the following shows the wavelength and speed of the new travelling wave?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) with columns for Wavelength and Speed.",
+      "labels_to_preserve": [
+        "Wavelength",
+        "Speed",
+        "\\lambda",
+        "v"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Wavelength: $\\frac{\\lambda}{2}$, Speed: $v$"
+      },
+      {
+        "label": "B",
+        "text": "Wavelength: $\\frac{\\lambda}{2}$, Speed: $2v$"
+      },
+      {
+        "label": "C",
+        "text": "Wavelength: $2\\lambda$, Speed: $v$"
+      },
+      {
+        "label": "D",
+        "text": "Wavelength: $2\\lambda$, Speed: $2v$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The speed of a wave on a string depends only on the tension and the mass per unit length ($v = \\sqrt{T/\\mu}$). Since the tension is unchanged, the speed $v$ remains constant. Using the wave equation $v = f\\lambda$, if the frequency $f$ is doubled while $v$ stays the same, the wavelength $\\lambda$ must be halved to $\\frac{\\lambda}{2}$.",
+    "source_image_path": "C2-Wave-Model/Nov 2007 HL Q24 A.png"
+  },
+  {
+    "id": "Nov_2008_HL_Q21",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2008,
+      "month": "Nov",
+      "session_label": "Nov 2008",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2008 HL Q21 C.png"
+    },
+    "question_number": 21,
+    "content_markdown": "A transverse wave is moving along a string. Two points on the string are separated by half a wavelength. The velocities of these points are always",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "constant."
+      },
+      {
+        "label": "B",
+        "text": "in a direction parallel to the direction of propagation of the wave."
+      },
+      {
+        "label": "C",
+        "text": "opposite to each other."
+      },
+      {
+        "label": "D",
+        "text": "the same as each other."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Points separated by half a wavelength ($\\lambda/2$) are $180^\\circ$ or $\\pi$ radians out of phase. In a transverse wave, the particles oscillate perpendicular to the wave motion. If two points are exactly half a cycle apart, when one is moving 'up', the other must be moving 'down' with the same speed, making their velocity vectors always opposite to each other.",
+    "source_image_path": "C2-Wave-Model/Nov 2008 HL Q21 C.png"
+  },
+  {
+    "id": "Nov_2009_HL_Q18",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2009,
+      "month": "Nov",
+      "session_label": "Nov 2009",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2009 HL Q18 C.png"
+    },
+    "question_number": 18,
+    "content_markdown": "Which of the following is a correct comparison between standing waves and travelling waves?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table comparing properties of standing waves and travelling waves across four options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Standing waves",
+        "Travelling waves"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Standing waves: wave amplitude is constant at all points along the wave; Travelling waves: wave amplitude depends upon the position along the wave"
+      },
+      {
+        "label": "B",
+        "text": "Standing waves: energy is always transferred; Travelling waves: energy is not transferred"
+      },
+      {
+        "label": "C",
+        "text": "Standing waves: the wavelength is twice the distance between consecutive nodes; Travelling waves: the wavelength is the distance between consecutive crests"
+      },
+      {
+        "label": "D",
+        "text": "Standing waves: phase varies continuously along the wave; Travelling waves: phase is constant between consecutive crests"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In a standing wave, the distance between two adjacent nodes is half a wavelength ($\\lambda/2$), so the full wavelength is indeed twice that distance. For a travelling wave, the wavelength is defined as the distance between two consecutive points in phase, such as two consecutive crests. The other options are incorrect because standing waves do not transfer energy and have varying amplitudes (nodes/antinodes), while travelling waves have constant amplitude (ignoring damping) and continuously varying phase.",
+    "source_image_path": "C2-Wave-Model/Nov 2009 HL Q18 C.png"
+  },
+  {
+    "id": "Nov_2011_HL_Q14",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Electromagnetic waves",
+    "paper": {
+      "year": 2011,
+      "month": "Nov",
+      "session_label": "Nov 2011",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2011 HL Q14 C.png"
+    },
+    "question_number": 14,
+    "content_markdown": "Which of the following gives regions of the electromagnetic spectrum in the order of **decreasing** frequency?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "gamma-ray, microwave, visible"
+      },
+      {
+        "label": "B",
+        "text": "radio wave, infrared, microwave"
+      },
+      {
+        "label": "C",
+        "text": "ultraviolet, infrared, microwave"
+      },
+      {
+        "label": "D",
+        "text": "visible, gamma-ray, radio wave"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "To solve this, recall the EM spectrum in order of increasing frequency: Radio, Microwave, Infrared, Visible, Ultraviolet, X-ray, Gamma-ray. Decreasing frequency means moving from right to left on that list. Option C follows this correctly: Ultraviolet (highest), then Infrared, then Microwave (lowest of the three).",
+    "source_image_path": "C2-Wave-Model/Nov 2011 HL Q14 C.png"
+  },
+  {
+    "id": "Nov_2012_HL_Q14",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "C.2 Wave Model",
+    "paper": {
+      "year": 2012,
+      "month": "Nov",
+      "session_label": "Nov 2012",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2012 HL Q14 D.png"
+    },
+    "question_number": 14,
+    "content_markdown": "Progressive (travelling) waves $S$ and $T$ have the same frequency and are in the same medium. $S$ has amplitude $2.0\\text{ m}$ and $T$ has amplitude $4.0\\text{ m}$. What is the ratio of the intensity of $T$ to the intensity of $S$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The intensity $I$ of a wave is proportional to the square of its amplitude $A$ ($I \\propto A^2$). To find the ratio of the intensity of $T$ to $S$, we calculate $\\frac{I_T}{I_S} = \\frac{(A_T)^2}{(A_S)^2} = \\frac{(4.0)^2}{(2.0)^2} = \\frac{16}{4} = 4$.",
+    "source_image_path": "C2-Wave-Model/Nov 2012 HL Q14 D.png"
+  },
+  {
+    "id": "Nov_2013_HL_Q12",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2013,
+      "month": "Nov",
+      "session_label": "Nov 2013",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2013 HL Q12 C.png"
+    },
+    "question_number": 12,
+    "content_markdown": "Which of the following relates the amplitude $A$ of a travelling wave to the intensity $I$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$A \\propto I^{-1}$"
+      },
+      {
+        "label": "B",
+        "text": "$A \\propto I^{-\\frac{1}{2}}$"
+      },
+      {
+        "label": "C",
+        "text": "$A \\propto I^{\\frac{1}{2}}$"
+      },
+      {
+        "label": "D",
+        "text": "$A \\propto I^{2}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In wave physics, the intensity $I$ is directly proportional to the square of the amplitude $A$, expressed as $I \\propto A^2$. To find the relationship for $A$ in terms of $I$, we take the square root of both sides, which gives $A \\propto \\sqrt{I}$, or $A \\propto I^{\\frac{1}{2}}$.",
+    "source_image_path": "C2-Wave-Model/Nov 2013 HL Q12 C.png"
+  },
+  {
+    "id": "Nov_2014_HL_Q12",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave interference",
+    "paper": {
+      "year": 2014,
+      "month": "Nov",
+      "session_label": "Nov 2014",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2014 HL Q12 D.png"
+    },
+    "question_number": 12,
+    "content_markdown": "X and Y are two sources of waves with identical amplitudes and frequencies. Waves from X and Y interfere constructively at a detector after travelling the same distance from source to detector.\n\nAt the detector, the ratio $\\frac{\\text{intensity of the resultant of the two waves}}{\\text{intensity of one wave alone}}$ is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "1"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Intensity is proportional to the square of the amplitude ($I \\propto A^2$). When two waves of amplitude $A$ interfere constructively, the resultant amplitude is $2A$. Therefore, the resultant intensity is proportional to $(2A)^2 = 4A^2$. Comparing this to the intensity of a single wave ($A^2$), the ratio is 4.",
+    "source_image_path": "C2-Wave-Model/Nov 2014 HL Q12 D.png"
+  },
+  {
+    "id": "Nov_2015_HL_Q11",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2015,
+      "month": "Nov",
+      "session_label": "Nov 2015",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2015 HL Q11 D.png"
+    },
+    "question_number": 11,
+    "content_markdown": "A transverse travelling wave has an amplitude $x_0$ and wavelength $\\lambda$. What is the minimum distance between a crest and a trough measured in the direction of energy propagation?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the source image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$2x_0$"
+      },
+      {
+        "label": "B",
+        "text": "$x_0$"
+      },
+      {
+        "label": "C",
+        "text": "$\\lambda$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{\\lambda}{2}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The question asks for the distance measured in the direction of energy propagation (the horizontal axis). In a standard sine wave, the distance from one crest to the next crest is one full wavelength $\\lambda$. A trough is located exactly halfway between two crests, so the horizontal distance from a crest to the adjacent trough is half of a wavelength, or $\\frac{\\lambda}{2}$. The amplitude $x_0$ refers to the vertical displacement, which is not what is being measured here.",
+    "source_image_path": "C2-Wave-Model/Nov 2015 HL Q11 D.png"
+  },
+  {
+    "id": "Nov_2015_HL_Q12",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2015,
+      "month": "Nov",
+      "session_label": "Nov 2015",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2015 HL Q12 A.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A wave on a string travels to the right as shown. The frequency of the wave is $f$. At time $t=0$, a small marker on the string is in the position shown.\n\nWhat is the position of the marker at $t = \\frac{1}{4f}$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A transverse wave moving to the right. A square marker is located at an equilibrium point where the wave is about to move downwards. Four points A, B, C, and D are labeled as potential future positions of the marker.",
+      "labels_to_preserve": [
+        "A.",
+        "B.",
+        "C.",
+        "D.",
+        "marker"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The period of the wave is $T = 1/f$. The time given is $t = 1/(4f)$, which is exactly one quarter of a period ($T/4$). Since the wave is moving to the right, the part of the wave currently to the left of the marker will move into the marker's horizontal position. At $t=0$, the marker is at equilibrium and the wave profile to its left is a crest. This means the marker is about to move downwards. In a quarter cycle, a point at equilibrium moving downwards will reach its maximum negative displacement (the trough), which corresponds to position B.",
+    "source_image_path": "C2-Wave-Model/Nov 2015 HL Q12 A.png"
+  },
+  {
+    "id": "Nov_2016_HL_Q14",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2016,
+      "month": "Nov",
+      "session_label": "Nov 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2016 HL Q14 B.png"
+    },
+    "question_number": 14,
+    "content_markdown": "A point source of light of amplitude $A_0$ gives rise to a particular light intensity when viewed at a distance from the source. When the amplitude is increased and the viewing distance is doubled, the light intensity is doubled. What is the new amplitude of the source?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$2 A_0$"
+      },
+      {
+        "label": "B",
+        "text": "$2 \\sqrt{2} A_0$"
+      },
+      {
+        "label": "C",
+        "text": "$4 A_0$"
+      },
+      {
+        "label": "D",
+        "text": "$8 A_0$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Intensity $I$ is proportional to the square of the amplitude $A$ at the source ($I \\propto A^2$) and inversely proportional to the square of the distance $r$ ($I \\propto 1/r^2$). Combining these, $I \\propto A^2 / r^2$. Initially, $I_1 = k A_0^2 / r^2$. In the second case, the distance is $2r$ and the intensity is $2I_1$. So, $2I_1 = k A_{new}^2 / (2r)^2$. Substituting $I_1$, we get $2(k A_0^2 / r^2) = k A_{new}^2 / 4r^2$. Simplifying gives $2 A_0^2 = A_{new}^2 / 4$, which means $A_{new}^2 = 8 A_0^2$. Taking the square root, $A_{new} = \\sqrt{8} A_0 = 2\\sqrt{2} A_0$.",
+    "source_image_path": "C2-Wave-Model/Nov 2016 HL Q14 B.png"
+  },
+  {
+    "id": "Nov_2018_HL_Q11",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Simple harmonic motion",
+    "paper": {
+      "year": 2018,
+      "month": "Nov",
+      "session_label": "Nov 2018",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2018 HL Q11 B.png"
+    },
+    "question_number": 11,
+    "content_markdown": "A particle moving in a circle completes 5 revolutions in 3 s. What is the frequency?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{3}{5} \\text{ Hz}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{5}{3} \\text{ Hz}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{3\\pi}{5} \\text{ Hz}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{5\\pi}{3} \\text{ Hz}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Frequency is defined as the number of cycles (or revolutions) per unit time. To find the frequency $f$, you divide the total number of revolutions by the total time taken: $f = \\frac{\\text{revolutions}}{\\text{time}} = \\frac{5}{3} \\text{ Hz}$.",
+    "source_image_path": "C2-Wave-Model/Nov 2018 HL Q11 B.png"
+  },
+  {
+    "id": "Nov_2018_HL_Q12",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2018,
+      "month": "Nov",
+      "session_label": "Nov 2018",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2018 HL Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A longitudinal wave moves through a medium. Relative to the direction of energy transfer through the medium, what are the displacement of the medium and the direction of propagation of the wave?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four combinations of 'Displacement of medium' and 'Direction of propagation of wave' relative to the direction of energy transfer.",
+      "labels_to_preserve": [
+        "Displacement of medium",
+        "Direction of propagation of wave"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Displacement of medium: parallel; Direction of propagation of wave: perpendicular"
+      },
+      {
+        "label": "B",
+        "text": "Displacement of medium: parallel; Direction of propagation of wave: parallel"
+      },
+      {
+        "label": "C",
+        "text": "Displacement of medium: perpendicular; Direction of propagation of wave: parallel"
+      },
+      {
+        "label": "D",
+        "text": "Displacement of medium: perpendicular; Direction of propagation of wave: perpendicular"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "By definition, in a longitudinal wave, the particles of the medium oscillate parallel to the direction of energy transfer. Furthermore, the direction of wave propagation is always the same as the direction of energy transfer.",
+    "source_image_path": "C2-Wave-Model/Nov 2018 HL Q12 B.png"
+  },
+  {
+    "id": "Nov_2018_HL_Q13",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2018,
+      "month": "Nov",
+      "session_label": "Nov 2018",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2018 HL Q13 A.png"
+    },
+    "question_number": 13,
+    "content_markdown": "L is a point source of light. The intensity of the light at a distance $2x$ from L is $I$. What is the intensity at a distance $3x$ from L?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{4}{9} I$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{2}{3} I$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{3}{2} I$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{9}{4} I$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Intensity $I$ from a point source follows the inverse square law, $I \\propto \\frac{1}{r^2}$. If the distance changes from $2x$ to $3x$, the distance is multiplied by a factor of $\\frac{3}{2}$. Therefore, the intensity is multiplied by the inverse square of that factor: $\\frac{1}{(3/2)^2} = \\frac{4}{9}$.",
+    "source_image_path": "C2-Wave-Model/Nov 2018 HL Q13 A.png"
+  },
+  {
+    "id": "Nov_2019_HL_Q11",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2019,
+      "month": "Nov",
+      "session_label": "Nov 2019",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2019 HL Q11 C.png"
+    },
+    "question_number": 11,
+    "content_markdown": "A transverse travelling wave is moving through a medium. The graph shows, for one instant, the variation with distance of the displacement of particles in the medium.\n\nThe frequency of the wave is $25\\text{ Hz}$ and the speed of the wave is $100\\text{ m s}^{-1}$. What is correct for this wave?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A displacement-distance graph for a transverse wave showing one and a half cycles. Point X is at the first peak, point Y is at the first trough, and point Z is at the second equilibrium crossing (zero displacement) after the first trough.",
+      "labels_to_preserve": [
+        "displacement",
+        "distance",
+        "up",
+        "down",
+        "0",
+        "X",
+        "Y",
+        "Z"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The particles at X and Y are in phase."
+      },
+      {
+        "label": "B",
+        "text": "The velocity of the particle at X is a maximum."
+      },
+      {
+        "label": "C",
+        "text": "The horizontal distance between X and Z is $3.0\\text{ m}$."
+      },
+      {
+        "label": "D",
+        "text": "The velocity of the particle at Y is $100\\text{ m s}^{-1}$."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "First, calculate the wavelength using $\\lambda = v/f = 100/25 = 4.0\\text{ m}$. Looking at the graph, the distance from X (a peak) to Y (a trough) is half a wavelength ($2.0\\text{ m}$), and the distance from Y to Z is a quarter wavelength ($1.0\\text{ m}$). Therefore, the horizontal distance from X to Z is $2.0 + 1.0 = 3.0\\text{ m}$. Note that at peaks (X) and troughs (Y), the instantaneous velocity of the particles is zero, not maximum, and the wave speed is not the same as the particle speed.",
+    "source_image_path": "C2-Wave-Model/Nov 2019 HL Q11 C.png"
+  },
+  {
+    "id": "Nov_2019_HL_Q12",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2019,
+      "month": "Nov",
+      "session_label": "Nov 2019",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2019 HL Q12 C.png"
+    },
+    "question_number": 12,
+    "content_markdown": "The graph shows the variation with time for the displacement of a particle in a travelling wave.\n\nWhat are the frequency and amplitude for the oscillation of the particle?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A displacement-time graph for a particle. The y-axis is displacement / $10^{-6}$ m ranging from -2.0 to 2.0. The x-axis is time / $10^{-6}$ s ranging from 0 to 40. The wave starts at a peak of 2.0 at t=0, crosses zero at t=5, reaches a trough at t=10, and completes one full cycle at t=20.",
+      "labels_to_preserve": [
+        "displacement / 10^{-6} m",
+        "time / 10^{-6} s",
+        "0",
+        "5",
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35",
+        "40",
+        "0.0",
+        "0.5",
+        "1.0",
+        "1.5",
+        "2.0",
+        "-0.5",
+        "-1.0",
+        "-1.5",
+        "-2.0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Frequency / kHz: 20, Amplitude / \u03bcm: 2"
+      },
+      {
+        "label": "B",
+        "text": "Frequency / kHz: 20, Amplitude / \u03bcm: 4"
+      },
+      {
+        "label": "C",
+        "text": "Frequency / kHz: 50, Amplitude / \u03bcm: 2"
+      },
+      {
+        "label": "D",
+        "text": "Frequency / kHz: 50, Amplitude / \u03bcm: 4"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "From the graph, the maximum displacement (amplitude) is $2.0 \\times 10^{-6}$ m, which is $2$ \u03bcm. The time for one complete oscillation (period $T$) is $20 \\times 10^{-6}$ s. The frequency $f$ is the reciprocal of the period: $f = \\frac{1}{T} = \\frac{1}{20 \\times 10^{-6} \\text{ s}} = 0.05 \\times 10^6 \\text{ Hz} = 50 \\times 10^3 \\text{ Hz} = 50 \\text{ kHz}$.",
+    "source_image_path": "C2-Wave-Model/Nov 2019 HL Q12 C.png"
+  },
+  {
+    "id": "Nov_2019_HL_Q29",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2019,
+      "month": "Nov",
+      "session_label": "Nov 2019",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2019 HL Q29 B.png"
+    },
+    "question_number": 29,
+    "content_markdown": "Sea waves move towards a beach at a constant speed of $2.0\\text{ m s}^{-1}$. They arrive at the beach with a frequency of $0.10\\text{ Hz}$. A girl on a surfboard is moving in the sea at right angles to the wave fronts. She observes that the surfboard crosses the wave fronts with a frequency of $0.40\\text{ Hz}$.\n\nWhat is the speed of the surfboard and what is the direction of motion of the surfboard relative to the beach?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing wave fronts moving towards a beach. A girl on a surfboard is positioned in the water, moving along a line perpendicular to the wave fronts.",
+      "labels_to_preserve": [
+        "beach",
+        "wave direction",
+        "girl on surfboard"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Speed: $6.0\\text{ m s}^{-1}$; Direction: towards beach"
+      },
+      {
+        "label": "B",
+        "text": "Speed: $6.0\\text{ m s}^{-1}$; Direction: away from beach"
+      },
+      {
+        "label": "C",
+        "text": "Speed: $1.5\\text{ m s}^{-1}$; Direction: towards beach"
+      },
+      {
+        "label": "D",
+        "text": "Speed: $1.5\\text{ m s}^{-1}$; Direction: away from beach"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "First, calculate the wavelength $\\lambda = v/f = 2.0 / 0.10 = 20\\text{ m}$. The observed frequency $f'$ is related to the relative speed $v_{rel}$ by $f' = v_{rel}/\\lambda$. Thus, $v_{rel} = f' \\times \\lambda = 0.40 \\times 20 = 8.0\\text{ m s}^{-1}$. Since the observed frequency is higher than the source frequency, the girl must be moving towards the waves (away from the beach). The relative speed is the sum of the wave speed and the girl's speed: $v_{rel} = v_{wave} + v_{girl}$, so $8.0 = 2.0 + v_{girl}$, giving $v_{girl} = 6.0\\text{ m s}^{-1}$ moving away from the beach.",
+    "source_image_path": "C2-Wave-Model/Nov 2019 HL Q29 B.png"
+  },
+  {
+    "id": "Nov_2020_HL_Q11",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2020,
+      "month": "Nov",
+      "session_label": "Nov 2020",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2020 HL Q11 C.png"
+    },
+    "question_number": 11,
+    "content_markdown": "A travelling wave has a frequency of $500\\text{ Hz}$. The closest distance between two points on the wave that have a phase difference of $60^\\circ$ $\\left(\\frac{\\pi}{3}\\text{ rad}\\right)$ is $0.050\\text{ m}$. What is the speed of the wave?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$25\\text{ m s}^{-1}$"
+      },
+      {
+        "label": "B",
+        "text": "$75\\text{ m s}^{-1}$"
+      },
+      {
+        "label": "C",
+        "text": "$150\\text{ m s}^{-1}$"
+      },
+      {
+        "label": "D",
+        "text": "$300\\text{ m s}^{-1}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "First, relate the phase difference to the wavelength. A phase difference of $2\\pi$ corresponds to one full wavelength $\\lambda$. Since $\\frac{\\pi}{3}$ is $\\frac{1}{6}$ of $2\\pi$, the distance $0.050\\text{ m}$ must be $\\frac{1}{6}$ of the wavelength. Therefore, $\\lambda = 6 \\times 0.050\\text{ m} = 0.30\\text{ m}$. Finally, use the wave speed formula $v = f\\lambda = 500\\text{ Hz} \\times 0.30\\text{ m} = 150\\text{ m s}^{-1}$.",
+    "source_image_path": "C2-Wave-Model/Nov 2020 HL Q11 C.png"
+  },
+  {
+    "id": "Nov_2021_HL_Q11",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2021,
+      "month": "Nov",
+      "session_label": "Nov 2021",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2021 HL Q11 B.png"
+    },
+    "question_number": 11,
+    "content_markdown": "A travelling wave on the surface of a lake has wavelength $\\lambda$. Two points along the wave oscillate with the phase difference of $\\pi$. What is the smallest possible distance between these two points?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{\\lambda}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{\\lambda}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\lambda$"
+      },
+      {
+        "label": "D",
+        "text": "$2\\lambda$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Phase difference $\\phi$ and path difference $x$ are related by the formula $\\phi = \\frac{2\\pi x}{\\lambda}$. If the phase difference is $\\pi$, then $\\pi = \\frac{2\\pi x}{\\lambda}$. Solving for $x$ gives $x = \\frac{\\lambda}{2}$. This represents points that are exactly out of phase (antiphase), such as a crest and the adjacent trough.",
+    "source_image_path": "C2-Wave-Model/Nov 2021 HL Q11 B.png"
+  },
+  {
+    "id": "Nov_2022_HL_Q14",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave Model",
+    "paper": {
+      "year": 2022,
+      "month": "Nov",
+      "session_label": "Nov 2022",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2022 HL Q14 A.png"
+    },
+    "question_number": 14,
+    "content_markdown": "A sound wave travels through a gas at a speed of $270\\text{ m s}^{-1}$. The graph shows the variation of the displacement $s$ of the gas particles with distance $d$ from the source.\n\nWhat is the frequency of the wave?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A sinusoidal graph showing displacement s in mm on the y-axis against distance d in m on the x-axis. The wave starts at the origin, reaches a peak at 0.375 m, crosses the x-axis at 0.75 m, reaches a trough at 1.125 m, and completes one full cycle at 1.5 m.",
+      "labels_to_preserve": [
+        "s / mm",
+        "d / m",
+        "0.4",
+        "0.2",
+        "0",
+        "-0.2",
+        "-0.4",
+        "0.5",
+        "1.0",
+        "1.5",
+        "2.0",
+        "2.5",
+        "3.0",
+        "3.5"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "180 Hz"
+      },
+      {
+        "label": "B",
+        "text": "360 Hz"
+      },
+      {
+        "label": "C",
+        "text": "450 Hz"
+      },
+      {
+        "label": "D",
+        "text": "900 Hz"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "From the graph, we can determine the wavelength $\\lambda$ by looking at the distance for one complete cycle. The wave returns to the same phase at $d = 1.5\\text{ m}$, so $\\lambda = 1.5\\text{ m}$. Using the wave equation $v = f\\lambda$, we can solve for frequency: $f = \\frac{v}{\\lambda} = \\frac{270}{1.5} = 180\\text{ Hz}$.",
+    "source_image_path": "C2-Wave-Model/Nov 2022 HL Q14 A.png"
+  },
+  {
+    "id": "Nov_2022_HL_Q15",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave properties",
+    "paper": {
+      "year": 2022,
+      "month": "Nov",
+      "session_label": "Nov 2022",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2022 HL Q15 A.png"
+    },
+    "question_number": 15,
+    "content_markdown": "A point source emits a sound wave of amplitude $Z$. A person stands a distance $L$ from the source. The amplitude is changed to $2Z$.\n\nWhat distance must the person move through in order to hear the original intensity again?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$L$"
+      },
+      {
+        "label": "B",
+        "text": "$2L$"
+      },
+      {
+        "label": "C",
+        "text": "$3L$"
+      },
+      {
+        "label": "D",
+        "text": "$7L$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Intensity $I$ is proportional to the square of the amplitude ($I \\propto A^2$) and inversely proportional to the square of the distance from a point source ($I \\propto \\frac{1}{r^2}$). Initially, $I_1 \\propto \\frac{Z^2}{L^2}$. When the amplitude becomes $2Z$, the new intensity at distance $r$ is $I_2 \\propto \\frac{(2Z)^2}{r^2} = \\frac{4Z^2}{r^2}$. For the intensities to be equal ($I_1 = I_2$), we need $\\frac{Z^2}{L^2} = \\frac{4Z^2}{r^2}$, which simplifies to $r^2 = 4L^2$, so $r = 2L$. The question asks for the distance the person must *move through*, which is the change in distance: $\\Delta r = 2L - L = L$.",
+    "source_image_path": "C2-Wave-Model/Nov 2022 HL Q15 A.png"
+  },
+  {
+    "id": "Specimen_2009_HL_Q15",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Superposition",
+    "paper": {
+      "year": 2009,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2009",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2009 HL Q15 B.png"
+    },
+    "question_number": 15,
+    "content_markdown": "The two graphs show the variation with time of the individual displacements of two waves as they pass through the same point.\n\nThe displacement of the resultant wave at the point at time $T$ is equal to",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two displacement-time graphs. The first graph shows a wave with displacement $x_1$ at time $T$. The second graph shows a wave with displacement $-x_2$ at time $T$.",
+      "labels_to_preserve": [
+        "displacement",
+        "time",
+        "A_1",
+        "-A_1",
+        "x_1",
+        "T",
+        "A_2",
+        "-A_2",
+        "-x_2"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$x_1 + x_2$"
+      },
+      {
+        "label": "B",
+        "text": "$x_1 - x_2$"
+      },
+      {
+        "label": "C",
+        "text": "$A_1 + A_2$"
+      },
+      {
+        "label": "D",
+        "text": "$A_1 - A_2$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "According to the principle of superposition, the resultant displacement is the algebraic sum of the individual displacements. At time $T$, the first wave has a displacement of $+x_1$ and the second wave has a displacement of $-x_2$. Adding these together gives $x_1 + (-x_2)$, which simplifies to $x_1 - x_2$.",
+    "source_image_path": "C2-Wave-Model/Specimen Paper 2009 HL Q15 B.png"
+  },
+  {
+    "id": "Specimen_2016_HL_Q12",
+    "topic": "Wave Model",
+    "topic_code": "C2",
+    "sub_topic": "Wave characteristics",
+    "paper": {
+      "year": 2016,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2016 HL Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "Which of the following, if any, will be transferred in the direction of propagation of a sound wave as it passes through the air?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Mass only"
+      },
+      {
+        "label": "B",
+        "text": "Energy only"
+      },
+      {
+        "label": "C",
+        "text": "Both mass and energy"
+      },
+      {
+        "label": "D",
+        "text": "Neither mass nor energy"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "A fundamental property of progressive waves is that they transfer energy from one point to another without the net transfer of matter (mass). In a sound wave, air molecules oscillate about a fixed equilibrium position but do not travel with the wave.",
+    "source_image_path": "C2-Wave-Model/Specimen Paper 2016 HL Q12 B.png"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ1_Q18",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ1 Q18 C.png"
+  },
+  "question_number": 18,
+  "content_markdown": "The fundamental (first harmonic) frequency of the note emitted by an organ pipe closed at one end is $f$. What is the fundamental frequency of the note emitted by an organ pipe of the same length that is open at both ends?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{f}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{f}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "$2f$"
+    },
+    {
+      "label": "D",
+      "text": "$4f$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "For a pipe closed at one end, the fundamental wavelength is $\\lambda_1 = 4L$, so $f = v/4L$. For a pipe open at both ends, the fundamental wavelength is $\\lambda_2 = 2L$, so $f' = v/2L$. Comparing the two, $f' = 2(v/4L) = 2f$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2010 HL TZ1 Q18 C.png"
+}

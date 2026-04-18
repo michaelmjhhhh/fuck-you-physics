@@ -1,0 +1,43 @@
+{
+  "id": "May_2000_HL_Q13",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2000,
+    "month": "May",
+    "session_label": "May 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2000 HL Q13 C.png"
+  },
+  "question_number": 13,
+  "content_markdown": "A small object of mass $m$ at $100\\text{ }^\\circ\\text{C}$ is placed into an equal mass of water at $0\\text{ }^\\circ\\text{C}$ in a calorimeter. The specific heat capacity of the object is half that of the water. Assuming there are no energy transfers to the environment or to the calorimeter, the final equilibrium temperature of the object plus water will be",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$67\\text{ }^\\circ\\text{C}$."
+    },
+    {
+      "label": "B",
+      "text": "$50\\text{ }^\\circ\\text{C}$."
+    },
+    {
+      "label": "C",
+      "text": "$33\\text{ }^\\circ\\text{C}$."
+    },
+    {
+      "label": "D",
+      "text": "$25\\text{ }^\\circ\\text{C}$."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "This is a calorimetry problem where energy lost by the hot object equals energy gained by the cold water ($Q_{lost} = Q_{gain}$). Since $m_1 = m_2$ and $c_{object} = 0.5 c_{water}$, the equation becomes $m(0.5c)(100 - T) = m(c)(T - 0)$. Simplifying gives $0.5(100 - T) = T$, which leads to $50 - 0.5T = T$, then $50 = 1.5T$, and finally $T = 33.3\\text{ }^\\circ\\text{C}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2000 HL Q13 C.png"
+}

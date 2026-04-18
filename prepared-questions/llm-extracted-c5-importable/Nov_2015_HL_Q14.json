@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2015_HL_Q14",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2015,
+    "month": "Nov",
+    "session_label": "Nov 2015",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2015 HL Q14 B.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A source emits sound of wavelength $\\lambda_0$ and wave speed $v_0$. A stationary observer hears the sound as the source moves away. What are the wavelength of the sound and the wave speed of the sound as measured by the stationary observer?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) with columns for Wavelength and Wave speed.",
+    "labels_to_preserve": [
+      "Wavelength",
+      "Wave speed",
+      "\\lambda_0",
+      "v_0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Wavelength: less than $\\lambda_0$; Wave speed: equal to $v_0$"
+    },
+    {
+      "label": "B",
+      "text": "Wavelength: greater than $\\lambda_0$; Wave speed: equal to $v_0$"
+    },
+    {
+      "label": "C",
+      "text": "Wavelength: less than $\\lambda_0$; Wave speed: less than $v_0$"
+    },
+    {
+      "label": "D",
+      "text": "Wavelength: greater than $\\lambda_0$; Wave speed: less than $v_0$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The wave speed of sound is determined solely by the properties of the medium (air), so it remains $v_0$ regardless of the source's motion. However, as the source moves away, each successive wave crest is emitted from a further distance, 'stretching' the observed wavelength, making it greater than $\\lambda_0$ (redshift effect).",
+  "source_image_path": "C5-Doppler-Effect/Nov 2015 HL Q14 B.png"
+}

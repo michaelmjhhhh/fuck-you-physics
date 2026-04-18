@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2015_HL_Q35",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2015,
+    "month": "Nov",
+    "session_label": "Nov 2015",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2015 HL Q35 D.png"
+  },
+  "question_number": 35,
+  "content_markdown": "It is suggested that the solar power incident at a point on the Earth’s surface depends on\n\nI. daily variations in the Sun’s power output\nII. the location of the point\nIII. the cloud cover at the point.\n\nWhich suggestion(s) is/are correct?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "III only"
+    },
+    {
+      "label": "B",
+      "text": "I and II only"
+    },
+    {
+      "label": "C",
+      "text": "II and III only"
+    },
+    {
+      "label": "D",
+      "text": "I, II and III"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The solar power reaching a specific point on Earth is influenced by several factors: (I) The Sun's total power output (solar constant) can vary slightly; (II) The location (latitude) determines the angle of incidence and the thickness of the atmosphere the light must pass through; and (III) Cloud cover reflects and absorbs incoming radiation, significantly affecting the power that actually reaches the surface. Therefore, all three factors are correct.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2015 HL Q35 D.png"
+}

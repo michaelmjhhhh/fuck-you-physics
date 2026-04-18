@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2002_HL_Q11",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2002,
+    "month": "Nov",
+    "session_label": "Nov 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2002 HL Q11 D.png"
+  },
+  "question_number": 11,
+  "content_markdown": "A mass on the end of a spring undergoes simple harmonic motion about an equilibrium position as shown below.\n\nIf the upward direction is taken as positive, which graph best represents how the **acceleration** of the mass varies with **displacement** from the equilibrium position?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A mass hanging from a vertical spring attached to a ceiling. A dashed line indicates the equilibrium position. An arrow labeled 'Displacement' points upwards from the equilibrium line.",
+    "labels_to_preserve": [
+      "Displacement",
+      "Equilibrium position",
+      "Acceleration"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A graph showing a sinusoidal curve starting at the origin, going positive for negative displacement and negative for positive displacement."
+    },
+    {
+      "label": "B",
+      "text": "A graph showing a sinusoidal curve starting at the origin, going negative for negative displacement and positive for positive displacement."
+    },
+    {
+      "label": "C",
+      "text": "A graph showing a straight line with a positive gradient passing through the origin."
+    },
+    {
+      "label": "D",
+      "text": "A graph showing a straight line with a negative gradient passing through the origin."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The defining characteristic of Simple Harmonic Motion (SHM) is that the acceleration $a$ is directly proportional to the displacement $x$ and directed towards the equilibrium position. This is expressed mathematically as $a = -\\omega^2 x$. This relationship is linear (a straight line) and has a negative gradient because the acceleration always opposes the displacement.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2002 HL Q11 D.png"
+}

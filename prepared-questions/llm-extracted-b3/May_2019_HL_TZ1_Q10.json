@@ -1,0 +1,43 @@
+{
+  "id": "May_2019_HL_TZ1_Q10",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ1 Q10 C.png"
+  },
+  "question_number": 10,
+  "content_markdown": "A gas storage tank of fixed volume $V$ contains $N$ molecules of an ideal gas at temperature $T$. The pressure at kelvin temperature $T$ is $20\\text{ MPa}$. $\\frac{N}{4}$ molecules are removed and the temperature changed to $2T$. What is the new pressure of the gas?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "10 MPa"
+    },
+    {
+      "label": "B",
+      "text": "15 MPa"
+    },
+    {
+      "label": "C",
+      "text": "30 MPa"
+    },
+    {
+      "label": "D",
+      "text": "40 MPa"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Using the ideal gas law in the form $PV = NkT$, we know that $P \\propto NT$ since $V$ and $k$ are constant. Initially, $P_1 \\propto N \\times T = 20\\text{ MPa}$. After removing $\\frac{N}{4}$ molecules, the new number of molecules is $N_2 = N - \\frac{N}{4} = \\frac{3}{4}N$. The new temperature is $T_2 = 2T$. Therefore, the new pressure $P_2 \\propto \\frac{3}{4}N \\times 2T = \\frac{3}{2}NT$. Since $NT$ corresponds to $20\\text{ MPa}$, $P_2 = \\frac{3}{2} \\times 20\\text{ MPa} = 30\\text{ MPa}$.",
+  "source_image_path": "B3-Gas-Laws/May 2019 HL TZ1 Q10 C.png"
+}

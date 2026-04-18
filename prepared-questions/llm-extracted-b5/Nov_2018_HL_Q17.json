@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2018_HL_Q17",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2018,
+    "month": "Nov",
+    "session_label": "Nov 2018",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2018 HL Q17 C.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A combination of four identical resistors each of resistance $R$ are connected to a source of emf $\\varepsilon$ of negligible internal resistance. What is the current in the resistor X?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a battery with emf epsilon connected to a network of four resistors. One resistor is in series with a parallel combination. The parallel combination consists of two branches: the top branch has two resistors in series, and the bottom branch has one resistor labeled X.",
+    "labels_to_preserve": [
+      "\\varepsilon",
+      "X"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{\\varepsilon}{5R}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{3\\varepsilon}{10R}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{2\\varepsilon}{5R}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{3\\varepsilon}{5R}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "First, identify the circuit structure: there is one resistor in series with a parallel network. The parallel network has two branches: one with two resistors in series ($2R$) and one with resistor X ($R$). The equivalent resistance of the parallel part is $(1/2R + 1/R)^{-1} = 2R/3$. The total resistance of the circuit is $R + 2R/3 = 5R/3$. The total current from the source is $I_{total} = \\varepsilon / (5R/3) = 3\\varepsilon/5R$. Using the current divider rule, the current through resistor X (the $R$ branch) is $I_X = I_{total} \\times \\frac{2R}{2R + R} = \\frac{3\\varepsilon}{5R} \\times \\frac{2}{3} = \\frac{2\\varepsilon}{5R}$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2018 HL Q17 C.png"
+}

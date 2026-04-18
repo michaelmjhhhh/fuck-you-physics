@@ -1,0 +1,49 @@
+{
+  "id": "Nov_2000_HL_Q26",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2000,
+    "month": "Nov",
+    "session_label": "Nov 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2000 HL Q26 C.png"
+  },
+  "question_number": 26,
+  "content_markdown": "In the diagram the voltmeter V has a resistance of $100\\text{ k}\\Omega$ and is connected such as to measure the potential difference across the $100\\text{ k}\\Omega$ resistor. The battery has an emf of $5.0\\text{ V}$ and negligible internal resistance.\n\nThe reading on the voltmeter will be",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a 5.0 V battery connected in series with a 200 kOhm resistor and a parallel combination of a 100 kOhm resistor and a voltmeter with 100 kOhm resistance.",
+    "labels_to_preserve": [
+      "5.0 V",
+      "200 k\\Omega",
+      "100 k\\Omega",
+      "V",
+      "100 k\\Omega"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "4.0 V."
+    },
+    {
+      "label": "B",
+      "text": "2.5 V."
+    },
+    {
+      "label": "C",
+      "text": "1.0 V."
+    },
+    {
+      "label": "D",
+      "text": "zero."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "First, calculate the equivalent resistance of the parallel section (the $100\\text{ k}\\Omega$ resistor and the $100\\text{ k}\\Omega$ voltmeter). Two identical resistors in parallel have a combined resistance of half their value, so $R_p = 50\\text{ k}\\Omega$. Now, the circuit is a potential divider with a $200\\text{ k}\\Omega$ resistor in series with a $50\\text{ k}\\Omega$ equivalent resistance. The total resistance is $250\\text{ k}\\Omega$. The voltage across the parallel section (the voltmeter reading) is $V = 5.0\\text{ V} \\times \\frac{50\\text{ k}\\Omega}{200\\text{ k}\\Omega + 50\\text{ k}\\Omega} = 5.0 \\times \\frac{50}{250} = 5.0 \\times \\frac{1}{5} = 1.0\\text{ V}$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2000 HL Q26 C.png"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "May_2010_HL_TZ2_Q10",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ2 Q10 B.png"
+  },
+  "question_number": 10,
+  "content_markdown": "The graphs show how the acceleration $a$ of four different particles varies with their displacement $x$. Which of the particles is executing simple harmonic motion?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs labeled A, B, C, and D showing acceleration 'a' on the vertical axis versus displacement 'x' on the horizontal axis. Graph A is a straight line with a positive gradient passing through the origin. Graph B is a straight line with a negative gradient passing through the origin. Graph C is an ellipse centered at the origin. Graph D is a sinusoidal-like curve with a negative gradient at the origin.",
+    "labels_to_preserve": [
+      "a",
+      "x",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Simple Harmonic Motion (SHM) is defined by the relationship $a = -\\omega^2 x$. This means the acceleration must be directly proportional to the displacement and directed towards the equilibrium position (indicated by the negative sign). Graphically, this corresponds to a straight line passing through the origin with a constant negative gradient.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2010 HL TZ2 Q10 B.png"
+}

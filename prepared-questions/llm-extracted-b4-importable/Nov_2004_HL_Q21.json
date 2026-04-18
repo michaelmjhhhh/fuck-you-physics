@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2004_HL_Q21",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2004,
+    "month": "Nov",
+    "session_label": "Nov 2004",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2004 HL Q21 D.png"
+  },
+  "question_number": 21,
+  "content_markdown": "A Carnot engine takes in thermal energy at kelvin temperature $H$ and rejects some of this energy at kelvin temperature $L$. Which of the following expressions gives the efficiency of the engine?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{L}{H}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{H}{L} - 1$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{H}{L} + 1$"
+    },
+    {
+      "label": "D",
+      "text": "$1 - \\frac{L}{H}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The efficiency of a Carnot engine is defined by the ratio of work output to heat input. For a reversible cycle, this simplifies to $\\eta = 1 - \\frac{T_{cold}}{T_{hot}}$. In this specific problem, the hot reservoir temperature is $H$ and the cold reservoir temperature is $L$, leading directly to the expression $1 - \\frac{L}{H}$.",
+  "source_image_path": "B4-Thermodynamics/Nov 2004 HL Q21 D.png"
+}

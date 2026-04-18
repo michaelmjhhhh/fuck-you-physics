@@ -1,0 +1,48 @@
+{
+  "id": "Specimen_2025_HL_Q4",
+  "topic": "Rigid Body Mechanics",
+  "topic_code": "A4",
+  "sub_topic": "Rigid Body Mechanics",
+  "paper": {
+    "year": 2025,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2025",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2025 HL Q4 D.png"
+  },
+  "question_number": 4,
+  "content_markdown": "A disc of mass $M$ and radius $R$ is on a horizontal frictionless table. Two equal and opposite forces, each of magnitude $F$, act on the disc. The moment of inertia of the disc about its axis is $\\frac{1}{2}MR^2$.\n\nWhat is the angular acceleration of the disc?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A plan view of a circular disc with a central axis. Two forces of magnitude F are applied tangentially at opposite ends of a diameter, pointing in opposite directions to create a clockwise torque.",
+    "labels_to_preserve": [
+      "F",
+      "axis",
+      "disc",
+      "plan view"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{F}{MR}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{2F}{MR}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{4F}{MR}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The net torque $\\tau$ is the sum of the torques from both forces. Since both forces act at distance $R$ and tend to rotate the disc in the same direction, $\\tau = F \\cdot R + F \\cdot R = 2FR$. Using Newton's second law for rotation, $\\tau = I\\alpha$, we have $2FR = (\\frac{1}{2}MR^2)\\alpha$. Solving for $\\alpha$ gives $\\alpha = \\frac{4FR}{MR^2} = \\frac{4F}{MR}$.",
+  "source_image_path": "A4-Rigid-Body-Mechanics/Specimen Paper 2025 HL Q4 D.png"
+}

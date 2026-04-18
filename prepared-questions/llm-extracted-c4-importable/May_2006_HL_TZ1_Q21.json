@@ -1,0 +1,47 @@
+{
+  "id": "May_2006_HL_TZ1_Q21",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "C.4 Standing Waves and Resonance",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ1 Q21 D.png"
+  },
+  "question_number": 21,
+  "content_markdown": "A bat approaches an insect of wing span length $d$. The bat emits a sound wave. The bat detects the insect if the sound is reflected from the insect.\n\nThe insect will **not** be located if",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a bat emitting incident sound waves (solid arcs) towards an insect with wing span d. Reflected waves (dashed arcs) are shown returning from the insect to the bat.",
+    "labels_to_preserve": [
+      "d",
+      "reflected waves",
+      "incident waves"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the insect’s speed is less than the speed of the sound wave."
+    },
+    {
+      "label": "B",
+      "text": "the insect’s wing beat frequency is greater than the frequency of the sound wave."
+    },
+    {
+      "label": "C",
+      "text": "the length $d$ is much greater than the wavelength of the sound wave."
+    },
+    {
+      "label": "D",
+      "text": "the length $d$ is much smaller than the wavelength of the sound wave."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "For a wave to reflect significantly off an object (and thus be detected), the object's size must be comparable to or larger than the wavelength. If the wavelength is much larger than the object ($d \\ll \\lambda$), the wave will diffract around the object rather than reflecting back to the source, making the object 'invisible' to the bat's sonar.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2006 HL TZ1 Q21 D.png"
+}

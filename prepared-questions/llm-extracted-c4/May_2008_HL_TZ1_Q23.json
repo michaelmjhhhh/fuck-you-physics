@@ -1,0 +1,43 @@
+{
+  "id": "May_2008_HL_TZ1_Q23",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2008,
+    "month": "May",
+    "session_label": "May 2008",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2008 HL TZ1 23 D.png"
+  },
+  "question_number": 23,
+  "content_markdown": "Which statement is true for standing (stationary) waves?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "All points in the wave vibrate in phase."
+    },
+    {
+      "label": "B",
+      "text": "There is no energy in a standing wave."
+    },
+    {
+      "label": "C",
+      "text": "The wavelength of the wave is the distance between adjacent nodes."
+    },
+    {
+      "label": "D",
+      "text": "Neighbouring points in the wave have different amplitudes of vibration."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In a standing wave, the amplitude varies from zero at the nodes to a maximum at the antinodes. Therefore, adjacent (neighbouring) points along the medium will generally have different amplitudes of vibration. Option A is incorrect because points in adjacent loops are $180^\\circ$ out of phase. Option B is incorrect because standing waves store energy, even if they don't transfer it. Option C is incorrect because the distance between adjacent nodes is half a wavelength ($\\lambda/2$).",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2008 HL TZ1 23 D.png"
+}

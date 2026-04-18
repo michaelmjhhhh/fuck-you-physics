@@ -1,0 +1,43 @@
+{
+  "id": "May_2001_HL_Q26",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2001,
+    "month": "May",
+    "session_label": "May 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2001 HL Q26 D.png"
+  },
+  "question_number": 26,
+  "content_markdown": "When two bodies are in contact, the **direction** of thermal energy transfer depends on their",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "surface areas."
+    },
+    {
+      "label": "B",
+      "text": "masses."
+    },
+    {
+      "label": "C",
+      "text": "specific heat capacities."
+    },
+    {
+      "label": "D",
+      "text": "temperatures."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Thermal energy naturally flows from a region of higher temperature to a region of lower temperature until thermal equilibrium is reached. While factors like surface area and mass affect the rate of transfer or the total energy stored, only the temperature difference determines the direction of the net flow.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2001 HL Q26 D.png"
+}

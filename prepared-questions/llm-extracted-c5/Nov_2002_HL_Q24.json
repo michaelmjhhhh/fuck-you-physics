@@ -1,0 +1,49 @@
+{
+  "id": "Nov_2002_HL_Q24",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2002,
+    "month": "Nov",
+    "session_label": "Nov 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2002 HL Q24 B.png"
+  },
+  "question_number": 24,
+  "content_markdown": "The diagram below represents the wavefronts spreading out from a moving source of sound S. The positions of four observers are also shown. If the frequency of the source is $f$, which observer hears a sound closest in value to this frequency when the source is at the position shown?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A series of non-concentric circular wavefronts produced by a source S moving to the right. Four observers A, B, C, and D are positioned around the source. A is directly in front of the source's motion, D is directly behind, and B and C are at various angles.",
+    "labels_to_preserve": [
+      "S",
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The Doppler effect shifts the observed frequency based on the relative velocity between the source and the observer. The frequency shift is greatest along the line of motion (A and D) and smallest when the observer is perpendicular to the direction of motion. In this diagram, the spacing between wavefronts at position B is most similar to the 'average' spacing (undistorted wavelength), indicating the smallest frequency shift.",
+  "source_image_path": "C5-Doppler-Effect/Nov 2002 HL Q24 B.png"
+}

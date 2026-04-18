@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2009_HL_Q22",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Resistance and Resistivity",
+  "paper": {
+    "year": 2009,
+    "month": "Nov",
+    "session_label": "Nov 2009",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2009 HL Q22 B.png"
+  },
+  "question_number": 22,
+  "content_markdown": "A cylindrical conductor of length $l$, diameter $D$ and resistivity $\\rho$ has resistance $R$. A different cylindrical conductor of resistivity $2\\rho$, length $2l$ and diameter $2D$ has a resistance",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$2R$"
+    },
+    {
+      "label": "B",
+      "text": "$R$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{R}{2}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{R}{4}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Resistance is given by $R = \\rho \\frac{L}{A}$. Since the cross-sectional area $A$ is proportional to the square of the diameter ($A = \\pi (D/2)^2$), doubling the diameter increases the area by a factor of 4. For the second conductor, the new resistance $R'$ is calculated as $R' = (2\\rho) \\frac{2l}{4A} = \\frac{4}{4} \\rho \\frac{l}{A} = R$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2009 HL Q22 B.png"
+}

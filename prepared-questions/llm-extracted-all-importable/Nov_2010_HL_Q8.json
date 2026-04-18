@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2010_HL_Q8",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2010,
+    "month": "Nov",
+    "session_label": "Nov 2010",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2010 HL Q8 A.png"
+  },
+  "question_number": 8,
+  "content_markdown": "A system consists of an ice cube placed in a cup of water. The system is thermally insulated from its surroundings. The water is originally at $20^{\\circ}\\text{C}$. Which graph best shows the variation of total internal energy $U$ of the system with time $t$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs showing internal energy U versus time t. Graph A shows a horizontal line. Graph B shows an increasing curve with increasing gradient. Graph C shows a decreasing curve with decreasing gradient. Graph D shows an increasing straight line.",
+    "labels_to_preserve": [
+      "U",
+      "t",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A horizontal line showing constant internal energy over time."
+    },
+    {
+      "label": "B",
+      "text": "A curve showing internal energy increasing at an increasing rate over time."
+    },
+    {
+      "label": "C",
+      "text": "A curve showing internal energy decreasing over time."
+    },
+    {
+      "label": "D",
+      "text": "A straight line showing internal energy increasing at a constant rate over time."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The key phrase is 'thermally insulated from its surroundings'. According to the First Law of Thermodynamics, if no heat enters or leaves the system ($Q=0$) and no work is done on or by the system ($W=0$), the change in internal energy $\\Delta U$ must be zero. Therefore, the total internal energy $U$ remains constant regardless of the phase changes or temperature changes occurring internally between the ice and the water.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2010 HL Q8 A.png"
+}

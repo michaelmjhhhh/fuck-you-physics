@@ -1,0 +1,49 @@
+{
+  "id": "May_2010_HL_TZ1_Q20",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "C.2 Wave Model - Single Slit Diffraction",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ1 Q20 A.png"
+  },
+  "question_number": 20,
+  "content_markdown": "A beam of coherent light is incident on a single slit of width $b$. After passing through the slit, the light is incident on a screen at a distance $D$ from the slit.\n\nWhich of the following changes, carried out separately, in respect of $b$ and $D$ will result in an increase in width of the first diffraction maximum formed on the screen?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing incident light rays hitting a single slit of width b, with a screen located at a distance D from the slit.",
+    "labels_to_preserve": [
+      "b",
+      "D",
+      "incident light",
+      "single slit",
+      "screen"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "b: decrease; D: increase"
+    },
+    {
+      "label": "B",
+      "text": "b: increase; D: increase"
+    },
+    {
+      "label": "C",
+      "text": "b: decrease; D: decrease"
+    },
+    {
+      "label": "D",
+      "text": "b: increase; D: decrease"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The angular width of the central maximum in single-slit diffraction is given by $\\theta \\approx \\frac{\\lambda}{b}$. The linear width on the screen is proportional to $D\\theta$, which is approximately $\\frac{D\\lambda}{b}$. Therefore, to increase the width, you must either increase the distance to the screen $D$ or decrease the slit width $b$.",
+  "source_image_path": "C2-Wave-Model/May 2010 HL TZ1 Q20 A.png"
+}

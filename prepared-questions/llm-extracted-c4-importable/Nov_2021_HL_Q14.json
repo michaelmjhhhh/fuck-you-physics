@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2021_HL_Q14",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2021,
+    "month": "Nov",
+    "session_label": "Nov 2021",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2021 HL Q14 D.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A string is fixed at both ends. P and Q are two particles on the string.\n\nThe first harmonic standing wave is formed in the string. What is correct about the motion of P and Q?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A horizontal line representing a string fixed at both ends with two points, P and Q, marked on it. P is closer to the center and Q is further to the right.",
+    "labels_to_preserve": [
+      "P",
+      "Q"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "P is a node and Q is an antinode."
+    },
+    {
+      "label": "B",
+      "text": "P is an antinode and Q is a node."
+    },
+    {
+      "label": "C",
+      "text": "P and Q oscillate with the same amplitude."
+    },
+    {
+      "label": "D",
+      "text": "P and Q oscillate with the same frequency."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In a standing wave, all particles (except nodes) oscillate with the same frequency, which is the frequency of the driving source or the natural frequency of the mode. However, the amplitude varies depending on the position along the string (nodes have zero amplitude, antinodes have maximum). In the first harmonic of a string fixed at both ends, the only nodes are at the ends, so P and Q must oscillate with the same frequency but different amplitudes.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2021 HL Q14 D.png"
+}

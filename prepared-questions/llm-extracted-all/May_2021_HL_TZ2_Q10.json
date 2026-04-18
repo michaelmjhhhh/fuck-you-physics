@@ -1,0 +1,43 @@
+{
+  "id": "May_2021_HL_TZ2_Q10",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ2 Q10 D.png"
+  },
+  "question_number": 10,
+  "content_markdown": "A piece of metal at a temperature of $100\\,^{\\circ}\\text{C}$ is dropped into an equal mass of water at a temperature of $15\\,^{\\circ}\\text{C}$ in a container of negligible mass. The specific heat capacity of water is four times that of the metal. What is the final temperature of the mixture?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$83\\,^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "B",
+      "text": "$57\\,^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "C",
+      "text": "$45\\,^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "D",
+      "text": "$32\\,^{\\circ}\\text{C}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Using the principle of conservation of energy, the heat lost by the metal equals the heat gained by the water: $m c_m (100 - T_f) = m c_w (T_f - 15)$. Since the masses are equal and $c_w = 4c_m$, the equation simplifies to $100 - T_f = 4(T_f - 15)$. Solving for $T_f$: $100 - T_f = 4T_f - 60$, which leads to $160 = 5T_f$, so $T_f = 32\\,^{\\circ}\\text{C}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2021 HL TZ2 Q10 D.png"
+}

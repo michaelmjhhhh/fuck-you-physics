@@ -1,0 +1,46 @@
+{
+  "id": "May_2021_HL_TZ2_Q9",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ2 Q9 C.png"
+  },
+  "question_number": 9,
+  "content_markdown": "Two identical containers X and Y each contain an ideal gas. X has $N$ molecules of gas at an absolute temperature of $T$ and Y has $3N$ molecules of gas at an absolute temperature of $\\frac{T}{2}$.\n\nWhat is the ratio of the pressures $\\frac{P_Y}{P_X}$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two identical rectangular grey boxes labeled X and Y.",
+    "labels_to_preserve": [
+      "X",
+      "Y"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{6}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{2}{3}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{3}{2}$"
+    },
+    {
+      "label": "D",
+      "text": "6"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Using the ideal gas law $PV = NkT$, since the containers are identical, the volume $V$ is constant. Therefore, pressure $P$ is proportional to $N \\times T$. For container X, $P_X \\propto N \\times T$. For container Y, $P_Y \\propto 3N \\times \\frac{T}{2} = 1.5 NT$. The ratio $\\frac{P_Y}{P_X}$ is $\\frac{1.5 NT}{NT} = 1.5$, which is $\\frac{3}{2}$.",
+  "source_image_path": "B3-Gas-Laws/May 2021 HL TZ2 Q9 C.png"
+}

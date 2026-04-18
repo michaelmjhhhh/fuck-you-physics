@@ -1,0 +1,46 @@
+{
+  "id": "May_2008_HL_TZ2_Q17",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2008,
+    "month": "May",
+    "session_label": "May 2008",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2008 HL TZ2 17 B.png"
+  },
+  "question_number": 17,
+  "content_markdown": "The graph below shows the variation with absolute temperature $T$ of the pressure $p$ of one mole of an ideal gas having a volume $V$. $R$ is the molar gas constant.\n\nWhich of the following is the best interpretation of the intercept on the temperature axis and the gradient of the graph?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph showing pressure p on the y-axis and absolute temperature T on the x-axis. A straight line with a positive gradient is shown in the first quadrant, which if extrapolated backwards would point towards the origin.",
+    "labels_to_preserve": [
+      "p",
+      "T"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Intercept on temperature axis / K: $-273$; Gradient of graph: $\\frac{R}{V}$"
+    },
+    {
+      "label": "B",
+      "text": "Intercept on temperature axis / K: $0$; Gradient of graph: $\\frac{R}{V}$"
+    },
+    {
+      "label": "C",
+      "text": "Intercept on temperature axis / K: $0$; Gradient of graph: $\\frac{V}{R}$"
+    },
+    {
+      "label": "D",
+      "text": "Intercept on temperature axis / K: $-273$; Gradient of graph: $\\frac{V}{R}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "According to the ideal gas law $pV = nRT$, for one mole ($n=1$), we have $p = \\frac{R}{V}T$. This is in the form $y = mx + c$ where $y=p$ and $x=T$. Since $T$ is the absolute temperature in Kelvin, the pressure $p$ is directly proportional to $T$, meaning the line passes through the origin $(0,0)$. Therefore, the intercept on the temperature axis is $0$ K. The gradient $m$ is the coefficient of $T$, which is $\\frac{R}{V}$.",
+  "source_image_path": "B3-Gas-Laws/May 2008 HL TZ2 17 B.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2004_HL_TZ2_Q16",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ2 Q16 A.png"
+  },
+  "question_number": 16,
+  "content_markdown": "The equation of state for an ideal gas, $pV = nRT$, describes the behaviour of real gases",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "only at low pressures and large volumes."
+    },
+    {
+      "label": "B",
+      "text": "only at high temperatures."
+    },
+    {
+      "label": "C",
+      "text": "only at large volumes and large pressures."
+    },
+    {
+      "label": "D",
+      "text": "at all pressures and volumes."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Real gases approximate ideal behavior when the molecules are far apart and moving fast enough that intermolecular forces are negligible. This occurs at low pressure (which implies large volume) and high temperature. While high temperature is a factor, the most standard condition for the validity of the ideal gas law in this context is low pressure and large volume, where the volume of the molecules themselves is negligible compared to the container volume.",
+  "source_image_path": "B3-Gas-Laws/May 2004 HL TZ2 Q16 A.png"
+}

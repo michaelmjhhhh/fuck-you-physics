@@ -1,0 +1,52 @@
+{
+  "id": "Nov_2019_HL_Q11",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2019,
+    "month": "Nov",
+    "session_label": "Nov 2019",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2019 HL Q11 C.png"
+  },
+  "question_number": 11,
+  "content_markdown": "A transverse travelling wave is moving through a medium. The graph shows, for one instant, the variation with distance of the displacement of particles in the medium.\n\nThe frequency of the wave is $25\\text{ Hz}$ and the speed of the wave is $100\\text{ m s}^{-1}$. What is correct for this wave?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A displacement-distance graph for a transverse wave showing one and a half cycles. Point X is at the first peak, point Y is at the first trough, and point Z is at the second equilibrium crossing (zero displacement) after the first trough.",
+    "labels_to_preserve": [
+      "displacement",
+      "distance",
+      "up",
+      "down",
+      "0",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The particles at X and Y are in phase."
+    },
+    {
+      "label": "B",
+      "text": "The velocity of the particle at X is a maximum."
+    },
+    {
+      "label": "C",
+      "text": "The horizontal distance between X and Z is $3.0\\text{ m}$."
+    },
+    {
+      "label": "D",
+      "text": "The velocity of the particle at Y is $100\\text{ m s}^{-1}$."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "First, calculate the wavelength using $\\lambda = v/f = 100/25 = 4.0\\text{ m}$. Looking at the graph, the distance from X (a peak) to Y (a trough) is half a wavelength ($2.0\\text{ m}$), and the distance from Y to Z is a quarter wavelength ($1.0\\text{ m}$). Therefore, the horizontal distance from X to Z is $2.0 + 1.0 = 3.0\\text{ m}$. Note that at peaks (X) and troughs (Y), the instantaneous velocity of the particles is zero, not maximum, and the wave speed is not the same as the particle speed.",
+  "source_image_path": "C2-Wave-Model/Nov 2019 HL Q11 C.png"
+}

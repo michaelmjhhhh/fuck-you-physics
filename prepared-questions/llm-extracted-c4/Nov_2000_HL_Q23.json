@@ -1,0 +1,45 @@
+{
+  "id": "Nov_2000_HL_Q23",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2000,
+    "month": "Nov",
+    "session_label": "Nov 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2000 HL Q23 A.png"
+  },
+  "question_number": 23,
+  "content_markdown": "In the diagram a vibrator attached to a string under tension sets up a standing wave. The string vibrates in the mode shown.\n\nIf the frequency of the vibrator is kept constant by what factor must the tension be changed in order that the next standing wave mode (harmonic) is produced?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a vibrator connected to a string fixed at the other end. The string is vibrating in its fundamental mode (first harmonic), forming a single loop.",
+    "labels_to_preserve": [
+      "Vibrator"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$1/4$"
+    },
+    {
+      "label": "B",
+      "text": "$1/2$"
+    },
+    {
+      "label": "C",
+      "text": "2"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The frequency of a standing wave on a string is given by $f = \\frac{n}{2L}\\sqrt{\\frac{T}{\\mu}}$. The diagram shows the first harmonic ($n=1$). To reach the next harmonic ($n=2$) while keeping frequency $f$ and length $L$ constant, the term $n\\sqrt{T}$ must remain constant. Therefore, $1\\sqrt{T_1} = 2\\sqrt{T_2}$. Squaring both sides gives $T_1 = 4T_2$, which means the new tension $T_2$ must be $1/4$ of the original tension.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2000 HL Q23 A.png"
+}

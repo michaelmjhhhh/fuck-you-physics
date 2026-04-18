@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2012_HL_Q27",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2012,
+    "month": "Nov",
+    "session_label": "Nov 2012",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2012 HL Q27 A.png"
+  },
+  "question_number": 27,
+  "content_markdown": "Which of the following would **not** reduce the effects of the enhanced greenhouse effect?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Replacing natural gas power stations with those using oil"
+    },
+    {
+      "label": "B",
+      "text": "Replacing conventional vehicles with hybrid vehicles"
+    },
+    {
+      "label": "C",
+      "text": "Replacing fossil fuel power stations with those using nuclear fuel"
+    },
+    {
+      "label": "D",
+      "text": "Increasing the use of carbon dioxide capture and storage"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The enhanced greenhouse effect is primarily driven by $CO_2$ emissions. Natural gas is the 'cleanest' fossil fuel in terms of $CO_2$ emitted per unit of energy produced. Switching from natural gas to oil (which has a higher carbon content) would actually increase $CO_2$ emissions, thereby worsening rather than reducing the enhanced greenhouse effect. Options B, C, and D all describe methods that either reduce $CO_2$ production or remove it from the atmosphere.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2012 HL Q27 A.png"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "May_2015_HL_TZ1_Q8",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ1 Q8 D.png"
+  },
+  "question_number": 8,
+  "content_markdown": "A fixed mass of an ideal gas has a constant volume. Two quantities, $R$ and $S$, of the gas vary as shown by the graph below.\n\nWhat quantities do $R$ and $S$ represent?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A linear graph showing quantity R on the vertical axis and quantity S on the horizontal axis. The line has a positive gradient and a negative y-intercept. The line crosses the S-axis at a positive value of S.",
+    "labels_to_preserve": [
+      "R",
+      "S",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "R: pressure; S: temperature in kelvin"
+    },
+    {
+      "label": "B",
+      "text": "R: pressure; S: temperature in degree Celsius"
+    },
+    {
+      "label": "C",
+      "text": "R: temperature in kelvin; S: pressure"
+    },
+    {
+      "label": "D",
+      "text": "R: temperature in degree Celsius; S: pressure"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "According to the ideal gas law $PV = nRT$, at constant volume, pressure is directly proportional to absolute temperature (Kelvin). A graph of $P$ vs $T$ in Kelvin would pass through the origin $(0,0)$. However, the graph shown has a negative y-intercept. If $R$ is pressure and $S$ is temperature in Celsius, the relationship is $P \\propto (T_{Celsius} + 273.15)$, which results in a positive x-intercept (at $-273.15^\\circ\\text{C}$) or a negative y-intercept if the axes are shifted. Conversely, if $R$ is temperature in Celsius and $S$ is pressure, $T_{Celsius} = \\frac{V}{nR}P - 273.15$, which matches a linear graph with a negative y-intercept.",
+  "source_image_path": "B3-Gas-Laws/May 2015 HL TZ1 Q8 D.png"
+}

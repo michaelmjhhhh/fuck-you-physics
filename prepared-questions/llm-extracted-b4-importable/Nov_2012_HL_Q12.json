@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2012_HL_Q12",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Entropy",
+  "paper": {
+    "year": 2012,
+    "month": "Nov",
+    "session_label": "Nov 2012",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2012 HL Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "Water in a container freezes. Which of the following correctly describes the change in entropy of the water and its surroundings?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the change in entropy of water and the change in entropy of surroundings for four options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Change in entropy of water",
+      "Change in entropy of surroundings"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Change in entropy of water: decrease; Change in entropy of surroundings: decrease"
+    },
+    {
+      "label": "B",
+      "text": "Change in entropy of water: decrease; Change in entropy of surroundings: increase"
+    },
+    {
+      "label": "C",
+      "text": "Change in entropy of water: increase; Change in entropy of surroundings: decrease"
+    },
+    {
+      "label": "D",
+      "text": "Change in entropy of water: increase; Change in entropy of surroundings: increase"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "When water freezes, it transitions from a liquid to a more ordered solid state, so its entropy decreases. Freezing is an exothermic process, meaning heat is released into the surroundings. This addition of heat increases the thermal motion and disorder of the surroundings, thus increasing the entropy of the surroundings. Note that the total entropy of the universe must increase or stay constant according to the Second Law of Thermodynamics.",
+  "source_image_path": "B4-Thermodynamics/Nov 2012 HL Q12 B.png"
+}

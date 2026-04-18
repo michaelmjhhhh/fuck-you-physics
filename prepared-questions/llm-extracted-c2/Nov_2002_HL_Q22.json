@@ -1,0 +1,52 @@
+{
+  "id": "Nov_2002_HL_Q22",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2002,
+    "month": "Nov",
+    "session_label": "Nov 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2002 HL Q22 C.png"
+  },
+  "question_number": 22,
+  "content_markdown": "A longitudinal wave travels down a spring. The graph below shows the variation of **displacement with time** for one piece of the spring.\n\nWhich **one** of the following quantities **cannot** be determined from the graph?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A sinusoidal graph showing displacement in cm on the y-axis against time in s on the x-axis. The peak displacement is +1.0 cm and the trough is -1.0 cm. One full cycle is completed at 0.4 s.",
+    "labels_to_preserve": [
+      "Displacement / cm",
+      "Time / s",
+      "+1.0",
+      "0",
+      "-1.0",
+      "0.2",
+      "0.4",
+      "0.6"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The amplitude of the wave"
+    },
+    {
+      "label": "B",
+      "text": "The time period of the oscillations"
+    },
+    {
+      "label": "C",
+      "text": "The speed of the wave"
+    },
+    {
+      "label": "D",
+      "text": "The frequency of the wave"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The graph provides displacement (allowing amplitude to be found) and time (allowing the period $T$ and frequency $f = 1/T$ to be found). However, wave speed $v$ depends on wavelength $\\lambda$ ($v = f\\lambda$), and since the graph is displacement-time (not displacement-distance), the wavelength cannot be determined, making it impossible to calculate the wave speed.",
+  "source_image_path": "C2-Wave-Model/Nov 2002 HL Q22 C.png"
+}

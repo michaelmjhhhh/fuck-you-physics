@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2013_HL_Q12",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave properties",
+  "paper": {
+    "year": 2013,
+    "month": "Nov",
+    "session_label": "Nov 2013",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2013 HL Q12 C.png"
+  },
+  "question_number": 12,
+  "content_markdown": "Which of the following relates the amplitude $A$ of a travelling wave to the intensity $I$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$A \\propto I^{-1}$"
+    },
+    {
+      "label": "B",
+      "text": "$A \\propto I^{-\\frac{1}{2}}$"
+    },
+    {
+      "label": "C",
+      "text": "$A \\propto I^{\\frac{1}{2}}$"
+    },
+    {
+      "label": "D",
+      "text": "$A \\propto I^{2}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In wave physics, the intensity $I$ is directly proportional to the square of the amplitude $A$, expressed as $I \\propto A^2$. To find the relationship for $A$ in terms of $I$, we take the square root of both sides, which gives $A \\propto \\sqrt{I}$, or $A \\propto I^{\\frac{1}{2}}$.",
+  "source_image_path": "C2-Wave-Model/Nov 2013 HL Q12 C.png"
+}

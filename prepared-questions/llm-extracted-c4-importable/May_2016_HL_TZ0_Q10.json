@@ -1,0 +1,43 @@
+{
+  "id": "May_2016_HL_TZ0_Q10",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2016,
+    "month": "May",
+    "session_label": "May 2016",
+    "level": "HL",
+    "timezone": "TZ0",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2016 HL TZ0 Q10 D.png"
+  },
+  "question_number": 10,
+  "content_markdown": "A pipe of length $L$ has two open ends. Another pipe of length $L'$ has one open end and one closed end.\n\nThe frequency of the first harmonic of both pipes is the same. What is $\\frac{L'}{L}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "2"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{3}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "1"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{1}{2}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "For a pipe open at both ends, the fundamental frequency is $f = \\frac{v}{2L}$. For a pipe closed at one end, the fundamental frequency is $f' = \\frac{v}{4L'}$. Setting $f = f'$ gives $\\frac{v}{2L} = \\frac{v}{4L'}$, which simplifies to $2L = 4L'$, or $\\frac{L'}{L} = \\frac{2}{4} = \\frac{1}{2}$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2016 HL TZ0 Q10 D.png"
+}

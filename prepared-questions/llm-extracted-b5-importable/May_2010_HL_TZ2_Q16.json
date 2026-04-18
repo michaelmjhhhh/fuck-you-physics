@@ -1,0 +1,49 @@
+{
+  "id": "May_2010_HL_TZ2_Q16",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ2 Q16 A.png"
+  },
+  "question_number": 16,
+  "content_markdown": "The graph shows how the current $I$ in a resistor varies with the voltage $V$ applied across it.\n\nWhich of the following gives the resistance of the resistor, when $I = I_1$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph of Current I (y-axis) against Voltage V (x-axis). The curve starts at the origin (0,0) and curves downwards (decreasing gradient). A specific point is marked with coordinates (V1, I1).",
+    "labels_to_preserve": [
+      "I",
+      "V",
+      "I_1",
+      "V_1",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{V_1}{I_1}$"
+    },
+    {
+      "label": "B",
+      "text": "The slope of the curve at the point $(V_1, I_1)$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{I_1}{V_1}$"
+    },
+    {
+      "label": "D",
+      "text": "The inverse of the slope of the curve at the point $(V_1, I_1)$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Resistance is defined by Ohm's Law as the ratio of potential difference to current at a specific point, $R = V/I$. While the slope of an I-V graph relates to conductance (or differential resistance if taking the derivative), the absolute resistance at any specific state is simply the ratio of the coordinates $V_1$ and $I_1$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2010 HL TZ2 Q16 A.png"
+}

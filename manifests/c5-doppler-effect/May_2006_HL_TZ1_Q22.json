@@ -1,0 +1,26 @@
+{
+  "id": "May_2006_HL_TZ1_Q22",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ1 Q22 B.png"
+  },
+  "question_number": 22,
+  "correct_answer": "B",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "C5-Doppler-Effect/May 2006 HL TZ1 Q22 B.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

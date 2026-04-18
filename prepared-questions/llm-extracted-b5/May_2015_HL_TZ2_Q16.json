@@ -1,0 +1,50 @@
+{
+  "id": "May_2015_HL_TZ2_Q16",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Resistance and Resistivity",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ2 Q16 D.png"
+  },
+  "question_number": 16,
+  "content_markdown": "Two cylindrical copper wires, $W_1$ and $W_2$, are held at the same temperature. $W_2$ is twice as long and has half the diameter of $W_1$.\n\nWhat is the ratio $\\frac{\\text{resistance of } W_2}{\\text{resistance of } W_1}$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two horizontal cylindrical wires labeled W1 and W2. W1 has length l and diameter d. W2 has length 2l and diameter d/2.",
+    "labels_to_preserve": [
+      "W_1",
+      "W_2",
+      "l",
+      "2l",
+      "d",
+      "d/2"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "1"
+    },
+    {
+      "label": "B",
+      "text": "2"
+    },
+    {
+      "label": "C",
+      "text": "4"
+    },
+    {
+      "label": "D",
+      "text": "8"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Resistance is given by $R = \\rho \\frac{L}{A}$. Since the area $A$ of a circle is proportional to the square of the diameter ($A \\propto d^2$), the resistance is proportional to length and inversely proportional to the square of the diameter ($R \\propto \\frac{L}{d^2}$). For $W_2$, the length is $2L$ and the diameter is $d/2$. Thus, the ratio of resistances is $\\frac{R_2}{R_1} = \\frac{2L}{(d/2)^2} / \\frac{L}{d^2} = \\frac{2}{1/4} = 8$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2015 HL TZ2 Q16 D.png"
+}

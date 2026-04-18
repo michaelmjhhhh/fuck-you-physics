@@ -1,0 +1,26 @@
+{
+  "id": "Specimen_2016_HL_Q14",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "",
+  "paper": {
+    "year": 2016,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2016 HL Q14 C.png"
+  },
+  "question_number": 14,
+  "correct_answer": "C",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Specimen Paper 2016 HL Q14 C.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

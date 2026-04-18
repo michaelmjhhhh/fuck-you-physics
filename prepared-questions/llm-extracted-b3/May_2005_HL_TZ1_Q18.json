@@ -1,0 +1,43 @@
+{
+  "id": "May_2005_HL_TZ1_Q18",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ1 Q18 D.png"
+  },
+  "question_number": 18,
+  "content_markdown": "The equation of state of an ideal gas is\n\n$$pV = nRT.$$\n\nIn this equation, the constant $n$ is the number of",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "atoms in the gas."
+    },
+    {
+      "label": "B",
+      "text": "molecules in the gas."
+    },
+    {
+      "label": "C",
+      "text": "particles in the gas."
+    },
+    {
+      "label": "D",
+      "text": "moles of the gas."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In the ideal gas law equation $pV = nRT$, the variable $n$ specifically represents the amount of substance in moles. If the equation used the Boltzmann constant $k_B$ instead of the universal gas constant $R$ (i.e., $pV = N k_B T$), then $N$ would represent the number of molecules/particles.",
+  "source_image_path": "B3-Gas-Laws/May 2005 HL TZ1 Q18 D.png"
+}

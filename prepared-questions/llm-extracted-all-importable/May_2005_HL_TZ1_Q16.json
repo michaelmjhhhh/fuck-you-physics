@@ -1,0 +1,50 @@
+{
+  "id": "May_2005_HL_TZ1_Q16",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ1 Q16 C.png"
+  },
+  "question_number": 16,
+  "content_markdown": "Three bodies X, Y and Z are at temperatures $\\theta_{\\text{X}}$, $\\theta_{\\text{Y}}$ and $\\theta_{\\text{Z}}$ respectively. Thermal energy passes freely from Y to X and also from Z to X, as illustrated below.\n\nThe direction of flow of thermal energy, if any, between Y and Z is unknown.\n\nWhat can be deduced about the temperatures $\\theta_{\\text{X}}$, $\\theta_{\\text{Y}}$ and $\\theta_{\\text{Z}}$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing three circles labeled X, Y, and Z. Arrows indicate the flow of thermal energy from Y to X and from Z to X. The temperatures are labeled next to each circle.",
+    "labels_to_preserve": [
+      "X",
+      "Y",
+      "Z",
+      "\\theta_{\\text{X}}",
+      "\\theta_{\\text{Y}}",
+      "\\theta_{\\text{Z}}"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\theta_{\\text{X}} = (\\theta_{\\text{Y}} + \\theta_{\\text{Z}})$"
+    },
+    {
+      "label": "B",
+      "text": "$\\theta_{\\text{Y}} = \\theta_{\\text{Z}}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\theta_{\\text{Y}} \u003e \\theta_{\\text{X}}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\theta_{\\text{X}} \u003e \\theta_{\\text{Z}}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Thermal energy naturally flows from a body at a higher temperature to a body at a lower temperature. Since energy flows from Y to X, it must be that $\\theta_{\\text{Y}} \u003e \\theta_{\\text{X}}$. Similarly, since energy flows from Z to X, it must be that $\\theta_{\\text{Z}} \u003e \\theta_{\\text{X}}$. Option C is the only statement that must be true based on these observations.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2005 HL TZ1 Q16 C.png"
+}

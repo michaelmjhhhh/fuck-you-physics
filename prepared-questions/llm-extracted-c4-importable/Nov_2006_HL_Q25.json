@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2006_HL_Q25",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2006,
+    "month": "Nov",
+    "session_label": "Nov 2006",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2006 HL Q25 A.png"
+  },
+  "question_number": 25,
+  "content_markdown": "A source of sound is placed near the open end of a cylindrical tube that lies on a horizontal table. The tube has some powder sprinkled along its length. The powder collects in piles along the length of the tube as shown below.\n\nThe distance between two consecutive piles of powder is $d$ and the speed of sound in the tube is $v$. The frequency of the source is",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a source of sound at the open end of a horizontal tube. Inside the tube, powder has formed into several small piles. The distance between the peaks of two adjacent piles is labeled as d.",
+    "labels_to_preserve": [
+      "source of sound",
+      "d"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{v}{2d}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{v}{d}$"
+    },
+    {
+      "label": "C",
+      "text": "$dv$"
+    },
+    {
+      "label": "D",
+      "text": "$2dv$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In a standing wave, powder collects at the nodes (where there is no air displacement). The distance between two consecutive nodes is equal to half a wavelength ($\\frac{\\lambda}{2}$). Therefore, $d = \\frac{\\lambda}{2}$, which means $\\lambda = 2d$. Using the wave equation $v = f\\lambda$, we can solve for frequency: $f = \\frac{v}{\\lambda} = \\frac{v}{2d}$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2006 HL Q25 A.png"
+}

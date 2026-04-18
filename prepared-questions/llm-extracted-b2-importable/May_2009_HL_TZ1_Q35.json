@@ -1,0 +1,43 @@
+{
+  "id": "May_2009_HL_TZ1_Q35",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ1 Q35 D.png"
+  },
+  "question_number": 35,
+  "content_markdown": "Greenhouse gases",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "reflect infrared radiation but absorb ultraviolet radiation."
+    },
+    {
+      "label": "B",
+      "text": "reflect ultraviolet radiation but absorb infrared radiation."
+    },
+    {
+      "label": "C",
+      "text": "transmit infrared radiation but absorb ultraviolet radiation."
+    },
+    {
+      "label": "D",
+      "text": "transmit ultraviolet radiation but absorb infrared radiation."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The greenhouse effect relies on the fact that greenhouse gases are transparent to incoming short-wave radiation (like visible and UV) from the Sun, allowing it to reach the Earth's surface. However, they are highly effective at absorbing long-wave (infrared) radiation emitted by the Earth's surface, trapping heat in the atmosphere.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2009 HL TZ1 Q35 D.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2000_HL_Q21",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2000,
+    "month": "May",
+    "session_label": "May 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2000 HL Q21 B.png"
+  },
+  "question_number": 21,
+  "content_markdown": "For an organ pipe of length $L$, the fundamental frequency is proportional to",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$L$."
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{L}$."
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{1}{\\sqrt{L}}$."
+    },
+    {
+      "label": "D",
+      "text": "$\\sqrt{L}$."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The fundamental frequency $f$ of a standing wave in a pipe is given by $f = \\frac{v}{\\lambda}$. For an organ pipe, the wavelength $\\lambda$ of the fundamental mode is directly proportional to the length $L$ of the pipe (e.g., $\\lambda = 2L$ for an open pipe or $\\lambda = 4L$ for a closed pipe). Therefore, $f \\propto \\frac{1}{L}$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2000 HL Q21 B.png"
+}

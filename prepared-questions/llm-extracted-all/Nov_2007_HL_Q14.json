@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2007_HL_Q14",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2007,
+    "month": "Nov",
+    "session_label": "Nov 2007",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2007 HL Q14 C.png"
+  },
+  "question_number": 14,
+  "content_markdown": "Two bodies are brought into thermal contact with each other. No thermal energy transfer takes place between the bodies. It may be deduced therefore, that the bodies must have the same",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "specific heat capacity."
+    },
+    {
+      "label": "B",
+      "text": "heat capacity."
+    },
+    {
+      "label": "C",
+      "text": "temperature."
+    },
+    {
+      "label": "D",
+      "text": "internal energy."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Thermal equilibrium is defined by the Zeroth Law of Thermodynamics. If two objects are in thermal contact and no net heat flows between them, they must be at the same temperature. Other properties like internal energy or heat capacity depend on the mass and nature of the substance, but temperature is the sole determinant for the direction of thermal energy transfer.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2007 HL Q14 C.png"
+}

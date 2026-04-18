@@ -1,0 +1,49 @@
+{
+  "id": "May_2004_HL_TZ2_Q21",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave properties",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ2 Q21 D.png"
+  },
+  "question_number": 21,
+  "content_markdown": "On which **one** of the following graphs is the wavelength $\\lambda$ and the amplitude $a$ of a wave correctly represented?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs showing displacement versus distance along a wave. Each graph labels wavelength lambda and amplitude a differently.",
+    "labels_to_preserve": [
+      "Displacement",
+      "Distance along wave",
+      "\\lambda",
+      "a",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "To identify the correct graph, we must apply the definitions of wave properties: Wavelength ($\\lambda$) is the distance between two consecutive corresponding points on a wave (such as peak-to-peak or trough-to-trough). Amplitude ($a$) is the maximum displacement from the equilibrium position (the distance from the center line to a peak or a trough, not the total peak-to-trough height). Graph D correctly shows $\\lambda$ as the distance between two adjacent peaks and $a$ as the distance from the equilibrium axis to a trough.",
+  "source_image_path": "C2-Wave-Model/May 2004 HL TZ2 Q21 D.png"
+}

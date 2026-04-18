@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2020_HL_Q17",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric cells and power dissipation",
+  "paper": {
+    "year": 2020,
+    "month": "Nov",
+    "session_label": "Nov 2020",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2020 HL Q17 B.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A power station generates $250\\text{ kW}$ of power at a potential difference of $25\\text{ kV}$. The energy is transmitted through cables of total resistance $4.0\\text{ }\\Omega$.\n\nWhat is the power loss in the cables?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.04 kW"
+    },
+    {
+      "label": "B",
+      "text": "0.4 kW"
+    },
+    {
+      "label": "C",
+      "text": "4 kW"
+    },
+    {
+      "label": "D",
+      "text": "40 kW"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "First, calculate the current $I$ using $P = VI$, which gives $I = \\frac{250\\text{ kW}}{25\\text{ kV}} = 10\\text{ A}$. Then, calculate the power loss in the cables using $P_{\\text{loss}} = I^2 R$. This results in $10^2 \\times 4.0 = 400\\text{ W}$, which is $0.4\\text{ kW}$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2020 HL Q17 B.png"
+}

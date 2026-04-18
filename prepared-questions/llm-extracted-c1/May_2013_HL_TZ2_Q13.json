@@ -1,0 +1,43 @@
+{
+  "id": "May_2013_HL_TZ2_Q13",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ2 Q13 D.png"
+  },
+  "question_number": 13,
+  "content_markdown": "An object undergoes simple harmonic motion with time period $T$ and amplitude $0.5\\text{ m}$. At time $t = 0\\text{ s}$ the displacement of the object is a maximum.\n\nWhat is the displacement of the object at time $t = \\frac{3T}{4}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$-0.50\\text{ m}$"
+    },
+    {
+      "label": "B",
+      "text": "$0.50\\text{ m}$"
+    },
+    {
+      "label": "C",
+      "text": "$0.25\\text{ m}$"
+    },
+    {
+      "label": "D",
+      "text": "$0\\text{ m}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Since the displacement is maximum at $t=0$, the motion follows a cosine function: $x(t) = A \\cos(\\omega t) = A \\cos(\\frac{2\\pi}{T}t)$. Substituting $t = \\frac{3T}{4}$ gives $x = 0.5 \\cos(\\frac{2\\pi}{T} \\cdot \\frac{3T}{4}) = 0.5 \\cos(\\frac{3\\pi}{2})$. Since $\\cos(\\frac{3\\pi}{2}) = 0$, the displacement is $0\\text{ m}$. Conceptually, at three-quarters of a period, the object has moved from maximum positive displacement, through equilibrium, to maximum negative displacement, and back to equilibrium.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2013 HL TZ2 Q13 D.png"
+}

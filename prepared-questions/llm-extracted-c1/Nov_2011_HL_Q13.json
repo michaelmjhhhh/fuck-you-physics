@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2011_HL_Q13",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2011,
+    "month": "Nov",
+    "session_label": "Nov 2011",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2011 HL Q13 B.png"
+  },
+  "question_number": 13,
+  "content_markdown": "The diagram shows the variation of velocity $v$ with time $t$ for an object performing simple harmonic motion.\n\nWhich of the following shows how the acceleration $a$ varies with $t$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph of velocity v against time t starting at the origin (0,0) and following a sine wave pattern.",
+    "labels_to_preserve": [
+      "v",
+      "t",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A graph of acceleration a against time t starting at (0,0) and following a sine wave pattern."
+    },
+    {
+      "label": "B",
+      "text": "A graph of acceleration a against time t starting at a maximum positive value and following a cosine wave pattern."
+    },
+    {
+      "label": "C",
+      "text": "A graph of acceleration a against time t starting at (0,0) and following a negative sine wave pattern."
+    },
+    {
+      "label": "D",
+      "text": "A graph of acceleration a against time t starting at a maximum negative value and following a negative cosine wave pattern."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Acceleration is the derivative of velocity with respect to time ($a = \\frac{dv}{dt}$). In the provided $v-t$ graph, the velocity starts at zero and has its maximum positive gradient at $t=0$. Therefore, the acceleration graph must start at its maximum positive value at $t=0$, which corresponds to a cosine function.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2011 HL Q13 B.png"
+}

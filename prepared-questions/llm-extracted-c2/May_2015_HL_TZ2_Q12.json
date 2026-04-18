@@ -1,0 +1,46 @@
+{
+  "id": "May_2015_HL_TZ2_Q12",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ2 Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A wave pulse is sent along a light string which is attached to a heavy rope as shown. The diagrams are not to scale.\n\nWhich diagram shows the shape of the string and the rope after a short time?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a positive displacement wave pulse traveling to the right on a thin 'light string' towards a junction with a thicker 'heavy rope'.",
+    "labels_to_preserve": [
+      "light string",
+      "heavy rope"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A diagram showing a reflected pulse on the light string with positive displacement moving left, and a transmitted pulse on the heavy rope with positive displacement moving right."
+    },
+    {
+      "label": "B",
+      "text": "A diagram showing a reflected pulse on the light string with negative displacement (inverted) moving left, and a transmitted pulse on the heavy rope with positive displacement moving right."
+    },
+    {
+      "label": "C",
+      "text": "A diagram showing a reflected pulse on the light string with positive displacement moving left, and a transmitted pulse on the heavy rope with negative displacement (inverted) moving right."
+    },
+    {
+      "label": "D",
+      "text": "A diagram showing a reflected pulse on the light string with negative displacement (inverted) moving left, and a transmitted pulse on the heavy rope with negative displacement (inverted) moving right."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "When a wave pulse travels from a less dense medium (light string) to a more dense medium (heavy rope), the boundary acts somewhat like a fixed end. This results in a reflected pulse that is phase-shifted by 180 degrees (inverted). The transmitted pulse, however, never undergoes a phase change and remains upright (positive displacement).",
+  "source_image_path": "C2-Wave-Model/May 2015 HL TZ2 Q12 B.png"
+}

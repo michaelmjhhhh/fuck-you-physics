@@ -1,0 +1,43 @@
+{
+  "id": "May_2022_HL_TZ2_Q12",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ2 Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A particle undergoes simple harmonic motion. Which quantities of the motion can be simultaneously zero?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Displacement and velocity"
+    },
+    {
+      "label": "B",
+      "text": "Displacement and acceleration"
+    },
+    {
+      "label": "C",
+      "text": "Velocity and acceleration"
+    },
+    {
+      "label": "D",
+      "text": "Displacement, velocity and acceleration"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In Simple Harmonic Motion (SHM), the defining relationship is $a = -\\omega^2 x$. This means that acceleration ($a$) is directly proportional to displacement ($x$). Therefore, whenever displacement is zero (at the equilibrium position), acceleration must also be zero. Conversely, velocity is at its maximum when displacement is zero, and velocity is zero when displacement is at its maximum (the amplitudes).",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2022 HL TZ2 Q12 B.png"
+}

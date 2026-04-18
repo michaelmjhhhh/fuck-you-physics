@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2013_HL_Q10",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2013,
+    "month": "Nov",
+    "session_label": "Nov 2013",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2013 HL Q10 D.png"
+  },
+  "question_number": 10,
+  "content_markdown": "For a body undergoing simple harmonic motion the velocity and acceleration are",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "always in the same direction."
+    },
+    {
+      "label": "B",
+      "text": "always in opposite directions."
+    },
+    {
+      "label": "C",
+      "text": "in the same direction for a quarter of the period."
+    },
+    {
+      "label": "D",
+      "text": "in the same direction for half the period."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In SHM, acceleration is always directed towards the equilibrium position. Velocity is directed towards equilibrium when the body is moving back from an extreme, and away from equilibrium when moving towards an extreme. Specifically, they are in the same direction when the object is moving towards the center (speeding up) and in opposite directions when moving away from the center (slowing down). Each of these phases lasts for exactly half of the total period.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2013 HL Q10 D.png"
+}

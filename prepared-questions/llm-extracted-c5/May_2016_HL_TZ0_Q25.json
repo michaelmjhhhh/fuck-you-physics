@@ -1,0 +1,48 @@
+{
+  "id": "May_2016_HL_TZ0_Q25",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2016,
+    "month": "May",
+    "session_label": "May 2016",
+    "level": "HL",
+    "timezone": "TZ0",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2016 HL TZ0 Q25 D.png"
+  },
+  "question_number": 25,
+  "content_markdown": "A train moves at constant speed whilst emitting a sound wave of frequency $f_0$. At $t = t_0$ the train passes through a station. Which graph shows the variation with time $t$ of the frequency $f$ of the sound wave as measured by an observer standing on the station platform?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs (A, B, C, D) showing frequency f on the y-axis and time t on the x-axis. A shows a rising then falling curve. B shows a horizontal line at f0. C shows a gradual rise and fall. D shows a high constant frequency that drops sharply at t0 to a lower constant frequency.",
+    "labels_to_preserve": [
+      "f",
+      "f_0",
+      "t",
+      "t_0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "When a source moves at a constant speed towards a stationary observer, the observed frequency is constant and higher than the source frequency. As it passes the observer ($t_0$), the frequency drops. As it moves away at constant speed, the observed frequency is constant and lower than the source frequency. Graph D correctly depicts these discrete steps in frequency.",
+  "source_image_path": "C5-Doppler-Effect/May 2016 HL TZ0 Q25 D.png"
+}

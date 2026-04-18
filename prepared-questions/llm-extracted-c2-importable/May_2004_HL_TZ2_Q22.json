@@ -1,0 +1,43 @@
+{
+  "id": "May_2004_HL_TZ2_Q22",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ2 Q22 B.png"
+  },
+  "question_number": 22,
+  "content_markdown": "The diagram below shows two wave pulses moving towards one another.\n\nWhich **one** of the following diagrams shows the resultant pulse when the two pulses are superposed?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A rectangular pulse moving to the right and a right-angled triangular pulse moving to the left on a string. The triangular pulse has its vertical edge on the left side.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "According to the principle of superposition, the displacement of the medium at any point is the algebraic sum of the displacements of the individual pulses. When the rectangular pulse (constant height) and the triangular pulse (linearly increasing height from right to left) overlap perfectly, the resulting shape is the sum of their heights. Adding a constant value to a linear slope shifts the entire slope upwards, resulting in a trapezoidal shape with a vertical leading edge and a sloped trailing edge, as seen in option B.",
+  "source_image_path": "C2-Wave-Model/May 2004 HL TZ2 Q22 B.png"
+}

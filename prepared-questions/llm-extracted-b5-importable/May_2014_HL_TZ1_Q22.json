@@ -1,0 +1,48 @@
+{
+  "id": "May_2014_HL_TZ1_Q22",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric circuits",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ1 Q22 D.png"
+  },
+  "question_number": 22,
+  "content_markdown": "A battery of emf $12\\text{ V}$ and negligible internal resistance is connected to a resistor of constant resistance $6\\text{ }\\Omega$, an ideal ammeter and an ideal voltmeter.\n\nWhat is the reading on the ammeter and on the voltmeter?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A series circuit containing a 12V battery, an ideal ammeter (A), a 6 ohm resistor, and an ideal voltmeter (V) all connected in a single loop.",
+    "labels_to_preserve": [
+      "12 V",
+      "A",
+      "V",
+      "6 \\Omega"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Ammeter: $2.0\\text{ A}$, Voltmeter: $0\\text{ V}$"
+    },
+    {
+      "label": "B",
+      "text": "Ammeter: $2.0\\text{ A}$, Voltmeter: $12\\text{ V}$"
+    },
+    {
+      "label": "C",
+      "text": "Ammeter: $0\\text{ A}$, Voltmeter: $0\\text{ V}$"
+    },
+    {
+      "label": "D",
+      "text": "Ammeter: $0\\text{ A}$, Voltmeter: $12\\text{ V}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "An ideal voltmeter has infinite resistance. Since it is connected in series with the rest of the circuit components, the total resistance of the circuit becomes effectively infinite. This results in zero current flowing through the circuit, so the ammeter reads 0. Because no current flows, there is no potential drop across the $6\\text{ }\\Omega$ resistor ($V=IR=0$), meaning the voltmeter effectively measures the full emf of the battery across its terminals, which is $12\\text{ V}$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2014 HL TZ1 Q22 D.png"
+}

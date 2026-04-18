@@ -1,0 +1,47 @@
+{
+  "id": "May_2011_HL_TZ1_Q18",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Potential Dividers",
+  "paper": {
+    "year": 2011,
+    "month": "May",
+    "session_label": "May 2011",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2011 HL TZ1 Q18 D.png"
+  },
+  "question_number": 18,
+  "content_markdown": "A light-dependent resistor (LDR) and a fixed resistor are connected in the potential divider circuit shown below.\n\nThe voltmeter reads $3.0\\text{ V}$. Which of the following changes would cause the reading on the voltmeter to increase?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A potential divider circuit with a 5.0V DC source. A 10kΩ fixed resistor is in series with an LDR. A voltmeter is connected in parallel across the LDR.",
+    "labels_to_preserve": [
+      "5.0V",
+      "10kΩ",
+      "V"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Swapping the positions of the LDR and the fixed resistor"
+    },
+    {
+      "label": "B",
+      "text": "Increasing the resistance of the fixed resistor"
+    },
+    {
+      "label": "C",
+      "text": "Increasing the amount of light shining on the LDR"
+    },
+    {
+      "label": "D",
+      "text": "Decreasing the amount of light shining on the LDR"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The voltmeter measures the potential difference across the LDR. According to the potential divider equation, $V_{\\text{out}} = V_{\\text{in}} \\times \\frac{R_{\\text{LDR}}}{R_{\\text{fixed}} + R_{\\text{LDR}}}$. To increase $V_{\\text{out}}$, we need to increase the ratio of the LDR's resistance to the total resistance. Since the resistance of an LDR increases as light intensity decreases, reducing the light will increase $R_{\\text{LDR}}$ and thus increase the voltmeter reading.",
+  "source_image_path": "B5-Current-and-Circuits/May 2011 HL TZ1 Q18 D.png"
+}

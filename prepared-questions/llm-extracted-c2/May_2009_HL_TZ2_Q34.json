@@ -1,0 +1,46 @@
+{
+  "id": "May_2009_HL_TZ2_Q34",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ2 Q34 D.png"
+  },
+  "question_number": 34,
+  "content_markdown": "The power per unit length $P$ of an oscillating water column (OWC) is due to the action of a surface wave of amplitude $A$. Which of the following correctly relates $P$ and $A$, and correctly identifies the nature of the energy of the water column?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table with two columns: 'Relation between P and A' and 'Nature of energy'.",
+    "labels_to_preserve": [
+      "Relation between P and A",
+      "Nature of energy"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$P \\propto A$; kinetic"
+    },
+    {
+      "label": "B",
+      "text": "$P \\propto A$; kinetic and potential"
+    },
+    {
+      "label": "C",
+      "text": "$P \\propto A^2$; kinetic"
+    },
+    {
+      "label": "D",
+      "text": "$P \\propto A^2$; kinetic and potential"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In any simple harmonic motion or wave system, the energy (and thus the power) is proportional to the square of the amplitude ($P \\propto A^2$). Furthermore, mechanical waves like water waves involve both the movement of particles (kinetic energy) and the displacement against gravity or pressure (potential energy).",
+  "source_image_path": "C2-Wave-Model/May 2009 HL TZ2 Q34 D.png"
+}

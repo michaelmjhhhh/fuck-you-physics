@@ -1,0 +1,43 @@
+{
+  "id": "May_2014_HL_TZ2_Q12",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "B.4 Thermodynamics",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ2 Q12 C.png"
+  },
+  "question_number": 12,
+  "content_markdown": "Which process will increase the entropy of the local surroundings?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The melting of a block of ice"
+    },
+    {
+      "label": "B",
+      "text": "Evaporation of water vapour"
+    },
+    {
+      "label": "C",
+      "text": "The isothermal expansion of a gas"
+    },
+    {
+      "label": "D",
+      "text": "The adiabatic expansion of a gas"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Entropy change of the surroundings is determined by the heat transfer $\\Delta S_{surr} = -\\frac{Q}{T}$. For the entropy of the surroundings to increase, heat must be transferred from the system to the surroundings ($Q$ must be negative for the system). In an isothermal expansion, the system must absorb heat from the surroundings to maintain constant temperature, which decreases the entropy of the surroundings. In an adiabatic expansion, no heat is exchanged ($Q=0$), so the entropy of the surroundings remains constant. Melting and evaporation are endothermic processes for the system, meaning they take heat from the surroundings, thus decreasing the entropy of the surroundings. Note: This specific question is often debated in IB contexts regarding the definition of 'local surroundings' and the specific thermodynamic path taken.",
+  "source_image_path": "B4-Thermodynamics/May 2014 HL TZ2 Q12 C.png"
+}

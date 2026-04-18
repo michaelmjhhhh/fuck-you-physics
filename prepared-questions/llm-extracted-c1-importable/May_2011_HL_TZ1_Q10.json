@@ -1,0 +1,49 @@
+{
+  "id": "May_2011_HL_TZ1_Q10",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2011,
+    "month": "May",
+    "session_label": "May 2011",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2011 HL TZ1 Q10 D.png"
+  },
+  "question_number": 10,
+  "content_markdown": "The graph shows how the displacement varies with time for an object undergoing simple harmonic motion.\n\nWhich graph shows how the object's acceleration $a$ varies with time $t$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A displacement-time graph for SHM starting at the origin and moving in the negative displacement direction first (a negative sine wave).",
+    "labels_to_preserve": [
+      "displacement",
+      "time",
+      "0",
+      "a",
+      "t"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In Simple Harmonic Motion, acceleration is proportional to the negative of the displacement ($a \\propto -x$). The original displacement graph is a negative sine wave ($x = -x_0 \\sin(\\omega t)$). Therefore, the acceleration graph must be the reflection of the displacement graph across the time axis, resulting in a positive sine wave ($a = a_0 \\sin(\\omega t)$). Graph D shows a sine wave starting at zero and moving in the positive direction initially, which correctly represents this relationship.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2011 HL TZ1 Q10 D.png"
+}

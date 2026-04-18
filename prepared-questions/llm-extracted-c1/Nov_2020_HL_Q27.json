@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2020_HL_Q27",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2020,
+    "month": "Nov",
+    "session_label": "Nov 2020",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2020 HL Q27 C.png"
+  },
+  "question_number": 27,
+  "content_markdown": "A simple pendulum and a mass–spring system oscillate with the same time period. The mass of the pendulum bob and the mass on the spring are initially identical. The masses are halved.\n\nWhat is $\\frac{\\text{time period of pendulum}}{\\text{time period of mass--spring system}}$ when the masses have been changed?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{\\sqrt{2}}{2}$"
+    },
+    {
+      "label": "B",
+      "text": "1"
+    },
+    {
+      "label": "C",
+      "text": "$\\sqrt{2}$"
+    },
+    {
+      "label": "D",
+      "text": "2"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The time period of a simple pendulum is $T_p = 2\\pi\\sqrt{\\frac{l}{g}}$, which is independent of mass. Therefore, $T_p$ remains unchanged when the mass is halved. The time period of a mass-spring system is $T_s = 2\\pi\\sqrt{\\frac{m}{k}}$. When the mass $m$ is halved, the new period becomes $T_s' = 2\\pi\\sqrt{\\frac{m/2}{k}} = \\frac{T_s}{\\sqrt{2}}$. Since initially $T_p = T_s$, the new ratio is $\\frac{T_p}{T_s / \\sqrt{2}} = \\sqrt{2}$.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2020 HL Q27 C.png"
+}

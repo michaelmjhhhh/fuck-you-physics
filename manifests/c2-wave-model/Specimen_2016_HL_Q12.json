@@ -1,0 +1,26 @@
+{
+  "id": "Specimen_2016_HL_Q12",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "",
+  "paper": {
+    "year": 2016,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2016 HL Q12 B.png"
+  },
+  "question_number": 12,
+  "correct_answer": "B",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "C2-Wave-Model/Specimen Paper 2016 HL Q12 B.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

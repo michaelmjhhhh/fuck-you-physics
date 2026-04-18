@@ -1,0 +1,47 @@
+{
+  "id": "May_2004_HL_TZ1_Q18",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ1 Q18 A.png"
+  },
+  "question_number": 18,
+  "content_markdown": "Which **one** of the following diagrams correctly shows the energy transfer paths for a heat pump operating between a hot and a cold reservoir?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four Sankey-style energy flow diagrams showing a central circle labeled 'heat pump' connected to a 'hot' reservoir above and a 'cold' reservoir below. Arrows indicate the direction of energy transfer (work and heat).",
+    "labels_to_preserve": [
+      "hot",
+      "cold",
+      "heat pump"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Diagram A: Work enters the pump, heat is taken from the cold reservoir, and heat is delivered to the hot reservoir."
+    },
+    {
+      "label": "B",
+      "text": "Diagram B: Heat is taken from the cold reservoir, and energy is output as work and heat to the hot reservoir."
+    },
+    {
+      "label": "C",
+      "text": "Diagram C: Work enters the pump, heat is taken from the hot reservoir, and heat is delivered to the cold reservoir."
+    },
+    {
+      "label": "D",
+      "text": "Diagram D: Heat is taken from the hot reservoir, and energy is output as work and heat to the cold reservoir."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "A heat pump requires an external work input ($W$) to move thermal energy from a lower-temperature (cold) reservoir to a higher-temperature (hot) reservoir. Therefore, the arrows for work and cold-reservoir heat should point into the pump, while the arrow for hot-reservoir heat should point out of the pump into the hot reservoir.",
+  "source_image_path": "B4-Thermodynamics/May 2004 HL TZ1 Q18 A.png"
+}

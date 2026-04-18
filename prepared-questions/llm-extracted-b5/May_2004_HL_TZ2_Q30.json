@@ -1,0 +1,43 @@
+{
+  "id": "May_2004_HL_TZ2_Q30",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electromotive force and internal resistance",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ2 Q30 A.png"
+  },
+  "question_number": 30,
+  "content_markdown": "A battery is connected in series with a resistor $R$. The battery transfers $2\\,000\\text{ C}$ of charge completely round the circuit. During this process, $2\\,500\\text{ J}$ of energy is dissipated in the resistor $R$ and $1\\,500\\text{ J}$ is expended in the battery.\n\nThe e.m.f. of the battery is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "2.00 V."
+    },
+    {
+      "label": "B",
+      "text": "1.25 V."
+    },
+    {
+      "label": "C",
+      "text": "0.75 V."
+    },
+    {
+      "label": "D",
+      "text": "0.50 V."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Electromotive force (e.m.f.) is defined as the total energy supplied by the source per unit charge that passes through it. To find the e.m.f., we must sum the total energy expended in the entire circuit (both in the external resistor and the internal resistance of the battery) and divide by the total charge. Total energy $W = 2\\,500\\text{ J} + 1\\,500\\text{ J} = 4\\,000\\text{ J}$. The charge $Q = 2\\,000\\text{ C}$. Therefore, $\\text{e.m.f.} = \\frac{W}{Q} = \\frac{4\\,000}{2\\,000} = 2.00\\text{ V}$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2004 HL TZ2 Q30 A.png"
+}

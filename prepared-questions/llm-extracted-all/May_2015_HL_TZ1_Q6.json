@@ -1,0 +1,43 @@
+{
+  "id": "May_2015_HL_TZ1_Q6",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ1 Q6 B.png"
+  },
+  "question_number": 6,
+  "content_markdown": "Which of the following is numerically equal to the specific heat capacity of the substance of a solid body?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The thermal energy required to melt the body"
+    },
+    {
+      "label": "B",
+      "text": "The thermal energy required to increase the temperature of unit mass of the body by $1\\text{ K}$"
+    },
+    {
+      "label": "C",
+      "text": "The thermal energy required to increase the temperature of the body by $1\\text{ K}$"
+    },
+    {
+      "label": "D",
+      "text": "The total kinetic and potential energy of all the molecules in the body"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Specific heat capacity ($c$) is defined by the equation $Q = mc\\Delta T$. If we set the mass ($m$) to $1\\text{ kg}$ (unit mass) and the change in temperature ($\\Delta T$) to $1\\text{ K}$, then $Q = c$. Therefore, it is the energy required per unit mass per unit temperature change. Option A refers to latent heat, Option C refers to heat capacity (thermal capacity), and Option D refers to internal energy.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2015 HL TZ1 Q6 B.png"
+}

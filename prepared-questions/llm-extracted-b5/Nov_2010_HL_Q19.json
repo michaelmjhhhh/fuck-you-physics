@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2010_HL_Q19",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Resistance and Resistivity",
+  "paper": {
+    "year": 2010,
+    "month": "Nov",
+    "session_label": "Nov 2010",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2010 HL Q19 C.png"
+  },
+  "question_number": 19,
+  "content_markdown": "Two resistors, made of the same material, are connected in series to a battery. The length of resistor X is twice that of resistor Y, and X has twice the cross-sectional area of Y.\n\nWhich of the following gives $\\frac{\\text{resistance of X}}{\\text{resistance of Y}}$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two cylindrical resistors X and Y connected in series. Resistor X is visibly longer and thicker than resistor Y.",
+    "labels_to_preserve": [
+      "X",
+      "Y"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "1"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Resistance is defined by $R = \\rho \\frac{L}{A}$. Since both resistors are made of the same material, $\\rho$ is constant. For resistor X, $L_X = 2L_Y$ and $A_X = 2A_Y$. Substituting these into the ratio: $\\frac{R_X}{R_Y} = \\frac{\\rho (2L_Y) / (2A_Y)}{\\rho L_Y / A_Y} = \\frac{2}{2} = 1$. The increase in length (which increases resistance) is perfectly offset by the increase in cross-sectional area (which decreases resistance).",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2010 HL Q19 C.png"
+}

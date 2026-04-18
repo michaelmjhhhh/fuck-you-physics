@@ -1,0 +1,43 @@
+{
+  "id": "May_2008_HL_TZ1_Q21",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Entropy and the Second Law of Thermodynamics",
+  "paper": {
+    "year": 2008,
+    "month": "May",
+    "session_label": "May 2008",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2008 HL TZ1 21 D.png"
+  },
+  "question_number": 21,
+  "content_markdown": "Some liquid wax is placed in cool air so that the wax freezes. What are the changes, if any, in the entropy of the wax and of the cool air as the wax is freezing?\n\n| | freezing wax | cool air |\n| :--- | :--- | :--- |\n| A. | constant | increases |\n| B. | increases | decreases |\n| C. | decreases | constant |\n| D. | decreases | increases |",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "A table showing the possible changes in entropy for freezing wax and cool air.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "freezing wax: constant; cool air: increases"
+    },
+    {
+      "label": "B",
+      "text": "freezing wax: increases; cool air: decreases"
+    },
+    {
+      "label": "C",
+      "text": "freezing wax: decreases; cool air: constant"
+    },
+    {
+      "label": "D",
+      "text": "freezing wax: decreases; cool air: increases"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "When wax freezes, it transitions from a liquid to a more ordered solid state, so its entropy decreases. During this process, latent heat is released from the wax into the surrounding cool air. Since the air absorbs this heat, the thermal agitation of the air molecules increases, leading to an increase in the entropy of the air.",
+  "source_image_path": "B4-Thermodynamics/May 2008 HL TZ1 21 D.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2017_HL_TZ1_Q10",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ1 Q10 C.png"
+  },
+  "question_number": 10,
+  "content_markdown": "A fixed mass of an ideal gas in a closed container with a movable piston initially occupies a volume $V$. The position of the piston is changed, so that the mean kinetic energy of the particles in the gas is doubled and the pressure remains constant.\n\nWhat is the new volume of the gas?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{V}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{V}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "$2V$"
+    },
+    {
+      "label": "D",
+      "text": "$4V$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The mean kinetic energy of an ideal gas is directly proportional to its absolute temperature ($E_k \\propto T$). If the mean kinetic energy is doubled, the absolute temperature $T$ must also double. According to Charles's Law (or the ideal gas law $PV = nRT$), at constant pressure and fixed mass, volume is directly proportional to absolute temperature ($V \\propto T$). Therefore, if $T$ doubles, the volume $V$ must also double to $2V$.",
+  "source_image_path": "B3-Gas-Laws/May 2017 HL TZ1 Q10 C.png"
+}

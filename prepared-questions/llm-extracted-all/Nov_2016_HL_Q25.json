@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2016_HL_Q25",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2016,
+    "month": "Nov",
+    "session_label": "Nov 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2016 HL Q25 A.png"
+  },
+  "question_number": 25,
+  "content_markdown": "X and Y are two spherical black-body radiators that emit the same total power. The absolute temperature of X is half that of Y.\n\nWhat is $\\frac{\\text{radius of X}}{\\text{radius of Y}}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "4"
+    },
+    {
+      "label": "B",
+      "text": "8"
+    },
+    {
+      "label": "C",
+      "text": "16"
+    },
+    {
+      "label": "D",
+      "text": "32"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "According to the Stefan-Boltzmann law, the total power emitted by a black body is $P = \\sigma A T^4$. For a sphere, $A = 4\\pi r^2$, so $P \\propto r^2 T^4$. Since both radiators have the same power, $r_X^2 T_X^4 = r_Y^2 T_Y^4$. Rearranging for the ratio of radii gives $\\frac{r_X}{r_Y} = \\sqrt{\\frac{T_Y^4}{T_X^4}} = (\\frac{T_Y}{T_X})^2$. Given $T_X = \\frac{1}{2}T_Y$, the ratio $\\frac{T_Y}{T_X} = 2$. Therefore, $\\frac{r_X}{r_Y} = 2^2 = 4$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2016 HL Q25 A.png"
+}

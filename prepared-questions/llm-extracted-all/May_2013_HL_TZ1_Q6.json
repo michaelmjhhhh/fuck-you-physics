@@ -1,0 +1,43 @@
+{
+  "id": "May_2013_HL_TZ1_Q6",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ1 Q6 D.png"
+  },
+  "question_number": 6,
+  "content_markdown": "$4.0\\text{ kg}$ of water at $100^{\\circ}\\text{C}$ is mixed with $1.0\\text{ kg}$ of water at $0^{\\circ}\\text{C}$ in a container insulated from the surroundings. Which of the following is the final temperature of the water?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$20^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "B",
+      "text": "$25^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "C",
+      "text": "$75^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "D",
+      "text": "$80^{\\circ}\\text{C}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Since both substances are water, they have the same specific heat capacity $c$. We can use the principle of conservation of energy: heat lost by hot water = heat gained by cold water. Let $T$ be the final temperature. $m_1 c (100 - T) = m_2 c (T - 0)$. Substituting the masses: $4.0(100 - T) = 1.0(T)$. This simplifies to $400 - 4T = T$, which means $5T = 400$, so $T = 80^{\\circ}\\text{C}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2013 HL TZ1 Q6 D.png"
+}

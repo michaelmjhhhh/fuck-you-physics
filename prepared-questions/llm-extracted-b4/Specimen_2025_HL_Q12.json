@@ -1,0 +1,43 @@
+{
+  "id": "Specimen_2025_HL_Q12",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Entropy and the Second Law of Thermodynamics",
+  "paper": {
+    "year": 2025,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2025",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2025 HL Q12 D.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A working refrigerator with the door open is placed in a sealed room.\n\nThe entropy of the room",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "is zero."
+    },
+    {
+      "label": "B",
+      "text": "decreases."
+    },
+    {
+      "label": "C",
+      "text": "remains unchanged."
+    },
+    {
+      "label": "D",
+      "text": "increases."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "According to the Second Law of Thermodynamics, the total entropy of an isolated system (the sealed room) must increase over time during any spontaneous process. Since the refrigerator is 'working', it consumes electrical energy and converts it into thermal energy due to inefficiencies and the work done by the compressor. This net addition of heat to the room increases the disorder of the air molecules, thus increasing the entropy.",
+  "source_image_path": "B4-Thermodynamics/Specimen Paper 2025 HL Q12 D.png"
+}

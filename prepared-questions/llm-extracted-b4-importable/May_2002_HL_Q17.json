@@ -1,0 +1,43 @@
+{
+  "id": "May_2002_HL_Q17",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic processes",
+  "paper": {
+    "year": 2002,
+    "month": "May",
+    "session_label": "May 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2002 HL Q17 C.png"
+  },
+  "question_number": 17,
+  "content_markdown": "When a gas is compressed adiabatically, the work done on the gas is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "zero."
+    },
+    {
+      "label": "B",
+      "text": "less than the change in internal energy, but not zero."
+    },
+    {
+      "label": "C",
+      "text": "equal to the change in internal energy."
+    },
+    {
+      "label": "D",
+      "text": "greater than the change in internal energy."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "According to the first law of thermodynamics, $Q = \\Delta U + W$, where $W$ is the work done by the gas. In an adiabatic process, $Q = 0$. Therefore, $0 = \\Delta U + W$, which implies $\\Delta U = -W$. Since the work done *on* the gas is defined as $W_{on} = -W$, we find that $W_{on} = \\Delta U$. Thus, the work done on the gas is exactly equal to the change in internal energy.",
+  "source_image_path": "B4-Thermodynamics/May 2002 HL Q17 C.png"
+}

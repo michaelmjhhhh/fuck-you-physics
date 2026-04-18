@@ -1,0 +1,49 @@
+{
+  "id": "May_2018_HL_TZ2_Q9",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ2 Q9 B.png"
+  },
+  "question_number": 9,
+  "content_markdown": "Q and R are two rigid containers of volume $3V$ and $V$ respectively containing molecules of the same ideal gas initially at the same temperature. The gas pressures in Q and R are $p$ and $3p$ respectively. The containers are connected through a valve of negligible volume that is initially closed.\n\nThe valve is opened in such a way that the temperature of the gases does not change. What is the change of pressure in Q?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two rectangular containers Q and R connected by a valve. Container Q is larger and labeled 3V. Container R is smaller and labeled V.",
+    "labels_to_preserve": [
+      "Q",
+      "R",
+      "valve",
+      "3V",
+      "V"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$+p$"
+    },
+    {
+      "label": "B",
+      "text": "$+\\frac{p}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{-p}{2}$"
+    },
+    {
+      "label": "D",
+      "text": "$-p$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Since temperature is constant, we use $PV = nRT$. For Q, $n_Q = \\frac{p(3V)}{RT} = \\frac{3pV}{RT}$. For R, $n_R = \\frac{(3p)V}{RT} = \\frac{3pV}{RT}$. Total moles $n_{total} = \\frac{6pV}{RT}$. Total volume $V_{total} = 3V + V = 4V$. The final pressure $P_f = \\frac{n_{total}RT}{V_{total}} = \\frac{6pV}{4V} = 1.5p$. The change in pressure in Q is $P_f - P_i = 1.5p - p = +0.5p$ or $+\\frac{p}{2}$.",
+  "source_image_path": "B3-Gas-Laws/May 2018 HL TZ2 Q9 B.png"
+}

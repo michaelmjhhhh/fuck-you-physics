@@ -1,0 +1,46 @@
+{
+  "id": "May_2011_HL_TZ2_Q15",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2011,
+    "month": "May",
+    "session_label": "May 2011",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2011 HL TZ2 Q15 D.png"
+  },
+  "question_number": 15,
+  "content_markdown": "A string vibrates with fundamental frequency $f$. The wavelength of the sound produced in air is $\\lambda$. Which of the following correctly gives the frequency of vibration of the fourth harmonic of the string and the wavelength of the sound in air?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) with columns for Frequency and Wavelength.",
+    "labels_to_preserve": [
+      "Frequency",
+      "Wavelength"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Frequency: $\\frac{f}{2}$, Wavelength: $\\frac{\\lambda}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "Frequency: $4f$, Wavelength: $4\\lambda$"
+    },
+    {
+      "label": "C",
+      "text": "Frequency: $\\frac{f}{2}$, Wavelength: $4\\lambda$"
+    },
+    {
+      "label": "D",
+      "text": "Frequency: $4f$, Wavelength: $\\frac{\\lambda}{4}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The $n^{th}$ harmonic frequency is given by $f_n = n \\times f_1$. For the fourth harmonic, the frequency is $4f$. Since the speed of sound in air $v$ is constant ($v = f \\lambda$), if the frequency increases by a factor of 4, the wavelength must decrease by a factor of 4 to keep the product constant. Thus, the new wavelength is $\\frac{\\lambda}{4}$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2011 HL TZ2 Q15 D.png"
+}

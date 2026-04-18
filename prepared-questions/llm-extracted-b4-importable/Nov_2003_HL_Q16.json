@@ -1,0 +1,49 @@
+{
+  "id": "Nov_2003_HL_Q16",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2003,
+    "month": "Nov",
+    "session_label": "Nov 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2003 HL Q16 B.png"
+  },
+  "question_number": 16,
+  "content_markdown": "An engine takes in an amount $E$ of thermal energy and, as a result, does an amount $W$ of useful work. An amount $H$ of thermal energy is ejected. The law of conservation of energy and the efficiency of the engine are given by which of the following?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) with two columns: 'Law of conservation of energy' and 'Efficiency'.",
+    "labels_to_preserve": [
+      "Law of conservation of energy",
+      "Efficiency",
+      "E",
+      "W",
+      "H"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Law of conservation of energy: $E = W + H$; Efficiency: $W$"
+    },
+    {
+      "label": "B",
+      "text": "Law of conservation of energy: $E = W + H$; Efficiency: $\\frac{W}{E}$"
+    },
+    {
+      "label": "C",
+      "text": "Law of conservation of energy: $E + H = W$; Efficiency: $\\frac{W}{H}$"
+    },
+    {
+      "label": "D",
+      "text": "Law of conservation of energy: $E + H = W$; Efficiency: $\\frac{W}{(E - H)}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The law of conservation of energy for a heat engine states that the total energy input ($E$) must equal the total energy output, which consists of useful work ($W$) and wasted heat ($H$), hence $E = W + H$. Efficiency is defined as the ratio of useful work output to the total energy input, which is $\\frac{W}{E}$.",
+  "source_image_path": "B4-Thermodynamics/Nov 2003 HL Q16 B.png"
+}

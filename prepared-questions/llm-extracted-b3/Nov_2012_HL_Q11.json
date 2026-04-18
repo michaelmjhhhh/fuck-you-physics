@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2012_HL_Q11",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2012,
+    "month": "Nov",
+    "session_label": "Nov 2012",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2012 HL Q11 D.png"
+  },
+  "question_number": 11,
+  "content_markdown": "An ideal gas expands adiabatically. What energy change is **true** for the gas?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "It gains thermal energy from the surroundings"
+    },
+    {
+      "label": "B",
+      "text": "It loses thermal energy to the surroundings"
+    },
+    {
+      "label": "C",
+      "text": "Its internal energy increases"
+    },
+    {
+      "label": "D",
+      "text": "Its internal energy decreases"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In an adiabatic process, there is no thermal energy exchange with the surroundings ($Q = 0$). According to the first law of thermodynamics, $\\Delta U = Q - W$. Since the gas expands, it does work on the surroundings ($W \u003e 0$). Therefore, $\\Delta U = 0 - W$, which means $\\Delta U$ is negative, and the internal energy must decrease.",
+  "source_image_path": "B3-Gas-Laws/Nov 2012 HL Q11 D.png"
+}

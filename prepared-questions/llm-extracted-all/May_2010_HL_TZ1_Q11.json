@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ1_Q11",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ1 Q11 B.png"
+  },
+  "question_number": 11,
+  "content_markdown": "The mole is defined as",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the question.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{12}$ the mass of an atom of the isotope carbon-12."
+    },
+    {
+      "label": "B",
+      "text": "the amount of a substance that contains as many elementary entities as the number of atoms in $12\\text{ g}$ of the isotope carbon-12."
+    },
+    {
+      "label": "C",
+      "text": "the mass of one atom of the isotope carbon-12."
+    },
+    {
+      "label": "D",
+      "text": "the amount of a substance that contains as many nuclei as the number of nuclei in $12\\text{ g}$ of the isotope carbon-12."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The mole is a fundamental SI unit for the amount of substance. Its definition is historically based on the number of atoms found in exactly $12\\text{ g}$ of carbon-12. Option A describes the unified atomic mass unit ($u$), not the mole. Option B correctly identifies that the mole refers to the 'amount of substance' and uses the standard reference of atoms in $12\\text{ g}$ of carbon-12.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2010 HL TZ1 Q11 B.png"
+}

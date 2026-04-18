@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2005_HL_Q21",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2005,
+    "month": "Nov",
+    "session_label": "Nov 2005",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2005 HL Q21 B.png"
+  },
+  "question_number": 21,
+  "content_markdown": "Which **one** of the following is correct for transfer of energy along a standing wave and for amplitude of vibration of the standing wave?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table with two columns: 'Transfer of energy along a standing wave' and 'Amplitude of vibration of the standing wave'.",
+    "labels_to_preserve": [
+      "Transfer of energy along a standing wave",
+      "Amplitude of vibration of the standing wave"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Transfer of energy: None; Amplitude: Constant amplitude"
+    },
+    {
+      "label": "B",
+      "text": "Transfer of energy: None; Amplitude: Variable amplitude"
+    },
+    {
+      "label": "C",
+      "text": "Transfer of energy: Energy is transferred; Amplitude: Constant amplitude"
+    },
+    {
+      "label": "D",
+      "text": "Transfer of energy: Energy is transferred; Amplitude: Variable amplitude"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Standing waves are formed by the superposition of two counter-propagating waves. Because the energy flows in opposite directions, the net energy transfer along the wave is zero. Unlike traveling waves where every point has the same amplitude, standing waves have a profile where amplitude varies from zero at nodes to a maximum at antinodes.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2005 HL Q21 B.png"
+}

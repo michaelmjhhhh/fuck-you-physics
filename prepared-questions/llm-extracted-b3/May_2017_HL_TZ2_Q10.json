@@ -1,0 +1,43 @@
+{
+  "id": "May_2017_HL_TZ2_Q10",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ2 Q10 B.png"
+  },
+  "question_number": 10,
+  "content_markdown": "An ideal gas has a volume of $15\\text{ ml}$, a temperature of $20\\text{ }^\\circ\\text{C}$ and a pressure of $100\\text{ kPa}$. The volume of the gas is reduced to $5\\text{ ml}$ and the temperature is raised to $40\\text{ }^\\circ\\text{C}$. What is the new pressure of the gas?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "600 kPa"
+    },
+    {
+      "label": "B",
+      "text": "320 kPa"
+    },
+    {
+      "label": "C",
+      "text": "200 kPa"
+    },
+    {
+      "label": "D",
+      "text": "35 kPa"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "To solve this, use the combined gas law $\\frac{P_1 V_1}{T_1} = \\frac{P_2 V_2}{T_2}$. Remember that temperature must be in Kelvin ($T\\text{ (K)} = T\\text{ (}^\\circ\\text{C)} + 273$). The volume decreases by a factor of 3 (from 15 to 5), which would triple the pressure if temperature were constant. The temperature increases from $293\\text{ K}$ to $313\\text{ K}$, which is a small fractional increase. Therefore, the pressure should be slightly more than $300\\text{ kPa}$ ($100 \\times 3 \\times \\frac{313}{293} \\approx 320\\text{ kPa}$).",
+  "source_image_path": "B3-Gas-Laws/May 2017 HL TZ2 Q10 B.png"
+}

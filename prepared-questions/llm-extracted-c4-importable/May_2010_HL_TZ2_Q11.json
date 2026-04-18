@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ2_Q11",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Damping and Resonance",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ2 Q11 D.png"
+  },
+  "question_number": 11,
+  "content_markdown": "The shock absorbers of a car, in good working condition, ensure that the vertical oscillations of the car are",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "undamped."
+    },
+    {
+      "label": "B",
+      "text": "lightly damped."
+    },
+    {
+      "label": "C",
+      "text": "moderately damped."
+    },
+    {
+      "label": "D",
+      "text": "critically damped."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Shock absorbers are designed to return the car to its equilibrium position as quickly as possible without further oscillation. This specific condition is known as critical damping. If it were underdamped (lightly or moderately), the car would continue to bounce, which is unsafe and uncomfortable.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2010 HL TZ2 Q11 D.png"
+}

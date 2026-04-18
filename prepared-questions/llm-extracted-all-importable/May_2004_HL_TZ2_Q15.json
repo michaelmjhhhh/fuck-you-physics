@@ -1,0 +1,43 @@
+{
+  "id": "May_2004_HL_TZ2_Q15",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ2 Q15 C.png"
+  },
+  "question_number": 15,
+  "content_markdown": "Some liquid is contained in a shallow dish that is open to the atmosphere. The rate of evaporation of the liquid does **not** depend on",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the temperature of the liquid."
+    },
+    {
+      "label": "B",
+      "text": "the temperature of the atmosphere."
+    },
+    {
+      "label": "C",
+      "text": "the depth of the liquid."
+    },
+    {
+      "label": "D",
+      "text": "the pressure of the atmosphere."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Evaporation is a surface phenomenon. The rate depends on the surface area, the temperature of the liquid (kinetic energy of particles), the humidity/temperature of the surrounding air, and the atmospheric pressure (which opposes the escape of molecules). However, the total depth of the liquid does not affect how many molecules escape from the surface per unit time.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2004 HL TZ2 Q15 C.png"
+}

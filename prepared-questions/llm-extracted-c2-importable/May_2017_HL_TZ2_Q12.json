@@ -1,0 +1,57 @@
+{
+  "id": "May_2017_HL_TZ2_Q12",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ2 Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "The graph shows the variation with distance $x$ of the displacement of the particles of a medium in which a longitudinal wave is travelling from left to right. Displacements to the right of equilibrium positions are positive.\n\nWhich point is at the centre of a compression?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph showing displacement in mm on the y-axis against distance x in m on the x-axis. The curve is a cosine wave starting at a maximum displacement of 4 mm at x=0, crossing zero at x=1, reaching a minimum of -4 mm at x=2, crossing zero at x=3, and returning to 4 mm at x=4.",
+    "labels_to_preserve": [
+      "displacement / mm",
+      "x / m",
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "4",
+      "2",
+      "-2",
+      "-4",
+      "-6"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$x = 0$"
+    },
+    {
+      "label": "B",
+      "text": "$x = 1\\text{ m}$"
+    },
+    {
+      "label": "C",
+      "text": "$x = 2\\text{ m}$"
+    },
+    {
+      "label": "D",
+      "text": "$x = 3\\text{ m}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In a longitudinal wave displacement-distance graph, a compression occurs where particles are moving toward each other. To the left of a compression, particles have positive displacement (moving right), and to the right of a compression, particles have negative displacement (moving left). At $x=1\\text{ m}$, the displacement is zero, but just to the left ($x \u003c 1$) the displacement is positive (moving right toward $x=1$) and just to the right ($x \u003e 1$) the displacement is negative (moving left toward $x=1$). This convergence identifies $x=1\\text{ m}$ as the center of a compression.",
+  "source_image_path": "C2-Wave-Model/May 2017 HL TZ2 Q12 B.png"
+}

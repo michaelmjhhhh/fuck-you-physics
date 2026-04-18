@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2018_HL_Q13",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave properties",
+  "paper": {
+    "year": 2018,
+    "month": "Nov",
+    "session_label": "Nov 2018",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2018 HL Q13 A.png"
+  },
+  "question_number": 13,
+  "content_markdown": "L is a point source of light. The intensity of the light at a distance $2x$ from L is $I$. What is the intensity at a distance $3x$ from L?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{4}{9} I$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{2}{3} I$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{3}{2} I$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{9}{4} I$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Intensity $I$ from a point source follows the inverse square law, $I \\propto \\frac{1}{r^2}$. If the distance changes from $2x$ to $3x$, the distance is multiplied by a factor of $\\frac{3}{2}$. Therefore, the intensity is multiplied by the inverse square of that factor: $\\frac{1}{(3/2)^2} = \\frac{4}{9}$.",
+  "source_image_path": "C2-Wave-Model/Nov 2018 HL Q13 A.png"
+}

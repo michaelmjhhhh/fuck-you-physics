@@ -1,0 +1,43 @@
+{
+  "id": "May_2012_HL_TZ1_Q8",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Entropy",
+  "paper": {
+    "year": 2012,
+    "month": "May",
+    "session_label": "May 2012",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2012 HL TZ1 Q8 B.png"
+  },
+  "question_number": 8,
+  "content_markdown": "The entropy of a system",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "will decrease if the system’s temperature is increased."
+    },
+    {
+      "label": "B",
+      "text": "is related to the degree of disorder in the system."
+    },
+    {
+      "label": "C",
+      "text": "must always increase."
+    },
+    {
+      "label": "D",
+      "text": "is always conserved."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Entropy is a thermodynamic property that measures the number of possible microscopic configurations (microstates) of a system, which is conceptually linked to the 'disorder' or randomness of that system. While the entropy of the universe (isolated system) must always increase or remain constant according to the Second Law of Thermodynamics, the entropy of a specific system can decrease if work is done on it or heat is removed.",
+  "source_image_path": "B4-Thermodynamics/May 2012 HL TZ1 Q8 B.png"
+}

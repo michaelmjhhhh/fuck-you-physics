@@ -1,0 +1,43 @@
+{
+  "id": "Specimen_2025_HL_Q11",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2025,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2025",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2025 HL Q11 A.png"
+  },
+  "question_number": 11,
+  "content_markdown": "A gas undergoes one cycle of a cyclic process.\n\nThe net change in internal energy of the gas is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "zero."
+    },
+    {
+      "label": "B",
+      "text": "positive."
+    },
+    {
+      "label": "C",
+      "text": "negative."
+    },
+    {
+      "label": "D",
+      "text": "determined by the initial temperature of the gas."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Internal energy is a state function, meaning its value depends only on the current state of the system (temperature, pressure, volume). In a cyclic process, the system returns to its exact initial state, so the final internal energy equals the initial internal energy, making the net change $\\Delta U = 0$.",
+  "source_image_path": "B4-Thermodynamics/Specimen Paper 2025 HL Q11 A.png"
+}

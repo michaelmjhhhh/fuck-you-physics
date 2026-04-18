@@ -1,0 +1,43 @@
+{
+  "id": "May_2003_HL_Q13",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic processes",
+  "paper": {
+    "year": 2003,
+    "month": "May",
+    "session_label": "May 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2003 HL Q13 A.png"
+  },
+  "question_number": 13,
+  "content_markdown": "When a gas in a thermally insulated cylinder is suddenly compressed, the change of state is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "adiabatic."
+    },
+    {
+      "label": "B",
+      "text": "isothermal."
+    },
+    {
+      "label": "C",
+      "text": "isobaric."
+    },
+    {
+      "label": "D",
+      "text": "isochoric."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "An adiabatic process is one where no heat is exchanged with the surroundings ($Q = 0$). This occurs either when the system is perfectly thermally insulated or when the process happens so 'suddenly' (rapidly) that there is no time for heat transfer to occur. Since the cylinder is both thermally insulated and the compression is sudden, it is a classic example of an adiabatic change.",
+  "source_image_path": "B4-Thermodynamics/May 2003 HL Q13 A.png"
+}

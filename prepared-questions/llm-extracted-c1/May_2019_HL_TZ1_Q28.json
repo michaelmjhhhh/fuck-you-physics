@@ -1,0 +1,48 @@
+{
+  "id": "May_2019_HL_TZ1_Q28",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ1 Q28 D.png"
+  },
+  "question_number": 28,
+  "content_markdown": "The four pendulums shown have been cut from the same uniform sheet of board. They are attached to the ceiling with strings of equal length.\n\nWhich pendulum has the shortest period?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four pendulums (A, B, C, D) hanging from a ceiling by strings of equal length. The bobs are different shapes: A is a rectangle, B is a diamond, C is a trapezoid wider at the bottom, and D is a trapezoid wider at the top.",
+    "labels_to_preserve": [
+      "A.",
+      "B.",
+      "C.",
+      "D."
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The period of a pendulum depends on the distance from the pivot to the center of mass (CM) of the system. For a simple pendulum, $T = 2\\pi\\sqrt{\\frac{L}{g}}$. In this case, the strings are of equal length, so the pendulum with the shortest period will be the one where the center of mass of the bob is highest (closest to the pivot), effectively making the pendulum length $L$ the shortest. Comparing the shapes: the trapezoid in D has more mass concentrated at the top compared to the others, placing its center of mass higher than the rectangle (A), the diamond (B), or the bottom-heavy trapezoid (C).",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2019 HL TZ1 Q28 D.png"
+}

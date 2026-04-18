@@ -1,0 +1,43 @@
+{
+  "id": "Specimen_2025_HL_Q21",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Simple Harmonic Motion and Resonance",
+  "paper": {
+    "year": 2025,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2025",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2025 HL Q21 B.png"
+  },
+  "question_number": 21,
+  "content_markdown": "A mass of $0.25\\text{ kg}$ hangs from a spring of spring constant $4.0\\text{ N m}^{-1}$.\n\nWhat is the natural frequency of oscillation for this system?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$0.50\\text{ Hz}$"
+    },
+    {
+      "label": "B",
+      "text": "$0.64\\text{ Hz}$"
+    },
+    {
+      "label": "C",
+      "text": "$1.6\\text{ Hz}$"
+    },
+    {
+      "label": "D",
+      "text": "$2.0\\text{ Hz}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The natural frequency $f$ of a mass-spring system is given by $f = \\frac{1}{2\\pi}\\sqrt{\\frac{k}{m}}$. Substituting the given values: $f = \\frac{1}{2\\pi}\\sqrt{\\frac{4.0}{0.25}} = \\frac{1}{2\\pi}\\sqrt{16} = \\frac{4}{2\\pi} = \\frac{2}{\\pi}$. Since $\\pi \\approx 3.14$, $f \\approx \\frac{2}{3.14} \\approx 0.636\\text{ Hz}$, which rounds to $0.64\\text{ Hz}$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Specimen Paper 2025 HL Q21 B.png"
+}

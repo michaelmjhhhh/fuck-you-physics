@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2017_HL_Q14",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2017,
+    "month": "Nov",
+    "session_label": "Nov 2017",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2017 HL Q14 A.png"
+  },
+  "question_number": 14,
+  "content_markdown": "The diagram shows a second harmonic standing wave on a string fixed at both ends.\n\nWhat is the phase difference, in rad, between the particle at X and the particle at Y?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A standing wave with two loops (second harmonic) between two fixed walls. Points X and Y are both located on the first loop of the wave.",
+    "labels_to_preserve": [
+      "X",
+      "Y"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{\\pi}{4}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{\\pi}{2}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{3\\pi}{4}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In a standing wave, all particles within the same loop (between two adjacent nodes) vibrate in phase with each other. Since both points X and Y are located within the first loop of the second harmonic, their phase difference is zero.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2017 HL Q14 A.png"
+}

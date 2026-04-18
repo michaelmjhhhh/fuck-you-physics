@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2001_HL_Q24",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2001,
+    "month": "Nov",
+    "session_label": "Nov 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2001 HL Q24 B.png"
+  },
+  "question_number": 24,
+  "content_markdown": "When a train travels towards you sounding its whistle, the pitch of the sound you hear is different from when the train is at rest. This is because",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the sound waves are travelling faster toward you."
+    },
+    {
+      "label": "B",
+      "text": "the wavefronts of the sound reaching you are spaced closer together."
+    },
+    {
+      "label": "C",
+      "text": "the wavefronts of the sound reaching you are spaced further apart."
+    },
+    {
+      "label": "D",
+      "text": "the sound frequency emitted by the whistle changes with the speed of the train."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The Doppler effect for a moving source occurs because the source 'catches up' with the wavefronts it has already emitted in the direction of motion. This reduces the distance between successive wavefronts (the wavelength $\\lambda$), which results in a higher observed frequency (pitch) since the wave speed in the medium remains constant.",
+  "source_image_path": "C5-Doppler-Effect/Nov 2001 HL Q24 B.png"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "May_2009_HL_TZ1_Q15",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Damping",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ1 Q15 C.png"
+  },
+  "question_number": 15,
+  "content_markdown": "The graph below represents the variation with time of the displacement of an oscillating particle.\n\nThe motion of the object is",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A displacement-time graph showing a sinusoidal wave whose amplitude decreases gradually over several cycles.",
+    "labels_to_preserve": [
+      "displacement",
+      "time",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "over damped."
+    },
+    {
+      "label": "B",
+      "text": "critically damped."
+    },
+    {
+      "label": "C",
+      "text": "lightly damped."
+    },
+    {
+      "label": "D",
+      "text": "not damped."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The graph shows an oscillation where the amplitude decreases gradually over time. This is the characteristic behavior of light damping (under-damping). In over-damping or critical damping, the system would return to equilibrium without oscillating. If it were not damped, the amplitude would remain constant.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2009 HL TZ1 Q15 C.png"
+}

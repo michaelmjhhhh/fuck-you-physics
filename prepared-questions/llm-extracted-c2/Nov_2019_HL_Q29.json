@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2019_HL_Q29",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2019,
+    "month": "Nov",
+    "session_label": "Nov 2019",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2019 HL Q29 B.png"
+  },
+  "question_number": 29,
+  "content_markdown": "Sea waves move towards a beach at a constant speed of $2.0\\text{ m s}^{-1}$. They arrive at the beach with a frequency of $0.10\\text{ Hz}$. A girl on a surfboard is moving in the sea at right angles to the wave fronts. She observes that the surfboard crosses the wave fronts with a frequency of $0.40\\text{ Hz}$.\n\nWhat is the speed of the surfboard and what is the direction of motion of the surfboard relative to the beach?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing wave fronts moving towards a beach. A girl on a surfboard is positioned in the water, moving along a line perpendicular to the wave fronts.",
+    "labels_to_preserve": [
+      "beach",
+      "wave direction",
+      "girl on surfboard"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Speed: $6.0\\text{ m s}^{-1}$; Direction: towards beach"
+    },
+    {
+      "label": "B",
+      "text": "Speed: $6.0\\text{ m s}^{-1}$; Direction: away from beach"
+    },
+    {
+      "label": "C",
+      "text": "Speed: $1.5\\text{ m s}^{-1}$; Direction: towards beach"
+    },
+    {
+      "label": "D",
+      "text": "Speed: $1.5\\text{ m s}^{-1}$; Direction: away from beach"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "First, calculate the wavelength $\\lambda = v/f = 2.0 / 0.10 = 20\\text{ m}$. The observed frequency $f'$ is related to the relative speed $v_{rel}$ by $f' = v_{rel}/\\lambda$. Thus, $v_{rel} = f' \\times \\lambda = 0.40 \\times 20 = 8.0\\text{ m s}^{-1}$. Since the observed frequency is higher than the source frequency, the girl must be moving towards the waves (away from the beach). The relative speed is the sum of the wave speed and the girl's speed: $v_{rel} = v_{wave} + v_{girl}$, so $8.0 = 2.0 + v_{girl}$, giving $v_{girl} = 6.0\\text{ m s}^{-1}$ moving away from the beach.",
+  "source_image_path": "C2-Wave-Model/Nov 2019 HL Q29 B.png"
+}

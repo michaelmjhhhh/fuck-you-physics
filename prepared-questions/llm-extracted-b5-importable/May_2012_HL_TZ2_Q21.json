@@ -1,0 +1,43 @@
+{
+  "id": "May_2012_HL_TZ2_Q21",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Resistance and Resistivity",
+  "paper": {
+    "year": 2012,
+    "month": "May",
+    "session_label": "May 2012",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2012 HL TZ2 Q21 A.png"
+  },
+  "question_number": 21,
+  "content_markdown": "A metal wire X with length $L$ and radius $r$ has a resistance $R$. A wire Y of length $4L$ made from the same material as X has the same resistance $R$. What is the radius of Y?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$2r$"
+    },
+    {
+      "label": "B",
+      "text": "$4r$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{r}{2}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{r}{4}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Resistance is given by $R = \\rho \\frac{L}{A}$, where $A = \\pi r^2$. For wire X, $R = \\rho \\frac{L}{\\pi r^2}$. For wire Y, the resistance is the same $R = \\rho \\frac{4L}{\\pi r_Y^2}$. Equating the two expressions: $\\frac{L}{r^2} = \\frac{4L}{r_Y^2}$. This simplifies to $r_Y^2 = 4r^2$, which means $r_Y = 2r$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2012 HL TZ2 Q21 A.png"
+}

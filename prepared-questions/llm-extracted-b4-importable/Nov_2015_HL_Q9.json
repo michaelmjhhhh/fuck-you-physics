@@ -1,0 +1,49 @@
+{
+  "id": "Nov_2015_HL_Q9",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2015,
+    "month": "Nov",
+    "session_label": "Nov 2015",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2015 HL Q9 A.png"
+  },
+  "question_number": 9,
+  "content_markdown": "The graph shows how the volume of a system varies with pressure during a cycle ABCA.\n\nWhat is the work done in joules during the change AB?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A pressure-volume graph showing a cycle ABCA. The y-axis is pressure in units of $10^5$ Pa and the x-axis is volume in $m^3$. Point A is at $(1, 5)$, point B is at $(4, 5)$, and point C is at $(1, 2)$. Process AB is a horizontal line at constant pressure, BC is a curve, and CA is a vertical line at constant volume.",
+    "labels_to_preserve": [
+      "pressure / 10^5 Pa",
+      "volume / m^3",
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$15 \\times 10^5$"
+    },
+    {
+      "label": "B",
+      "text": "$9.0 \\times 10^5$"
+    },
+    {
+      "label": "C",
+      "text": "$4.5 \\times 10^5$"
+    },
+    {
+      "label": "D",
+      "text": "0"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Work done in a thermodynamic process is given by the area under the P-V curve, or $W = P\\Delta V$ for constant pressure processes. For the change AB, the pressure is constant at $5 \\times 10^5$ Pa. The change in volume $\\Delta V$ is $4\\text{ m}^3 - 1\\text{ m}^3 = 3\\text{ m}^3$. Therefore, $W = (5 \\times 10^5 \\text{ Pa}) \\times (3 \\text{ m}^3) = 15 \\times 10^5 \\text{ J}$.",
+  "source_image_path": "B4-Thermodynamics/Nov 2015 HL Q9 A.png"
+}

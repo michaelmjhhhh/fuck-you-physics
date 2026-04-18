@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2021_HL_Q10",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2021,
+    "month": "Nov",
+    "session_label": "Nov 2021",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2021 HL Q10 D.png"
+  },
+  "question_number": 10,
+  "content_markdown": "The molar mass of an ideal gas is $M$. A fixed mass $m$ of the gas expands at a constant pressure $p$. The graph shows the variation with temperature $T$ of the gas volume $V$.\n\nWhat is the gradient of the graph?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph showing a linear relationship between volume V on the y-axis and temperature T on the x-axis. The line has a positive gradient and does not pass through the origin.",
+    "labels_to_preserve": [
+      "V",
+      "T",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{Mp}{mR}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{MR}{mp}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{mp}{MR}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{mR}{Mp}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "From the ideal gas law $pV = nRT$, we know that $V = \\frac{nRT}{p}$. The number of moles $n$ is equal to the mass $m$ divided by the molar mass $M$, so $n = \\frac{m}{M}$. Substituting this into the equation gives $V = \\left(\\frac{mR}{Mp}\\right)T$. Since the graph plots $V$ against $T$, the gradient is the coefficient of $T$, which is $\\frac{mR}{Mp}$.",
+  "source_image_path": "B3-Gas-Laws/Nov 2021 HL Q10 D.png"
+}

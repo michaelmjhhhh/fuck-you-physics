@@ -1,0 +1,52 @@
+{
+  "id": "May_2019_HL_TZ1_Q8",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Phase changes and latent heat",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ1 Q8 D.png"
+  },
+  "question_number": 8,
+  "content_markdown": "Energy is transferred to water in a flask at a rate $P$. The water reaches boiling point and then $P$ is increased. What are the changes to the temperature of the water and to the rate of vaporization of the water after the change?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table with two columns labeled 'Temperature' and 'Rate of vaporization', with four rows (A, B, C, D) showing different combinations of 'increases' and 'stays the same' for each column",
+    "labels_to_preserve": [
+      "Temperature",
+      "Rate of vaporization",
+      "increases",
+      "stays the same",
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Temperature: increases, Rate of vaporization: stays the same"
+    },
+    {
+      "label": "B",
+      "text": "Temperature: increases, Rate of vaporization: increases"
+    },
+    {
+      "label": "C",
+      "text": "Temperature: stays the same, Rate of vaporization: stays the same"
+    },
+    {
+      "label": "D",
+      "text": "Temperature: stays the same, Rate of vaporization: increases"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "This question tests understanding of phase change behavior. Once water reaches its boiling point, the temperature remains constant during the phase change from liquid to gas (latent heat of vaporization). However, increasing the power input $P$ means more energy is available per unit time to overcome intermolecular forces, so the rate of vaporization (mass of water turning to steam per second) increases. This is a classic IB Physics concept about the distinction between specific heat capacity (temperature change) and specific latent heat (phase change at constant temperature).",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2019 HL TZ1 Q8 D.png"
+}

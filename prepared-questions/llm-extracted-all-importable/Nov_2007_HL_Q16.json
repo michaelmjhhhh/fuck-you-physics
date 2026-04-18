@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2007_HL_Q16",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2007,
+    "month": "Nov",
+    "session_label": "Nov 2007",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2007 HL Q16 D.png"
+  },
+  "question_number": 16,
+  "content_markdown": "A liquid is heated in a well-insulated container. The power input to the liquid and its specific heat capacity are known.\n\nWhich of the following quantities must be known in order to calculate the rate at which the temperature increases?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The time for which the liquid is heated"
+    },
+    {
+      "label": "B",
+      "text": "The initial temperature of the liquid"
+    },
+    {
+      "label": "C",
+      "text": "The final temperature of the liquid"
+    },
+    {
+      "label": "D",
+      "text": "The mass of the liquid"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The relationship between power $P$, mass $m$, specific heat capacity $c$, and the rate of temperature change $\\frac{\\Delta T}{\\Delta t}$ is given by the formula $P = mc\\frac{\\Delta T}{\\Delta t}$. To solve for the rate $\\frac{\\Delta T}{\\Delta t}$, you need $P$, $c$, and $m$. Since $P$ and $c$ are already known, the mass of the liquid is the missing variable required for the calculation.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2007 HL Q16 D.png"
+}

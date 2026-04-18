@@ -1,0 +1,43 @@
+{
+  "id": "May_2009_HL_TZ1_Q10",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ1 Q10 B.png"
+  },
+  "question_number": 10,
+  "content_markdown": "In the kinetic model of an ideal gas, it is assumed that",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the forces between the molecules of the gas and the container are always zero."
+    },
+    {
+      "label": "B",
+      "text": "the intermolecular potential energy of the molecules of the gas is constant."
+    },
+    {
+      "label": "C",
+      "text": "the kinetic energy of a given molecule of the gas is constant."
+    },
+    {
+      "label": "D",
+      "text": "the momentum of a given molecule of the gas is constant."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In the kinetic theory of ideal gases, we assume there are no intermolecular forces between the particles (except during collisions). Since potential energy arises from these forces, the intermolecular potential energy is assumed to be zero (and thus constant) regardless of the separation between molecules. Option A is incorrect because molecules exert forces on the container during collisions to create pressure. Options C and D are incorrect because individual molecules change speed and direction (and thus KE and momentum) during collisions, even if the average values for the whole gas remain steady.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2009 HL TZ1 Q10 B.png"
+}

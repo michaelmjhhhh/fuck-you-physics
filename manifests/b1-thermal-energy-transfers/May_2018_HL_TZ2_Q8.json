@@ -1,0 +1,26 @@
+{
+  "id": "May_2018_HL_TZ2_Q8",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ2 Q8 A.png"
+  },
+  "question_number": 8,
+  "correct_answer": "A",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2018 HL TZ2 Q8 A.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

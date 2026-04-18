@@ -1,0 +1,43 @@
+{
+  "id": "May_2017_HL_TZ2_Q11",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ2 Q11 D.png"
+  },
+  "question_number": 11,
+  "content_markdown": "In simple harmonic oscillations which two quantities always have opposite directions?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy and potential energy"
+    },
+    {
+      "label": "B",
+      "text": "Velocity and acceleration"
+    },
+    {
+      "label": "C",
+      "text": "Velocity and displacement"
+    },
+    {
+      "label": "D",
+      "text": "Acceleration and displacement"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The defining characteristic of Simple Harmonic Motion (SHM) is that the acceleration $a$ is proportional to the displacement $x$ from the equilibrium position and is always directed towards that equilibrium position. This is mathematically expressed as $a = -\\omega^2 x$. The negative sign indicates that the acceleration vector and the displacement vector are always in opposite directions.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2017 HL TZ2 Q11 D.png"
+}

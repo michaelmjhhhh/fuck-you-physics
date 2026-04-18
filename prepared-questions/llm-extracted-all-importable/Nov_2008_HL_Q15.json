@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2008_HL_Q15",
+  "topic": "Rigid Body Mechanics",
+  "topic_code": "A4",
+  "sub_topic": "Torque and Equilibrium",
+  "paper": {
+    "year": 2008,
+    "month": "Nov",
+    "session_label": "Nov 2008",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2008 HL Q15 A.png"
+  },
+  "question_number": 15,
+  "content_markdown": "The distance between the Earth and the Sun is $d$. The gravitational force of the Sun on the Earth is $F$. Which of the following is the torque exerted on the Earth about an axis through the centre of the Sun?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0"
+    },
+    {
+      "label": "B",
+      "text": "$Fd$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{F}{d}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{F}{d^2}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Torque is defined as the cross product of the position vector and the force vector ($\\tau = r \\times F$). In this case, the gravitational force $F$ is a central force, meaning it acts along the line connecting the centers of the Earth and the Sun. Since the force vector is parallel (or anti-parallel) to the position vector $d$ relative to the Sun's center, the angle between them is $180^\\circ$. Because $\\sin(180^\\circ) = 0$, the resulting torque is zero.",
+  "source_image_path": "A4-Rigid-Body-Mechanics/Nov 2008 HL Q15 A.png"
+}

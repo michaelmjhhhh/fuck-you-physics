@@ -1,0 +1,43 @@
+{
+  "id": "May_2013_HL_TZ2_Q20",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Resistance and Resistivity",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ2 Q20 C.png"
+  },
+  "question_number": 20,
+  "content_markdown": "A copper wire with length $L$ and radius $r$ has a resistance $R$.\n\nWhat is the radius of a copper wire with length $\\frac{L}{2}$ and resistance $R$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$2r$"
+    },
+    {
+      "label": "B",
+      "text": "$\\sqrt{2}r$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{r}{\\sqrt{2}}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{r}{2}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Resistance is given by $R = \\rho \\frac{L}{A} = \\rho \\frac{L}{\\pi r^2}$. If the resistance $R$ remains constant while the length is halved to $L/2$, the cross-sectional area must also be halved to maintain the ratio. Since $A \\propto r^2$, halving the area means the new radius $r'$ must satisfy $(r')^2 = \\frac{r^2}{2}$, which gives $r' = \\frac{r}{\\sqrt{2}}$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2013 HL TZ2 Q20 C.png"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "May_2006_HL_TZ2_Q16",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ2 Q16 D.png"
+  },
+  "question_number": 16,
+  "content_markdown": "The graph below shows the variation with temperature of the volume of a fixed mass of water.\n\nA thermometer is to be designed that measures temperatures in the range between $274\\text{ K}$ and $280\\text{ K}$.\n\nWhich **one** of the following is the main reason why the variation with temperature of the volume of the water is not suitable to use in the thermometer?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph showing volume in cm^3 on the y-axis versus temperature in K on the x-axis. The curve is parabolic, reaching a minimum volume at approximately 277 K.",
+    "labels_to_preserve": [
+      "volume / cm^3",
+      "temperature / K",
+      "2.0000",
+      "2.0001",
+      "2.0002",
+      "2.0003",
+      "2.0004",
+      "274",
+      "275",
+      "276",
+      "277",
+      "278",
+      "279",
+      "280",
+      "281"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Water is a colourless liquid."
+    },
+    {
+      "label": "B",
+      "text": "Water freezes at $273\\text{ K}$."
+    },
+    {
+      "label": "C",
+      "text": "The change in volume is too small over the temperature range."
+    },
+    {
+      "label": "D",
+      "text": "The volume has the same value at more than one temperature."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "A thermometric property must have a unique value for each temperature (it must be monotonic) to be useful. Because water reaches its maximum density (minimum volume) at approximately $4^\\circ\\text{C}$ ($277\\text{ K}$), the same volume corresponds to two different temperatures within the $274\\text{ K}$ to $280\\text{ K}$ range, making it impossible to distinguish between them based on volume alone.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2006 HL TZ2 Q16 D.png"
+}

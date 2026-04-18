@@ -1,0 +1,46 @@
+{
+  "id": "May_2005_HL_TZ2_Q15",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ2 Q15 D.png"
+  },
+  "question_number": 15,
+  "content_markdown": "A gas is contained in a cylinder fitted with a piston as shown below.\n\nWhen the gas is compressed rapidly by the piston its temperature rises **because** the molecules of the gas",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A horizontal cylinder containing gas particles, closed on the left and fitted with a movable piston on the right.",
+    "labels_to_preserve": [
+      "gas",
+      "piston"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "are squeezed closer together."
+    },
+    {
+      "label": "B",
+      "text": "collide with each other more frequently."
+    },
+    {
+      "label": "C",
+      "text": "collide with the walls of the container more frequently."
+    },
+    {
+      "label": "D",
+      "text": "gain energy from the moving piston."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "When a gas is compressed rapidly (an adiabatic process), work is done on the gas by the moving piston. On a microscopic level, when molecules collide with the inward-moving piston, they rebound with a higher speed (and thus higher kinetic energy) than they had before the collision. Since temperature is a measure of the average random kinetic energy of the molecules, the temperature of the gas increases.",
+  "source_image_path": "B3-Gas-Laws/May 2005 HL TZ2 Q15 D.png"
+}

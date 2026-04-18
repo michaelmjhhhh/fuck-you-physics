@@ -1,0 +1,48 @@
+{
+  "id": "Specimen_2025_HL_Q16",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2025,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2025",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2025 HL Q16 C.png"
+  },
+  "question_number": 16,
+  "content_markdown": "Conductor X is connected to a cell of emf $E$. A power of $16\\text{ W}$ is dissipated in X.\n\nConductor Y is made from the same material with the same diameter as X but is twice as long. A cell of emf $2E$ is connected to Y.\n\nBoth cells have negligible internal resistance.\n\nWhat power is dissipated in Y?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two circuit diagrams. The first shows a cell with emf E connected to a cylindrical conductor X. The second shows a cell with emf 2E connected to a cylindrical conductor Y which is longer than X.",
+    "labels_to_preserve": [
+      "E",
+      "2E",
+      "X",
+      "Y"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "8.0 W"
+    },
+    {
+      "label": "B",
+      "text": "16 W"
+    },
+    {
+      "label": "C",
+      "text": "32 W"
+    },
+    {
+      "label": "D",
+      "text": "64 W"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Resistance $R = \\rho L / A$. Since Y is twice as long as X with the same material and diameter, $R_Y = 2R_X$. Power is given by $P = V^2 / R$. For conductor X, $P_X = E^2 / R_X = 16\\text{ W}$. For conductor Y, $P_Y = (2E)^2 / R_Y = 4E^2 / (2R_X) = 2(E^2 / R_X) = 2 \\times 16\\text{ W} = 32\\text{ W}$.",
+  "source_image_path": "B5-Current-and-Circuits/Specimen Paper 2025 HL Q16 C.png"
+}

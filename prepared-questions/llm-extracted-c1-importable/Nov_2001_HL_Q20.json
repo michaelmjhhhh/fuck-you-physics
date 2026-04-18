@@ -1,0 +1,45 @@
+{
+  "id": "Nov_2001_HL_Q20",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Wave characteristics",
+  "paper": {
+    "year": 2001,
+    "month": "Nov",
+    "session_label": "Nov 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2001 HL Q20 B.png"
+  },
+  "question_number": 20,
+  "content_markdown": "Circular water waves are produced by a dipper oscillating up and down into the water. The circles in the diagram represent wave crests moving outward on the water surface.\n\nIf the frequency of the dipper is doubled, the distance between the crests of the waves will",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A top-down view of concentric circular wave crests emanating from a central point labeled 'Dipper'. Four arrows point radially outward from the center.",
+    "labels_to_preserve": [
+      "Dipper"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "remain unchanged."
+    },
+    {
+      "label": "B",
+      "text": "halve."
+    },
+    {
+      "label": "C",
+      "text": "double."
+    },
+    {
+      "label": "D",
+      "text": "quadruple."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The distance between crests is the wavelength $\\lambda$. According to the wave equation $v = f\\lambda$, the wave speed $v$ is determined by the medium (water). If the frequency $f$ is doubled while $v$ remains constant, the wavelength $\\lambda$ must be halved to satisfy the equation.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2001 HL Q20 B.png"
+}

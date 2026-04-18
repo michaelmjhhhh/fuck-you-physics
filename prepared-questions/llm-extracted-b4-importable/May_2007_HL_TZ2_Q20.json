@@ -1,0 +1,46 @@
+{
+  "id": "May_2007_HL_TZ2_Q20",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic cycles",
+  "paper": {
+    "year": 2007,
+    "month": "May",
+    "session_label": "May 2007",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2007 HL TZ2 20 D.png"
+  },
+  "question_number": 20,
+  "content_markdown": "Which of the following pressure-volume ($p$-$V$) diagrams best represents a Carnot cycle?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four different p-V diagrams showing closed thermodynamic cycles. Option A shows a cycle with a horizontal top and vertical right side. Option B shows a cycle with a horizontal top and horizontal bottom. Option C shows a cycle bounded by four curves (two isotherms and two adiabats). Option D shows a cycle with straight diagonal lines.",
+    "labels_to_preserve": [
+      "p",
+      "V"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "A Carnot cycle consists of four reversible processes: two isothermal processes and two adiabatic processes. On a p-V diagram, these appear as four distinct curves. Isotherms follow $p \\propto 1/V$, while adiabats are steeper, following $p \\propto 1/V^\\gamma$. Diagram C is the only one showing four curved paths consistent with these processes, whereas the others include isobaric (horizontal) or isochoric (vertical) segments which are not part of a Carnot cycle.",
+  "source_image_path": "B4-Thermodynamics/May 2007 HL TZ2 20 D.png"
+}

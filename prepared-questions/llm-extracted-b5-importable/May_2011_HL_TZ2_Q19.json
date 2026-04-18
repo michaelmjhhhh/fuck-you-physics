@@ -1,0 +1,43 @@
+{
+  "id": "May_2011_HL_TZ2_Q19",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2011,
+    "month": "May",
+    "session_label": "May 2011",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2011 HL TZ2 Q19 B.png"
+  },
+  "question_number": 19,
+  "content_markdown": "The definition of the ampere refers to the",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "number of electrons passing a given point per second."
+    },
+    {
+      "label": "B",
+      "text": "force between parallel current-carrying conductors."
+    },
+    {
+      "label": "C",
+      "text": "power dissipated per unit resistance."
+    },
+    {
+      "label": "D",
+      "text": "amount of charge transferred per second."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Historically, the SI definition of the ampere was based on the magnetic force between two parallel, current-carrying wires (the force per unit length). While modern SI definitions have shifted to fixing the value of the elementary charge, in the context of this classic IB question, the ampere is defined via the force between conductors.",
+  "source_image_path": "B5-Current-and-Circuits/May 2011 HL TZ2 Q19 B.png"
+}

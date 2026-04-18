@@ -1,0 +1,43 @@
+{
+  "id": "May_2000_HL_Q19",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2000,
+    "month": "May",
+    "session_label": "May 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2000 HL Q19 C.png"
+  },
+  "question_number": 19,
+  "content_markdown": "Radio waves of wavelength $30\\text{ cm}$ have a frequency of about",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "10 MHz."
+    },
+    {
+      "label": "B",
+      "text": "90 MHz."
+    },
+    {
+      "label": "C",
+      "text": "1000 MHz."
+    },
+    {
+      "label": "D",
+      "text": "9000 MHz."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Radio waves are electromagnetic waves and travel at the speed of light $c \\approx 3 \\times 10^8\\text{ m s}^{-1}$. Using the wave equation $c = f\\lambda$, we can solve for frequency: $f = \\frac{c}{\\lambda} = \\frac{3 \\times 10^8\\text{ m s}^{-1}}{0.30\\text{ m}} = 10 \\times 10^8\\text{ Hz} = 1000 \\times 10^6\\text{ Hz} = 1000\\text{ MHz}$.",
+  "source_image_path": "C2-Wave-Model/May 2000 HL Q19 C.png"
+}

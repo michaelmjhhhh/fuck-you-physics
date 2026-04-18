@@ -1,0 +1,48 @@
+{
+  "id": "May_2019_HL_TZ2_Q24",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "B.5 Current and circuits",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ2 Q24 C.png"
+  },
+  "question_number": 24,
+  "content_markdown": "In an experiment to determine the resistivity of a material, a student measures the resistance of several wires made from the pure material. The wires have the same length but different diameters.\n\nWhich quantities should the student plot on the $x$-axis and the $y$-axis of a graph to obtain a straight line?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) with corresponding variables for the x-axis and y-axis.",
+    "labels_to_preserve": [
+      "x-axis",
+      "y-axis",
+      "diameter",
+      "resistance"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$x$-axis: $\\text{diameter}^2$; $y$-axis: $\\text{resistance}$"
+    },
+    {
+      "label": "B",
+      "text": "$x$-axis: $\\text{diameter}$; $y$-axis: $\\text{resistance}$"
+    },
+    {
+      "label": "C",
+      "text": "$x$-axis: $\\text{diameter}^2$; $y$-axis: $\\frac{1}{\\text{resistance}}$"
+    },
+    {
+      "label": "D",
+      "text": "$x$-axis: $\\text{diameter}$; $y$-axis: $\\frac{1}{\\text{resistance}}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The resistance $R$ of a wire is given by $R = \\rho \\frac{L}{A}$, where $A$ is the cross-sectional area. Since $A = \\pi (\\frac{d}{2})^2 = \\frac{\\pi d^2}{4}$, we can write $R = \\frac{4\\rho L}{\\pi d^2}$. To get a straight line through the origin ($y = mx$), we need a direct proportionality. Rearranging the equation gives $\\frac{1}{R} = \\frac{\\pi}{4\\rho L} \\cdot d^2$. Thus, plotting $\\frac{1}{\\text{resistance}}$ on the $y$-axis against $\\text{diameter}^2$ on the $x$-axis yields a straight line.",
+  "source_image_path": "B5-Current-and-Circuits/May 2019 HL TZ2 Q24 C.png"
+}

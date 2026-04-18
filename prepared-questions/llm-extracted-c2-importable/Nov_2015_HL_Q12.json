@@ -1,0 +1,49 @@
+{
+  "id": "Nov_2015_HL_Q12",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2015,
+    "month": "Nov",
+    "session_label": "Nov 2015",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2015 HL Q12 A.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A wave on a string travels to the right as shown. The frequency of the wave is $f$. At time $t=0$, a small marker on the string is in the position shown.\n\nWhat is the position of the marker at $t = \\frac{1}{4f}$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A transverse wave moving to the right. A square marker is located at an equilibrium point where the wave is about to move downwards. Four points A, B, C, and D are labeled as potential future positions of the marker.",
+    "labels_to_preserve": [
+      "A.",
+      "B.",
+      "C.",
+      "D.",
+      "marker"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The period of the wave is $T = 1/f$. The time given is $t = 1/(4f)$, which is exactly one quarter of a period ($T/4$). Since the wave is moving to the right, the part of the wave currently to the left of the marker will move into the marker's horizontal position. At $t=0$, the marker is at equilibrium and the wave profile to its left is a crest. This means the marker is about to move downwards. In a quarter cycle, a point at equilibrium moving downwards will reach its maximum negative displacement (the trough), which corresponds to position B.",
+  "source_image_path": "C2-Wave-Model/Nov 2015 HL Q12 A.png"
+}

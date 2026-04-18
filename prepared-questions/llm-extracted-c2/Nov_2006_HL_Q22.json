@@ -1,0 +1,49 @@
+{
+  "id": "Nov_2006_HL_Q22",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2006,
+    "month": "Nov",
+    "session_label": "Nov 2006",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2006 HL Q22 A.png"
+  },
+  "question_number": 22,
+  "content_markdown": "A water surface wave (ripple) is travelling to the right on the surface of a lake. The wave has period $T$. The diagram below shows the surface of the lake at a particular instant of time. A piece of cork is floating in the water in the position shown.\n\nWhich is the correct position of the cork a time $\\frac{T}{4}$ later?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A transverse wave moving to the right. A cork is currently at the crest of the wave. Four points A, B, C, and D are marked. A is directly below the crest, B is on the downward slope to the right, C is further down vertically from A, and D is at the equilibrium position/node to the right of the crest.",
+    "labels_to_preserve": [
+      "cork",
+      "A.",
+      "B.",
+      "C.",
+      "D."
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In a transverse water wave, the particles of the medium (and the floating cork) move only vertically, not horizontally with the wave. Since the wave is moving to the right, the crest currently at the cork's horizontal position will move to the right. After a quarter period ($T/4$), the point on the wave that was a quarter-wavelength to the left of the cork (the equilibrium point moving downwards) will have reached the cork's horizontal position. Therefore, the cork moves vertically down to the equilibrium level, which corresponds to position A.",
+  "source_image_path": "C2-Wave-Model/Nov 2006 HL Q22 A.png"
+}

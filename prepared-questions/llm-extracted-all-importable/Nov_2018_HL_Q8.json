@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2018_HL_Q8",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2018,
+    "month": "Nov",
+    "session_label": "Nov 2018",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2018 HL Q8 C.png"
+  },
+  "question_number": 8,
+  "content_markdown": "A solid substance has just reached its melting point. Thermal energy is supplied to the substance at a constant rate. Which graph shows the variation of the temperature $T$ of the substance with energy $E$ supplied?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs labeled A, B, C, and D showing temperature T on the y-axis and energy E on the x-axis. Each graph shows a different combination of linear segments representing heating and phase changes.",
+    "labels_to_preserve": [
+      "T",
+      "E"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "When a substance reaches its melting point, any additional thermal energy supplied is used to break intermolecular bonds (latent heat) rather than increasing the kinetic energy of the particles. Therefore, the temperature remains constant (a horizontal line on the $T$ vs $E$ graph) until the phase change is complete. Since the substance has 'just reached' its melting point, the graph must start with a horizontal section.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2018 HL Q8 C.png"
+}

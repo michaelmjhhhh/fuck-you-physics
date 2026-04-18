@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2013_HL_Q18",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2013,
+    "month": "Nov",
+    "session_label": "Nov 2013",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2013 HL Q18 C.png"
+  },
+  "question_number": 18,
+  "content_markdown": "Each of the resistors in the circuit has a resistance of $2.0\\,\\Omega$. The cell has an emf of $3.0\\,\\text{V}$ and negligible internal resistance. The ammeter has negligible resistance.\n\nWhat is the ammeter reading?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a 3.0V cell connected in parallel to two branches. The top branch contains three resistors in series. The bottom branch contains one resistor in series with an ammeter.",
+    "labels_to_preserve": [
+      "3.0V",
+      "A"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.4 A"
+    },
+    {
+      "label": "B",
+      "text": "0.5 A"
+    },
+    {
+      "label": "C",
+      "text": "1.5 A"
+    },
+    {
+      "label": "D",
+      "text": "2.0 A"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The circuit consists of two parallel branches connected to a $3.0\\,\\text{V}$ source. The ammeter is in the bottom branch, which contains only one resistor of $2.0\\,\\Omega$. Since the branches are in parallel and there is no internal resistance, the potential difference across the bottom branch is the full $3.0\\,\\text{V}$. Using Ohm's Law ($I = V/R$), the current through the ammeter is $3.0\\,\\text{V} / 2.0\\,\\Omega = 1.5\\,\\text{A}$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2013 HL Q18 C.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2015_HL_Q7",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2015,
+    "month": "Nov",
+    "session_label": "Nov 2015",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2015 HL Q7 B.png"
+  },
+  "question_number": 7,
+  "content_markdown": "When $1800\\text{ J}$ of energy is supplied to a mass $m$ of liquid in a container, the temperature of the liquid and the container changes by $10\\text{ K}$. When the mass of the liquid is doubled to $2m$, $3000\\text{ J}$ of energy is required to change the temperature of the liquid and container by $10\\text{ K}$. What is the specific heat capacity of the liquid in $\\text{J kg}^{-1}\\text{ K}^{-1}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{60}{m}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{120}{m}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{180}{m}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{240}{m}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Let $C$ be the heat capacity of the container and $c$ be the specific heat capacity of the liquid. For the first case: $1800 = (mc + C) \\times 10$. For the second case: $3000 = (2mc + C) \\times 10$. Dividing by 10 gives $180 = mc + C$ and $300 = 2mc + C$. Subtracting the first equation from the second yields $120 = mc$, so $c = \\frac{120}{m}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2015 HL Q7 B.png"
+}

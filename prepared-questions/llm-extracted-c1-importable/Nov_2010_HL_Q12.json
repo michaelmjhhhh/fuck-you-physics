@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2010_HL_Q12",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2010,
+    "month": "Nov",
+    "session_label": "Nov 2010",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2010 HL Q12 D.png"
+  },
+  "question_number": 12,
+  "content_markdown": "Which of the following graphs shows the variation with displacement $x$ of the speed $v$ of a particle performing simple harmonic motion?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs labeled A, B, C, and D showing different curves on a v-x coordinate system. Graph A shows a bell-shaped curve crossing the x-axis. Graph B shows a sine-wave-like curve passing through the origin. Graph C shows a parabola opening upwards with its vertex at the origin. Graph D shows a semi-elliptical or parabolic curve opening downwards with its maximum at x=0 and speed always non-negative.",
+    "labels_to_preserve": [
+      "v",
+      "x",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In Simple Harmonic Motion (SHM), the relationship between velocity $v$ and displacement $x$ is given by $v = \\pm \\omega \\sqrt{x_0^2 - x^2}$. Since the question asks for 'speed', we consider the magnitude $|v|$. Speed is maximum at the equilibrium position ($x=0$) and zero at the maximum displacement ($x = \\pm x_0$). Furthermore, speed is a scalar and must be non-negative, which eliminates graphs that show negative values for $v$. Graph D correctly shows a maximum speed at the origin and zero speed at the amplitudes, while remaining positive throughout.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2010 HL Q12 D.png"
+}

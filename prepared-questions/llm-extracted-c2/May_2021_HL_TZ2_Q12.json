@@ -1,0 +1,47 @@
+{
+  "id": "May_2021_HL_TZ2_Q12",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave properties",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ2 Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "Which graph shows the variation of amplitude with intensity for a wave?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs showing different relationships between amplitude (y-axis) and intensity (x-axis). Graph A shows a square root curve, Graph B shows a parabolic curve, Graph C shows a linear relationship, and Graph D shows an inverse relationship.",
+    "labels_to_preserve": [
+      "amplitude",
+      "intensity",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In physics, the intensity $I$ of a wave is proportional to the square of its amplitude $A$, expressed as $I \\propto A^2$. Rearranging this for amplitude gives $A \\propto \\sqrt{I}$. Therefore, the graph of amplitude against intensity should follow a square root shape, which starts at the origin and increases with a decreasing gradient, as shown in graph A.",
+  "source_image_path": "C2-Wave-Model/May 2021 HL TZ2 Q12 B.png"
+}

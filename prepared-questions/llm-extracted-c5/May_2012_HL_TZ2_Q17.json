@@ -1,0 +1,48 @@
+{
+  "id": "May_2012_HL_TZ2_Q17",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2012,
+    "month": "May",
+    "session_label": "May 2012",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2012 HL TZ2 Q17 A.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A point source of sound is moving to the right at constant speed. The source emits sound waves of constant frequency. The speed of the source is less than the speed of sound. Which diagram correctly shows the wavefronts of the sound?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four diagrams (A, B, C, D) showing circular wavefronts emitted by a source moving to the right. Diagram A shows wavefronts bunched together on the right. Diagram B shows concentric circles. Diagram C shows wavefronts bunched on the left. Diagram D shows wavefronts touching at a single point on the right.",
+    "labels_to_preserve": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "When a source moves, it 'catches up' to the wavefronts it emits in the direction of motion. This causes the wavefronts to bunch together in front of the source (to the right in this case) and spread out behind it. Since the source speed is less than the speed of sound, the source remains inside all the wavefronts it has emitted, but shifted towards the leading edge.",
+  "source_image_path": "C5-Doppler-Effect/May 2012 HL TZ2 Q17 A.png"
+}

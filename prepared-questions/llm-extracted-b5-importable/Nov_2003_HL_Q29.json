@@ -1,0 +1,50 @@
+{
+  "id": "Nov_2003_HL_Q29",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2003,
+    "month": "Nov",
+    "session_label": "Nov 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2003 HL Q29 D.png"
+  },
+  "question_number": 29,
+  "content_markdown": "The variation with potential difference $V$ of the current $I$ in an electric lamp is shown below.\n\nAt point P, the current is $I_p$, the potential difference is $V_p$ and the gradient of the tangent to the curve is $G$. What is the resistance of the lamp at point P?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph showing current I on the y-axis and potential difference V on the x-axis. The curve starts at the origin and curves downwards (decreasing gradient). A point P is marked on the curve with corresponding coordinates (Vp, Ip).",
+    "labels_to_preserve": [
+      "I",
+      "V",
+      "P",
+      "I_p",
+      "V_p",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{G}$"
+    },
+    {
+      "label": "B",
+      "text": "$G$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{I_p}{V_p}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{V_p}{I_p}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Resistance is defined by Ohm's Law as the ratio of potential difference to current at a specific point ($R = V/I$). While the gradient $G$ of an $I-V$ graph relates to the dynamic conductance, the actual resistance at point P is simply the ratio of the voltage coordinate to the current coordinate at that point.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2003 HL Q29 D.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2016_HL_TZ0_Q24",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2016,
+    "month": "May",
+    "session_label": "May 2016",
+    "level": "HL",
+    "timezone": "TZ0",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2016 HL TZ0 Q24 A.png"
+  },
+  "question_number": 24,
+  "content_markdown": "A simple pendulum has mass $M$ and length $l$. The period of oscillation of the pendulum is $T$. What is the period of oscillation of a pendulum with mass $4M$ and length $0.25l$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.5T"
+    },
+    {
+      "label": "B",
+      "text": "T"
+    },
+    {
+      "label": "C",
+      "text": "2T"
+    },
+    {
+      "label": "D",
+      "text": "4T"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The period of a simple pendulum is given by $T = 2\\pi\\sqrt{\\frac{l}{g}}$. Notice that the mass $M$ does not appear in the formula, so changing it to $4M$ has no effect. If the length $l$ is changed to $0.25l$, the new period $T'$ becomes $2\\pi\\sqrt{\\frac{0.25l}{g}} = \\sqrt{0.25} \\times 2\\pi\\sqrt{\\frac{l}{g}} = 0.5T$.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2016 HL TZ0 Q24 A.png"
+}

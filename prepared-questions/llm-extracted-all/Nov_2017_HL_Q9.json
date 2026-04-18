@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2017_HL_Q9",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2017,
+    "month": "Nov",
+    "session_label": "Nov 2017",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2017 HL Q9 B.png"
+  },
+  "question_number": 9,
+  "content_markdown": "The fraction of the internal energy that is due to molecular vibration varies in the different states of matter. What gives the order from highest fraction to lowest fraction of internal energy due to molecular vibration?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "liquid \u003e gas \u003e solid"
+    },
+    {
+      "label": "B",
+      "text": "solid \u003e liquid \u003e gas"
+    },
+    {
+      "label": "C",
+      "text": "solid \u003e gas \u003e liquid"
+    },
+    {
+      "label": "D",
+      "text": "gas \u003e liquid \u003e solid"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In a solid, molecules are held in a fixed lattice and their kinetic energy is almost entirely vibrational. In a liquid, there is more translational and rotational movement, reducing the vibrational fraction. In an ideal gas, the internal energy is entirely translational kinetic energy with no vibrational component considered in the basic model, making it the lowest fraction.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2017 HL Q9 B.png"
+}

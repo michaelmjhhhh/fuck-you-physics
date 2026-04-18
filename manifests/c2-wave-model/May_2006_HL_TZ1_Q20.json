@@ -1,0 +1,26 @@
+{
+  "id": "May_2006_HL_TZ1_Q20",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ1 Q20 D.png"
+  },
+  "question_number": 20,
+  "correct_answer": "D",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "C2-Wave-Model/May 2006 HL TZ1 Q20 D.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

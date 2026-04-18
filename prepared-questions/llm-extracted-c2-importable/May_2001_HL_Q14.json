@@ -1,0 +1,43 @@
+{
+  "id": "May_2001_HL_Q14",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave properties",
+  "paper": {
+    "year": 2001,
+    "month": "May",
+    "session_label": "May 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2001 HL Q14 C.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A surfer is out beyond the breaking surf in a deep-water region where the ocean waves are sinusoidal in shape. The crests are $20\\text{ m}$ apart and the surfer rises a vertical distance of $4.0\\text{ m}$ from wave **trough** to **crest**, in a time of $2.0\\text{ s}$. What is the speed of the waves?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$1.0\\text{ ms}^{-1}$"
+    },
+    {
+      "label": "B",
+      "text": "$2.0\\text{ ms}^{-1}$"
+    },
+    {
+      "label": "C",
+      "text": "$5.0\\text{ ms}^{-1}$"
+    },
+    {
+      "label": "D",
+      "text": "$10.0\\text{ ms}^{-1}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "To find the wave speed $v$, we use the formula $v = f\\lambda$ or $v = \\frac{\\lambda}{T}$. The distance between crests is the wavelength, so $\\lambda = 20\\text{ m}$. The time taken to go from trough to crest is half a period ($T/2$), because a full cycle is trough-to-trough or crest-to-crest. Given $T/2 = 2.0\\text{ s}$, the full period $T = 4.0\\text{ s}$. Therefore, $v = \\frac{20\\text{ m}}{4.0\\text{ s}} = 5.0\\text{ ms}^{-1}$. Note that the vertical distance (amplitude information) is irrelevant for calculating wave speed.",
+  "source_image_path": "C2-Wave-Model/May 2001 HL Q14 C.png"
+}

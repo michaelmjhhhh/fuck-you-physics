@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2004_HL_Q29",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electromotive force and internal resistance",
+  "paper": {
+    "year": 2004,
+    "month": "Nov",
+    "session_label": "Nov 2004",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2004 HL Q29 D.png"
+  },
+  "question_number": 29,
+  "content_markdown": "The current in the circuit shown below is constant when the switch is closed.\n\nThe energy transfer in the internal resistance $r$ of the battery is $15\\text{ J}$ when a charge of $40\\text{ C}$ passes through it. For the same amount of charge, $45\\text{ J}$ of energy is transferred in the resistor $R$.\n\nWhich of the following gives the e.m.f. of the battery?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram containing a battery with internal resistance r, an external resistor R, and a switch, all connected in a single series loop.",
+    "labels_to_preserve": [
+      "r",
+      "R"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{15}{40}\\text{ V}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{30}{40}\\text{ V}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{45}{40}\\text{ V}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{60}{40}\\text{ V}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The electromotive force (e.m.f.) is defined as the total energy supplied by the battery per unit charge. In this circuit, energy is dissipated in both the internal resistance $r$ and the external resistor $R$. The total energy transferred for a charge of $40\\text{ C}$ is the sum of the energy in $r$ and $R$, which is $15\\text{ J} + 45\\text{ J} = 60\\text{ J}$. Using the formula $\\epsilon = \\frac{W}{Q}$, we get $\\epsilon = \\frac{60}{40}\\text{ V}$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2004 HL Q29 D.png"
+}

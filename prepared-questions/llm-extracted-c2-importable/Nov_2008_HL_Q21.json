@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2008_HL_Q21",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2008,
+    "month": "Nov",
+    "session_label": "Nov 2008",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2008 HL Q21 C.png"
+  },
+  "question_number": 21,
+  "content_markdown": "A transverse wave is moving along a string. Two points on the string are separated by half a wavelength. The velocities of these points are always",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "constant."
+    },
+    {
+      "label": "B",
+      "text": "in a direction parallel to the direction of propagation of the wave."
+    },
+    {
+      "label": "C",
+      "text": "opposite to each other."
+    },
+    {
+      "label": "D",
+      "text": "the same as each other."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Points separated by half a wavelength ($\\lambda/2$) are $180^\\circ$ or $\\pi$ radians out of phase. In a transverse wave, the particles oscillate perpendicular to the wave motion. If two points are exactly half a cycle apart, when one is moving 'up', the other must be moving 'down' with the same speed, making their velocity vectors always opposite to each other.",
+  "source_image_path": "C2-Wave-Model/Nov 2008 HL Q21 C.png"
+}

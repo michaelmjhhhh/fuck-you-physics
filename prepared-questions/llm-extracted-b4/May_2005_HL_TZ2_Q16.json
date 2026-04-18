@@ -1,0 +1,50 @@
+{
+  "id": "May_2005_HL_TZ2_Q16",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ2 Q16 A.png"
+  },
+  "question_number": 16,
+  "content_markdown": "The diagram below represents the four stages of a Carnot Cycle.\n\nWhich of the following describes the process $A \\rightarrow B$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A pressure-volume (P-V) graph showing a Carnot cycle with four points labeled A, B, C, and D. The process A to B is the top-most curve moving from left to right.",
+    "labels_to_preserve": [
+      "pressure",
+      "volume",
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Isothermal expansion"
+    },
+    {
+      "label": "B",
+      "text": "Isothermal compression"
+    },
+    {
+      "label": "C",
+      "text": "Adiabatic expansion"
+    },
+    {
+      "label": "D",
+      "text": "Adiabatic compression"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In a standard Carnot cycle represented on a P-V diagram, the cycle starts at the highest pressure and temperature (point A). The first stage, $A \\rightarrow B$, is an isothermal expansion where the gas absorbs heat from the hot reservoir while its volume increases and pressure decreases along a constant temperature curve. The subsequent stage $B \\rightarrow C$ is the adiabatic expansion.",
+  "source_image_path": "B4-Thermodynamics/May 2005 HL TZ2 Q16 A.png"
+}

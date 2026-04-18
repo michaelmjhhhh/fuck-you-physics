@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2011_HL_Q37",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2011,
+    "month": "Nov",
+    "session_label": "Nov 2011",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2011 HL Q37 B.png"
+  },
+  "question_number": 37,
+  "content_markdown": "Which of the following is **least** likely to increase the rate of global warming?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Melting of glaciers"
+    },
+    {
+      "label": "B",
+      "text": "Rising of sea-levels"
+    },
+    {
+      "label": "C",
+      "text": "Rising of sea temperature"
+    },
+    {
+      "label": "D",
+      "text": "Deforestation"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "This question tests the understanding of feedback mechanisms in climate change. Melting glaciers (A) reduces albedo, increasing absorption. Rising sea temperatures (C) can release dissolved CO2 and increase water vapor (a greenhouse gas). Deforestation (D) removes carbon sinks. While rising sea levels (B) are a major *consequence* of global warming, they do not significantly drive a positive feedback loop that increases the rate of warming compared to the other options.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2011 HL Q37 B.png"
+}

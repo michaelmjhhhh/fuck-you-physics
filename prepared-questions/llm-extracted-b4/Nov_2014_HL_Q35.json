@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2014_HL_Q35",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2014,
+    "month": "Nov",
+    "session_label": "Nov 2014",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2014 HL Q35 A.png"
+  },
+  "question_number": 35,
+  "content_markdown": "Which of the following is **true** when thermal energy is converted into work in a single process and a cyclical process?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table comparing the conversion of thermal energy into work for a single process and a cyclical process across four options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Single process",
+      "Cyclical process"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Single process: complete conversion of thermal energy into work can occur; Cyclical process: energy must be transferred from the system"
+    },
+    {
+      "label": "B",
+      "text": "Single process: complete conversion of thermal energy into work can never occur; Cyclical process: energy must be transferred from the system"
+    },
+    {
+      "label": "C",
+      "text": "Single process: complete conversion of thermal energy into work can occur; Cyclical process: energy need not be transferred from the system"
+    },
+    {
+      "label": "D",
+      "text": "Single process: complete conversion of thermal energy into work can never occur; Cyclical process: energy need not be transferred from the system"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In a single process (like an isothermal expansion), all heat absorbed can be converted into work as long as the internal energy change is zero. However, the Second Law of Thermodynamics (Kelvin-Planck statement) dictates that for a cyclical process, it is impossible to convert all heat from a single reservoir into work; some energy must always be rejected to a cold reservoir (transferred from the system).",
+  "source_image_path": "B4-Thermodynamics/Nov 2014 HL Q35 A.png"
+}

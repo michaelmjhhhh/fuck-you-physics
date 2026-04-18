@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2020_HL_Q10",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2020,
+    "month": "Nov",
+    "session_label": "Nov 2020",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2020 HL Q10 D.png"
+  },
+  "question_number": 10,
+  "content_markdown": "An object moves with simple harmonic motion. The acceleration of the object is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "constant."
+    },
+    {
+      "label": "B",
+      "text": "always directed away from the centre of the oscillation."
+    },
+    {
+      "label": "C",
+      "text": "a maximum at the centre of the oscillation."
+    },
+    {
+      "label": "D",
+      "text": "a maximum at the extremes of the oscillation."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In Simple Harmonic Motion (SHM), the defining relationship is $a = -\\omega^2 x$. This means acceleration is proportional to displacement but in the opposite direction (restoring). Therefore, acceleration is zero at the equilibrium position ($x=0$) and reaches its maximum magnitude when the displacement is at its maximum (the extremes of the oscillation).",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2020 HL Q10 D.png"
+}

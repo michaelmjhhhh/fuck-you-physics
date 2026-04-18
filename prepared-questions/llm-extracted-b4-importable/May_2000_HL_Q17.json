@@ -1,0 +1,43 @@
+{
+  "id": "May_2000_HL_Q17",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2000,
+    "month": "May",
+    "session_label": "May 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2000 HL Q17 A.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A system absorbs $70\\text{ J}$ of thermal energy and in the process does $40\\text{ J}$ of work. The internal energy change is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "30 J."
+    },
+    {
+      "label": "B",
+      "text": "40 J."
+    },
+    {
+      "label": "C",
+      "text": "70 J."
+    },
+    {
+      "label": "D",
+      "text": "110 J."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "This question tests the First Law of Thermodynamics: $\\Delta U = Q - W$. Here, the system absorbs heat ($Q = +70\\text{ J}$) and performs work on the surroundings ($W = +40\\text{ J}$). Therefore, the change in internal energy is $\\Delta U = 70\\text{ J} - 40\\text{ J} = 30\\text{ J}$.",
+  "source_image_path": "B4-Thermodynamics/May 2000 HL Q17 A.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2017_HL_Q25",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2017,
+    "month": "Nov",
+    "session_label": "Nov 2017",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2017 HL Q25 B.png"
+  },
+  "question_number": 25,
+  "content_markdown": "A black body emits radiation with its greatest intensity at a wavelength of $\\lambda_{\\text{max}}$. The surface temperature of the black body doubles without any other change occurring. What is the wavelength at which the greatest intensity of radiation is emitted?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\lambda_{\\text{max}}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{\\lambda_{\\text{max}}}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{\\lambda_{\\text{max}}}{4}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{\\lambda_{\\text{max}}}{16}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "According to Wien's displacement law, the wavelength of maximum intensity $\\lambda_{\\text{max}}$ is inversely proportional to the absolute temperature $T$ of the black body ($\\lambda_{\\text{max}} \\propto \\frac{1}{T}$). If the temperature doubles ($2T$), the new peak wavelength must be half of the original value.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2017 HL Q25 B.png"
+}

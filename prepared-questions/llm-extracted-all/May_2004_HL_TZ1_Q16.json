@@ -1,0 +1,43 @@
+{
+  "id": "May_2004_HL_TZ1_Q16",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ1 Q16 B.png"
+  },
+  "question_number": 16,
+  "content_markdown": "The specific latent heat of fusion of a substance is defined as the amount of thermal energy required to change the phase of",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the substance at constant temperature."
+    },
+    {
+      "label": "B",
+      "text": "unit mass of the substance to liquid at constant temperature."
+    },
+    {
+      "label": "C",
+      "text": "unit mass of the substance at constant temperature."
+    },
+    {
+      "label": "D",
+      "text": "the substance to gas at constant temperature."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The term 'specific' in physics definitions usually implies 'per unit mass'. Latent heat refers to energy transferred during a phase change where the temperature remains constant. Fusion specifically refers to the transition between solid and liquid phases. Therefore, the definition must include both 'unit mass' and 'constant temperature'.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2004 HL TZ1 Q16 B.png"
+}

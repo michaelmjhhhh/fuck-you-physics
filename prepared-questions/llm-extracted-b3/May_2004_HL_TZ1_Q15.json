@@ -1,0 +1,52 @@
+{
+  "id": "May_2004_HL_TZ1_Q15",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ1 Q15 B.png"
+  },
+  "question_number": 15,
+  "content_markdown": "Two identical boxes X and Y each contain an ideal gas.\n\nIn box X there are $n$ moles of the gas at temperature $T$ and pressure $P_X$. In box Y there are $2n$ moles of the gas at temperature $\\frac{T}{3}$ and pressure $P_Y$.\n\nThe ratio $\\frac{P_X}{P_Y}$ is",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two rectangular boxes labeled Box X and Box Y. Box X contains n moles, temperature T, and pressure P_X. Box Y contains 2n moles, temperature T/3, and pressure P_Y.",
+    "labels_to_preserve": [
+      "Box X",
+      "Box Y",
+      "n moles",
+      "temperature T",
+      "pressure P_X",
+      "2n moles",
+      "temperature T/3",
+      "pressure P_Y"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{2}{3}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{3}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "2"
+    },
+    {
+      "label": "D",
+      "text": "3"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Using the ideal gas law $PV = nRT$, and knowing the volumes $V$ are identical for both boxes, we can express pressure as $P = \\frac{nRT}{V}$. For box X, $P_X = \\frac{nRT}{V}$. For box Y, $P_Y = \\frac{(2n)R(T/3)}{V} = \\frac{2}{3} \\frac{nRT}{V}$. Taking the ratio $\\frac{P_X}{P_Y} = \\frac{1}{2/3} = \\frac{3}{2}$.",
+  "source_image_path": "B3-Gas-Laws/May 2004 HL TZ1 Q15 B.png"
+}

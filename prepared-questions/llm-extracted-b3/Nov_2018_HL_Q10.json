@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2018_HL_Q10",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2018,
+    "month": "Nov",
+    "session_label": "Nov 2018",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2018 HL Q10 C.png"
+  },
+  "question_number": 10,
+  "content_markdown": "Container X contains $1.0\\text{ mol}$ of an ideal gas. Container Y contains $2.0\\text{ mol}$ of the ideal gas. Y has four times the volume of X. The pressure in X is twice that in Y.\n\nWhat is $\\frac{\\text{temperature of gas in X}}{\\text{temperature of gas in Y}}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "1"
+    },
+    {
+      "label": "D",
+      "text": "2"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Using the ideal gas law $PV = nRT$, we can express temperature as $T = \\frac{PV}{nR}$. For the ratio $\\frac{T_X}{T_Y}$, we have $\\frac{P_X V_X / (n_X R)}{P_Y V_Y / (n_Y R)} = \\frac{P_X}{P_Y} \\cdot \\frac{V_X}{V_Y} \\cdot \\frac{n_Y}{n_X}$. Substituting the given values: $\\frac{P_X}{P_Y} = 2$, $\\frac{V_X}{V_Y} = \\frac{1}{4}$, and $\\frac{n_Y}{n_X} = \\frac{2.0}{1.0} = 2$. Multiplying these together: $2 \\cdot \\frac{1}{4} \\cdot 2 = 1$.",
+  "source_image_path": "B3-Gas-Laws/Nov 2018 HL Q10 C.png"
+}

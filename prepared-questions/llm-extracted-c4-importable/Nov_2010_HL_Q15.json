@@ -1,0 +1,45 @@
+{
+  "id": "Nov_2010_HL_Q15",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2010,
+    "month": "Nov",
+    "session_label": "Nov 2010",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2010 HL Q15 A.png"
+  },
+  "question_number": 15,
+  "content_markdown": "A standing wave is established in air in a pipe with one closed and one open end.\n\nThe air molecules near X are",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A horizontal pipe with a closed left end and an open right end. Inside, a standing wave envelope is shown with a displacement node at the closed end, an antinode in the middle, a node at point X, and an antinode at the open end.",
+    "labels_to_preserve": [
+      "X"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "always at the centre of a compression."
+    },
+    {
+      "label": "B",
+      "text": "always at the centre of a rarefaction."
+    },
+    {
+      "label": "C",
+      "text": "sometimes at the centre of a compression and sometimes at the centre of a rarefaction."
+    },
+    {
+      "label": "D",
+      "text": "never at the centre of a compression or a rarefaction."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In a longitudinal standing wave, a displacement node (like point X) corresponds to a pressure antinode. This means the pressure at X oscillates between maximum (compression) and minimum (rarefaction) over time. Therefore, the molecules at X are sometimes at the center of a compression and sometimes at the center of a rarefaction as the wave oscillates.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2010 HL Q15 A.png"
+}

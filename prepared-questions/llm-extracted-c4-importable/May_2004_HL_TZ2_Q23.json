@@ -1,0 +1,43 @@
+{
+  "id": "May_2004_HL_TZ2_Q23",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ2 Q23 A.png"
+  },
+  "question_number": 23,
+  "content_markdown": "Standing waves in an open pipe come about as a result of",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "reflection and superposition."
+    },
+    {
+      "label": "B",
+      "text": "reflection and diffraction."
+    },
+    {
+      "label": "C",
+      "text": "superposition and diffraction."
+    },
+    {
+      "label": "D",
+      "text": "reflection and refraction."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Standing waves are formed when two waves of the same frequency and amplitude traveling in opposite directions interfere. In a pipe, this occurs because the sound wave reflects off the ends (even open ends, due to the change in impedance) and then undergoes superposition with the incident wave.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2004 HL TZ2 Q23 A.png"
+}

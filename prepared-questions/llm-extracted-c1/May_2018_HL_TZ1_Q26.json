@@ -1,0 +1,48 @@
+{
+  "id": "May_2018_HL_TZ1_Q26",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ1 Q26 B.png"
+  },
+  "question_number": 26,
+  "content_markdown": "A mass at the end of a vertical spring and a simple pendulum perform oscillations on Earth that are simple harmonic with time period $T$. Both the pendulum and the mass-spring system are taken to the Moon. The acceleration of free fall on the Moon is smaller than that on Earth. What is correct about the time periods of the pendulum and the mass-spring system on the Moon?\n\n| | Simple pendulum | Mass-spring system |\n| :--- | :--- | :--- |\n| **A.** | $T$ | $T$ |\n| **B.** | greater than $T$ | $T$ |\n| **C.** | greater than $T$ | greater than $T$ |\n| **D.** | $T$ | greater than $T$ |",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) for the time periods of a simple pendulum and a mass-spring system on the Moon compared to Earth.",
+    "labels_to_preserve": [
+      "Simple pendulum",
+      "Mass-spring system",
+      "T",
+      "greater than T"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Simple pendulum: $T$; Mass-spring system: $T$"
+    },
+    {
+      "label": "B",
+      "text": "Simple pendulum: greater than $T$; Mass-spring system: $T$"
+    },
+    {
+      "label": "C",
+      "text": "Simple pendulum: greater than $T$; Mass-spring system: greater than $T$"
+    },
+    {
+      "label": "D",
+      "text": "Simple pendulum: $T$; Mass-spring system: greater than $T$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The time period of a simple pendulum is given by $T = 2\\pi\\sqrt{\\frac{l}{g}}$. Since $g$ is smaller on the Moon, the denominator decreases, making the time period greater than $T$. The time period of a mass-spring system is given by $T = 2\\pi\\sqrt{\\frac{m}{k}}$. This formula does not depend on $g$, so the time period remains $T$.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2018 HL TZ1 Q26 B.png"
+}

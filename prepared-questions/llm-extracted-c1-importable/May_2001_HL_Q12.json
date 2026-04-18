@@ -1,0 +1,43 @@
+{
+  "id": "May_2001_HL_Q12",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Circular Motion",
+  "paper": {
+    "year": 2001,
+    "month": "May",
+    "session_label": "May 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2001 HL Q12 A.png"
+  },
+  "question_number": 12,
+  "content_markdown": "The angular speed of the 'minute' hand of an analogue watch is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{\\pi}{1800} \\text{ rad/s}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{\\pi}{60} \\text{ rad/s}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{\\pi}{30} \\text{ rad/s}$"
+    },
+    {
+      "label": "D",
+      "text": "$120\\pi \\text{ rad/s}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "To find the angular speed $\\omega$, use the formula $\\omega = \\frac{2\\pi}{T}$. The minute hand of a watch completes one full revolution in 60 minutes. Converting this period to seconds: $T = 60 \\times 60 = 3600 \\text{ s}$. Therefore, $\\omega = \\frac{2\\pi}{3600} = \\frac{\\pi}{1800} \\text{ rad/s}$.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2001 HL Q12 A.png"
+}

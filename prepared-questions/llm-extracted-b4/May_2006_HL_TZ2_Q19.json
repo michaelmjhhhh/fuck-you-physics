@@ -1,0 +1,43 @@
+{
+  "id": "May_2006_HL_TZ2_Q19",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ2 Q19 C.png"
+  },
+  "question_number": 19,
+  "content_markdown": "The first law of thermodynamics may be expressed in terms of the quantities below.\n\n$\\Delta U$, the **increase** in the internal energy of the system\n$Q$, the energy transferred **to** the system by heating\n$W$, the work done **on** the system\n\nWhich **one** of the following is a correct statement of the law?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present, only text and mathematical equations.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$W = \\Delta U + Q$"
+    },
+    {
+      "label": "B",
+      "text": "$W = -\\Delta U - Q$"
+    },
+    {
+      "label": "C",
+      "text": "$W = \\Delta U - Q$"
+    },
+    {
+      "label": "D",
+      "text": "$W = -\\Delta U + Q$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The first law of thermodynamics is a statement of energy conservation. The change in internal energy ($\\Delta U$) is equal to the heat added to the system ($Q$) plus the work done on the system ($W$). Rearranging $\\Delta U = Q + W$ to solve for $W$ gives $W = \\Delta U - Q$.",
+  "source_image_path": "B4-Thermodynamics/May 2006 HL TZ2 Q19 C.png"
+}

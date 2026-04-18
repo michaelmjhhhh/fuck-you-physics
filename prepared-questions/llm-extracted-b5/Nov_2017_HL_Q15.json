@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2017_HL_Q15",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2017,
+    "month": "Nov",
+    "session_label": "Nov 2017",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2017 HL Q15 A.png"
+  },
+  "question_number": 15,
+  "content_markdown": "Two wires, X and Y, are made from the same metal. The wires are connected in series. The radius of X is twice that of Y. The carrier drift speed in X is $v_X$ and in Y it is $v_Y$.\n\nWhat is the value of the ratio $\\frac{v_X}{v_Y}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.25"
+    },
+    {
+      "label": "B",
+      "text": "0.50"
+    },
+    {
+      "label": "C",
+      "text": "2.00"
+    },
+    {
+      "label": "D",
+      "text": "4.00"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Since the wires are in series, the current $I$ is the same for both. The formula for current is $I = nAve$, where $n$ is the charge carrier density, $A$ is the cross-sectional area, $v$ is the drift speed, and $e$ is the elementary charge. Because they are the same metal, $n$ is constant. Thus, $A_X v_X = A_Y v_Y$. Since $A = \\pi r^2$, the ratio of areas is the square of the ratio of radii. If $r_X = 2r_Y$, then $A_X = 4A_Y$. Substituting this into the continuity equation gives $4A_Y v_X = A_Y v_Y$, which simplifies to $v_X / v_Y = 1/4 = 0.25$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2017 HL Q15 A.png"
+}

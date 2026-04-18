@@ -1,0 +1,60 @@
+@import "tailwindcss";
+@import "katex/dist/katex.min.css";
+
+:root {
+  --parchment: #f5f4ed;
+  --ivory: #faf9f5;
+  --near-black: #141413;
+  --terracotta: #c96442;
+  --terracotta-deep: #a44d31;
+  --olive-gray: #5e5d59;
+  --stone-gray: #87867f;
+  --warm-sand: #e8e6dc;
+  --border-cream: #f0eee6;
+  --border-warm: #e8e6dc;
+  --success: #3f6b53;
+  --success-soft: #e7f1ea;
+  --error: #b53333;
+  --error-soft: #f8ebeb;
+  --shadow-soft: rgba(20, 20, 19, 0.06);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, rgba(201, 100, 66, 0.08), transparent 28%),
+    linear-gradient(180deg, #f7f4ed 0%, var(--parchment) 42%, #f3efe6 100%);
+  color: var(--near-black);
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: Georgia, 'Times New Roman', serif;
+}
+
+.app-shell {
+  width: 100%;
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.editorial-card {
+  background: rgba(250, 249, 245, 0.9);
+  border: 1px solid var(--border-cream);
+  box-shadow: 0 18px 40px var(--shadow-soft);
+}
+
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+}

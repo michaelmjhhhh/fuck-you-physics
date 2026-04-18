@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2020_HL_Q26",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2020,
+    "month": "Nov",
+    "session_label": "Nov 2020",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2020 HL Q26 C.png"
+  },
+  "question_number": 26,
+  "content_markdown": "The average temperature of the surface of a planet is five times greater than the average temperature of the surface of its moon. The emissivities of the planet and the moon are the same. The average intensity radiated by the planet is $I$. What is the average intensity radiated by its moon?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{I}{25}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{I}{125}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{I}{625}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{I}{3125}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "According to the Stefan-Boltzmann law, the intensity $I$ radiated by a black body (or a body with constant emissivity) is proportional to the fourth power of its absolute temperature ($I \\propto T^4$). If the planet's temperature $T_p$ is 5 times that of the moon $T_m$ ($T_p = 5T_m$), then the ratio of their intensities is $I_p / I_m = (T_p / T_m)^4 = 5^4 = 625$. Therefore, the intensity of the moon is $I_m = I / 625$.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2020 HL Q26 C.png"
+}

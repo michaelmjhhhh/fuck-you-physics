@@ -1,0 +1,50 @@
+{
+  "id": "Nov_2002_HL_Q19",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave properties",
+  "paper": {
+    "year": 2002,
+    "month": "Nov",
+    "session_label": "Nov 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2002 HL Q19 A.png"
+  },
+  "question_number": 19,
+  "content_markdown": "The diagram below shows ripples on the surface of water at one instant of time. The ripples are moving **right to left** and a small object, $P$, is floating in the water. After a **quarter** of a time period, which letter correctly shows the position of the floating object?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A transverse wave moving from right to left. Object P is currently at the equilibrium position (node) on a rising slope. Points A, B, C, and D represent potential future positions: A is at the crest, C is at the trough, B is to the right on the equilibrium line, and D is to the left on the equilibrium line.",
+    "labels_to_preserve": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "Object P",
+      "Direction of travel of the wave"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In a transverse water wave, the particles of the medium (and floating objects) move up and down, not horizontally with the wave. Since the wave is moving right to left, the crest to the right of $P$ is approaching. In a quarter of a period ($T/4$), the wave profile shifts left by a quarter wavelength, meaning the crest currently to the right of $P$ will arrive at $P$'s horizontal position, moving the object to its maximum positive displacement (position A).",
+  "source_image_path": "C2-Wave-Model/Nov 2002 HL Q19 A.png"
+}

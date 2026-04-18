@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2001_HL_Q14",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2001,
+    "month": "Nov",
+    "session_label": "Nov 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2001 HL Q14 B.png"
+  },
+  "question_number": 14,
+  "content_markdown": "When the volume of an enclosed gas is **increased** at a constant temperature, the pressure exerted by the gas on the container wall **decreases**. Consider the following statements as possible explanations for this:\n\nI. the average speed at which the gas molecules strike the walls decreases.\nII. the rate at which molecules strike a given area of the walls decreases.\n\nThe pressure decrease is explained by",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "I only."
+    },
+    {
+      "label": "B",
+      "text": "II only."
+    },
+    {
+      "label": "C",
+      "text": "I and II."
+    },
+    {
+      "label": "D",
+      "text": "neither I nor II."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Temperature is a measure of the average kinetic energy of the molecules. Since temperature is constant, the average speed of the molecules (Statement I) remains unchanged. However, as volume increases, the number of molecules per unit volume decreases, leading to a lower frequency of collisions per unit area of the wall (Statement II), which explains the drop in pressure.",
+  "source_image_path": "B3-Gas-Laws/Nov 2001 HL Q14 B.png"
+}

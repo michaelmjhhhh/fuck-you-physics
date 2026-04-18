@@ -1,0 +1,43 @@
+{
+  "id": "May_2001_HL_Q11",
+  "topic": "Rigid Body Mechanics",
+  "topic_code": "A4",
+  "sub_topic": "Rigid bodies and rotational dynamics",
+  "paper": {
+    "year": 2001,
+    "month": "May",
+    "session_label": "May 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2001 HL Q11 B.png"
+  },
+  "question_number": 11,
+  "content_markdown": "Select the one statement which is **false**. The moment of inertia of a body depends on",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "its mass."
+    },
+    {
+      "label": "B",
+      "text": "its angular velocity."
+    },
+    {
+      "label": "C",
+      "text": "its dimensions."
+    },
+    {
+      "label": "D",
+      "text": "the axis of rotation."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The moment of inertia $I$ is defined by the distribution of mass relative to an axis of rotation, often expressed as $I = \\sum m_i r_i^2$. This means it depends on the total mass (A), the shape/dimensions which determine the distances $r$ (C), and the specific axis chosen (D). However, moment of inertia is a geometric and intrinsic property of the rigid body's mass distribution; it does not change based on how fast the object is spinning ($ω$), making B the false statement.",
+  "source_image_path": "A4-Rigid-Body-Mechanics/May 2001 HL Q11 B.png"
+}

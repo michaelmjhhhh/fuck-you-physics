@@ -1,0 +1,47 @@
+{
+  "id": "May_2019_HL_TZ1_Q9",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ1 Q9 B.png"
+  },
+  "question_number": 9,
+  "content_markdown": "An insulated tube is filled with a large number $n$ of lead spheres, each of mass $m$. The tube is inverted $s$ times so that the spheres completely fall through an average distance $L$ each time. The temperature of the spheres is measured before and after the inversions and the resultant change in temperature is $\\Delta T$.\n\nWhat is the specific heat capacity of lead?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A vertical insulated tube containing lead spheres at the bottom. A double-headed arrow indicates the height L of the tube.",
+    "labels_to_preserve": [
+      "L",
+      "tube",
+      "spheres"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{sgL}{nm\\Delta T}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{sgL}{\\Delta T}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{sgL}{n\\Delta T}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{gL}{m\\Delta T}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The total gravitational potential energy lost by all spheres over $s$ inversions is $E_p = s \\cdot (nm) \\cdot gL$. Since the tube is insulated, this energy is converted entirely into internal energy (heat) of the spheres: $Q = (nm) \\cdot c \\cdot \\Delta T$. Equating the two expressions, $s \\cdot nmgL = nmc\\Delta T$. The total mass $nm$ cancels out from both sides, leaving $sgL = c\\Delta T$. Solving for specific heat capacity $c$ gives $c = \\frac{sgL}{\\Delta T}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2019 HL TZ1 Q9 B.png"
+}

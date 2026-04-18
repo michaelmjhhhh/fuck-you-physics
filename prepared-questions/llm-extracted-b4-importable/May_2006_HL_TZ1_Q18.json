@@ -1,0 +1,43 @@
+{
+  "id": "May_2006_HL_TZ1_Q18",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ1 Q18 A.png"
+  },
+  "question_number": 18,
+  "content_markdown": "An operating refrigerator with its door open is placed in a thermally insulated room.\n\nThe refrigerator operates for a long period of time. Which of the following correctly gives the change in temperature and the entropy of the air in the room?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A simple line drawing showing a refrigerator with an open door inside a rectangular box representing a thermally insulated room. A power cord extends from the refrigerator to the wall of the room.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Temperature: Increases; Entropy: Increases"
+    },
+    {
+      "label": "B",
+      "text": "Temperature: Increases; Entropy: Decreases"
+    },
+    {
+      "label": "C",
+      "text": "Temperature: Decreases; Entropy: Decreases"
+    },
+    {
+      "label": "D",
+      "text": "Temperature: Decreases; Entropy: Increases"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The refrigerator is an engine running in reverse; it takes electrical work to move heat. Since the room is insulated, the electrical energy supplied to the refrigerator is eventually dissipated as heat within the room, causing the temperature to increase. Furthermore, according to the Second Law of Thermodynamics, the total entropy of an isolated system (the room + refrigerator) must increase during any real process.",
+  "source_image_path": "B4-Thermodynamics/May 2006 HL TZ1 Q18 A.png"
+}

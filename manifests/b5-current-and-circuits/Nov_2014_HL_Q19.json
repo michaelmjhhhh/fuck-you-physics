@@ -1,0 +1,26 @@
+{
+  "id": "Nov_2014_HL_Q19",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "",
+  "paper": {
+    "year": 2014,
+    "month": "Nov",
+    "session_label": "Nov 2014",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2014 HL Q19 A.png"
+  },
+  "question_number": 19,
+  "correct_answer": "A",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "B5-Current-and-Circuits/Nov 2014 HL Q19 A.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

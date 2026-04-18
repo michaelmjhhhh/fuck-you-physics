@@ -1,0 +1,48 @@
+{
+  "id": "May_2007_HL_TZ2_Q23",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2007,
+    "month": "May",
+    "session_label": "May 2007",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2007 HL TZ2 23 C.png"
+  },
+  "question_number": 23,
+  "content_markdown": "A vibrating tuning fork is held above the top of a tube that is filled with water. The water gradually runs out of the tube until a maximum loudness of sound is heard.\n\nWhich of the following best shows the standing wave pattern set up in the tube at this position?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four diagrams showing a vertical tube with water at the bottom and a standing wave envelope in the air column above. The water level is controlled by a tap at the bottom.",
+    "labels_to_preserve": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In a tube closed at one end (the water surface) and open at the other, resonance occurs when there is a displacement node at the closed end and a displacement antinode at the open end. Diagram C correctly shows an antinode (maximum amplitude) at the top opening and a node (zero amplitude) at the water surface.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2007 HL TZ2 23 C.png"
+}

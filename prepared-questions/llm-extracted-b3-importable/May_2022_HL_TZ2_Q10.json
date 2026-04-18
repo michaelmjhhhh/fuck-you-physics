@@ -1,0 +1,43 @@
+{
+  "id": "May_2022_HL_TZ2_Q10",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ2 Q10 C.png"
+  },
+  "question_number": 10,
+  "content_markdown": "Which assumption is part of the molecular kinetic model of ideal gases?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The work done on a system equals the change in kinetic energy of the system."
+    },
+    {
+      "label": "B",
+      "text": "The volume of a gas results from adding the volume of the individual molecules."
+    },
+    {
+      "label": "C",
+      "text": "A gas is made up of tiny identical particles in constant random motion."
+    },
+    {
+      "label": "D",
+      "text": "All particles in a gas have kinetic and potential energy."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The kinetic molecular theory of gases relies on several key postulates: particles are in constant random motion, collisions are perfectly elastic, and the volume of the particles themselves is negligible compared to the container volume. Option C directly states one of these fundamental assumptions. Option B is incorrect because ideal gas particles are assumed to have negligible volume. Option D is incorrect because ideal gases are assumed to have no intermolecular forces, meaning they have zero potential energy.",
+  "source_image_path": "B3-Gas-Laws/May 2022 HL TZ2 Q10 C.png"
+}

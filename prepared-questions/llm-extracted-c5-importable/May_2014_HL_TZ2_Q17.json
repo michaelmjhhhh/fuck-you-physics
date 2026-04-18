@@ -1,0 +1,47 @@
+{
+  "id": "May_2014_HL_TZ2_Q17",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ2 Q17 C.png"
+  },
+  "question_number": 17,
+  "content_markdown": "The diagram shows a train travelling in a straight line at constant speed $v$, as it approaches the platform of a station.\n\nThe whistle of the engine is emitting a sound of constant frequency. Which of the following is **not** true for the sound of the whistle heard by an observer on the platform?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A train moving to the right with velocity v towards a platform where an observer is standing.",
+    "labels_to_preserve": [
+      "v",
+      "observer",
+      "platform"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A sudden change in frequency of the sound as the train passes the observer."
+    },
+    {
+      "label": "B",
+      "text": "A sound of constant frequency as the train approaches the observer."
+    },
+    {
+      "label": "C",
+      "text": "A sound of increasing frequency as the train approaches the observer and of decreasing frequency after the train has passed the observer."
+    },
+    {
+      "label": "D",
+      "text": "A sound of constant frequency after the train has passed the observer."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "According to the Doppler effect formula for a moving source $f' = f \\frac{v}{v \\mp v_s}$, if the source speed $v_s$ is constant, the observed frequency $f'$ is constant (higher than the source frequency while approaching, lower while receding). Therefore, the frequency does not 'increase' as it approaches; it stays at a constant elevated value until the moment it passes the observer.",
+  "source_image_path": "C5-Doppler-Effect/May 2014 HL TZ2 Q17 C.png"
+}

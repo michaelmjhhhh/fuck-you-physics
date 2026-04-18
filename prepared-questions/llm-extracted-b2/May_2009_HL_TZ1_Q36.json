@@ -1,0 +1,43 @@
+{
+  "id": "May_2009_HL_TZ1_Q36",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ1 Q36 A.png"
+  },
+  "question_number": 36,
+  "content_markdown": "The rate of global warming might be reduced by",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the question.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "replacing the use of coal and oil with natural gas."
+    },
+    {
+      "label": "B",
+      "text": "a reduction in the Earth’s albedo."
+    },
+    {
+      "label": "C",
+      "text": "a reduction in carbon fixation."
+    },
+    {
+      "label": "D",
+      "text": "an increase in deforestation."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Global warming is primarily driven by the emission of greenhouse gases like $CO_2$. Natural gas produces less $CO_2$ per unit of energy released compared to coal and oil, thus potentially reducing the rate of warming. Conversely, reducing albedo (more absorption), reducing carbon fixation (less $CO_2$ removal), or increasing deforestation (less $CO_2$ removal) would all accelerate global warming.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2009 HL TZ1 Q36 A.png"
+}

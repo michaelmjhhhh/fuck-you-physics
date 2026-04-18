@@ -1,0 +1,43 @@
+{
+  "id": "May_2002_HL_Q8",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2002,
+    "month": "May",
+    "session_label": "May 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2002 HL Q8 B.png"
+  },
+  "question_number": 8,
+  "content_markdown": "When an object undergoes simple harmonic motion, which of the following is true of the magnitude of the acceleration of the object?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "It is uniform throughout the motion."
+    },
+    {
+      "label": "B",
+      "text": "It is greatest at the end points of the motion."
+    },
+    {
+      "label": "C",
+      "text": "It is greatest at the midpoint of the motion."
+    },
+    {
+      "label": "D",
+      "text": "It is greatest at the midpoints and the endpoints."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In Simple Harmonic Motion (SHM), the defining relationship is $a = -\\omega^2 x$. This means the magnitude of acceleration is directly proportional to the displacement from the equilibrium position. Therefore, acceleration is zero at the midpoint (where $x=0$) and reaches its maximum magnitude at the maximum displacement, which are the endpoints of the motion.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2002 HL Q8 B.png"
+}

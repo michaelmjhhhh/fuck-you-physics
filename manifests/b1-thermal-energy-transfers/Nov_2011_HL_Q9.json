@@ -1,0 +1,26 @@
+{
+  "id": "Nov_2011_HL_Q9",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "",
+  "paper": {
+    "year": 2011,
+    "month": "Nov",
+    "session_label": "Nov 2011",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2011 HL Q9 C.png"
+  },
+  "question_number": 9,
+  "correct_answer": "C",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2011 HL Q9 C.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

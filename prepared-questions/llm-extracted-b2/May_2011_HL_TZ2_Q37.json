@@ -1,0 +1,43 @@
+{
+  "id": "May_2011_HL_TZ2_Q37",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2011,
+    "month": "May",
+    "session_label": "May 2011",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2011 HL TZ2 Q37 B.png"
+  },
+  "question_number": 37,
+  "content_markdown": "Which of the following describes the role of the atmosphere in the greenhouse effect?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The atmosphere is transparent to all solar radiation."
+    },
+    {
+      "label": "B",
+      "text": "The atmosphere absorbs infrared radiation from the ground."
+    },
+    {
+      "label": "C",
+      "text": "The atmosphere scatters red light more than blue light."
+    },
+    {
+      "label": "D",
+      "text": "Clouds in the atmosphere prevent absorption of infrared radiation."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The greenhouse effect occurs because greenhouse gases in the atmosphere are relatively transparent to incoming short-wave solar radiation but absorb long-wave infrared radiation emitted by the Earth's surface, re-radiating it in all directions and warming the planet.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2011 HL TZ2 Q37 B.png"
+}

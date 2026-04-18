@@ -1,0 +1,47 @@
+{
+  "id": "May_2015_HL_TZ2_Q10",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ2 Q10 D.png"
+  },
+  "question_number": 10,
+  "content_markdown": "A liquid in a U-tube is given an initial displacement and allowed to oscillate. The motion of the liquid is recorded using a motion sensor. Which graph shows the variation with time $t$ of the velocity $v$ of the liquid?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs labeled A, B, C, and D showing velocity v against time t. Graph A is a straight line with negative slope. Graph B is a parabola opening upwards. Graph C is a sinusoidal wave with constant amplitude. Graph D is a sinusoidal wave with decreasing amplitude (damped oscillation).",
+    "labels_to_preserve": [
+      "v",
+      "t",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The liquid in a U-tube undergoes simple harmonic motion (SHM). In real-world scenarios, resistive forces (friction and viscosity) cause the energy of the system to dissipate over time, leading to damped oscillations. Therefore, the velocity-time graph should be a sinusoidal wave where the amplitude decreases over time, as shown in graph D.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2015 HL TZ2 Q10 D.png"
+}

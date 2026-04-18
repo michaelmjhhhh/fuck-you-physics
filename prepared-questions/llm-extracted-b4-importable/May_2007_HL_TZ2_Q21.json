@@ -1,0 +1,46 @@
+{
+  "id": "May_2007_HL_TZ2_Q21",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Entropy",
+  "paper": {
+    "year": 2007,
+    "month": "May",
+    "session_label": "May 2007",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2007 HL TZ2 21 D.png"
+  },
+  "question_number": 21,
+  "content_markdown": "Boiling water in a beaker is heated continuously. Steam escapes into the surroundings.\n\nWhich of the following correctly lists the entropy changes of the boiling water and the surroundings?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the entropy changes for boiling water and surroundings for options A, B, C, and D.",
+    "labels_to_preserve": [
+      "boiling water",
+      "surroundings"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "boiling water: increases; surroundings: constant"
+    },
+    {
+      "label": "B",
+      "text": "boiling water: increases; surroundings: increases"
+    },
+    {
+      "label": "C",
+      "text": "boiling water: decreases; surroundings: constant"
+    },
+    {
+      "label": "D",
+      "text": "boiling water: decreases; surroundings: increases"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "When water boils and turns into steam, the molecules become much more disordered, so the entropy of the water system increases. Simultaneously, heat is being transferred to the surroundings and steam is escaping into them, which increases the disorder (entropy) of the surroundings as well. According to the Second Law of Thermodynamics, the total entropy of an isolated system (water + surroundings) must increase in an irreversible process.",
+  "source_image_path": "B4-Thermodynamics/May 2007 HL TZ2 21 D.png"
+}

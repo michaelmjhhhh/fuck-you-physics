@@ -1,0 +1,43 @@
+{
+  "id": "May_2014_HL_TZ2_Q9",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ2 Q9 D.png"
+  },
+  "question_number": 9,
+  "content_markdown": "Two objects are in thermal contact. For there to be no net transfer of thermal energy between the objects they must",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "have the same thermal capacity and be at the same temperature."
+    },
+    {
+      "label": "B",
+      "text": "have the same thermal capacity only."
+    },
+    {
+      "label": "C",
+      "text": "have the same mass and be at the same temperature."
+    },
+    {
+      "label": "D",
+      "text": "be at the same temperature only."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Thermal equilibrium is defined by the condition where there is no net flow of heat between two objects in thermal contact. This occurs if and only if the objects are at the same temperature. Properties like mass or thermal capacity determine how much energy is stored or how quickly temperature changes, but they do not determine the direction of heat flow.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2014 HL TZ2 Q9 D.png"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2011_HL_Q20",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2011,
+    "month": "Nov",
+    "session_label": "Nov 2011",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2011 HL Q20 A.png"
+  },
+  "question_number": 20,
+  "content_markdown": "A cell is connected in series with a $2.0\\,\\Omega$ resistor and a switch. The voltmeter is connected across the cell and reads $12\\text{V}$ when the switch is open and $8.0\\text{V}$ when the switch is closed.\n\nWhat is the internal resistance of the cell?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a cell in series with a switch and a 2.0 ohm resistor. A voltmeter is connected in parallel across the cell.",
+    "labels_to_preserve": [
+      "V",
+      "2.0\\,\\Omega"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$1.0\\,\\Omega$"
+    },
+    {
+      "label": "B",
+      "text": "$2.0\\,\\Omega$"
+    },
+    {
+      "label": "C",
+      "text": "$3.0\\,\\Omega$"
+    },
+    {
+      "label": "D",
+      "text": "$4.0\\,\\Omega$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "When the switch is open, no current flows, so the voltmeter reads the electromotive force (emf) $\\epsilon = 12\\text{V}$. When the switch is closed, the voltmeter reads the terminal potential difference $V = 8.0\\text{V}$. The current in the circuit is $I = \\frac{V}{R} = \\frac{8.0}{2.0} = 4.0\\text{A}$. The 'lost volts' due to internal resistance $r$ is $\\epsilon - V = Ir$, so $12 - 8 = 4.0 \\times r$, which gives $4 = 4r$, therefore $r = 1.0\\,\\Omega$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2011 HL Q20 A.png"
+}

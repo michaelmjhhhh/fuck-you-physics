@@ -1,0 +1,47 @@
+{
+  "id": "May_2017_HL_TZ1_Q11",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ1 Q11 A.png"
+  },
+  "question_number": 11,
+  "content_markdown": "A particle undergoes simple harmonic motion (SHM). The graph shows the variation of velocity $v$ of the particle with time $t$.\n\nWhat is the variation with time of the acceleration $a$ of the particle?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A velocity-time graph for a particle in SHM starting at a negative velocity, crossing zero with a positive gradient, and oscillating sinusoidally.",
+    "labels_to_preserve": [
+      "v",
+      "t",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Acceleration is the derivative of velocity ($a = \\frac{dv}{dt}$), which corresponds to the gradient of the $v-t$ graph. At $t=0$, the velocity graph has its maximum positive gradient, meaning acceleration must be at its maximum positive value. Only graph B starts at a positive maximum.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2017 HL TZ1 Q11 A.png"
+}

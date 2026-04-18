@@ -1,0 +1,43 @@
+{
+  "id": "May_2017_HL_TZ2_Q8",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ2 Q8 C.png"
+  },
+  "question_number": 8,
+  "content_markdown": "A mass $m$ of ice at a temperature of $-5\\,^{\\circ}\\text{C}$ is changed into water at a temperature of $50\\,^{\\circ}\\text{C}$.\n\n$$\\begin{aligned} \u0026\\text{Specific heat capacity of ice} \u0026= c_{\\text{i}} \\\\ \u0026\\text{Specific heat capacity of water} \u0026= c_{\\text{w}} \\\\ \u0026\\text{Specific latent heat of fusion of ice} \u0026= L \\end{aligned}$$\n\nWhich expression gives the energy needed for this change to occur?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present, only text and mathematical expressions.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$55\\,m\\,c_{\\text{w}} + m\\,L$"
+    },
+    {
+      "label": "B",
+      "text": "$55\\,m\\,c_{\\text{i}} + 5\\,m\\,L$"
+    },
+    {
+      "label": "C",
+      "text": "$5\\,m\\,c_{\\text{i}} + 50\\,m\\,c_{\\text{w}} + m\\,L$"
+    },
+    {
+      "label": "D",
+      "text": "$5\\,m\\,c_{\\text{i}} + 50\\,m\\,c_{\\text{w}} + 5\\,m\\,L$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "To solve this, we break the process into three stages: 1) Warming the ice from $-5\\,^{\\circ}\\text{C}$ to $0\\,^{\\circ}\\text{C}$ ($Q_1 = m c_{\\text{i}} \\Delta T = m c_{\\text{i}} \\times 5$), 2) Melting the ice at $0\\,^{\\circ}\\text{C}$ ($Q_2 = m L$), and 3) Warming the resulting water from $0\\,^{\\circ}\\text{C}$ to $50\\,^{\\circ}\\text{C}$ ($Q_3 = m c_{\\text{w}} \\Delta T = m c_{\\text{w}} \\times 50$). Summing these gives $5\\,m\\,c_{\\text{i}} + m\\,L + 50\\,m\\,c_{\\text{w}}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2017 HL TZ2 Q8 C.png"
+}

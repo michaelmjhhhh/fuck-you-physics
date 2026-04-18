@@ -1,0 +1,50 @@
+{
+  "id": "May_2006_HL_TZ2_Q20",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ2 Q20 C.png"
+  },
+  "question_number": 20,
+  "content_markdown": "The diagram below shows energy transfers in a heat pump operating between two reservoirs at temperatures $T_{\\text{H}}$ and $T_{\\text{C}}$ ($T_{\\text{H}} \u003e T_{\\text{C}}$).\n\nWhich of the following gives the correct relationship between $W$, $Q_{\\text{C}}$ and $Q_{\\text{H}}$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A schematic of a heat pump system. A central box labeled 'heat pump' receives work input W from the right. It extracts heat Q_C from a cold reservoir at temperature T_C below it and exhausts heat Q_H to a hot reservoir at temperature T_H above it.",
+    "labels_to_preserve": [
+      "T_H",
+      "Q_H",
+      "heat pump",
+      "W",
+      "Q_C",
+      "T_C"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$W \u003e Q_{\\text{H}} - Q_{\\text{C}}$"
+    },
+    {
+      "label": "B",
+      "text": "$W \u003c Q_{\\text{H}} - Q_{\\text{C}}$"
+    },
+    {
+      "label": "C",
+      "text": "$W = Q_{\\text{H}} - Q_{\\text{C}}$"
+    },
+    {
+      "label": "D",
+      "text": "$W = Q_{\\text{H}} + Q_{\\text{C}}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "According to the first law of thermodynamics (conservation of energy), the total energy entering the heat pump must equal the total energy leaving it. In this diagram, the energy inputs are the work $W$ and the heat extracted from the cold reservoir $Q_{\\text{C}}$. The energy output is the heat delivered to the hot reservoir $Q_{\\text{H}}$. Therefore, $W + Q_{\\text{C}} = Q_{\\text{H}}$, which rearranges to $W = Q_{\\text{H}} - Q_{\\text{C}}$.",
+  "source_image_path": "B4-Thermodynamics/May 2006 HL TZ2 Q20 C.png"
+}

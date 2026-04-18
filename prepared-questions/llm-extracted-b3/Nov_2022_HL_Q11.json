@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2022_HL_Q11",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2022,
+    "month": "Nov",
+    "session_label": "Nov 2022",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2022 HL Q11 D.png"
+  },
+  "question_number": 11,
+  "content_markdown": "Gases in the atmosphere are compounds of $^{12}_{6}\\text{C}$, $^{1}_{1}\\text{H}$, $^{16}_{8}\\text{O}$ and $^{14}_{7}\\text{N}$.\n\nFour of these gases are $\\text{CO}_2$, $\\text{N}_2\\text{O}$, $\\text{CH}_4$ and $\\text{H}_2\\text{O}$. A pure sample of each gas is produced. Each sample has the same mass.\n\nWhich sample contains the greatest number of molecules?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\text{N}_2\\text{O}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\text{H}_2\\text{O}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\text{CO}_2$"
+    },
+    {
+      "label": "D",
+      "text": "$\\text{CH}_4$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The number of molecules $N$ is given by $N = n \\times N_A$, where $n$ is the number of moles. Since $n = \\frac{m}{M}$ (mass divided by molar mass) and the mass $m$ is the same for all samples, the number of molecules is inversely proportional to the molar mass ($N \\propto \\frac{1}{M}$). To find the greatest number of molecules, we look for the smallest molar mass. Calculating the approximate molar masses: $\\text{N}_2\\text{O} \\approx 44$, $\\text{H}_2\\text{O} \\approx 18$, $\\text{CO}_2 \\approx 44$, and $\\text{CH}_4 \\approx 16$. Methane ($\\text{CH}_4$) has the lowest molar mass, therefore it contains the greatest number of molecules for a fixed mass.",
+  "source_image_path": "B3-Gas-Laws/Nov 2022 HL Q11 D.png"
+}

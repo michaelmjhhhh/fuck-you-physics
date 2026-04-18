@@ -1,0 +1,47 @@
+{
+  "id": "May_2018_HL_TZ2_Q8",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ2 Q8 A.png"
+  },
+  "question_number": 8,
+  "content_markdown": "The graph shows how the temperature of a liquid varies with time when energy is supplied to the liquid at a constant rate $P$. The gradient of the graph is $K$ and the liquid has a specific heat capacity $c$.\n\nWhat is the mass of the liquid?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph with temperature on the y-axis and time on the x-axis. A straight line with a positive gradient starts from a point on the y-axis and increases linearly.",
+    "labels_to_preserve": [
+      "temperature",
+      "time",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{P}{cK}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{PK}{c}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{Pc}{K}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{cK}{P}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The power supplied is $P = \\frac{Q}{t}$. From the specific heat formula $Q = mc\\Delta T$, we can write $P = mc\\frac{\\Delta T}{t}$. Since the gradient of the temperature-time graph is $K = \\frac{\\Delta T}{t}$, the equation becomes $P = mcK$. Rearranging for mass $m$ gives $m = \\frac{P}{cK}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2018 HL TZ2 Q8 A.png"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "May_2009_HL_TZ1_Q13",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ1 Q13 A.png"
+  },
+  "question_number": 13,
+  "content_markdown": "Which graph correctly shows how the acceleration $a$ of a particle undergoing SHM varies with its displacement $x$ from its equilibrium position?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs showing acceleration 'a' on the y-axis and displacement 'x' on the x-axis. Graph A is a straight line with a negative gradient passing through the origin. Graph B is a straight line with a positive gradient passing through the origin. Graph C is a sine wave passing through the origin. Graph D is a cosine wave.",
+    "labels_to_preserve": [
+      "a",
+      "x"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The defining characteristic of Simple Harmonic Motion (SHM) is that the acceleration $a$ is directly proportional to the displacement $x$ and is always directed towards the equilibrium position. This is expressed by the equation $a = -\\omega^2 x$. Mathematically, this represents a straight line passing through the origin with a constant negative gradient, which corresponds to graph A.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2009 HL TZ1 Q13 A.png"
+}

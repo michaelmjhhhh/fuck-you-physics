@@ -1,0 +1,46 @@
+{
+  "id": "May_2007_HL_TZ1_Q20",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Entropy and the Second Law of Thermodynamics",
+  "paper": {
+    "year": 2007,
+    "month": "May",
+    "session_label": "May 2007",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2007 HL TZ1 Q20 B.png"
+  },
+  "question_number": 20,
+  "content_markdown": "A beaker contains water at a higher temperature than its surroundings. Which of the following correctly describes the entropy change in the water and in the surroundings as the water cools?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the entropy changes of the water and the surroundings for four options A, B, C, and D.",
+    "labels_to_preserve": [
+      "entropy of the water",
+      "entropy of the surroundings"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "entropy of the water: decreases; entropy of the surroundings: decreases"
+    },
+    {
+      "label": "B",
+      "text": "entropy of the water: decreases; entropy of the surroundings: increases"
+    },
+    {
+      "label": "C",
+      "text": "entropy of the water: increases; entropy of the surroundings: decreases"
+    },
+    {
+      "label": "D",
+      "text": "entropy of the water: increases; entropy of the surroundings: increases"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "When the water cools, it loses thermal energy to the surroundings. Since entropy change is defined as $\\Delta S = \\frac{\\Delta Q}{T}$, the water (losing heat) experiences a decrease in entropy. Conversely, the surroundings (gaining heat) experience an increase in entropy. Note that according to the Second Law of Thermodynamics, the total entropy of the universe must increase, meaning the increase in the surroundings' entropy outweighs the decrease in the water's entropy.",
+  "source_image_path": "B4-Thermodynamics/May 2007 HL TZ1 Q20 B.png"
+}

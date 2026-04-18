@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2016_HL_Q14",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave properties",
+  "paper": {
+    "year": 2016,
+    "month": "Nov",
+    "session_label": "Nov 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2016 HL Q14 B.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A point source of light of amplitude $A_0$ gives rise to a particular light intensity when viewed at a distance from the source. When the amplitude is increased and the viewing distance is doubled, the light intensity is doubled. What is the new amplitude of the source?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$2 A_0$"
+    },
+    {
+      "label": "B",
+      "text": "$2 \\sqrt{2} A_0$"
+    },
+    {
+      "label": "C",
+      "text": "$4 A_0$"
+    },
+    {
+      "label": "D",
+      "text": "$8 A_0$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Intensity $I$ is proportional to the square of the amplitude $A$ at the source ($I \\propto A^2$) and inversely proportional to the square of the distance $r$ ($I \\propto 1/r^2$). Combining these, $I \\propto A^2 / r^2$. Initially, $I_1 = k A_0^2 / r^2$. In the second case, the distance is $2r$ and the intensity is $2I_1$. So, $2I_1 = k A_{new}^2 / (2r)^2$. Substituting $I_1$, we get $2(k A_0^2 / r^2) = k A_{new}^2 / 4r^2$. Simplifying gives $2 A_0^2 = A_{new}^2 / 4$, which means $A_{new}^2 = 8 A_0^2$. Taking the square root, $A_{new} = \\sqrt{8} A_0 = 2\\sqrt{2} A_0$.",
+  "source_image_path": "C2-Wave-Model/Nov 2016 HL Q14 B.png"
+}

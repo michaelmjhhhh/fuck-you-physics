@@ -1,0 +1,43 @@
+{
+  "id": "May_2013_HL_TZ1_Q14",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ1 Q14 C.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A sample of hydrogen on Earth emits a spectral line that is measured by an Earth observer to have wavelength $500\\text{ nm}$. The same spectral line is emitted by a galactic source that is moving away from Earth at speed of $0.1c$. What is the wavelength of the galactic spectral line that will be measured by the Earth observer?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$50\\text{ nm}$"
+    },
+    {
+      "label": "B",
+      "text": "$450\\text{ nm}$"
+    },
+    {
+      "label": "C",
+      "text": "$550\\text{ nm}$"
+    },
+    {
+      "label": "D",
+      "text": "$5000\\text{ nm}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Since the source is moving away from the observer, the light undergoes a redshift, meaning the observed wavelength must be longer than the emitted wavelength. Using the Doppler formula for light $\\frac{\\Delta\\lambda}{\\lambda} = \\frac{v}{c}$, we find $\\Delta\\lambda = 500\\text{ nm} \\times 0.1 = 50\\text{ nm}$. Adding this shift to the original wavelength gives $500 + 50 = 550\\text{ nm}$.",
+  "source_image_path": "C5-Doppler-Effect/May 2013 HL TZ1 Q14 C.png"
+}

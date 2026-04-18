@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2014_HL_Q8",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2014,
+    "month": "Nov",
+    "session_label": "Nov 2014",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2014 HL Q8 B.png"
+  },
+  "question_number": 8,
+  "content_markdown": "What are the conditions of temperature and pressure at which the behaviour of a real gas approximates to the behaviour of an ideal gas?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Low pressure and low temperature"
+    },
+    {
+      "label": "B",
+      "text": "Low pressure and high temperature"
+    },
+    {
+      "label": "C",
+      "text": "High pressure and low temperature"
+    },
+    {
+      "label": "D",
+      "text": "High pressure and high temperature"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Real gases behave most like ideal gases when the intermolecular forces and the volume of the particles themselves become negligible. High temperature ensures particles have high kinetic energy to overcome attractive forces, while low pressure ensures particles are far apart so their individual volume is insignificant compared to the total volume of the container.",
+  "source_image_path": "B3-Gas-Laws/Nov 2014 HL Q8 B.png"
+}

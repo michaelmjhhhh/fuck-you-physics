@@ -1,0 +1,43 @@
+{
+  "id": "May_2022_HL_TZ2_Q9",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ2 Q9 A.png"
+  },
+  "question_number": 9,
+  "content_markdown": "What is true for an ideal gas?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$nRT = Nk_{\\text{B}}T$"
+    },
+    {
+      "label": "B",
+      "text": "$nRT = k_{\\text{B}}T$"
+    },
+    {
+      "label": "C",
+      "text": "$RT = Nk_{\\text{B}}T$"
+    },
+    {
+      "label": "D",
+      "text": "$RT = k_{\\text{B}}T$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The ideal gas law can be expressed in two ways: $PV = nRT$ (using moles $n$ and the gas constant $R$) and $PV = Nk_{\\text{B}}T$ (using the number of molecules $N$ and the Boltzmann constant $k_{\\text{B}}$). Since both expressions equal $PV$, they must equal each other: $nRT = Nk_{\\text{B}}T$.",
+  "source_image_path": "B3-Gas-Laws/May 2022 HL TZ2 Q9 A.png"
+}

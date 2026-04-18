@@ -1,0 +1,43 @@
+{
+  "id": "May_2021_HL_TZ2_Q28",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ2 Q28 B.png"
+  },
+  "question_number": 28,
+  "content_markdown": "A train is moving in a straight line away from a stationary observer when the train horn emits a sound of frequency $f_0$. The speed of the train is $0.10v$ where $v$ is the speed of sound. What is the frequency of the horn as heard by the observer?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{0.9}{1} f_0$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{1.1} f_0$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{1.1}{1} f_0$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{1}{0.9} f_0$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Since the source is moving away from a stationary observer, we use the Doppler effect formula for a receding source: $f = f_0 \\left( \\frac{v}{v + v_s} \\right)$. Substituting $v_s = 0.10v$, we get $f = f_0 \\left( \\frac{v}{v + 0.10v} \\right) = f_0 \\left( \\frac{v}{1.1v} \\right) = \\frac{1}{1.1} f_0$.",
+  "source_image_path": "C5-Doppler-Effect/May 2021 HL TZ2 Q28 B.png"
+}

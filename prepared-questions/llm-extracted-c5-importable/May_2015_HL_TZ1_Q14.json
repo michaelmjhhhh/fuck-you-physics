@@ -1,0 +1,43 @@
+{
+  "id": "May_2015_HL_TZ1_Q14",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ1 Q14 A.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A car horn emits sound of frequency $f$. While the horn is sounding, the car moves in a straight line towards a stationary observer. The speed of the car is $0.10v$ where $v$ is the speed of sound. What is the frequency of the sound of the horn heard by the observer?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{f}{0.90}$"
+    },
+    {
+      "label": "B",
+      "text": "$1.1f$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{f}{1.1}$"
+    },
+    {
+      "label": "D",
+      "text": "$0.90f$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "For a source moving towards a stationary observer, the observed frequency $f'$ is given by $f' = f \\left( \\frac{v}{v - v_s} \\right)$. Here, the source speed $v_s = 0.10v$. Substituting this into the formula gives $f' = f \\left( \\frac{v}{v - 0.10v} \\right) = f \\left( \\frac{v}{0.90v} \\right) = \\frac{f}{0.90}$.",
+  "source_image_path": "C5-Doppler-Effect/May 2015 HL TZ1 Q14 A.png"
+}

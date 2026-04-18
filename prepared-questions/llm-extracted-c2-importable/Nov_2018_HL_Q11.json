@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2018_HL_Q11",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Simple harmonic motion",
+  "paper": {
+    "year": 2018,
+    "month": "Nov",
+    "session_label": "Nov 2018",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2018 HL Q11 B.png"
+  },
+  "question_number": 11,
+  "content_markdown": "A particle moving in a circle completes 5 revolutions in 3 s. What is the frequency?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{3}{5} \\text{ Hz}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{5}{3} \\text{ Hz}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{3\\pi}{5} \\text{ Hz}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{5\\pi}{3} \\text{ Hz}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Frequency is defined as the number of cycles (or revolutions) per unit time. To find the frequency $f$, you divide the total number of revolutions by the total time taken: $f = \\frac{\\text{revolutions}}{\\text{time}} = \\frac{5}{3} \\text{ Hz}$.",
+  "source_image_path": "C2-Wave-Model/Nov 2018 HL Q11 B.png"
+}

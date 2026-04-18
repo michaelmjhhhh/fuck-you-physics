@@ -1,0 +1,46 @@
+{
+  "id": "May_2003_HL_Q17",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2003,
+    "month": "May",
+    "session_label": "May 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2003 HL Q17 D.png"
+  },
+  "question_number": 17,
+  "content_markdown": "Two identical triangular pulses of amplitude $X$ travel toward each other along a string. At the instant shown on the diagram, point M is midway between the two pulses.\n\nThe amplitude of the disturbance in the string as the pulses move through M is",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A horizontal string with two triangular pulses. One pulse is inverted (downward) moving to the right, and the other is upright (upward) moving to the left. Both have amplitude X. Point M is marked on the equilibrium line exactly halfway between the two pulses.",
+    "labels_to_preserve": [
+      "X",
+      "M"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$2X$."
+    },
+    {
+      "label": "B",
+      "text": "$X$."
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{X}{2}$."
+    },
+    {
+      "label": "D",
+      "text": "0."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "This question tests the principle of superposition. One pulse has a displacement of $-X$ (downward) and the other has a displacement of $+X$ (upward). When these two identical but opposite pulses meet at point M, their displacements add algebraically: $+X + (-X) = 0$. This results in total destructive interference at that point.",
+  "source_image_path": "C2-Wave-Model/May 2003 HL Q17 D.png"
+}

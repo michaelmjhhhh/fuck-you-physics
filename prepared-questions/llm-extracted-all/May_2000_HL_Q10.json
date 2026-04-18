@@ -1,0 +1,50 @@
+{
+  "id": "May_2000_HL_Q10",
+  "topic": "Rigid Body Mechanics",
+  "topic_code": "A4",
+  "sub_topic": "Torque and Equilibrium",
+  "paper": {
+    "year": 2000,
+    "month": "May",
+    "session_label": "May 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2000 HL Q10 C.png"
+  },
+  "question_number": 10,
+  "content_markdown": "A nut on an outdoor piece of gym equipment cannot be turned with a spanner (wrench) because it has rusted – see **Figure A**. A gym instructor, in trying to loosen the nut, attaches a rope to the spanner as shown in **Figure B**. Assume the instructor pulls with the same force in both cases.\n\nThe torque exerted on the nut in **Figure B** compared to that in **Figure A**",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two diagrams showing a spanner on a nut. Figure A shows a horizontal pull force applied directly to the end of the spanner handle. Figure B shows a rope attached to the end of the spanner handle, with the same horizontal pull force applied to the end of the rope.",
+    "labels_to_preserve": [
+      "pull",
+      "spanner",
+      "nut",
+      "rope",
+      "Figure A",
+      "Figure B"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "is less."
+    },
+    {
+      "label": "B",
+      "text": "is greater."
+    },
+    {
+      "label": "C",
+      "text": "is the same."
+    },
+    {
+      "label": "D",
+      "text": "depends on the length of rope used."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Torque is defined as the product of the force and the perpendicular distance from the line of action of the force to the pivot. In both Figure A and Figure B, the horizontal pull force is applied at the same vertical height relative to the nut. Therefore, the perpendicular distance from the line of action of the force to the center of the nut remains identical, resulting in the same torque regardless of the rope's length.",
+  "source_image_path": "A4-Rigid-Body-Mechanics/May 2000 HL Q10 C.png"
+}

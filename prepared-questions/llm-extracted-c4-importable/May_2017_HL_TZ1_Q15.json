@@ -1,0 +1,49 @@
+{
+  "id": "May_2017_HL_TZ1_Q15",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ1 Q15 D.png"
+  },
+  "question_number": 15,
+  "content_markdown": "Water is draining from a vertical tube that was initially full. A vibrating tuning fork is held near the top of the tube. For two positions of the water surface only, the sound is at its maximum loudness.\n\nThe distance between the two positions of maximum loudness is $x$.\n\nWhat is the wavelength of the sound emitted by the tuning fork?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a tuning fork above a vertical tube containing water. Two dashed lines indicate positions of maximum loudness, with the distance between them labeled as x.",
+    "labels_to_preserve": [
+      "tuning fork",
+      "positions of maximum loudness",
+      "tube",
+      "water",
+      "x"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{x}{2}$"
+    },
+    {
+      "label": "B",
+      "text": "$x$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{3x}{2}$"
+    },
+    {
+      "label": "D",
+      "text": "$2x$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In a tube closed at one end (the water surface), resonance occurs when there is an antinode at the open end and a node at the water surface. The distance between two consecutive resonance positions (nodes) corresponds to half a wavelength ($\\frac{\\lambda}{2}$). Since the distance between these two positions is given as $x$, we have $x = \\frac{\\lambda}{2}$, which means $\\lambda = 2x$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2017 HL TZ1 Q15 D.png"
+}

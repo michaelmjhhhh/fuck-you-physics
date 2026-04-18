@@ -1,0 +1,50 @@
+{
+  "id": "May_2008_HL_TZ1_Q24",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2008,
+    "month": "May",
+    "session_label": "May 2008",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2008 HL TZ1 24 D.png"
+  },
+  "question_number": 24,
+  "content_markdown": "A stationary source of sound emits waves of wavelength $\\lambda$, period $T$ and speed $V$. The source now moves with speed $v$ in a straight line away from a stationary observer.\n\nWhat are the wavelength and the speed of the wave as detected by the observer?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options for the detected wavelength and speed of a sound wave.",
+    "labels_to_preserve": [
+      "wavelength",
+      "speed",
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "wavelength: $\\lambda$; speed: $V + v$"
+    },
+    {
+      "label": "B",
+      "text": "wavelength: $\\lambda - vT$; speed: $V$"
+    },
+    {
+      "label": "C",
+      "text": "wavelength: $\\lambda$; speed: $V - v$"
+    },
+    {
+      "label": "D",
+      "text": "wavelength: $\\lambda + vT$; speed: $V$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In the Doppler effect for sound, the speed of the wave through the medium (air) is determined solely by the properties of the medium, so the detected speed remains $V$. When the source moves away from the observer, each successive wavefront is emitted from a position further away. During one period $T$, the source moves a distance $vT$. Therefore, the distance between wavefronts (the wavelength) increases by this amount, resulting in a detected wavelength of $\\lambda + vT$.",
+  "source_image_path": "C5-Doppler-Effect/May 2008 HL TZ1 24 D.png"
+}

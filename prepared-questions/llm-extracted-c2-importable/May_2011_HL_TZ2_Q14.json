@@ -1,0 +1,43 @@
+{
+  "id": "May_2011_HL_TZ2_Q14",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2011,
+    "month": "May",
+    "session_label": "May 2011",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2011 HL TZ2 Q14 C.png"
+  },
+  "question_number": 14,
+  "content_markdown": "Two waves meet at a point. The waves have a path difference of $\\frac{\\lambda}{4}$. The phase difference between the waves is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{\\pi}{8}$ rad."
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{\\pi}{4}$ rad."
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{\\pi}{2}$ rad."
+    },
+    {
+      "label": "D",
+      "text": "$\\pi$ rad."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The relationship between phase difference ($\\phi$) and path difference ($\\Delta x$) is given by the formula $\\phi = \\frac{2\\pi}{\\lambda} \\Delta x$. Substituting the given path difference $\\Delta x = \\frac{\\lambda}{4}$ into the formula gives $\\phi = \\frac{2\\pi}{\\lambda} \\cdot \\frac{\\lambda}{4} = \\frac{2\\pi}{4} = \\frac{\\pi}{2}$ radians.",
+  "source_image_path": "C2-Wave-Model/May 2011 HL TZ2 Q14 C.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2004_HL_TZ2_Q17",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ2 Q17 A.png"
+  },
+  "question_number": 17,
+  "content_markdown": "The temperature of an ideal gas is reduced. Which **one** of the following statements is true?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The molecules collide with the walls of the container less frequently."
+    },
+    {
+      "label": "B",
+      "text": "The molecules collide with each other more frequently."
+    },
+    {
+      "label": "C",
+      "text": "The time of contact between the molecules and the wall is reduced."
+    },
+    {
+      "label": "D",
+      "text": "The time of contact between molecules is increased."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Temperature is a measure of the average kinetic energy of the gas molecules. When temperature is reduced, the average speed of the molecules decreases. Slower-moving molecules take longer to travel across the container, resulting in a lower frequency of collisions with the walls. In the kinetic model of an ideal gas, collisions are assumed to be instantaneous, so options regarding 'time of contact' are generally not applicable or do not change in the way described.",
+  "source_image_path": "B3-Gas-Laws/May 2004 HL TZ2 Q17 A.png"
+}

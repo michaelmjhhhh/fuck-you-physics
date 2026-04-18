@@ -1,0 +1,49 @@
+{
+  "id": "May_2019_HL_TZ2_Q25",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric circuits",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ2 Q25 D.png"
+  },
+  "question_number": 25,
+  "content_markdown": "Three resistors of resistance $1.0\\,\\Omega$, $6.0\\,\\Omega$ and $6.0\\,\\Omega$ are connected as shown. The voltmeter is ideal and the cell has an emf of $12\\,\\text{V}$ with negligible internal resistance.\n\nWhat is the reading on the voltmeter?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a 12V cell in series with a 1.0 ohm resistor. This combination is in parallel with two 6.0 ohm resistors that are themselves in parallel with each other. An ideal voltmeter is connected across the cell and the 1.0 ohm resistor.",
+    "labels_to_preserve": [
+      "V",
+      "12 V",
+      "1.0 \\Omega",
+      "6.0 \\Omega",
+      "6.0 \\Omega"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "3.0 V"
+    },
+    {
+      "label": "B",
+      "text": "4.0 V"
+    },
+    {
+      "label": "C",
+      "text": "8.0 V"
+    },
+    {
+      "label": "D",
+      "text": "9.0 V"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "First, find the equivalent resistance of the two $6.0\\,\\Omega$ resistors in parallel, which is $3.0\\,\\Omega$. This $3.0\\,\\Omega$ equivalent is in series with the $1.0\\,\\Omega$ resistor, making the total circuit resistance $4.0\\,\\Omega$. The total current from the cell is $I = V/R = 12/4 = 3.0\\,\\text{A}$. The voltmeter is connected across the cell and the $1.0\\,\\Omega$ resistor, which is equivalent to measuring the terminal potential difference or the voltage across the parallel network. The voltage across the $1.0\\,\\Omega$ resistor is $V = IR = 3.0 \\times 1.0 = 3.0\\,\\text{V}$. Since the voltmeter measures the potential difference between the start of the cell and the end of the first resistor, it reads $12\\,\\text{V} - 3.0\\,\\text{V} = 9.0\\,\\text{V}$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2019 HL TZ2 Q25 D.png"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "May_2010_HL_TZ1_Q14",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ1 Q14 D.png"
+  },
+  "question_number": 14,
+  "content_markdown": "The diagram shows the pressure $p$ and volume $V$ relationship for one cycle of operation of an engine.\n\nWhich of the labelled parts of the cycle identify isobaric changes and adiabatic changes of state?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A p-V diagram showing a four-stage cycle. Stage I is a horizontal line at high pressure. Stage II is a curved expansion. Stage III is a horizontal line at low pressure. Stage IV is a vertical line at low volume.",
+    "labels_to_preserve": [
+      "p",
+      "V",
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Isobaric: IV only; Adiabatic: I and II only"
+    },
+    {
+      "label": "B",
+      "text": "Isobaric: I and III only; Adiabatic: II and IV only"
+    },
+    {
+      "label": "C",
+      "text": "Isobaric: II and III only; Adiabatic: IV only"
+    },
+    {
+      "label": "D",
+      "text": "Isobaric: I and III only; Adiabatic: II only"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Isobaric processes occur at constant pressure, which are represented by horizontal lines on a p-V diagram (I and III). Adiabatic processes involve changes in both pressure and volume following a curve $pV^\\gamma = \\text{constant}$ (II). Process IV is isochoric (constant volume) because it is a vertical line.",
+  "source_image_path": "B4-Thermodynamics/May 2010 HL TZ1 Q14 D.png"
+}

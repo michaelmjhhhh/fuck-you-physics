@@ -1,0 +1,26 @@
+{
+  "id": "Nov_2000_HL_Q26",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "",
+  "paper": {
+    "year": 2000,
+    "month": "Nov",
+    "session_label": "Nov 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2000 HL Q26 C.png"
+  },
+  "question_number": 26,
+  "correct_answer": "C",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "B5-Current-and-Circuits/Nov 2000 HL Q26 C.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Specimen_2016_HL_Q14",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves",
+  "paper": {
+    "year": 2016,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2016 HL Q14 C.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A standing wave is produced by the superposition of two travelling waves. Which statement is **not** correct?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The travelling waves must have the same frequency."
+    },
+    {
+      "label": "B",
+      "text": "The travelling waves must have equal but opposite velocities."
+    },
+    {
+      "label": "C",
+      "text": "In the standing wave, all the oscillating particles have the same amplitude."
+    },
+    {
+      "label": "D",
+      "text": "In the standing wave, particles between adjacent nodes vibrate in phase."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "A standing wave is formed by the interference of two waves of the same frequency and amplitude traveling in opposite directions. Unlike a travelling wave where every particle has the same amplitude, a standing wave has nodes (zero amplitude) and antinodes (maximum amplitude), meaning the amplitude varies depending on the position along the wave. Therefore, statement C is incorrect.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Specimen Paper 2016 HL Q14 C.png"
+}

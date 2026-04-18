@@ -1,0 +1,43 @@
+{
+  "id": "May_2000_HL_Q23",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave phenomena",
+  "paper": {
+    "year": 2000,
+    "month": "May",
+    "session_label": "May 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2000 HL Q23 D.png"
+  },
+  "question_number": 23,
+  "content_markdown": "The figure below shows two idealised pulses travelling to the right along a string towards a fixed boundary.\n\nAfter both have been reflected the string shape could appear as",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing two pulses on a string moving right towards a vertical fixed boundary. The first pulse is a small upward crest, and the second pulse is a larger downward trough. An arrow indicates the direction of travel.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "When a pulse reflects from a fixed boundary, it undergoes a phase change of 180 degrees (it is inverted). The pulse that hits the wall first (the small crest) will be reflected first and will be travelling back to the left as a small trough. The pulse that hits second (the large trough) will be reflected second and will be travelling back to the left as a large crest. Therefore, the reflected pattern moving left should have the small trough further from the wall and the large crest closer to the wall.",
+  "source_image_path": "C2-Wave-Model/May 2000 HL Q23 D.png"
+}

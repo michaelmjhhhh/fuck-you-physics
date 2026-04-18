@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2018_HL_Q12",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2018,
+    "month": "Nov",
+    "session_label": "Nov 2018",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2018 HL Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A longitudinal wave moves through a medium. Relative to the direction of energy transfer through the medium, what are the displacement of the medium and the direction of propagation of the wave?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four combinations of 'Displacement of medium' and 'Direction of propagation of wave' relative to the direction of energy transfer.",
+    "labels_to_preserve": [
+      "Displacement of medium",
+      "Direction of propagation of wave"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Displacement of medium: parallel; Direction of propagation of wave: perpendicular"
+    },
+    {
+      "label": "B",
+      "text": "Displacement of medium: parallel; Direction of propagation of wave: parallel"
+    },
+    {
+      "label": "C",
+      "text": "Displacement of medium: perpendicular; Direction of propagation of wave: parallel"
+    },
+    {
+      "label": "D",
+      "text": "Displacement of medium: perpendicular; Direction of propagation of wave: perpendicular"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "By definition, in a longitudinal wave, the particles of the medium oscillate parallel to the direction of energy transfer. Furthermore, the direction of wave propagation is always the same as the direction of energy transfer.",
+  "source_image_path": "C2-Wave-Model/Nov 2018 HL Q12 B.png"
+}

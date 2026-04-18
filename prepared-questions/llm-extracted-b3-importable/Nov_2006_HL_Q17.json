@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2006_HL_Q17",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2006,
+    "month": "Nov",
+    "session_label": "Nov 2006",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2006 HL Q17 B.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A fixed quantity of an ideal gas is compressed at constant temperature. The best explanation for the increase in pressure is that the molecules",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "are moving faster."
+    },
+    {
+      "label": "B",
+      "text": "are colliding more frequently with the container walls."
+    },
+    {
+      "label": "C",
+      "text": "exert greater forces on each other."
+    },
+    {
+      "label": "D",
+      "text": "are colliding more frequently with each other."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Since the temperature is constant, the average kinetic energy and speed of the molecules remain the same, ruling out A. Ideal gas molecules are assumed to have no intermolecular forces, ruling out C. Pressure is defined by the rate of momentum transfer to the container walls; when the volume decreases (compression), the number of molecules per unit volume increases, leading to a higher frequency of collisions with the walls.",
+  "source_image_path": "B3-Gas-Laws/Nov 2006 HL Q17 B.png"
+}

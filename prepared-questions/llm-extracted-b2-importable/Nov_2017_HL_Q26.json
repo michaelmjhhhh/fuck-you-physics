@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2017_HL_Q26",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2017,
+    "month": "Nov",
+    "session_label": "Nov 2017",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2017 HL Q26 A.png"
+  },
+  "question_number": 26,
+  "content_markdown": "The three statements give possible reasons why an average value should be used for the solar constant.\n\nI. The Sun’s output varies during its 11 year cycle.\nII. The Earth is in elliptical orbit around the Sun.\nIII. The plane of the Earth’s spin on its axis is tilted to the plane of its orbit about the Sun.\n\nWhich are the correct reasons for using an average value for the solar constant?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "I and II only"
+    },
+    {
+      "label": "B",
+      "text": "I and III only"
+    },
+    {
+      "label": "C",
+      "text": "II and III only"
+    },
+    {
+      "label": "D",
+      "text": "I, II and III"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The solar constant is defined as the power per unit area received at the top of the Earth's atmosphere. Statement I is correct because the Sun's total luminosity fluctuates over its solar cycle. Statement II is correct because the distance between the Earth and Sun changes due to the elliptical orbit, affecting the intensity received ($I = P / 4\\pi r^2$). Statement III is incorrect in this context because the tilt of the axis causes seasons (changing how energy is distributed over the surface), but it does not change the total power per unit area incident on a surface perpendicular to the rays at the top of the atmosphere.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2017 HL Q26 A.png"
+}

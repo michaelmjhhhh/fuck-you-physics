@@ -1,0 +1,43 @@
+{
+  "id": "May_2018_HL_TZ2_Q11",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ2 Q11 D.png"
+  },
+  "question_number": 11,
+  "content_markdown": "What is true about the acceleration of a particle that is oscillating with simple harmonic motion (SHM)?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "It is in the opposite direction to its velocity"
+    },
+    {
+      "label": "B",
+      "text": "It is decreasing when the potential energy is increasing"
+    },
+    {
+      "label": "C",
+      "text": "It is proportional to the frequency of the oscillation"
+    },
+    {
+      "label": "D",
+      "text": "It is at a minimum when the velocity is at a maximum"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In SHM, acceleration is defined by $a = -\\omega^2 x$. At the equilibrium position ($x=0$), the acceleration is zero (minimum magnitude), while the velocity is at its maximum. Conversely, at the amplitudes, acceleration is at its maximum and velocity is zero.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2018 HL TZ2 Q11 D.png"
+}

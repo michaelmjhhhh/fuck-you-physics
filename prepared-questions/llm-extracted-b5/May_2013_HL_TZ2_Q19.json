@@ -1,0 +1,46 @@
+{
+  "id": "May_2013_HL_TZ2_Q19",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ2 Q19 B.png"
+  },
+  "question_number": 19,
+  "content_markdown": "An electric circuit consists of three identical resistors of resistance $R$ connected to a cell of emf $\\varepsilon$ and negligible internal resistance.\n\n![](https://example.com/image.png)\n\nWhat is the magnitude of the current in the cell?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a cell with emf epsilon connected in series with one resistor R, which is then connected in series to a parallel combination of two resistors, each with resistance R.",
+    "labels_to_preserve": [
+      "\\varepsilon",
+      "R"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{\\varepsilon}{3R}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{2\\varepsilon}{3R}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{3\\varepsilon}{2R}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{3\\varepsilon}{R}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "First, find the equivalent resistance of the circuit. The two resistors in parallel have an equivalent resistance of $R_p = \\frac{R \\times R}{R + R} = \\frac{R}{2}$. This parallel combination is in series with the third resistor, so the total resistance is $R_{total} = R + \\frac{R}{2} = \\frac{3R}{2}$. Using Ohm's law $I = \\frac{V}{R}$, the current in the cell is $I = \\frac{\\varepsilon}{\\frac{3R}{2}} = \\frac{2\\varepsilon}{3R}$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2013 HL TZ2 Q19 B.png"
+}

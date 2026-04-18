@@ -1,0 +1,43 @@
+{
+  "id": "May_2012_HL_TZ1_Q12",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves",
+  "paper": {
+    "year": 2012,
+    "month": "May",
+    "session_label": "May 2012",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2012 HL TZ1 Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A transverse standing wave is established on a string. Consider the following phase differences.\n\nI. $0^\\circ$\n\nII. $90^\\circ$\n\nIII. $180^\\circ$\n\nWhich of the following gives all the possible phase differences between the oscillations of any two particles in the standing wave?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "I only"
+    },
+    {
+      "label": "B",
+      "text": "I and III only"
+    },
+    {
+      "label": "C",
+      "text": "II and III only"
+    },
+    {
+      "label": "D",
+      "text": "I, II and III"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In a standing wave, all particles between two adjacent nodes oscillate in phase with each other (phase difference of $0^\\circ$). Particles in adjacent loops oscillate in anti-phase (phase difference of $180^\\circ$ or $\\pi$ radians). Unlike traveling waves, where phase difference varies continuously with distance, standing wave particles can only be in phase or exactly out of phase.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2012 HL TZ1 Q12 B.png"
+}

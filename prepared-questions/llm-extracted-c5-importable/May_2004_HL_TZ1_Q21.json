@@ -1,0 +1,47 @@
+{
+  "id": "May_2004_HL_TZ1_Q21",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ1 Q21 D.png"
+  },
+  "question_number": 21,
+  "content_markdown": "Jeremy is walking alongside a building and is approaching a road junction. A fire engine is sounding its siren and approaching the road along which Jeremy is walking.\n\nJeremy cannot see the fire engine but he can hear the siren. This is due mainly to",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A top-down view showing Jeremy walking left towards a junction, and a fire engine moving up towards the same junction. A large building is positioned between them, blocking the direct line of sight.",
+    "labels_to_preserve": [
+      "Jeremy",
+      "Building",
+      "Fire engine"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "reflection."
+    },
+    {
+      "label": "B",
+      "text": "refraction."
+    },
+    {
+      "label": "C",
+      "text": "the Doppler effect."
+    },
+    {
+      "label": "D",
+      "text": "diffraction."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "While the Doppler effect would change the frequency Jeremy hears, the reason he can hear the siren at all despite the building blocking the direct path is diffraction. Sound waves have long wavelengths relative to the size of the building's corner, allowing them to bend around the obstacle into the 'shadow' region where Jeremy is located.",
+  "source_image_path": "C5-Doppler-Effect/May 2004 HL TZ1 Q21 D.png"
+}

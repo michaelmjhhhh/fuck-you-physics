@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2005_HL_Q19",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2005,
+    "month": "Nov",
+    "session_label": "Nov 2005",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2005 HL Q19 A.png"
+  },
+  "question_number": 19,
+  "content_markdown": "For a system that undergoes a small change of state,\n\n$$\\Delta Q = \\Delta U + \\Delta W$$\n\nwhere\n\n$+\\Delta Q = $ thermal energy transferred to the system\n\n$+\\Delta U = $ increase in internal energy of the system\n\n$+\\Delta W = $ the work done by the system.\n\nIn an adiabatic compression of an ideal gas, which **one** of the following is true in respect of $\\Delta Q$, $\\Delta U$ and $\\Delta W$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the signs (Zero, Positive, Negative) for Delta Q, Delta U, and Delta W across four options A, B, C, and D.",
+    "labels_to_preserve": [
+      "\\Delta Q",
+      "\\Delta U",
+      "\\Delta W"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\Delta Q$: Zero; $\\Delta U$: Positive; $\\Delta W$: Negative"
+    },
+    {
+      "label": "B",
+      "text": "$\\Delta Q$: Zero; $\\Delta U$: Negative; $\\Delta W$: Negative"
+    },
+    {
+      "label": "C",
+      "text": "$\\Delta Q$: Positive; $\\Delta U$: Positive; $\\Delta W$: Positive"
+    },
+    {
+      "label": "D",
+      "text": "$\\Delta Q$: Negative; $\\Delta U$: Zero; $\\Delta W$: Positive"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In an adiabatic process, no heat is exchanged with the surroundings, so $\\Delta Q = 0$. During a compression, work is done *on* the gas, which means the work done *by* the gas is negative ($\\Delta W \u003c 0$). Substituting these into the first law equation $0 = \\Delta U + (\\text{negative value})$ leads to $\\Delta U$ being positive, which corresponds to an increase in temperature.",
+  "source_image_path": "B4-Thermodynamics/Nov 2005 HL Q19 A.png"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "May_2010_HL_TZ2_Q37",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ2 Q37 C.png"
+  },
+  "question_number": 37,
+  "content_markdown": "The diagram shows a simple climate model for Earth. The temperature of the ground is $T_g$ and is assumed to radiate as a black body. The temperature of the atmosphere is $T_a$ and has an emissivity $\\varepsilon$.\n\nIn the model, the intensity radiated from the ground equals the intensity radiated from the atmosphere towards the ground. What is the ratio $\\frac{T_g}{T_a}$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A schematic showing two rectangular boxes labeled 'atmosphere' and 'ground'. An upward arrow points from the ground to the atmosphere, and a downward arrow points from the atmosphere to the ground.",
+    "labels_to_preserve": [
+      "atmosphere",
+      "ground"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\varepsilon^4$"
+    },
+    {
+      "label": "B",
+      "text": "$\\varepsilon$"
+    },
+    {
+      "label": "C",
+      "text": "$\\varepsilon^{\\frac{1}{4}}$"
+    },
+    {
+      "label": "D",
+      "text": "1"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "According to the Stefan-Boltzmann law, the intensity radiated by a black body (the ground) is $I_g = \\sigma T_g^4$. The intensity radiated by a non-black body (the atmosphere) is $I_a = \\varepsilon \\sigma T_a^4$. The problem states these intensities are equal: $\\sigma T_g^4 = \\varepsilon \\sigma T_a^4$. Dividing both sides by $\\sigma$ gives $T_g^4 = \\varepsilon T_a^4$. Taking the fourth root of both sides yields $T_g = \\varepsilon^{\\frac{1}{4}} T_a$, so the ratio $\\frac{T_g}{T_a} = \\varepsilon^{\\frac{1}{4}}$.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2010 HL TZ2 Q37 C.png"
+}

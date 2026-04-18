@@ -1,0 +1,46 @@
+{
+  "id": "May_2012_HL_TZ2_Q14",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2012,
+    "month": "May",
+    "session_label": "May 2012",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2012 HL TZ2 Q14 B.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A particle is undergoing simple harmonic motion (SHM) in a horizontal plane. The total mechanical energy of the system is $E$. Which of the following correctly gives the kinetic energy of the particle at the positions of maximum displacement and equilibrium?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing kinetic energy values at maximum displacement and equilibrium for four options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Maximum displacement",
+      "Equilibrium"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Maximum displacement: $\\frac{1}{2}E$; Equilibrium: $\\frac{1}{2}E$"
+    },
+    {
+      "label": "B",
+      "text": "Maximum displacement: $0$; Equilibrium: $E$"
+    },
+    {
+      "label": "C",
+      "text": "Maximum displacement: $\\frac{1}{2}E$; Equilibrium: $0$"
+    },
+    {
+      "label": "D",
+      "text": "Maximum displacement: $E$; Equilibrium: $0$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In Simple Harmonic Motion, energy oscillates between kinetic and potential forms. At maximum displacement (the amplitude), the particle momentarily stops to change direction, so its velocity and kinetic energy are zero. At the equilibrium position, the particle moves at its maximum speed, meaning all the mechanical energy $E$ is in the form of kinetic energy.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2012 HL TZ2 Q14 B.png"
+}

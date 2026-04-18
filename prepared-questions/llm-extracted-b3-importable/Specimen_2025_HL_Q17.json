@@ -1,0 +1,43 @@
+{
+  "id": "Specimen_2025_HL_Q17",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2025,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2025",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2025 HL Q17 C.png"
+  },
+  "question_number": 17,
+  "content_markdown": "Two containers, X and Y, are filled with an ideal gas at the same pressure.\n\nThe volume of X is four times the volume of Y. The temperature of X is $327\\,^{\\circ}\\text{C}$ and the temperature of Y is $27\\,^{\\circ}\\text{C}$.\n\nWhat is $\\frac{\\text{amount of substance in X}}{\\text{amount of substance in Y}}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{8}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "2"
+    },
+    {
+      "label": "D",
+      "text": "8"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Using the ideal gas law $PV = nRT$, we can express the amount of substance as $n = \\frac{PV}{RT}$. Since pressure $P$ is constant, the ratio is $\\frac{n_X}{n_Y} = \\frac{V_X}{V_Y} \\times \\frac{T_Y}{T_X}$. First, convert temperatures to Kelvin: $T_X = 327 + 273 = 600\\,\\text{K}$ and $T_Y = 27 + 273 = 300\\,\\text{K}$. Given $V_X = 4V_Y$, the ratio becomes $4 \\times \\frac{300}{600} = 4 \\times \\frac{1}{2} = 2$.",
+  "source_image_path": "B3-Gas-Laws/Specimen Paper 2025 HL Q17 C.png"
+}

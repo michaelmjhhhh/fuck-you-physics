@@ -1,0 +1,50 @@
+{
+  "id": "Specimen_2016_HL_Q31",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric fields",
+  "paper": {
+    "year": 2016,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2016 HL Q31 D.png"
+  },
+  "question_number": 31,
+  "content_markdown": "What is the correct quantity and unit for electric potential?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table with two columns labeled 'Quantity' and 'Unit' and four rows labeled A, B, C, and D.",
+    "labels_to_preserve": [
+      "Quantity",
+      "Unit",
+      "vector",
+      "scalar",
+      "V m^{-1}",
+      "V"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Quantity: vector; Unit: $\\text{V m}^{-1}$"
+    },
+    {
+      "label": "B",
+      "text": "Quantity: vector; Unit: $\\text{V}$"
+    },
+    {
+      "label": "C",
+      "text": "Quantity: scalar; Unit: $\\text{V m}^{-1}$"
+    },
+    {
+      "label": "D",
+      "text": "Quantity: scalar; Unit: $\\text{V}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Electric potential is defined as the work done per unit charge in bringing a small positive test charge from infinity to a point. Since work and charge are both scalars, electric potential is a scalar quantity. Its standard SI unit is the Volt (V). Note that $\\text{V m}^{-1}$ is the unit for electric field strength, which is a vector.",
+  "source_image_path": "B5-Current-and-Circuits/Specimen Paper 2016 HL Q31 D.png"
+}

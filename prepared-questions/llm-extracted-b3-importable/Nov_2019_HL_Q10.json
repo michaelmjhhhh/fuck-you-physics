@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2019_HL_Q10",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2019,
+    "month": "Nov",
+    "session_label": "Nov 2019",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2019 HL Q10 C.png"
+  },
+  "question_number": 10,
+  "content_markdown": "Two flasks P and Q contain an ideal gas and are connected with a tube of negligible volume compared to that of the flasks. The volume of P is twice the volume of Q.\n\nP is held at a temperature of $200\\text{ K}$ and Q is held at a temperature of $400\\text{ K}$.\n\nWhat is $\\frac{\\text{mass of gas in P}}{\\text{mass of gas in Q}}$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two spherical flasks, a larger one labeled P and a smaller one labeled Q, connected by a thin horizontal tube.",
+    "labels_to_preserve": [
+      "P",
+      "Q"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{8}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{4}$"
+    },
+    {
+      "label": "C",
+      "text": "4"
+    },
+    {
+      "label": "D",
+      "text": "8"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Since the flasks are connected, the pressure $P$ is the same in both. Using the ideal gas law $PV = nRT$, the number of moles is $n = \\frac{PV}{RT}$. The mass is proportional to the number of moles for the same gas. For flask P: $n_P \\propto \\frac{V_P}{T_P} = \\frac{2V_Q}{200}$. For flask Q: $n_Q \\propto \\frac{V_Q}{T_Q} = \\frac{V_Q}{400}$. Taking the ratio $\\frac{n_P}{n_Q} = \\frac{2/200}{1/400} = \\frac{1/100}{1/400} = 4$.",
+  "source_image_path": "B3-Gas-Laws/Nov 2019 HL Q10 C.png"
+}

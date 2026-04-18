@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2015_HL_Q11",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2015,
+    "month": "Nov",
+    "session_label": "Nov 2015",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2015 HL Q11 D.png"
+  },
+  "question_number": 11,
+  "content_markdown": "A transverse travelling wave has an amplitude $x_0$ and wavelength $\\lambda$. What is the minimum distance between a crest and a trough measured in the direction of energy propagation?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the source image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$2x_0$"
+    },
+    {
+      "label": "B",
+      "text": "$x_0$"
+    },
+    {
+      "label": "C",
+      "text": "$\\lambda$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{\\lambda}{2}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The question asks for the distance measured in the direction of energy propagation (the horizontal axis). In a standard sine wave, the distance from one crest to the next crest is one full wavelength $\\lambda$. A trough is located exactly halfway between two crests, so the horizontal distance from a crest to the adjacent trough is half of a wavelength, or $\\frac{\\lambda}{2}$. The amplitude $x_0$ refers to the vertical displacement, which is not what is being measured here.",
+  "source_image_path": "C2-Wave-Model/Nov 2015 HL Q11 D.png"
+}

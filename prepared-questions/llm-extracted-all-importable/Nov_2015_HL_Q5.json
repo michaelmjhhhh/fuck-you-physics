@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2015_HL_Q5",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2015,
+    "month": "Nov",
+    "session_label": "Nov 2015",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2015 HL Q5 A.png"
+  },
+  "question_number": 5,
+  "content_markdown": "A heat engine does $300\\text{ J}$ of work during one cycle. In this cycle $900\\text{ J}$ of energy is wasted. What is the efficiency of the engine?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.25"
+    },
+    {
+      "label": "B",
+      "text": "0.33"
+    },
+    {
+      "label": "C",
+      "text": "0.50"
+    },
+    {
+      "label": "D",
+      "text": "0.75"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Efficiency is defined as the ratio of useful work output to the total energy input. The total energy input is the sum of the useful work done ($300\\text{ J}$) and the energy wasted ($900\\text{ J}$), which equals $1200\\text{ J}$. Therefore, efficiency = $300 / 1200 = 0.25$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2015 HL Q5 A.png"
+}

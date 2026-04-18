@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2016_HL_Q10",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2016,
+    "month": "Nov",
+    "session_label": "Nov 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2016 HL Q10 B.png"
+  },
+  "question_number": 10,
+  "content_markdown": "The pressure of a fixed mass of an ideal gas in a container is decreased at constant temperature. For the molecules of the gas there will be a decrease in",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the mean square speed."
+    },
+    {
+      "label": "B",
+      "text": "the number striking the container walls every second."
+    },
+    {
+      "label": "C",
+      "text": "the force between them."
+    },
+    {
+      "label": "D",
+      "text": "their diameter."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Since temperature is constant, the average kinetic energy and thus the mean square speed remain constant. For an ideal gas, intermolecular forces are assumed to be zero, and the diameter of molecules is negligible/constant. According to Boyle's Law, if pressure decreases at constant temperature, the volume must increase. With a larger volume and the same speeds, the frequency of collisions with the walls (number striking per second) must decrease.",
+  "source_image_path": "B3-Gas-Laws/Nov 2016 HL Q10 B.png"
+}

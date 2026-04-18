@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2000_HL_Q10",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Damping and Oscillations",
+  "paper": {
+    "year": 2000,
+    "month": "Nov",
+    "session_label": "Nov 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2000 HL Q10 B.png"
+  },
+  "question_number": 10,
+  "content_markdown": "A mass is suspended from a spring and set into vertical oscillation with a frequency $f$. Because of frictional forces the mass will eventually stop oscillating. At some time during the oscillations the amplitude of oscillation is equal to half its initial amplitude. At this point the frequency of oscillation is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{f}{2}$."
+    },
+    {
+      "label": "B",
+      "text": "$f$."
+    },
+    {
+      "label": "C",
+      "text": "$f\\sqrt{2}$."
+    },
+    {
+      "label": "D",
+      "text": "$2f$."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In simple harmonic motion (SHM) and lightly damped oscillations, the frequency of the system is determined by the physical properties of the oscillator (the mass $m$ and the spring constant $k$ for a mass-spring system, where $f = \\frac{1}{2\\pi}\\sqrt{\\frac{k}{m}}$). While damping causes the amplitude to decrease over time, it does not significantly change the frequency of the oscillation in the context of standard IB Physics problems unless the damping is extremely heavy. Therefore, even when the amplitude is halved, the frequency remains $f$.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2000 HL Q10 B.png"
+}

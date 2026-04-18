@@ -1,0 +1,48 @@
+{
+  "id": "May_2015_HL_TZ1_Q10",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Forced oscillations and resonance",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ1 Q10 B.png"
+  },
+  "question_number": 10,
+  "content_markdown": "A periodic driving force of frequency $f$ acts on a system which undergoes forced oscillations of amplitude $A$. The graph below shows the variation with $f$ of $A$. The maximum amplitude $A_0$ of the oscillations occurs at frequency $f_0$.\n\nThe damping of the system is now increased.\n\nWhich describes the change in $f_0$ and the change in $A_0$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A resonance curve showing amplitude A on the y-axis and driving frequency f on the x-axis. The peak occurs at frequency f0 with a maximum amplitude A0.",
+    "labels_to_preserve": [
+      "A",
+      "A_0",
+      "f",
+      "f_0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$f_0$: decrease; $A_0$: increase"
+    },
+    {
+      "label": "B",
+      "text": "$f_0$: decrease; $A_0$: decrease"
+    },
+    {
+      "label": "C",
+      "text": "$f_0$: increase; $A_0$: increase"
+    },
+    {
+      "label": "D",
+      "text": "$f_0$: increase; $A_0$: decrease"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "When damping is increased in a forced oscillation system, two main things happen to the resonance curve: 1) The peak becomes broader and the maximum amplitude $A_0$ decreases because more energy is dissipated per cycle. 2) The resonant frequency $f_0$ shifts slightly to the left (decreases) as the damping force opposes the motion and effectively slows the response of the system.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2015 HL TZ1 Q10 B.png"
+}

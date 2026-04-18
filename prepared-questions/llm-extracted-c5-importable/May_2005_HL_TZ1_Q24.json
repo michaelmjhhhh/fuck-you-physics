@@ -1,0 +1,49 @@
+{
+  "id": "May_2005_HL_TZ1_Q24",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ1 Q24 A.png"
+  },
+  "question_number": 24,
+  "content_markdown": "Which **one** of the following diagrams best represents wavefronts produced by a source of sound of constant frequency as it moves at constant speed towards a stationary observer at O?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four diagrams (A, B, C, D) showing circular or elliptical wavefronts emitted by a source moving towards a point O. Diagram A shows circular wavefronts bunched together in the direction of motion. Diagram B shows concentric circular wavefronts. Diagrams C and D show non-circular, elongated wavefronts.",
+    "labels_to_preserve": [
+      "O",
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "When a source moves, each wavefront is emitted from a different position. Since the wavefronts themselves expand at the speed of sound in all directions from the point of emission, they remain circular. However, because the source is moving towards the observer at O, the centers of the newer (smaller) circles are shifted closer to O, causing the wavefronts to bunch up in front of the source and spread out behind it. This results in the pattern shown in diagram A.",
+  "source_image_path": "C5-Doppler-Effect/May 2005 HL TZ1 Q24 A.png"
+}

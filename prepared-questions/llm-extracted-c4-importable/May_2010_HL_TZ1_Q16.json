@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ1_Q16",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Resonance",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ1 Q16 C.png"
+  },
+  "question_number": 16,
+  "content_markdown": "A force that varies sinusoidally is applied to a system that is lightly damped. Which of the following must be true of the force for resonance to occur?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "It must always be in anti-phase with the oscillations of the system."
+    },
+    {
+      "label": "B",
+      "text": "Its direction must always be in the direction of motion of the oscillations of the system."
+    },
+    {
+      "label": "C",
+      "text": "Its frequency must be equal to the frequency of oscillation of the system."
+    },
+    {
+      "label": "D",
+      "text": "Its amplitude must be equal to the amplitude of oscillation of the system."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Resonance occurs when the frequency of the periodic driving force matches the natural frequency of the system, leading to a maximum transfer of energy and a large amplitude of oscillation.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2010 HL TZ1 Q16 C.png"
+}

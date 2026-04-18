@@ -1,0 +1,43 @@
+{
+  "id": "May_2005_HL_TZ2_Q17",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Entropy and the second law of thermodynamics",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ2 Q17 A.png"
+  },
+  "question_number": 17,
+  "content_markdown": "The second law of thermodynamics states that the entropy of the universe is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "increasing."
+    },
+    {
+      "label": "B",
+      "text": "decreasing."
+    },
+    {
+      "label": "C",
+      "text": "zero."
+    },
+    {
+      "label": "D",
+      "text": "constant but not zero."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The second law of thermodynamics implies that in any spontaneous process, the total entropy of an isolated system (like the universe) must increase over time. While local entropy can decrease, it must be compensated by a larger increase elsewhere.",
+  "source_image_path": "B4-Thermodynamics/May 2005 HL TZ2 Q17 A.png"
+}

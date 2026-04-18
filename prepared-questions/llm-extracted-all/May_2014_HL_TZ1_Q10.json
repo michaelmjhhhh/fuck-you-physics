@@ -1,0 +1,43 @@
+{
+  "id": "May_2014_HL_TZ1_Q10",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ1 Q10 D.png"
+  },
+  "question_number": 10,
+  "content_markdown": "A fixed mass of water is heated by an electric heater of unknown power $P$. The following quantities are measured\n\nI. mass of water\nII. increase in water temperature\nIII. time for which water is heated.\n\nIn order to calculate $P$, the specific heat capacity of the water is required. Which are also required?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "I and II only"
+    },
+    {
+      "label": "B",
+      "text": "I and III only"
+    },
+    {
+      "label": "C",
+      "text": "II and III only"
+    },
+    {
+      "label": "D",
+      "text": "I, II and III"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The power $P$ of the heater is defined as the energy transferred per unit time, $P = \\frac{Q}{t}$. The thermal energy $Q$ required to heat a mass $m$ of water with specific heat capacity $c$ by a temperature change $\\Delta T$ is given by $Q = mc\\Delta T$. Substituting this into the power formula gives $P = \\frac{mc\\Delta T}{t}$. Therefore, to calculate $P$, we need the mass (I), the temperature increase (II), and the time (III), in addition to the specific heat capacity.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2014 HL TZ1 Q10 D.png"
+}

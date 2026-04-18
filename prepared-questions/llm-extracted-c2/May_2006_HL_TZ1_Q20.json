@@ -1,0 +1,53 @@
+{
+  "id": "May_2006_HL_TZ1_Q20",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ1 Q20 D.png"
+  },
+  "question_number": 20,
+  "content_markdown": "A source produces water waves of frequency $10\\text{ Hz}$. The graph shows the variation with horizontal position of the vertical displacement of the surface of water at one instant in time.\n\nThe speed of the water waves is",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A displacement-position graph showing a sinusoidal wave. The vertical axis is 'vertical displacement / cm' with peaks at 0.4 and troughs at -0.4. The horizontal axis is 'horizontal position / cm' with markings at 0, 1.0, 2.0, 3.0, and 4.0. One full wave cycle is completed between 0 and 2.0 cm.",
+    "labels_to_preserve": [
+      "vertical displacement / cm",
+      "horizontal position / cm",
+      "0.4",
+      "-0.4",
+      "0",
+      "1.0",
+      "2.0",
+      "3.0",
+      "4.0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$0.20\\text{ cm s}^{-1}$"
+    },
+    {
+      "label": "B",
+      "text": "$4.0\\text{ cm s}^{-1}$"
+    },
+    {
+      "label": "C",
+      "text": "$10\\text{ cm s}^{-1}$"
+    },
+    {
+      "label": "D",
+      "text": "$20\\text{ cm s}^{-1}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "To find the wave speed, use the wave equation $v = f\\lambda$. From the graph, we can see that one full wavelength $\\lambda$ corresponds to the distance between $0$ and $2.0\\text{ cm}$, so $\\lambda = 2.0\\text{ cm}$. Given the frequency $f = 10\\text{ Hz}$, the speed is $v = 10\\text{ Hz} \\times 2.0\\text{ cm} = 20\\text{ cm s}^{-1}$.",
+  "source_image_path": "C2-Wave-Model/May 2006 HL TZ1 Q20 D.png"
+}

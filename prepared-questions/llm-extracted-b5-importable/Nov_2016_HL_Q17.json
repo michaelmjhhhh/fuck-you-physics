@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2016_HL_Q17",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Internal resistance and electromotive force",
+  "paper": {
+    "year": 2016,
+    "month": "Nov",
+    "session_label": "Nov 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2016 HL Q17 C.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A $12\\text{ V}$ battery has an internal resistance of $2.0\\,\\Omega$. A load of variable resistance is connected across the battery and adjusted to have resistance equal to that of the internal resistance of the battery. Which statement is correct for this circuit?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The current in the battery is $6\\text{ A}$."
+    },
+    {
+      "label": "B",
+      "text": "The potential difference across the load is $12\\text{ V}$."
+    },
+    {
+      "label": "C",
+      "text": "The power dissipated in the battery is $18\\text{ W}$."
+    },
+    {
+      "label": "D",
+      "text": "The resistance in the circuit is $1.0\\,\\Omega$."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "First, calculate the total resistance: $R_{total} = R_{load} + r = 2.0\\,\\Omega + 2.0\\,\\Omega = 4.0\\,\\Omega$. Then, find the current: $I = \\frac{\\epsilon}{R_{total}} = \\frac{12\\text{ V}}{4.0\\,\\Omega} = 3\\text{ A}$. Now check the options: (A) Current is $3\\text{ A}$, not $6\\text{ A}$. (B) Terminal PD is $V = I \\times R_{load} = 3\\text{ A} \\times 2.0\\,\\Omega = 6\\text{ V}$, not $12\\text{ V}$. (C) Power dissipated in the battery (internal resistance) is $P = I^2 r = 3^2 \\times 2.0 = 9 \\times 2 = 18\\text{ W}$. This is correct. (D) Total resistance is $4.0\\,\\Omega$, not $1.0\\,\\Omega$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2016 HL Q17 C.png"
+}

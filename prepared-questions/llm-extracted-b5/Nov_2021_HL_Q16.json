@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2021_HL_Q16",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Resistance and Resistivity",
+  "paper": {
+    "year": 2021,
+    "month": "Nov",
+    "session_label": "Nov 2021",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2021 HL Q16 A.png"
+  },
+  "question_number": 16,
+  "content_markdown": "Two wires, X and Y, are made of the same material and have equal length. The diameter of X is twice that of Y.\n\nWhat is $\\frac{\\text{resistance of X}}{\\text{resistance of Y}}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "2"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Resistance is given by $R = \\rho \\frac{L}{A}$. Since the material ($\\rho$) and length ($L$) are the same, $R \\propto \\frac{1}{A}$. The cross-sectional area $A$ is proportional to the square of the diameter ($A \\propto d^2$). Therefore, $R \\propto \\frac{1}{d^2}$. If the diameter of X is twice that of Y ($d_X = 2d_Y$), then the resistance of X will be $\\frac{1}{2^2} = \\frac{1}{4}$ times the resistance of Y.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2021 HL Q16 A.png"
+}

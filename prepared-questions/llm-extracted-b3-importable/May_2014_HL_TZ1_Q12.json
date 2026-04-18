@@ -1,0 +1,47 @@
+{
+  "id": "May_2014_HL_TZ1_Q12",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ1 Q12 D.png"
+  },
+  "question_number": 12,
+  "content_markdown": "The pressure–volume ($P$–$V$) graph shows an adiabatic compression of a fixed mass of an ideal gas.\n\nWhich of the following correctly describes what happens to the temperature and the internal energy of the gas during the compression?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A P-V graph showing a curve moving from a lower volume and higher pressure to a higher volume and lower pressure, but the arrow indicates the process is moving from right to left (compression).",
+    "labels_to_preserve": [
+      "P",
+      "V",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Temperature: decreases; Internal energy: decreases"
+    },
+    {
+      "label": "B",
+      "text": "Temperature: increases; Internal energy: no change"
+    },
+    {
+      "label": "C",
+      "text": "Temperature: decreases; Internal energy: no change"
+    },
+    {
+      "label": "D",
+      "text": "Temperature: increases; Internal energy: increases"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In an adiabatic compression, no heat is exchanged ($Q = 0$). According to the first law of thermodynamics, $\\Delta U = Q - W$. Since the gas is being compressed, work is done on the gas ($W$ is negative), making $\\Delta U$ positive. Therefore, the internal energy increases. For an ideal gas, internal energy is directly proportional to absolute temperature, so the temperature must also increase.",
+  "source_image_path": "B3-Gas-Laws/May 2014 HL TZ1 Q12 D.png"
+}

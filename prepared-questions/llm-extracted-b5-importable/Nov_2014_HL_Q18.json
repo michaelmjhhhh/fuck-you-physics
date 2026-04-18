@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2014_HL_Q18",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric circuits",
+  "paper": {
+    "year": 2014,
+    "month": "Nov",
+    "session_label": "Nov 2014",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2014 HL Q18 B.png"
+  },
+  "question_number": 18,
+  "content_markdown": "A lamp is connected to an electric cell and it lights at its working voltage. The lamp is then connected to the same cell in a circuit with an ideal ammeter and an ideal voltmeter. Which circuit allows the lamp to light at the original brightness?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four circuit diagrams labeled A, B, C, and D showing different configurations of a cell, a lamp (circle with an X), an ideal ammeter (circle with an A), and an ideal voltmeter (circle with a V).",
+    "labels_to_preserve": [
+      "A",
+      "V"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "To light at the original brightness, the lamp must have the same potential difference across it as when it was connected directly to the cell. An ideal voltmeter has infinite resistance and must be connected in parallel, while an ideal ammeter has zero resistance and must be connected in series. In circuit D, the voltmeter is in parallel with the lamp (measuring voltage without drawing current) and the ammeter is in parallel with the cell (which would normally be a short circuit, but in this specific diagram's topology, it is actually in series with the main loop containing the lamp if we look at the nodes). Wait, looking closely at D: the ammeter is in parallel with the cell, which would short it out. Let's re-examine: In circuit B, the ammeter is in series with the lamp and the voltmeter is in parallel with the cell/lamp combination. This allows current to flow through the lamp while the voltmeter measures the EMF/terminal voltage without affecting the circuit.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2014 HL Q18 B.png"
+}

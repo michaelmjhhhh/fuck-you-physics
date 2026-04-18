@@ -1,0 +1,51 @@
+{
+  "id": "May_2012_HL_TZ1_Q7",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic processes",
+  "paper": {
+    "year": 2012,
+    "month": "May",
+    "session_label": "May 2012",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2012 HL TZ1 Q7 C.png"
+  },
+  "question_number": 7,
+  "content_markdown": "In the $P-V$ diagram below, which line could represent an adiabatic change for an ideal gas?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A pressure-volume (P-V) graph showing four different process paths starting from a single point. Path A is horizontal (isobaric), Path D is vertical (isochoric), and Paths B and C are curves sloping downwards to the right. Path C is steeper than Path B.",
+    "labels_to_preserve": [
+      "P",
+      "V",
+      "0",
+      "A.",
+      "B.",
+      "C.",
+      "D."
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In a P-V diagram, an adiabatic process ($PV^\\gamma = \\text{constant}$) is steeper than an isothermal process ($PV = \\text{constant}$) because $\\gamma \u003e 1$. Line A is isobaric, Line D is isochoric, and between the two expansion curves B and C, the steeper one (C) represents the adiabatic change.",
+  "source_image_path": "B4-Thermodynamics/May 2012 HL TZ1 Q7 C.png"
+}

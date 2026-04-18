@@ -1,0 +1,49 @@
+{
+  "id": "Nov_2009_HL_Q13",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic cycles",
+  "paper": {
+    "year": 2009,
+    "month": "Nov",
+    "session_label": "Nov 2009",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2009 HL Q13 A.png"
+  },
+  "question_number": 13,
+  "content_markdown": "The graph below shows the variation of the pressure $p$ with volume $V$ of an ideal gas during one cycle of an engine.\n\nWhich of the following correctly names the thermodynamic process associated with the parts $Y \\rightarrow Z$ and $Z \\rightarrow X$ of the cycle?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A pressure-volume (p-V) graph showing a triangular cycle with vertices X, Y, and Z. Process X to Y is a curve/diagonal decreasing in pressure and increasing in volume. Process Y to Z is a horizontal line moving to the left (decreasing volume at constant pressure). Process Z to X is a vertical line moving upwards (increasing pressure at constant volume).",
+    "labels_to_preserve": [
+      "p",
+      "V",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Y $\\rightarrow$ Z: isobaric; Z $\\rightarrow$ X: isochoric"
+    },
+    {
+      "label": "B",
+      "text": "Y $\\rightarrow$ Z: isobaric; Z $\\rightarrow$ X: isothermal"
+    },
+    {
+      "label": "C",
+      "text": "Y $\\rightarrow$ Z: isochoric; Z $\\rightarrow$ X: isobaric"
+    },
+    {
+      "label": "D",
+      "text": "Y $\\rightarrow$ Z: isochoric; Z $\\rightarrow$ X: isothermal"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "To identify these processes, look at what remains constant on the p-V axes. For Y to Z, the line is horizontal, meaning the pressure $p$ does not change, which is an isobaric process. For Z to X, the line is vertical, meaning the volume $V$ does not change, which is an isochoric (or isovolumetric) process.",
+  "source_image_path": "B4-Thermodynamics/Nov 2009 HL Q13 A.png"
+}

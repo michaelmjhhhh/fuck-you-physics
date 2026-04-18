@@ -1,0 +1,50 @@
+{
+  "id": "May_2008_HL_TZ2_Q20",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2008,
+    "month": "May",
+    "session_label": "May 2008",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2008 HL TZ2 20 C.png"
+  },
+  "question_number": 20,
+  "content_markdown": "The diagram below shows the pressure-volume changes for one cycle PQRS of a Carnot engine.\n\nDuring which part of the cycle is thermal energy transferred to the surroundings?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A pressure-volume (P-V) graph showing a Carnot cycle with four stages: P to Q (isothermal expansion), Q to R (adiabatic expansion), R to S (isothermal compression), and S to P (adiabatic compression).",
+    "labels_to_preserve": [
+      "pressure",
+      "volume",
+      "P",
+      "Q",
+      "R",
+      "S"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$P \\rightarrow Q$"
+    },
+    {
+      "label": "B",
+      "text": "$Q \\rightarrow R$"
+    },
+    {
+      "label": "C",
+      "text": "$R \\rightarrow S$"
+    },
+    {
+      "label": "D",
+      "text": "$S \\rightarrow P$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In a Carnot cycle, thermal energy is absorbed from the hot reservoir during the isothermal expansion ($P \\rightarrow Q$) and thermal energy is rejected (transferred to the surroundings/cold reservoir) during the isothermal compression ($R \\rightarrow S$). The stages $Q \\rightarrow R$ and $S \\rightarrow P$ are adiabatic, meaning no thermal energy is transferred.",
+  "source_image_path": "B4-Thermodynamics/May 2008 HL TZ2 20 C.png"
+}

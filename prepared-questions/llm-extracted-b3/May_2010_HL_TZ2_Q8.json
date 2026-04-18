@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ2_Q8",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ2 Q8 D.png"
+  },
+  "question_number": 8,
+  "content_markdown": "An ideal gas has pressure $p_0$ and volume $V_0$. The number of molecules of the gas is doubled without changing the temperature. What is the new value of pressure times volume?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{p_0 V_0}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{p_0 V_0}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "$p_0 V_0$"
+    },
+    {
+      "label": "D",
+      "text": "$2 p_0 V_0$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "According to the ideal gas law in the form $PV = NkT$, where $N$ is the number of molecules, $k$ is the Boltzmann constant, and $T$ is the absolute temperature. If the temperature $T$ remains constant and the number of molecules $N$ is doubled, the product $PV$ must also double to maintain the equality. Therefore, the new value is $2 p_0 V_0$.",
+  "source_image_path": "B3-Gas-Laws/May 2010 HL TZ2 Q8 D.png"
+}

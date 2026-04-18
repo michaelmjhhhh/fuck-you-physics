@@ -1,0 +1,46 @@
+{
+  "id": "May_2008_HL_TZ1_Q17",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermal energy transfer",
+  "paper": {
+    "year": 2008,
+    "month": "May",
+    "session_label": "May 2008",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2008 HL TZ1 17 D.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A copper block and a steel block each have the same mass. The copper block is at a higher temperature than the steel block.\n\nThe blocks are placed in thermal contact and they then reach thermal equilibrium. There is no energy exchange with the surroundings.\n\nHow do the magnitude of the change in temperature $\\Delta T$ and the magnitude of the change in internal energy $\\Delta U$ of the two blocks compare?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options A, B, C, and D with columns for the magnitude of change in temperature (delta T) and the magnitude of change in internal energy (delta U).",
+    "labels_to_preserve": [
+      "$\\Delta T$",
+      "$\\Delta U$"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\Delta T$: same; $\\Delta U$: same"
+    },
+    {
+      "label": "B",
+      "text": "$\\Delta T$: same; $\\Delta U$: different"
+    },
+    {
+      "label": "C",
+      "text": "$\\Delta T$: different; $\\Delta U$: same"
+    },
+    {
+      "label": "D",
+      "text": "$\\Delta T$: different; $\\Delta U$: different"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Since the system is isolated, the energy lost by the copper block must equal the energy gained by the steel block, so the magnitude of the change in internal energy $\\Delta U$ is the same for both. However, the change in temperature depends on the specific heat capacity ($Q = mc\\Delta T$). Since copper and steel have different specific heat capacities and the same mass, the same amount of energy transfer will result in different temperature changes $\\Delta T$.",
+  "source_image_path": "B4-Thermodynamics/May 2008 HL TZ1 17 D.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2001_HL_Q32",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2001,
+    "month": "May",
+    "session_label": "May 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2001 HL Q32 A.png"
+  },
+  "question_number": 32,
+  "content_markdown": "A DC electric motor converts $75\\%$ of the input electrical energy to mechanical energy. The remaining $25\\%$ is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "dissipated as thermal energy."
+    },
+    {
+      "label": "B",
+      "text": "returned to the battery."
+    },
+    {
+      "label": "C",
+      "text": "used to maintain the potential difference of the battery."
+    },
+    {
+      "label": "D",
+      "text": "converted to electrical potential energy."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In any real-world energy conversion process, efficiency is less than 100% because some energy is always lost to the surroundings. In an electric motor, this 'lost' energy is primarily due to resistance in the coils (Joule heating) and friction in the bearings, both of which result in the dissipation of thermal energy.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2001 HL Q32 A.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2018_HL_Q9",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2018,
+    "month": "Nov",
+    "session_label": "Nov 2018",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2018 HL Q9 C.png"
+  },
+  "question_number": 9,
+  "content_markdown": "A container is filled with a mixture of helium and oxygen at the same temperature. The molar mass of helium is $4\\text{ g mol}^{-1}$ and that of oxygen is $32\\text{ g mol}^{-1}$.\n\nWhat is the ratio $\\frac{\\text{average speed of helium molecules}}{\\text{average speed of oxygen molecules}}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{8}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{\\sqrt{8}}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\sqrt{8}$"
+    },
+    {
+      "label": "D",
+      "text": "8"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Since both gases are at the same temperature, their average kinetic energies are equal: $\\frac{1}{2}m_{He}v_{He}^2 = \\frac{1}{2}m_{O}v_{O}^2$. This implies that the ratio of their speeds is inversely proportional to the square root of the ratio of their masses: $\\frac{v_{He}}{v_{O}} = \\sqrt{\\frac{m_{O}}{m_{He}}}$. Substituting the molar masses, we get $\\sqrt{\\frac{32}{4}} = \\sqrt{8}$.",
+  "source_image_path": "B3-Gas-Laws/Nov 2018 HL Q9 C.png"
+}

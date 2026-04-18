@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2014_HL_Q12",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave interference",
+  "paper": {
+    "year": 2014,
+    "month": "Nov",
+    "session_label": "Nov 2014",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2014 HL Q12 D.png"
+  },
+  "question_number": 12,
+  "content_markdown": "X and Y are two sources of waves with identical amplitudes and frequencies. Waves from X and Y interfere constructively at a detector after travelling the same distance from source to detector.\n\nAt the detector, the ratio $\\frac{\\text{intensity of the resultant of the two waves}}{\\text{intensity of one wave alone}}$ is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{2}$"
+    },
+    {
+      "label": "B",
+      "text": "1"
+    },
+    {
+      "label": "C",
+      "text": "2"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Intensity is proportional to the square of the amplitude ($I \\propto A^2$). When two waves of amplitude $A$ interfere constructively, the resultant amplitude is $2A$. Therefore, the resultant intensity is proportional to $(2A)^2 = 4A^2$. Comparing this to the intensity of a single wave ($A^2$), the ratio is 4.",
+  "source_image_path": "C2-Wave-Model/Nov 2014 HL Q12 D.png"
+}

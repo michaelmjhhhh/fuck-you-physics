@@ -1,0 +1,43 @@
+{
+  "id": "May_2022_HL_TZ2_Q31",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ2 Q31 B.png"
+  },
+  "question_number": 31,
+  "content_markdown": "A train is sounding its whistle when approaching a train station. Three statements about the sound received by a stationary observer at the station are:\n\nI. The frequency received is higher than the frequency emitted by the train.\nII. The wavelength received is longer than the wavelength emitted by the train.\nIII. The speed of the sound received is not affected by the motion of the train.\n\nWhich combination of statements is correct?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "I and II only"
+    },
+    {
+      "label": "B",
+      "text": "I and III only"
+    },
+    {
+      "label": "C",
+      "text": "II and III only"
+    },
+    {
+      "label": "D",
+      "text": "I, II and III"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "When a source approaches a stationary observer, the wavefronts are compressed, leading to a shorter observed wavelength and a higher observed frequency (Statement I is correct, Statement II is incorrect). The speed of sound in the medium (air) depends only on the properties of the medium itself, not the velocity of the source (Statement III is correct).",
+  "source_image_path": "C5-Doppler-Effect/May 2022 HL TZ2 Q31 B.png"
+}

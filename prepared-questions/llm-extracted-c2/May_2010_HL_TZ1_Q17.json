@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ1_Q17",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Electromagnetic waves",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ1 Q17 B.png"
+  },
+  "question_number": 17,
+  "content_markdown": "Which of the following is a value of wavelength that is found in the visible region of the electromagnetic spectrum?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$4 \\times 10^{-5} \\text{ m}$"
+    },
+    {
+      "label": "B",
+      "text": "$4 \\times 10^{-7} \\text{ m}$"
+    },
+    {
+      "label": "C",
+      "text": "$4 \\times 10^{-9} \\text{ m}$"
+    },
+    {
+      "label": "D",
+      "text": "$4 \\times 10^{-11} \\text{ m}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The visible spectrum of light ranges approximately from $400 \\text{ nm}$ to $700 \\text{ nm}$. Converting $400 \\text{ nm}$ to meters gives $400 \\times 10^{-9} \\text{ m}$, which is equivalent to $4 \\times 10^{-7} \\text{ m}$. Therefore, option B falls within the visible range, while the other options represent infrared (A), ultraviolet (C), or X-rays/Gamma rays (D).",
+  "source_image_path": "C2-Wave-Model/May 2010 HL TZ1 Q17 B.png"
+}

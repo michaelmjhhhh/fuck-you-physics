@@ -1,0 +1,47 @@
+{
+  "id": "May_2018_HL_TZ1_Q10",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ1 Q10 A.png"
+  },
+  "question_number": 10,
+  "content_markdown": "A fixed mass of an ideal gas is trapped in a cylinder of constant volume and its temperature is varied. Which graph shows the variation of the pressure of the gas with temperature in degrees Celsius?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs showing pressure on the y-axis and temperature in degrees Celsius on the x-axis. Graph A shows a linear increase starting from a non-zero pressure at 0 degrees Celsius. Graph B shows a decreasing curve. Graph C shows a linear increase starting from the origin. Graph D shows a linear decrease.",
+    "labels_to_preserve": [
+      "pressure",
+      "temperature / °C",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "According to the Ideal Gas Law $PV = nRT$, pressure is directly proportional to absolute temperature (Kelvin). Since $T(K) = T(°C) + 273.15$, the relationship between pressure and Celsius temperature is linear ($P \\propto T_{Celsius} + 273.15$), which means the graph is a straight line with a positive y-intercept at $0°C$. Graph C is incorrect because pressure is only zero at absolute zero ($-273.15°C$), not at $0°C$.",
+  "source_image_path": "B3-Gas-Laws/May 2018 HL TZ1 Q10 A.png"
+}

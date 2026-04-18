@@ -1,0 +1,49 @@
+{
+  "id": "May_2017_HL_TZ1_Q9",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ1 Q9 A.png"
+  },
+  "question_number": 9,
+  "content_markdown": "A thin-walled cylinder of weight $W$, open at both ends, rests on a flat surface. The cylinder has a height $L$, an average radius $R$ and a thickness $x$ where $R$ is much greater than $x$.\n\nWhat is the pressure exerted by the cylinder walls on the flat surface?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a thin-walled cylinder resting on a flat surface. The weight W is shown as a downward vector. The height is labeled L, the average radius is R, and the wall thickness is x.",
+    "labels_to_preserve": [
+      "W",
+      "L",
+      "R",
+      "x",
+      "flat surface"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{W}{2\\pi Rx}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{W}{\\pi R^2 x}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{W}{\\pi R^2}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{W}{\\pi R^2 L}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Pressure is defined as Force divided by Area ($P = F/A$). Here, the force is the weight $W$. The area in contact with the surface is the cross-sectional area of the thin cylinder wall. For a thin-walled cylinder where $R \\gg x$, the circumference is $2\\pi R$ and the thickness is $x$, so the contact area is approximately the circumference times the thickness: $A = 2\\pi R \\cdot x$. Substituting this into the pressure formula gives $P = \\frac{W}{2\\pi Rx}$.",
+  "source_image_path": "B3-Gas-Laws/May 2017 HL TZ1 Q9 A.png"
+}

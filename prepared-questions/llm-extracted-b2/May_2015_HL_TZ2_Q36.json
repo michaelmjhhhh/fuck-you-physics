@@ -1,0 +1,48 @@
+{
+  "id": "May_2015_HL_TZ2_Q36",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ2 Q36 B.png"
+  },
+  "question_number": 36,
+  "content_markdown": "The graph shows the variation with wavelength of intensity of radiation emitted by two bodies X and Y. X and Y have the same surface area.\n\nHow do the temperature and the emissivity of X compare with the temperature and the emissivity of Y?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph of intensity versus wavelength lambda showing two blackbody radiation curves. Curve X has a higher peak intensity than curve Y, but both curves peak at the same wavelength.",
+    "labels_to_preserve": [
+      "intensity",
+      "X",
+      "Y",
+      "\\lambda"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Temperature: different; Emissivity: different"
+    },
+    {
+      "label": "B",
+      "text": "Temperature: equal; Emissivity: different"
+    },
+    {
+      "label": "C",
+      "text": "Temperature: different; Emissivity: equal"
+    },
+    {
+      "label": "D",
+      "text": "Temperature: equal; Emissivity: equal"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "According to Wien's displacement law, the wavelength at which the intensity is maximum is inversely proportional to the absolute temperature. Since both curves X and Y peak at the same wavelength, their temperatures must be equal. However, the Stefan-Boltzmann law states that power (and thus intensity) depends on both temperature and emissivity. Since X has a higher intensity than Y at the same temperature and surface area, X must have a higher emissivity than Y, meaning their emissivities are different.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2015 HL TZ2 Q36 B.png"
+}

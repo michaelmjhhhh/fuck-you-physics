@@ -1,0 +1,43 @@
+{
+  "id": "May_2017_HL_TZ1_Q26",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ1 Q26 C.png"
+  },
+  "question_number": 26,
+  "content_markdown": "A pendulum oscillating near the surface of the Earth swings with a time period $T$. What is the time period of the same pendulum near the surface of the planet Mercury where the gravitational field strength is $0.4g$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$0.4T$"
+    },
+    {
+      "label": "B",
+      "text": "$0.6T$"
+    },
+    {
+      "label": "C",
+      "text": "$1.6T$"
+    },
+    {
+      "label": "D",
+      "text": "$2.5T$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The time period of a simple pendulum is given by $T = 2\\pi\\sqrt{\\frac{L}{g}}$. Since the length $L$ remains constant, the time period is inversely proportional to the square root of the gravitational field strength ($T \\propto \\frac{1}{\\sqrt{g}}$). On Mercury, the new period $T'$ is $T' = 2\\pi\\sqrt{\\frac{L}{0.4g}} = \\frac{T}{\\sqrt{0.4}}$. Calculating $\\frac{1}{\\sqrt{0.4}} \\approx \\frac{1}{0.63} \\approx 1.58$, which rounds to $1.6T$.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2017 HL TZ1 Q26 C.png"
+}

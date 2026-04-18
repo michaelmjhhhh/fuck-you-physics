@@ -1,0 +1,54 @@
+{
+  "id": "Nov_2022_HL_Q10",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2022,
+    "month": "Nov",
+    "session_label": "Nov 2022",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2022 HL Q10 B.png"
+  },
+  "question_number": 10,
+  "content_markdown": "Three samples of the same liquid are mixed in an insulated container. The masses and initial temperatures of the samples are:\n\n| | Mass | Initial temperature / $^\\circ\\text{C}$ |\n| :--- | :---: | :---: |\n| Sample 1 | $2M$ | 60 |\n| Sample 2 | $2M$ | 30 |\n| Sample 3 | $M$ | 0 |\n\nWhat is the equilibrium temperature of the mixture?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the mass and initial temperature for three different samples of the same liquid.",
+    "labels_to_preserve": [
+      "Sample 1",
+      "Sample 2",
+      "Sample 3",
+      "Mass",
+      "Initial temperature/°C",
+      "2M",
+      "M",
+      "60",
+      "30",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$45^\\circ\\text{C}$"
+    },
+    {
+      "label": "B",
+      "text": "$36^\\circ\\text{C}$"
+    },
+    {
+      "label": "C",
+      "text": "$30^\\circ\\text{C}$"
+    },
+    {
+      "label": "D",
+      "text": "$24^\\circ\\text{C}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Since the samples are of the same liquid, they have the same specific heat capacity $c$. In an insulated container, the total thermal energy is conserved. The final equilibrium temperature $T_f$ is the weighted average of the initial temperatures: $T_f = \\frac{m_1 T_1 + m_2 T_2 + m_3 T_3}{m_1 + m_2 + m_3}$. Substituting the values: $T_f = \\frac{(2M \\times 60) + (2M \\times 30) + (M \\times 0)}{2M + 2M + M} = \\frac{120M + 60M + 0}{5M} = \\frac{180M}{5M} = 36^\\circ\\text{C}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2022 HL Q10 B.png"
+}

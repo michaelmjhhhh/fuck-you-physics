@@ -1,0 +1,43 @@
+{
+  "id": "May_2004_HL_TZ1_Q19",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ1 Q19 C.png"
+  },
+  "question_number": 19,
+  "content_markdown": "A heat engine operates in a Carnot cycle between two reservoirs, a hot reservoir at temperature $T_{\\text{H}}$ and a cold reservoir at temperature $T_{\\text{C}}$. The efficiency of the engine is $50\\,\\%$. The temperature of the hot reservoir is increased to $2T_{\\text{H}}$. The efficiency of the engine is now",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$25\\,\\%.$"
+    },
+    {
+      "label": "B",
+      "text": "$33\\,\\%.$"
+    },
+    {
+      "label": "C",
+      "text": "$75\\,\\%.$"
+    },
+    {
+      "label": "D",
+      "text": "$100\\,\\%.$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The efficiency of a Carnot engine is given by $\\eta = 1 - \\frac{T_{\\text{C}}}{T_{\\text{H}}}$. Initially, $0.50 = 1 - \\frac{T_{\\text{C}}}{T_{\\text{H}}}$, which implies $\\frac{T_{\\text{C}}}{T_{\\text{H}}} = 0.50$, or $T_{\\text{C}} = 0.50 T_{\\text{H}}$. When the hot reservoir temperature is doubled to $2T_{\\text{H}}$, the new efficiency $\\eta'$ becomes $1 - \\frac{T_{\\text{C}}}{2T_{\\text{H}}}$. Substituting $T_{\\text{C}} = 0.50 T_{\\text{H}}$, we get $\\eta' = 1 - \\frac{0.50 T_{\\text{H}}}{2T_{\\text{H}}} = 1 - 0.25 = 0.75$, which is $75\\,\\%.$",
+  "source_image_path": "B4-Thermodynamics/May 2004 HL TZ1 Q19 C.png"
+}

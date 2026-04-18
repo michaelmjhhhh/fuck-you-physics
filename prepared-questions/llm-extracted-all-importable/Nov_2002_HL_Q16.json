@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2002_HL_Q16",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2002,
+    "month": "Nov",
+    "session_label": "Nov 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2002 HL Q16 B.png"
+  },
+  "question_number": 16,
+  "content_markdown": "Two molecules have an equilibrium separation $r_0$. Which **one** of the following graphs correctly shows the variation of intermolecular potential energy of the molecules as a function of intermolecular separation?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs (A, B, C, D) showing Potential energy on the y-axis and Intermolecular separation on the x-axis. Each graph marks a specific separation $r_0$.",
+    "labels_to_preserve": [
+      "Potential energy",
+      "Intermolecular separation",
+      "r_0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The intermolecular potential energy graph (Lennard-Jones potential) must show a minimum at the equilibrium separation $r_0$. At this point, the force (which is the negative gradient of the potential energy) is zero. Graph B correctly shows the potential energy reaching its minimum value at $r_0$, with a steep repulsive wall at small separations and an asymptotic approach to zero at large separations.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2002 HL Q16 B.png"
+}

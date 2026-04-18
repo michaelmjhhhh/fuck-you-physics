@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2007_HL_Q17",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic processes",
+  "paper": {
+    "year": 2007,
+    "month": "Nov",
+    "session_label": "Nov 2007",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2007 HL Q17 B.png"
+  },
+  "question_number": 17,
+  "content_markdown": "The work done by an ideal gas as it expands isothermally from a state of volume $V_1$ to a volume $V_2$ is $W$.\n\nThe work done by the gas as it expands adiabatically from the same initial state to a state of volume $V_2$ is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "zero."
+    },
+    {
+      "label": "B",
+      "text": "less than $W$ but not zero."
+    },
+    {
+      "label": "C",
+      "text": "$W$."
+    },
+    {
+      "label": "D",
+      "text": "greater than $W$."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In a $P-V$ diagram, the adiabatic curve is steeper than the isothermal curve. When expanding from the same initial state $(P_1, V_1)$ to the same final volume $V_2$, the pressure of the gas during an adiabatic expansion is always lower than the pressure during an isothermal expansion. Since work done is the area under the $P-V$ curve, the area under the adiabatic curve is less than the area under the isothermal curve.",
+  "source_image_path": "B4-Thermodynamics/Nov 2007 HL Q17 B.png"
+}

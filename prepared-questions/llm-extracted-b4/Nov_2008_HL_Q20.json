@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2008_HL_Q20",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2008,
+    "month": "Nov",
+    "session_label": "Nov 2008",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2008 HL Q20 D.png"
+  },
+  "question_number": 20,
+  "content_markdown": "A Carnot engine is in contact with a reservoir X at kelvin temperature $2T$ and another reservoir at temperature $T$. The temperature of X is increased to $4T$. The efficiency of the engine will",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "decrease by a factor of 2."
+    },
+    {
+      "label": "B",
+      "text": "increase by a factor of 2."
+    },
+    {
+      "label": "C",
+      "text": "decrease by a factor of 1.5."
+    },
+    {
+      "label": "D",
+      "text": "increase by a factor of 1.5."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The efficiency of a Carnot engine is given by $\\eta = 1 - \\frac{T_{cold}}{T_{hot}}$. Initially, $\\eta_1 = 1 - \\frac{T}{2T} = 1 - 0.5 = 0.5$. When the temperature of the hot reservoir X is increased to $4T$, the new efficiency is $\\eta_2 = 1 - \\frac{T}{4T} = 1 - 0.25 = 0.75$. Comparing the two, $\\frac{\\eta_2}{\\eta_1} = \\frac{0.75}{0.5} = 1.5$, so the efficiency increases by a factor of 1.5.",
+  "source_image_path": "B4-Thermodynamics/Nov 2008 HL Q20 D.png"
+}

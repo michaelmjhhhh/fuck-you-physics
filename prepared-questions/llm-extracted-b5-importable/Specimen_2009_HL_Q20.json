@@ -1,0 +1,47 @@
+{
+  "id": "Specimen_2009_HL_Q20",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "B.5 Current and circuits",
+  "paper": {
+    "year": 2009,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2009",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2009 HL Q20 C.png"
+  },
+  "question_number": 20,
+  "content_markdown": "In the circuit below, the battery has negligible internal resistance. Three identical lamps L, M and N of constant resistance are connected as shown.\n\nThe filament of lamp N breaks. Which of the following shows the subsequent changes to the brightness of lamp L and lamp M?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a battery connected to a parallel combination of lamps L and N, which is then connected in series with lamp M.",
+    "labels_to_preserve": [
+      "L",
+      "M",
+      "N"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Lamp L: stays the same; Lamp M: decreases"
+    },
+    {
+      "label": "B",
+      "text": "Lamp L: increases; Lamp M: stays the same"
+    },
+    {
+      "label": "C",
+      "text": "Lamp L: increases; Lamp M: decreases"
+    },
+    {
+      "label": "D",
+      "text": "Lamp L: decreases; Lamp M: increases"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "When the filament of lamp N breaks, the total resistance of the circuit increases because the parallel combination of L and N (which had a resistance of $R/2$) is replaced by just L (resistance $R$). This increase in total resistance causes the total current in the circuit to decrease, so lamp M (which is in series with the rest) becomes dimmer. However, because the total current decreases, the potential drop across lamp M decreases, meaning a larger share of the battery's constant voltage now falls across lamp L, making lamp L brighter.",
+  "source_image_path": "B5-Current-and-Circuits/Specimen Paper 2009 HL Q20 C.png"
+}

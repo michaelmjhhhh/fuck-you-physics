@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2017_HL_Q27",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2017,
+    "month": "Nov",
+    "session_label": "Nov 2017",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2017 HL Q27 B.png"
+  },
+  "question_number": 27,
+  "content_markdown": "A spring loaded with mass $m$ oscillates with simple harmonic motion. The amplitude of the motion is $A$ and the spring has total energy $E$. What is the total energy of the spring when the mass is increased to $3m$ and the amplitude is increased to $2A$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$2E$"
+    },
+    {
+      "label": "B",
+      "text": "$4E$"
+    },
+    {
+      "label": "C",
+      "text": "$12E$"
+    },
+    {
+      "label": "D",
+      "text": "$18E$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The total energy of a mass-spring system in SHM is given by $E = \\frac{1}{2}kA^2$, where $k$ is the spring constant and $A$ is the amplitude. Notice that the total energy depends only on the spring constant and the square of the amplitude; it is independent of the mass $m$. Therefore, if the amplitude is doubled ($2A$), the energy becomes proportional to $(2A)^2$, which is $4A^2$. This results in a total energy of $4E$ regardless of the change in mass.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2017 HL Q27 B.png"
+}

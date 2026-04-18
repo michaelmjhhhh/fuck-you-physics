@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2012_HL_Q14",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "C.2 Wave Model",
+  "paper": {
+    "year": 2012,
+    "month": "Nov",
+    "session_label": "Nov 2012",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2012 HL Q14 D.png"
+  },
+  "question_number": 14,
+  "content_markdown": "Progressive (travelling) waves $S$ and $T$ have the same frequency and are in the same medium. $S$ has amplitude $2.0\\text{ m}$ and $T$ has amplitude $4.0\\text{ m}$. What is the ratio of the intensity of $T$ to the intensity of $S$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "2"
+    },
+    {
+      "label": "D",
+      "text": "4"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The intensity $I$ of a wave is proportional to the square of its amplitude $A$ ($I \\propto A^2$). To find the ratio of the intensity of $T$ to $S$, we calculate $\\frac{I_T}{I_S} = \\frac{(A_T)^2}{(A_S)^2} = \\frac{(4.0)^2}{(2.0)^2} = \\frac{16}{4} = 4$.",
+  "source_image_path": "C2-Wave-Model/Nov 2012 HL Q14 D.png"
+}

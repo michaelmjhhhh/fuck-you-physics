@@ -1,0 +1,50 @@
+{
+  "id": "Nov_2010_HL_Q38",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2010,
+    "month": "Nov",
+    "session_label": "Nov 2010",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2010 HL Q38 C.png"
+  },
+  "question_number": 38,
+  "content_markdown": "The diagram shows an energy balance climate model for a planet.\n\nThe intensities of the reflected and radiated radiation are given in terms of the incident intensity $I$. Which of the following is the albedo of this planet?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "An energy balance diagram showing incoming intensity I, reflected from atmosphere 0.25I, reflected by planet surface 0.15I, and radiated by planet surface 0.60I.",
+    "labels_to_preserve": [
+      "incoming intensity I",
+      "reflected from atmosphere 0.25I",
+      "reflected by planet surface 0.15I",
+      "radiated by planet surface 0.60I",
+      "atmosphere",
+      "planet surface"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.15"
+    },
+    {
+      "label": "B",
+      "text": "0.25"
+    },
+    {
+      "label": "C",
+      "text": "0.40"
+    },
+    {
+      "label": "D",
+      "text": "0.60"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Albedo is defined as the ratio of the total reflected power (or intensity) to the total incident power (or intensity). In this model, radiation is reflected by both the atmosphere ($0.25I$) and the planet surface ($0.15I$). Therefore, the total reflected intensity is $0.25I + 0.15I = 0.40I$. Dividing this by the incident intensity $I$ gives an albedo of 0.40. Note that the 'radiated' component ($0.60I$) is emitted thermal radiation, not reflected radiation, so it is excluded from the albedo calculation.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2010 HL Q38 C.png"
+}

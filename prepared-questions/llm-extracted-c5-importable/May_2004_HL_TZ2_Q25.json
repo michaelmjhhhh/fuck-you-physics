@@ -1,0 +1,43 @@
+{
+  "id": "May_2004_HL_TZ2_Q25",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ2 Q25 C.png"
+  },
+  "question_number": 25,
+  "content_markdown": "A source of sound emits waves of wavelength $\\lambda$, period $T$ and speed $v$ when at rest. The source moves away from a stationary observer at speed $V$, relative to the observer. The wavelength of the sound waves, as measured by the observer is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\lambda + vT$"
+    },
+    {
+      "label": "B",
+      "text": "$\\lambda - vT$"
+    },
+    {
+      "label": "C",
+      "text": "$\\lambda + VT$"
+    },
+    {
+      "label": "D",
+      "text": "$\\lambda - VT$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "When a source moves away from a stationary observer, the wavefronts are 'stretched' out. In one period $T$, the source moves a distance $d = V \\times T$ away from the previous wavefront. Therefore, the observed wavelength $\\lambda'$ is the original wavelength $\\lambda$ plus the distance the source moved during that cycle, resulting in $\\lambda' = \\lambda + VT$.",
+  "source_image_path": "C5-Doppler-Effect/May 2004 HL TZ2 Q25 C.png"
+}

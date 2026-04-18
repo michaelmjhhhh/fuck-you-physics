@@ -1,0 +1,26 @@
+{
+  "id": "Nov_2005_HL_Q22",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "",
+  "paper": {
+    "year": 2005,
+    "month": "Nov",
+    "session_label": "Nov 2005",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2005 HL Q22 B.png"
+  },
+  "question_number": 22,
+  "correct_answer": "B",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2005 HL Q22 B.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

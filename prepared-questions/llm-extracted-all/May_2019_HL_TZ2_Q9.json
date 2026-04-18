@@ -1,0 +1,46 @@
+{
+  "id": "May_2019_HL_TZ2_Q9",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ2 Q9 C.png"
+  },
+  "question_number": 9,
+  "content_markdown": "A substance changes from the solid phase to the gas phase without becoming a liquid and without a change in temperature.\n\nWhat is true about the internal energy of the substance and the total intermolecular potential energy of the substance when this phase change occurs?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A-D) comparing the change in internal energy of the substance and the change in total intermolecular potential energy of the substance.",
+    "labels_to_preserve": [
+      "Internal energy of the substance",
+      "Total intermolecular potential energy of the substance"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Internal energy: increases; Total intermolecular potential energy: no change"
+    },
+    {
+      "label": "B",
+      "text": "Internal energy: no change; Total intermolecular potential energy: no change"
+    },
+    {
+      "label": "C",
+      "text": "Internal energy: increases; Total intermolecular potential energy: increases"
+    },
+    {
+      "label": "D",
+      "text": "Internal energy: no change; Total intermolecular potential energy: increases"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "During a phase change (sublimation in this case), the temperature remains constant, meaning the average kinetic energy of the molecules does not change. However, energy is required to overcome the intermolecular forces to move molecules further apart (from solid to gas), which increases the total intermolecular potential energy. Since internal energy is the sum of total kinetic and total potential energy, and potential energy increases while kinetic energy stays the same, the internal energy must also increase.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2019 HL TZ2 Q9 C.png"
+}

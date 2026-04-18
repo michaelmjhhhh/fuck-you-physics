@@ -1,0 +1,48 @@
+{
+  "id": "May_2009_HL_TZ1_Q21",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Potential dividers",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ1 Q21 D.png"
+  },
+  "question_number": 21,
+  "content_markdown": "The diagram shows a potential divider circuit.\n\nIn order to increase the reading on the voltmeter the",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A potential divider circuit with a 12 V DC source. It contains a fixed resistor of 3 kΩ in series with a light-dependent resistor (LDR) labeled R. A voltmeter V is connected in parallel across the LDR.",
+    "labels_to_preserve": [
+      "12 V",
+      "3 kΩ",
+      "R",
+      "V"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "temperature of $R$ should be increased."
+    },
+    {
+      "label": "B",
+      "text": "temperature of $R$ should be decreased."
+    },
+    {
+      "label": "C",
+      "text": "light intensity on $R$ should be increased."
+    },
+    {
+      "label": "D",
+      "text": "light intensity on $R$ should be decreased."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The component R is a Light Dependent Resistor (LDR), indicated by the arrows pointing towards it. In a potential divider, the voltage across a component is proportional to its resistance relative to the total resistance ($V_{out} = V_{in} \\times \\frac{R}{R + R_{fixed}}$). To increase the voltmeter reading, the resistance of $R$ must increase. For an LDR, resistance increases when the light intensity decreases (LURD: Light Up Resistance Down).",
+  "source_image_path": "B5-Current-and-Circuits/May 2009 HL TZ1 Q21 D.png"
+}

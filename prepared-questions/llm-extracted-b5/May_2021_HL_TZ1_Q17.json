@@ -1,0 +1,43 @@
+{
+  "id": "May_2021_HL_TZ1_Q17",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Internal resistance and emf",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ1 Q17 A.png"
+  },
+  "question_number": 17,
+  "content_markdown": "For a real cell in a circuit, the terminal potential difference is at its closest to the emf when",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the internal resistance is much smaller than the load resistance."
+    },
+    {
+      "label": "B",
+      "text": "a large current flows in the circuit."
+    },
+    {
+      "label": "C",
+      "text": "the cell is not completely discharged."
+    },
+    {
+      "label": "D",
+      "text": "the cell is being recharged."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The relationship between terminal potential difference $V$, emf $\\epsilon$, current $I$, and internal resistance $r$ is given by $V = \\epsilon - Ir$. Using Ohm's law for the whole circuit, $I = \\frac{\\epsilon}{R+r}$, where $R$ is the load resistance. Substituting this gives $V = \\epsilon (\\frac{R}{R+r})$. For $V$ to be approximately equal to $\\epsilon$, the term $Ir$ must be very small, which occurs when the load resistance $R$ is much larger than the internal resistance $r$ ($R \\gg r$), resulting in a very small current.",
+  "source_image_path": "B5-Current-and-Circuits/May 2021 HL TZ1 Q17 A.png"
+}

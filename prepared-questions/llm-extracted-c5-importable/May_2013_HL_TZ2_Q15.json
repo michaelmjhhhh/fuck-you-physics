@@ -1,0 +1,43 @@
+{
+  "id": "May_2013_HL_TZ2_Q15",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ2 Q15 A.png"
+  },
+  "question_number": 15,
+  "content_markdown": "A stationary source of sound emits sound of frequency $f$. A moving observer measures the sound as having the frequency $f'$. The observer is moving directly away from the source at a speed that is $30\\%$ of the speed of sound in air.\n\nWhich of the following gives the correct value for $\\frac{f'}{f}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{7}{10}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{10}{13}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{13}{10}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{10}{7}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "For a moving observer and a stationary source, the Doppler effect formula is $f' = f \\left( \\frac{v \\pm v_o}{v} \\right)$. Since the observer is moving away, we use the minus sign: $f' = f \\left( \\frac{v - 0.3v}{v} \\right) = f \\left( \\frac{0.7v}{v} \\right) = 0.7f$. Therefore, the ratio $\\frac{f'}{f} = 0.7 = \\frac{7}{10}$.",
+  "source_image_path": "C5-Doppler-Effect/May 2013 HL TZ2 Q15 A.png"
+}

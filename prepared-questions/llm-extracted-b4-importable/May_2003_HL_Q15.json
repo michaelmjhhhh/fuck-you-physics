@@ -1,0 +1,49 @@
+{
+  "id": "May_2003_HL_Q15",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2003,
+    "month": "May",
+    "session_label": "May 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2003 HL Q15 C.png"
+  },
+  "question_number": 15,
+  "content_markdown": "The graph below shows the variation with volume of the pressure of a system.\n\nThe work done in compressing the gas from R to P is",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A pressure-volume (P-V) graph showing a thermodynamic cycle PQR. Point P is at (2, 1), Q is at (5, 4), and R is at (5, 1). The pressure axis is in units of $10^5$ Pa and the volume axis is in units of $m^3$. The path from R to P is a horizontal line at constant pressure.",
+    "labels_to_preserve": [
+      "P",
+      "Q",
+      "R",
+      "Pressure / 10^5 Pa",
+      "Volume / m^3"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$5.0 \\times 10^5$ J"
+    },
+    {
+      "label": "B",
+      "text": "$4.5 \\times 10^5$ J"
+    },
+    {
+      "label": "C",
+      "text": "$3.0 \\times 10^5$ J"
+    },
+    {
+      "label": "D",
+      "text": "0"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Work done in a thermodynamic process is given by the area under the P-V curve, or $W = P\\Delta V$ for an isobaric process. For the path R to P, the pressure is constant at $1.0 \\times 10^5$ Pa. The change in volume $\\Delta V$ is $2 - 5 = -3$ $m^3$. The magnitude of the work done is $|P\\Delta V| = (1.0 \\times 10^5 \\text{ Pa}) \\times (3 \\text{ m}^3) = 3.0 \\times 10^5$ J.",
+  "source_image_path": "B4-Thermodynamics/May 2003 HL Q15 C.png"
+}

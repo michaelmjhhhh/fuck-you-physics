@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2001_HL_Q16",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2001,
+    "month": "Nov",
+    "session_label": "Nov 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2001 HL Q16 C.png"
+  },
+  "question_number": 16,
+  "content_markdown": "Equal masses of water and alcohol, initially at different temperatures, are mixed. The specific heat capacity of water is **greater** than that of alcohol. The final temperature of the mixture will be",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "equal to the sum of the two original temperatures."
+    },
+    {
+      "label": "B",
+      "text": "exactly midway between the two original temperatures."
+    },
+    {
+      "label": "C",
+      "text": "closer to the original temperature of the water than of the alcohol."
+    },
+    {
+      "label": "D",
+      "text": "closer to the original temperature of the alcohol than of the water."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Since the masses are equal, the substance with the higher specific heat capacity ($c$) requires more energy to change its temperature by one degree. According to $Q = mc\\Delta T$, for the same energy exchange ($Q$), the substance with the larger $c$ (water) will undergo a smaller temperature change ($\\Delta T$). Therefore, the final equilibrium temperature will be closer to the initial temperature of the water.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2001 HL Q16 C.png"
+}

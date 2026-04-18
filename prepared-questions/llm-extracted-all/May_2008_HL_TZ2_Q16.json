@@ -1,0 +1,43 @@
+{
+  "id": "May_2008_HL_TZ2_Q16",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2008,
+    "month": "May",
+    "session_label": "May 2008",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2008 HL TZ2 16 D.png"
+  },
+  "question_number": 16,
+  "content_markdown": "Gas leaks slowly out of a cylinder of constant volume. The temperature of the gas in the cylinder does not change. Which of the following is constant for the gas molecules in the cylinder?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The number striking unit area of surface in unit time"
+    },
+    {
+      "label": "B",
+      "text": "The number of the collisions between molecules per unit time"
+    },
+    {
+      "label": "C",
+      "text": "The number per unit volume"
+    },
+    {
+      "label": "D",
+      "text": "The average speed"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In the kinetic model of an ideal gas, the average kinetic energy (and thus the average speed) of the molecules is directly proportional to the absolute temperature. Since the temperature remains constant, the average speed of the molecules remains constant. Options A, B, and C all depend on the number density of the gas, which decreases as gas leaks out of the constant volume cylinder.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2008 HL TZ2 16 D.png"
+}

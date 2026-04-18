@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2005_HL_Q20",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2005,
+    "month": "Nov",
+    "session_label": "Nov 2005",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2005 HL Q20 C.png"
+  },
+  "question_number": 20,
+  "content_markdown": "Which **one** of the following is a correct statement of the second law of thermodynamics?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "When the state of a system changes its entropy increases."
+    },
+    {
+      "label": "B",
+      "text": "When the state of a system changes its entropy decreases."
+    },
+    {
+      "label": "C",
+      "text": "The total entropy of the universe is increasing with time."
+    },
+    {
+      "label": "D",
+      "text": "The total entropy of the universe is decreasing with time."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The second law of thermodynamics states that for any spontaneous process, the total entropy of an isolated system (like the universe) must increase over time. While the entropy of a specific sub-system can decrease (if work is done or heat is removed), it must be compensated by a larger increase in the entropy of the surroundings.",
+  "source_image_path": "B4-Thermodynamics/Nov 2005 HL Q20 C.png"
+}

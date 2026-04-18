@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2001_HL_Q13",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2001,
+    "month": "Nov",
+    "session_label": "Nov 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2001 HL Q13 D.png"
+  },
+  "question_number": 13,
+  "content_markdown": "An enclosed gas is originally at $27\\text{ }^\\circ\\text{C}$ at a certain pressure. The gas volume is then doubled as shown.\n\nIn order to restore the pressure to its original value, to what value must the temperature now be adjusted, at this new volume?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two diagrams of a piston-cylinder system. The top diagram shows a gas occupying a certain volume. The bottom diagram shows the piston moved to the right, doubling the volume of the gas.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$-123\\text{ }^\\circ\\text{C}$"
+    },
+    {
+      "label": "B",
+      "text": "$13.5\\text{ }^\\circ\\text{C}$"
+    },
+    {
+      "label": "C",
+      "text": "$54\\text{ }^\\circ\\text{C}$"
+    },
+    {
+      "label": "D",
+      "text": "$327\\text{ }^\\circ\\text{C}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "First, convert the initial temperature to Kelvin: $T_1 = 27 + 273 = 300\\text{ K}$. According to the Ideal Gas Law $\\frac{P_1 V_1}{T_1} = \\frac{P_2 V_2}{T_2}$, if we want to restore the pressure ($P_1 = P_2$), the relationship simplifies to Charles's Law: $\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$. Since the volume is doubled ($V_2 = 2V_1$), the absolute temperature must also double: $T_2 = 2 \\times 300\\text{ K} = 600\\text{ K}$. Finally, convert back to Celsius: $600 - 273 = 327\\text{ }^\\circ\\text{C}$.",
+  "source_image_path": "B3-Gas-Laws/Nov 2001 HL Q13 D.png"
+}

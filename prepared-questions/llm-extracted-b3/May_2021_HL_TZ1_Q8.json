@@ -1,0 +1,43 @@
+{
+  "id": "May_2021_HL_TZ1_Q8",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ1 Q8 A.png"
+  },
+  "question_number": 8,
+  "content_markdown": "Which aspect of thermal physics is best explained by the molecular kinetic model?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The equation of state of ideal gases"
+    },
+    {
+      "label": "B",
+      "text": "The difference between Celsius and Kelvin temperature"
+    },
+    {
+      "label": "C",
+      "text": "The value of the Avogadro constant"
+    },
+    {
+      "label": "D",
+      "text": "The existence of gaseous isotopes"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The molecular kinetic model uses the motion and collisions of individual particles to derive macroscopic properties. By applying Newton's laws to these particles, we can derive the relationship between pressure, volume, and temperature, which is the basis for the equation of state of ideal gases ($PV = nRT$).",
+  "source_image_path": "B3-Gas-Laws/May 2021 HL TZ1 Q8 A.png"
+}

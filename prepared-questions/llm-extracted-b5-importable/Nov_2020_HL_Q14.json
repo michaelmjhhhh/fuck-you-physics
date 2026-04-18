@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2020_HL_Q14",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2020,
+    "month": "Nov",
+    "session_label": "Nov 2020",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2020 HL Q14 B.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A metal wire has $n$ free charge carriers per unit volume. The charge on the carrier is $q$. What additional quantity is needed to determine the current per unit area in the wire?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Cross-sectional area of the wire"
+    },
+    {
+      "label": "B",
+      "text": "Drift speed of charge carriers"
+    },
+    {
+      "label": "C",
+      "text": "Potential difference across the wire"
+    },
+    {
+      "label": "D",
+      "text": "Resistivity of the metal"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The formula for electric current is $I = nAvq$, where $n$ is the number density, $A$ is the cross-sectional area, $v$ is the drift speed, and $q$ is the charge per carrier. The question asks for the current per unit area, which is current density $J = \\frac{I}{A} = nvq$. Since we are already given $n$ and $q$, we only need the drift speed $v$ to calculate $J$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2020 HL Q14 B.png"
+}

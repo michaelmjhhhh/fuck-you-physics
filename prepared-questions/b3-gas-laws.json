@@ -1,0 +1,3520 @@
+[
+  {
+    "id": "May_2000_HL_Q14",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2000,
+      "month": "May",
+      "session_label": "May 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2000 HL Q14 B.png"
+    },
+    "question_number": 14,
+    "content_markdown": "Two identical containers P and Q hold two different ideal gases at the same temperature. The number of moles of each gas is the same. The molecular weight of the gas in container P is twice that of the gas in Q. The ratio of the pressure in P to that of Q will be",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "1"
+      },
+      {
+        "label": "C",
+        "text": "$\\sqrt{2}$"
+      },
+      {
+        "label": "D",
+        "text": "2"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "According to the ideal gas law $PV = nRT$, the pressure $P$ depends only on the volume $V$, the number of moles $n$, and the temperature $T$. Since the containers are identical ($V_P = V_Q$), the temperatures are the same ($T_P = T_Q$), and the number of moles are the same ($n_P = n_Q$), the pressure must be the same regardless of the molecular weight of the gas particles. Therefore, the ratio is 1.",
+    "source_image_path": "B3-Gas-Laws/May 2000 HL Q14 B.png"
+  },
+  {
+    "id": "May_2002_HL_Q16",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2002,
+      "month": "May",
+      "session_label": "May 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2002 HL Q16 C.png"
+    },
+    "question_number": 16,
+    "content_markdown": "A gas is in a vertical cylinder fitted with a piston. Weights are placed on the piston. When the gas is at $27\\,^{\\circ}\\text{C}$ the piston is in equilibrium at height $h$ above the base of the cylinder as shown below.\n\nTo what value should the gas temperature be increased for the piston to be in equilibrium at a height $2h$ above the base?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A vertical cylinder containing gas, with a piston on top supporting three weights. The height of the gas column is labeled as h.",
+      "labels_to_preserve": [
+        "h"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$54\\,^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "B",
+        "text": "$150\\,^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "C",
+        "text": "$327\\,^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "D",
+        "text": "$600\\,^{\\circ}\\text{C}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Since the weights on the piston remain the same, the pressure $P$ is constant. According to Charles's Law ($V \\propto T$), the volume is proportional to the absolute temperature in Kelvin. Doubling the height $h$ to $2h$ doubles the volume $V$. The initial temperature is $27\\,^{\\circ}\\text{C} = 300\\,\\text{K}$. Doubling this gives $600\\,\\text{K}$. Converting back to Celsius: $600 - 273 = 327\\,^{\\circ}\\text{C}$.",
+    "source_image_path": "B3-Gas-Laws/May 2002 HL Q16 C.png"
+  },
+  {
+    "id": "May_2004_HL_TZ1_Q15",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ1 Q15 B.png"
+    },
+    "question_number": 15,
+    "content_markdown": "Two identical boxes X and Y each contain an ideal gas.\n\nIn box X there are $n$ moles of the gas at temperature $T$ and pressure $P_X$. In box Y there are $2n$ moles of the gas at temperature $\\frac{T}{3}$ and pressure $P_Y$.\n\nThe ratio $\\frac{P_X}{P_Y}$ is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two rectangular boxes labeled Box X and Box Y. Box X contains n moles, temperature T, and pressure P_X. Box Y contains 2n moles, temperature T/3, and pressure P_Y.",
+      "labels_to_preserve": [
+        "Box X",
+        "Box Y",
+        "n moles",
+        "temperature T",
+        "pressure P_X",
+        "2n moles",
+        "temperature T/3",
+        "pressure P_Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{2}{3}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{3}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Using the ideal gas law $PV = nRT$, and knowing the volumes $V$ are identical for both boxes, we can express pressure as $P = \\frac{nRT}{V}$. For box X, $P_X = \\frac{nRT}{V}$. For box Y, $P_Y = \\frac{(2n)R(T/3)}{V} = \\frac{2}{3} \\frac{nRT}{V}$. Taking the ratio $\\frac{P_X}{P_Y} = \\frac{1}{2/3} = \\frac{3}{2}$.",
+    "source_image_path": "B3-Gas-Laws/May 2004 HL TZ1 Q15 B.png"
+  },
+  {
+    "id": "May_2004_HL_TZ1_Q17",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ1 Q17 A.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A fixed mass of an ideal gas is heated at constant volume. Which **one** of the following graphs best shows the variation of Celsius temperature $t$ with pressure $p$ of the gas?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs showing pressure p on the y-axis and Celsius temperature t on the x-axis. Graph A shows a linear relationship with a positive y-intercept. Graph B shows a linear relationship passing through the origin. Graph C shows a linear relationship with a positive x-intercept. Graph D shows a curved exponential-like relationship with a positive y-intercept.",
+      "labels_to_preserve": [
+        "p",
+        "t / ^\\circ\\text{C}",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "According to the ideal gas law $pV = nRT$, at constant volume, pressure is directly proportional to absolute temperature $T$ in Kelvin ($p \\propto T$). Since $T = t + 273.15$, the relationship between pressure and Celsius temperature $t$ is $p = \\frac{nR}{V}(t + 273.15)$. This is a linear equation of the form $y = mx + c$ where the y-intercept $c$ is positive (representing the pressure at $0^\\circ\\text{C}$). Therefore, the graph should be a straight line that does not pass through the origin, but intersects the vertical axis at a positive value.",
+    "source_image_path": "B3-Gas-Laws/May 2004 HL TZ1 Q17 A.png"
+  },
+  {
+    "id": "May_2004_HL_TZ2_Q16",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ2 Q16 A.png"
+    },
+    "question_number": 16,
+    "content_markdown": "The equation of state for an ideal gas, $pV = nRT$, describes the behaviour of real gases",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "only at low pressures and large volumes."
+      },
+      {
+        "label": "B",
+        "text": "only at high temperatures."
+      },
+      {
+        "label": "C",
+        "text": "only at large volumes and large pressures."
+      },
+      {
+        "label": "D",
+        "text": "at all pressures and volumes."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Real gases approximate ideal behavior when the molecules are far apart and moving fast enough that intermolecular forces are negligible. This occurs at low pressure (which implies large volume) and high temperature. While high temperature is a factor, the most standard condition for the validity of the ideal gas law in this context is low pressure and large volume, where the volume of the molecules themselves is negligible compared to the container volume.",
+    "source_image_path": "B3-Gas-Laws/May 2004 HL TZ2 Q16 A.png"
+  },
+  {
+    "id": "May_2004_HL_TZ2_Q17",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ2 Q17 A.png"
+    },
+    "question_number": 17,
+    "content_markdown": "The temperature of an ideal gas is reduced. Which **one** of the following statements is true?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The molecules collide with the walls of the container less frequently."
+      },
+      {
+        "label": "B",
+        "text": "The molecules collide with each other more frequently."
+      },
+      {
+        "label": "C",
+        "text": "The time of contact between the molecules and the wall is reduced."
+      },
+      {
+        "label": "D",
+        "text": "The time of contact between molecules is increased."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Temperature is a measure of the average kinetic energy of the gas molecules. When temperature is reduced, the average speed of the molecules decreases. Slower-moving molecules take longer to travel across the container, resulting in a lower frequency of collisions with the walls. In the kinetic model of an ideal gas, collisions are assumed to be instantaneous, so options regarding 'time of contact' are generally not applicable or do not change in the way described.",
+    "source_image_path": "B3-Gas-Laws/May 2004 HL TZ2 Q17 A.png"
+  },
+  {
+    "id": "May_2005_HL_TZ1_Q18",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ1 Q18 D.png"
+    },
+    "question_number": 18,
+    "content_markdown": "The equation of state of an ideal gas is\n\n$$pV = nRT.$$\n\nIn this equation, the constant $n$ is the number of",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "atoms in the gas."
+      },
+      {
+        "label": "B",
+        "text": "molecules in the gas."
+      },
+      {
+        "label": "C",
+        "text": "particles in the gas."
+      },
+      {
+        "label": "D",
+        "text": "moles of the gas."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In the ideal gas law equation $pV = nRT$, the variable $n$ specifically represents the amount of substance in moles. If the equation used the Boltzmann constant $k_B$ instead of the universal gas constant $R$ (i.e., $pV = N k_B T$), then $N$ would represent the number of molecules/particles.",
+    "source_image_path": "B3-Gas-Laws/May 2005 HL TZ1 Q18 D.png"
+  },
+  {
+    "id": "May_2005_HL_TZ2_Q15",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ2 Q15 D.png"
+    },
+    "question_number": 15,
+    "content_markdown": "A gas is contained in a cylinder fitted with a piston as shown below.\n\nWhen the gas is compressed rapidly by the piston its temperature rises **because** the molecules of the gas",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal cylinder containing gas particles, closed on the left and fitted with a movable piston on the right.",
+      "labels_to_preserve": [
+        "gas",
+        "piston"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "are squeezed closer together."
+      },
+      {
+        "label": "B",
+        "text": "collide with each other more frequently."
+      },
+      {
+        "label": "C",
+        "text": "collide with the walls of the container more frequently."
+      },
+      {
+        "label": "D",
+        "text": "gain energy from the moving piston."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "When a gas is compressed rapidly (an adiabatic process), work is done on the gas by the moving piston. On a microscopic level, when molecules collide with the inward-moving piston, they rebound with a higher speed (and thus higher kinetic energy) than they had before the collision. Since temperature is a measure of the average random kinetic energy of the molecules, the temperature of the gas increases.",
+    "source_image_path": "B3-Gas-Laws/May 2005 HL TZ2 Q15 D.png"
+  },
+  {
+    "id": "May_2008_HL_TZ1_Q19",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2008,
+      "month": "May",
+      "session_label": "May 2008",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2008 HL TZ1 19 A.png"
+    },
+    "question_number": 19,
+    "content_markdown": "A sample of an ideal gas is contained in a cylinder. The volume of the gas is suddenly decreased. A student makes the following statements to explain the change in pressure of the gas.\n\nI. The average kinetic energy of the gas atoms increases.\nII. The atoms of the gas hit the walls of the cylinder more frequently.\nIII. There are more atoms that are able to collide with the walls of the cylinder.\n\nWhich of these statements is true?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I and II only"
+      },
+      {
+        "label": "B",
+        "text": "I and III only"
+      },
+      {
+        "label": "C",
+        "text": "II and III only"
+      },
+      {
+        "label": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "When a gas is 'suddenly' compressed, it is an adiabatic process where work is done on the gas, increasing its internal energy and thus its temperature (Statement I). Because the volume is smaller, the number of collisions per unit area per unit time increases (Statement II). Statement III is incorrect because the total number of atoms remains constant; they aren't 'more able' to collide, they just have less space to move in.",
+    "source_image_path": "B3-Gas-Laws/May 2008 HL TZ1 19 A.png"
+  },
+  {
+    "id": "May_2008_HL_TZ2_Q17",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2008,
+      "month": "May",
+      "session_label": "May 2008",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2008 HL TZ2 17 B.png"
+    },
+    "question_number": 17,
+    "content_markdown": "The graph below shows the variation with absolute temperature $T$ of the pressure $p$ of one mole of an ideal gas having a volume $V$. $R$ is the molar gas constant.\n\nWhich of the following is the best interpretation of the intercept on the temperature axis and the gradient of the graph?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph showing pressure p on the y-axis and absolute temperature T on the x-axis. A straight line with a positive gradient is shown in the first quadrant, which if extrapolated backwards would point towards the origin.",
+      "labels_to_preserve": [
+        "p",
+        "T"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Intercept on temperature axis / K: $-273$; Gradient of graph: $\\frac{R}{V}$"
+      },
+      {
+        "label": "B",
+        "text": "Intercept on temperature axis / K: $0$; Gradient of graph: $\\frac{R}{V}$"
+      },
+      {
+        "label": "C",
+        "text": "Intercept on temperature axis / K: $0$; Gradient of graph: $\\frac{V}{R}$"
+      },
+      {
+        "label": "D",
+        "text": "Intercept on temperature axis / K: $-273$; Gradient of graph: $\\frac{V}{R}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "According to the ideal gas law $pV = nRT$, for one mole ($n=1$), we have $p = \\frac{R}{V}T$. This is in the form $y = mx + c$ where $y=p$ and $x=T$. Since $T$ is the absolute temperature in Kelvin, the pressure $p$ is directly proportional to $T$, meaning the line passes through the origin $(0,0)$. Therefore, the intercept on the temperature axis is $0$ K. The gradient $m$ is the coefficient of $T$, which is $\\frac{R}{V}$.",
+    "source_image_path": "B3-Gas-Laws/May 2008 HL TZ2 17 B.png"
+  },
+  {
+    "id": "May_2009_HL_TZ2_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ2 Q10 B.png"
+    },
+    "question_number": 10,
+    "content_markdown": "For an ideal gas of constant mass the pressure is always proportional to",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "density and volume."
+      },
+      {
+        "label": "B",
+        "text": "density and temperature."
+      },
+      {
+        "label": "C",
+        "text": "volume and temperature."
+      },
+      {
+        "label": "D",
+        "text": "volume only."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "From the ideal gas law $PV = nRT$, we can write $P = \\frac{nRT}{V}$. Since $n = \\frac{m}{M}$, then $P = \\frac{mRT}{MV}$. Given that density $\\rho = \\frac{m}{V}$, we can substitute to get $P = \\frac{\\rho RT}{M}$. For a constant mass of a specific gas, $R$ and $M$ are constants, therefore $P \\propto \\rho T$.",
+    "source_image_path": "B3-Gas-Laws/May 2009 HL TZ2 Q10 B.png"
+  },
+  {
+    "id": "May_2010_HL_TZ1_Q13",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ1 Q13 B.png"
+    },
+    "question_number": 13,
+    "content_markdown": "The behaviour of a monatomic gas such as helium will approximate to that of an ideal gas when it is kept at",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "a temperature close to absolute zero."
+      },
+      {
+        "label": "B",
+        "text": "low pressure."
+      },
+      {
+        "label": "C",
+        "text": "very high pressure."
+      },
+      {
+        "label": "D",
+        "text": "very high temperature."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Real gases behave most like ideal gases at low pressures and high temperatures. At low pressure, the volume of the gas particles themselves becomes negligible compared to the total volume of the container, and the particles are far enough apart that intermolecular forces are negligible. While 'very high temperature' is also a condition for ideal behavior, 'low pressure' is a more fundamental requirement for the assumptions of the kinetic theory of gases to hold true in standard IB contexts.",
+    "source_image_path": "B3-Gas-Laws/May 2010 HL TZ1 Q13 B.png"
+  },
+  {
+    "id": "May_2010_HL_TZ2_Q6",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ2 Q6 A.png"
+    },
+    "question_number": 6,
+    "content_markdown": "A box that is at rest with respect to horizontal ground contains a fixed quantity of an ideal gas. The internal energy of the gas is $U$ and its temperature is $T$. The box is now made to move at constant speed with respect to the ground. Which of the following gives the change, if any, in the internal energy and the temperature of the gas after the box has been moving for some time?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the possible changes in Internal energy and Temperature for options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Internal energy",
+        "Temperature"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Internal energy: no change; Temperature: no change"
+      },
+      {
+        "label": "B",
+        "text": "Internal energy: no change; Temperature: increase"
+      },
+      {
+        "label": "C",
+        "text": "Internal energy: increase; Temperature: no change"
+      },
+      {
+        "label": "D",
+        "text": "Internal energy: increase; Temperature: increase"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Internal energy and temperature are defined by the random motion of particles relative to the center of mass of the gas. Moving the entire container at a constant speed adds bulk kinetic energy to the system as a whole, but does not change the relative speeds of the molecules within the box. Therefore, both the internal energy and the temperature remain unchanged.",
+    "source_image_path": "B3-Gas-Laws/May 2010 HL TZ2 Q6 A.png"
+  },
+  {
+    "id": "May_2010_HL_TZ2_Q8",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ2 Q8 D.png"
+    },
+    "question_number": 8,
+    "content_markdown": "An ideal gas has pressure $p_0$ and volume $V_0$. The number of molecules of the gas is doubled without changing the temperature. What is the new value of pressure times volume?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{p_0 V_0}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{p_0 V_0}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$p_0 V_0$"
+      },
+      {
+        "label": "D",
+        "text": "$2 p_0 V_0$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "According to the ideal gas law in the form $PV = NkT$, where $N$ is the number of molecules, $k$ is the Boltzmann constant, and $T$ is the absolute temperature. If the temperature $T$ remains constant and the number of molecules $N$ is doubled, the product $PV$ must also double to maintain the equality. Therefore, the new value is $2 p_0 V_0$.",
+    "source_image_path": "B3-Gas-Laws/May 2010 HL TZ2 Q8 D.png"
+  },
+  {
+    "id": "May_2011_HL_TZ2_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ2 Q10 B.png"
+    },
+    "question_number": 10,
+    "content_markdown": "The volume of an ideal gas in a container is increased at constant temperature. Which of the following statements is/are correct about the molecules of the gas?\n\nI. Their average speed remains constant.\nII. The frequency of collisions of molecules with unit area of the container wall decreases.\nIII. The force between them decreases.",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I only"
+      },
+      {
+        "label": "B",
+        "text": "I and II only"
+      },
+      {
+        "label": "C",
+        "text": "I and III only"
+      },
+      {
+        "label": "D",
+        "text": "II and III only"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Statement I is correct because average kinetic energy (and thus average speed) is proportional to absolute temperature, which is constant. Statement II is correct because increasing volume at constant temperature decreases pressure; pressure is defined by the rate of momentum transfer per unit area, which depends on collision frequency. Statement III is incorrect because a fundamental assumption of an ideal gas is that there are no intermolecular forces between molecules (except during collisions), so the force is already zero and does not 'decrease'.",
+    "source_image_path": "B3-Gas-Laws/May 2011 HL TZ2 Q10 B.png"
+  },
+  {
+    "id": "May_2011_HL_TZ2_Q9",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ2 Q9 D.png"
+    },
+    "question_number": 9,
+    "content_markdown": "The energy of the molecules of an ideal gas is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "thermal only."
+      },
+      {
+        "label": "B",
+        "text": "thermal and potential."
+      },
+      {
+        "label": "C",
+        "text": "potential and kinetic."
+      },
+      {
+        "label": "D",
+        "text": "kinetic only."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In the kinetic model of an ideal gas, one of the fundamental assumptions is that there are no intermolecular forces between the molecules (except during perfectly elastic collisions). Since potential energy arises from these intermolecular forces, the internal energy of an ideal gas consists entirely of the random kinetic energy of its molecules.",
+    "source_image_path": "B3-Gas-Laws/May 2011 HL TZ2 Q9 D.png"
+  },
+  {
+    "id": "May_2012_HL_TZ1_Q6",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ1 Q6 C.png"
+    },
+    "question_number": 6,
+    "content_markdown": "An ideal gas has an absolute temperature $T$. The average random kinetic energy of the molecules of the gas is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "independent of $T$."
+      },
+      {
+        "label": "B",
+        "text": "equal to $T$."
+      },
+      {
+        "label": "C",
+        "text": "proportional to $T$."
+      },
+      {
+        "label": "D",
+        "text": "inversely proportional to $T$."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "According to the kinetic theory of gases, the average random kinetic energy of the molecules is given by the equation $E_k = \\frac{3}{2}k_B T$, where $k_B$ is the Boltzmann constant. This shows a direct proportionality between the average kinetic energy and the absolute temperature $T$.",
+    "source_image_path": "B3-Gas-Laws/May 2012 HL TZ1 Q6 C.png"
+  },
+  {
+    "id": "May_2012_HL_TZ2_Q13",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ2 Q13 D.png"
+    },
+    "question_number": 13,
+    "content_markdown": "Two boxes, X and Y, each contain an ideal gas at the same temperature. Box X has a volume $V$ and contains $n$ moles of the gas at a pressure $P_{\\text{x}}$. Box Y has a volume $5V$ and contains $\\frac{n}{3}$ moles of the gas at a pressure $P_{\\text{y}}$.\n\nWhich of the following gives the correct value of $\\frac{P_{\\text{x}}}{P_{\\text{y}}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{15}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{3}{5}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{5}{3}$"
+      },
+      {
+        "label": "D",
+        "text": "15"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Using the ideal gas law $PV = nRT$, we can express pressure as $P = \\frac{nRT}{V}$. Since temperature $T$ and the gas constant $R$ are the same for both boxes, we can write the ratio of pressures as $\\frac{P_{\\text{x}}}{P_{\\text{y}}} = \\frac{n_{\\text{x}}/V_{\\text{x}}}{n_{\\text{y}}/V_{\\text{y}}}$. Substituting the given values: $n_{\\text{x}} = n$, $V_{\\text{x}} = V$, $n_{\\text{y}} = \\frac{n}{3}$, and $V_{\\text{y}} = 5V$. This gives $\\frac{P_{\\text{x}}}{P_{\\text{y}}} = \\frac{n/V}{(n/3)/(5V)} = \\frac{n/V}{n/15V} = 15$.",
+    "source_image_path": "B3-Gas-Laws/May 2012 HL TZ2 Q13 D.png"
+  },
+  {
+    "id": "May_2013_HL_TZ2_Q9",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ2 Q9 B.png"
+    },
+    "question_number": 9,
+    "content_markdown": "Two ideal gases X and Y are at the same temperature. The mass of the molecules of gas X is twice the mass of the molecules of gas Y.\n\nWhat is the ratio $\\frac{\\text{average speed of molecules of gas X}}{\\text{average speed of molecules of gas Y}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present, only text and mathematical expressions.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{\\sqrt{2}}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\sqrt{2}$"
+      },
+      {
+        "label": "D",
+        "text": "2"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Since the gases are at the same temperature, their average kinetic energies are equal: $\\frac{1}{2}m_X v_X^2 = \\frac{1}{2}m_Y v_Y^2$. Given $m_X = 2m_Y$, we can substitute to get $2m_Y v_X^2 = m_Y v_Y^2$. Simplifying gives $2v_X^2 = v_Y^2$, which leads to $\\frac{v_X^2}{v_Y^2} = \\frac{1}{2}$. Taking the square root of both sides, the ratio of the speeds is $\\frac{v_X}{v_Y} = \\frac{1}{\\sqrt{2}}$.",
+    "source_image_path": "B3-Gas-Laws/May 2013 HL TZ2 Q9 B.png"
+  },
+  {
+    "id": "May_2014_HL_TZ1_Q12",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ1 Q12 D.png"
+    },
+    "question_number": 12,
+    "content_markdown": "The pressure\u2013volume ($P$\u2013$V$) graph shows an adiabatic compression of a fixed mass of an ideal gas.\n\nWhich of the following correctly describes what happens to the temperature and the internal energy of the gas during the compression?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A P-V graph showing a curve moving from a lower volume and higher pressure to a higher volume and lower pressure, but the arrow indicates the process is moving from right to left (compression).",
+      "labels_to_preserve": [
+        "P",
+        "V",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Temperature: decreases; Internal energy: decreases"
+      },
+      {
+        "label": "B",
+        "text": "Temperature: increases; Internal energy: no change"
+      },
+      {
+        "label": "C",
+        "text": "Temperature: decreases; Internal energy: no change"
+      },
+      {
+        "label": "D",
+        "text": "Temperature: increases; Internal energy: increases"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In an adiabatic compression, no heat is exchanged ($Q = 0$). According to the first law of thermodynamics, $\\Delta U = Q - W$. Since the gas is being compressed, work is done on the gas ($W$ is negative), making $\\Delta U$ positive. Therefore, the internal energy increases. For an ideal gas, internal energy is directly proportional to absolute temperature, so the temperature must also increase.",
+    "source_image_path": "B3-Gas-Laws/May 2014 HL TZ1 Q12 D.png"
+  },
+  {
+    "id": "May_2014_HL_TZ2_Q11",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ2 Q11 A.png"
+    },
+    "question_number": 11,
+    "content_markdown": "Two containers, X and Y, are each filled by an ideal gas at the same temperature. The volume of Y is half the volume of X. The number of moles of gas in Y is three times the number of moles of the gas in X. The pressure of the gas in X is $P_X$ and the pressure of the gas in Y is $P_Y$.\n\nWhat is the ratio $\\frac{P_X}{P_Y}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{6}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{2}{3}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{3}{2}$"
+      },
+      {
+        "label": "D",
+        "text": "6"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Using the ideal gas law $PV = nRT$, we can express pressure as $P = \\frac{nRT}{V}$. Since temperature $T$ and the gas constant $R$ are the same for both containers, the ratio of pressures is $\\frac{P_X}{P_Y} = \\frac{n_X/V_X}{n_Y/V_Y} = \\frac{n_X}{n_Y} \\cdot \\frac{V_Y}{V_X}$. Given $V_Y = \\frac{1}{2}V_X$ and $n_Y = 3n_X$, we substitute these into the ratio: $\\frac{P_X}{P_Y} = \\frac{n_X}{3n_X} \\cdot \\frac{0.5V_X}{V_X} = \\frac{1}{3} \\cdot \\frac{1}{2} = \\frac{1}{6}$.",
+    "source_image_path": "B3-Gas-Laws/May 2014 HL TZ2 Q11 A.png"
+  },
+  {
+    "id": "May_2015_HL_TZ1_Q7",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ1 Q7 B.png"
+    },
+    "question_number": 7,
+    "content_markdown": "In the kinetic model of an ideal gas, which of the following is **not** assumed?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The molecules collide elastically."
+      },
+      {
+        "label": "B",
+        "text": "The kinetic energy of a given molecule is constant."
+      },
+      {
+        "label": "C",
+        "text": "The time taken for a molecular collision is much less than the time between collisions."
+      },
+      {
+        "label": "D",
+        "text": "The intermolecular potential energy of the molecules is zero."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The kinetic model assumes that molecules are in constant random motion and exchange energy during collisions. While the total kinetic energy of the gas remains constant at a fixed temperature, the kinetic energy of an individual molecule changes every time it collides with another molecule or the container walls. Therefore, the assumption that a single molecule's kinetic energy is constant is incorrect.",
+    "source_image_path": "B3-Gas-Laws/May 2015 HL TZ1 Q7 B.png"
+  },
+  {
+    "id": "May_2015_HL_TZ1_Q8",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ1 Q8 D.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A fixed mass of an ideal gas has a constant volume. Two quantities, $R$ and $S$, of the gas vary as shown by the graph below.\n\nWhat quantities do $R$ and $S$ represent?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A linear graph showing quantity R on the vertical axis and quantity S on the horizontal axis. The line has a positive gradient and a negative y-intercept. The line crosses the S-axis at a positive value of S.",
+      "labels_to_preserve": [
+        "R",
+        "S",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "R: pressure; S: temperature in kelvin"
+      },
+      {
+        "label": "B",
+        "text": "R: pressure; S: temperature in degree Celsius"
+      },
+      {
+        "label": "C",
+        "text": "R: temperature in kelvin; S: pressure"
+      },
+      {
+        "label": "D",
+        "text": "R: temperature in degree Celsius; S: pressure"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "According to the ideal gas law $PV = nRT$, at constant volume, pressure is directly proportional to absolute temperature (Kelvin). A graph of $P$ vs $T$ in Kelvin would pass through the origin $(0,0)$. However, the graph shown has a negative y-intercept. If $R$ is pressure and $S$ is temperature in Celsius, the relationship is $P \\propto (T_{Celsius} + 273.15)$, which results in a positive x-intercept (at $-273.15^\\circ\\text{C}$) or a negative y-intercept if the axes are shifted. Conversely, if $R$ is temperature in Celsius and $S$ is pressure, $T_{Celsius} = \\frac{V}{nR}P - 273.15$, which matches a linear graph with a negative y-intercept.",
+    "source_image_path": "B3-Gas-Laws/May 2015 HL TZ1 Q8 D.png"
+  },
+  {
+    "id": "May_2015_HL_TZ1_Q9",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ1 Q9 A.png"
+    },
+    "question_number": 9,
+    "content_markdown": "A fixed mass of an ideal gas undergoes an isochoric (isovolumetric) change. This increases the pressure of the gas. Which describes the change of internal energy of the gas and the direction of transfer of thermal energy?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A-D) with columns for 'Internal energy' and 'Direction of transfer of thermal energy'.",
+      "labels_to_preserve": [
+        "Internal energy",
+        "Direction of transfer of thermal energy"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Internal energy: increase; Direction of transfer of thermal energy: to the gas"
+      },
+      {
+        "label": "B",
+        "text": "Internal energy: increase; Direction of transfer of thermal energy: from the gas"
+      },
+      {
+        "label": "C",
+        "text": "Internal energy: decrease; Direction of transfer of thermal energy: to the gas"
+      },
+      {
+        "label": "D",
+        "text": "Internal energy: decrease; Direction of transfer of thermal energy: from the gas"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In an isochoric process, the volume is constant, so no work is done ($W = 0$). According to the ideal gas law ($PV = nRT$), if pressure increases at constant volume, the temperature must increase. Since internal energy of an ideal gas is proportional to temperature, internal energy increases. By the first law of thermodynamics ($Q = \\Delta U + W$), if $\\Delta U$ is positive and $W$ is zero, $Q$ must be positive, meaning thermal energy is transferred to the gas.",
+    "source_image_path": "B3-Gas-Laws/May 2015 HL TZ1 Q9 A.png"
+  },
+  {
+    "id": "May_2015_HL_TZ2_Q7",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ2 Q7 C.png"
+    },
+    "question_number": 7,
+    "content_markdown": "Which of the following is an assumption of the kinetic model of an ideal gas?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the question.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The gas is at high pressure."
+      },
+      {
+        "label": "B",
+        "text": "There are weak forces of attraction between the particles in the gas."
+      },
+      {
+        "label": "C",
+        "text": "The collisions between the particles are elastic."
+      },
+      {
+        "label": "D",
+        "text": "The energy of the particles is proportional to the absolute temperature."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The kinetic theory of gases relies on several key postulates. One of the fundamental assumptions is that collisions between gas particles (and between particles and the container walls) are perfectly elastic, meaning kinetic energy is conserved. While option D is a result of the model (the average kinetic energy is proportional to temperature), it is generally considered a derivation or a property rather than a starting 'assumption' of the model itself. Option B is incorrect because the model assumes zero intermolecular forces, and option A is a condition where real gases deviate from ideal behavior.",
+    "source_image_path": "B3-Gas-Laws/May 2015 HL TZ2 Q7 C.png"
+  },
+  {
+    "id": "May_2015_HL_TZ2_Q8",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ2 Q8 A.png"
+    },
+    "question_number": 8,
+    "content_markdown": "An ideal gas undergoes adiabatic expansion from state X to a new state of volume $V$. During this process the work done by the gas is $W$. What is the change in internal energy and the work done in an **isothermal** expansion of this gas from X to $V$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A-D) with columns for 'Change in internal energy' and 'Work done'.",
+      "labels_to_preserve": [
+        "Change in internal energy",
+        "Work done"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Change in internal energy: 0; Work done: greater than $W$"
+      },
+      {
+        "label": "B",
+        "text": "Change in internal energy: 0; Work done: less than $W$"
+      },
+      {
+        "label": "C",
+        "text": "Change in internal energy: greater than 0; Work done: less than $W$"
+      },
+      {
+        "label": "D",
+        "text": "Change in internal energy: less than 0; Work done: same as $W$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In an isothermal expansion of an ideal gas, the temperature remains constant, so the change in internal energy is 0. On a P-V diagram, an isotherm lies above an adiabat starting from the same point X. Therefore, the area under the curve (work done) for the isothermal process to the same final volume $V$ is greater than the area under the adiabatic curve $W$.",
+    "source_image_path": "B3-Gas-Laws/May 2015 HL TZ2 Q8 A.png"
+  },
+  {
+    "id": "May_2016_HL_TZ0_Q8",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2016,
+      "month": "May",
+      "session_label": "May 2016",
+      "level": "HL",
+      "timezone": "TZ0",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2016 HL TZ0 Q8 A.png"
+    },
+    "question_number": 8,
+    "content_markdown": "Under what conditions of density and pressure is a real gas best described by the equation of state for an ideal gas?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Low density and low pressure"
+      },
+      {
+        "label": "B",
+        "text": "Low density and high pressure"
+      },
+      {
+        "label": "C",
+        "text": "High density and low pressure"
+      },
+      {
+        "label": "D",
+        "text": "High density and high pressure"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "A real gas behaves most like an ideal gas when the molecules are far apart and the intermolecular forces are negligible. This occurs at low density (fewer molecules per unit volume) and low pressure (which corresponds to a large volume for a given amount of gas).",
+    "source_image_path": "B3-Gas-Laws/May 2016 HL TZ0 Q8 A.png"
+  },
+  {
+    "id": "May_2017_HL_TZ1_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ1 Q10 C.png"
+    },
+    "question_number": 10,
+    "content_markdown": "A fixed mass of an ideal gas in a closed container with a movable piston initially occupies a volume $V$. The position of the piston is changed, so that the mean kinetic energy of the particles in the gas is doubled and the pressure remains constant.\n\nWhat is the new volume of the gas?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{V}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{V}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$2V$"
+      },
+      {
+        "label": "D",
+        "text": "$4V$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The mean kinetic energy of an ideal gas is directly proportional to its absolute temperature ($E_k \\propto T$). If the mean kinetic energy is doubled, the absolute temperature $T$ must also double. According to Charles's Law (or the ideal gas law $PV = nRT$), at constant pressure and fixed mass, volume is directly proportional to absolute temperature ($V \\propto T$). Therefore, if $T$ doubles, the volume $V$ must also double to $2V$.",
+    "source_image_path": "B3-Gas-Laws/May 2017 HL TZ1 Q10 C.png"
+  },
+  {
+    "id": "May_2017_HL_TZ1_Q9",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ1 Q9 A.png"
+    },
+    "question_number": 9,
+    "content_markdown": "A thin-walled cylinder of weight $W$, open at both ends, rests on a flat surface. The cylinder has a height $L$, an average radius $R$ and a thickness $x$ where $R$ is much greater than $x$.\n\nWhat is the pressure exerted by the cylinder walls on the flat surface?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a thin-walled cylinder resting on a flat surface. The weight W is shown as a downward vector. The height is labeled L, the average radius is R, and the wall thickness is x.",
+      "labels_to_preserve": [
+        "W",
+        "L",
+        "R",
+        "x",
+        "flat surface"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{W}{2\\pi Rx}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{W}{\\pi R^2 x}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{W}{\\pi R^2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{W}{\\pi R^2 L}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Pressure is defined as Force divided by Area ($P = F/A$). Here, the force is the weight $W$. The area in contact with the surface is the cross-sectional area of the thin cylinder wall. For a thin-walled cylinder where $R \\gg x$, the circumference is $2\\pi R$ and the thickness is $x$, so the contact area is approximately the circumference times the thickness: $A = 2\\pi R \\cdot x$. Substituting this into the pressure formula gives $P = \\frac{W}{2\\pi Rx}$.",
+    "source_image_path": "B3-Gas-Laws/May 2017 HL TZ1 Q9 A.png"
+  },
+  {
+    "id": "May_2017_HL_TZ2_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ2 Q10 B.png"
+    },
+    "question_number": 10,
+    "content_markdown": "An ideal gas has a volume of $15\\text{ ml}$, a temperature of $20\\text{ }^\\circ\\text{C}$ and a pressure of $100\\text{ kPa}$. The volume of the gas is reduced to $5\\text{ ml}$ and the temperature is raised to $40\\text{ }^\\circ\\text{C}$. What is the new pressure of the gas?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "600 kPa"
+      },
+      {
+        "label": "B",
+        "text": "320 kPa"
+      },
+      {
+        "label": "C",
+        "text": "200 kPa"
+      },
+      {
+        "label": "D",
+        "text": "35 kPa"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "To solve this, use the combined gas law $\\frac{P_1 V_1}{T_1} = \\frac{P_2 V_2}{T_2}$. Remember that temperature must be in Kelvin ($T\\text{ (K)} = T\\text{ (}^\\circ\\text{C)} + 273$). The volume decreases by a factor of 3 (from 15 to 5), which would triple the pressure if temperature were constant. The temperature increases from $293\\text{ K}$ to $313\\text{ K}$, which is a small fractional increase. Therefore, the pressure should be slightly more than $300\\text{ kPa}$ ($100 \\times 3 \\times \\frac{313}{293} \\approx 320\\text{ kPa}$).",
+    "source_image_path": "B3-Gas-Laws/May 2017 HL TZ2 Q10 B.png"
+  },
+  {
+    "id": "May_2018_HL_TZ1_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ1 Q10 A.png"
+    },
+    "question_number": 10,
+    "content_markdown": "A fixed mass of an ideal gas is trapped in a cylinder of constant volume and its temperature is varied. Which graph shows the variation of the pressure of the gas with temperature in degrees Celsius?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs showing pressure on the y-axis and temperature in degrees Celsius on the x-axis. Graph A shows a linear increase starting from a non-zero pressure at 0 degrees Celsius. Graph B shows a decreasing curve. Graph C shows a linear increase starting from the origin. Graph D shows a linear decrease.",
+      "labels_to_preserve": [
+        "pressure",
+        "temperature / \u00b0C",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "According to the Ideal Gas Law $PV = nRT$, pressure is directly proportional to absolute temperature (Kelvin). Since $T(K) = T(\u00b0C) + 273.15$, the relationship between pressure and Celsius temperature is linear ($P \\propto T_{Celsius} + 273.15$), which means the graph is a straight line with a positive y-intercept at $0\u00b0C$. Graph C is incorrect because pressure is only zero at absolute zero ($-273.15\u00b0C$), not at $0\u00b0C$.",
+    "source_image_path": "B3-Gas-Laws/May 2018 HL TZ1 Q10 A.png"
+  },
+  {
+    "id": "May_2018_HL_TZ1_Q9",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ1 Q9 D.png"
+    },
+    "question_number": 9,
+    "content_markdown": "A sealed cylinder of length $l$ and cross-sectional area $A$ contains $N$ molecules of an ideal gas at kelvin temperature $T$.\n\nWhat is the force acting on the area of the cylinder marked $A$ due to the gas?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal cylinder with length l indicated by a double-headed arrow below it and cross-sectional area A indicated by a label pointing to the right circular face.",
+      "labels_to_preserve": [
+        "l",
+        "A"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{NRT}{l}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{NRT}{lA}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{Nk_BT}{lA}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{Nk_BT}{l}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The force $F$ on the area $A$ is given by $F = P \\times A$. Using the ideal gas law in terms of molecules, $PV = Nk_BT$. Since the volume of the cylinder is $V = A \\times l$, we can substitute this into the equation: $P(Al) = Nk_BT$. Rearranging for pressure gives $P = \\frac{Nk_BT}{Al}$. Finally, substituting $P$ back into the force equation: $F = \\left(\\frac{Nk_BT}{Al}\\right) \\times A = \\frac{Nk_BT}{l}$.",
+    "source_image_path": "B3-Gas-Laws/May 2018 HL TZ1 Q9 D.png"
+  },
+  {
+    "id": "May_2018_HL_TZ2_Q9",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ2 Q9 B.png"
+    },
+    "question_number": 9,
+    "content_markdown": "Q and R are two rigid containers of volume $3V$ and $V$ respectively containing molecules of the same ideal gas initially at the same temperature. The gas pressures in Q and R are $p$ and $3p$ respectively. The containers are connected through a valve of negligible volume that is initially closed.\n\nThe valve is opened in such a way that the temperature of the gases does not change. What is the change of pressure in Q?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two rectangular containers Q and R connected by a valve. Container Q is larger and labeled 3V. Container R is smaller and labeled V.",
+      "labels_to_preserve": [
+        "Q",
+        "R",
+        "valve",
+        "3V",
+        "V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$+p$"
+      },
+      {
+        "label": "B",
+        "text": "$+\\frac{p}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{-p}{2}$"
+      },
+      {
+        "label": "D",
+        "text": "$-p$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Since temperature is constant, we use $PV = nRT$. For Q, $n_Q = \\frac{p(3V)}{RT} = \\frac{3pV}{RT}$. For R, $n_R = \\frac{(3p)V}{RT} = \\frac{3pV}{RT}$. Total moles $n_{total} = \\frac{6pV}{RT}$. Total volume $V_{total} = 3V + V = 4V$. The final pressure $P_f = \\frac{n_{total}RT}{V_{total}} = \\frac{6pV}{4V} = 1.5p$. The change in pressure in Q is $P_f - P_i = 1.5p - p = +0.5p$ or $+\\frac{p}{2}$.",
+    "source_image_path": "B3-Gas-Laws/May 2018 HL TZ2 Q9 B.png"
+  },
+  {
+    "id": "May_2019_HL_TZ1_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ1 Q10 C.png"
+    },
+    "question_number": 10,
+    "content_markdown": "A gas storage tank of fixed volume $V$ contains $N$ molecules of an ideal gas at temperature $T$. The pressure at kelvin temperature $T$ is $20\\text{ MPa}$. $\\frac{N}{4}$ molecules are removed and the temperature changed to $2T$. What is the new pressure of the gas?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "10 MPa"
+      },
+      {
+        "label": "B",
+        "text": "15 MPa"
+      },
+      {
+        "label": "C",
+        "text": "30 MPa"
+      },
+      {
+        "label": "D",
+        "text": "40 MPa"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Using the ideal gas law in the form $PV = NkT$, we know that $P \\propto NT$ since $V$ and $k$ are constant. Initially, $P_1 \\propto N \\times T = 20\\text{ MPa}$. After removing $\\frac{N}{4}$ molecules, the new number of molecules is $N_2 = N - \\frac{N}{4} = \\frac{3}{4}N$. The new temperature is $T_2 = 2T$. Therefore, the new pressure $P_2 \\propto \\frac{3}{4}N \\times 2T = \\frac{3}{2}NT$. Since $NT$ corresponds to $20\\text{ MPa}$, $P_2 = \\frac{3}{2} \\times 20\\text{ MPa} = 30\\text{ MPa}$.",
+    "source_image_path": "B3-Gas-Laws/May 2019 HL TZ1 Q10 C.png"
+  },
+  {
+    "id": "May_2019_HL_TZ2_Q13",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ2 Q13 A.png"
+    },
+    "question_number": 13,
+    "content_markdown": "The equation $$\\frac{pV}{T} = \\text{constant}$$ is applied to a real gas where $p$ is the pressure of the gas, $V$ is its volume and $T$ is its temperature.\n\nWhat is correct about this equation?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "It is empirical."
+      },
+      {
+        "label": "B",
+        "text": "It is theoretical."
+      },
+      {
+        "label": "C",
+        "text": "It cannot be tested."
+      },
+      {
+        "label": "D",
+        "text": "It cannot be disproved."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The ideal gas law and its components (Boyle's, Charles's, and Gay-Lussac's laws) were originally derived from experimental observations rather than first principles. When applied to real gases, these relationships are considered empirical because they describe observed behavior under specific conditions (low pressure, high temperature) rather than being derived from a fundamental theory that accounts for all molecular interactions.",
+    "source_image_path": "B3-Gas-Laws/May 2019 HL TZ2 Q13 A.png"
+  },
+  {
+    "id": "May_2019_HL_TZ2_Q14",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ2 Q14 A.png"
+    },
+    "question_number": 14,
+    "content_markdown": "Cylinder X has a volume $V$ and contains $3.0\\text{ mol}$ of an ideal gas. Cylinder Y has a volume $\\frac{V}{2}$ and contains $2.0\\text{ mol}$ of the same gas.\n\nThe gases in X and Y are at the same temperature $T$. The containers are joined by a valve which is opened so that the temperatures do not change.\n\nWhat is the change in pressure in X?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image, only text and mathematical options.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$+\\frac{1}{3}\\left(\\frac{RT}{V}\\right)$"
+      },
+      {
+        "label": "B",
+        "text": "$-\\frac{1}{3}\\left(\\frac{RT}{V}\\right)$"
+      },
+      {
+        "label": "C",
+        "text": "$+\\frac{2}{3}\\left(\\frac{RT}{V}\\right)$"
+      },
+      {
+        "label": "D",
+        "text": "$-\\frac{2}{3}\\left(\\frac{RT}{V}\\right)$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Initially, the pressure in X is $P_X = \\frac{n_X RT}{V_X} = \\frac{3RT}{V}$. After the valve is opened, the total number of moles is $n_{total} = 3.0 + 2.0 = 5.0\\text{ mol}$ and the total volume is $V_{total} = V + \\frac{V}{2} = \\frac{3V}{2}$. The final pressure $P_{final}$ is the same in both containers: $P_{final} = \\frac{n_{total} RT}{V_{total}} = \\frac{5RT}{1.5V} = \\frac{10RT}{3V}$. The change in pressure in X is $\\Delta P = P_{final} - P_{initial} = \\frac{10RT}{3V} - \\frac{3RT}{V} = \\frac{10RT - 9RT}{3V} = +\\frac{1}{3}\\left(\\frac{RT}{V}\\right)$.",
+    "source_image_path": "B3-Gas-Laws/May 2019 HL TZ2 Q14 A.png"
+  },
+  {
+    "id": "May_2021_HL_TZ1_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ1 Q10 B.png"
+    },
+    "question_number": 10,
+    "content_markdown": "Two ideal gases X and Y are at the same temperature. The mass of a particle of gas X is larger than the mass of a particle of gas Y. Which is correct about the average kinetic energy and the average speed of the particles in gases X and Y?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) with two columns: 'Average kinetic energy' and 'Average speed'.",
+      "labels_to_preserve": [
+        "Average kinetic energy",
+        "Average speed"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Average kinetic energy: larger for Y; Average speed: larger for Y"
+      },
+      {
+        "label": "B",
+        "text": "Average kinetic energy: same; Average speed: larger for Y"
+      },
+      {
+        "label": "C",
+        "text": "Average kinetic energy: same; Average speed: same"
+      },
+      {
+        "label": "D",
+        "text": "Average kinetic energy: larger for Y; Average speed: same"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Temperature is a direct measure of the average random kinetic energy of the particles in an ideal gas ($E_k = \\frac{3}{2}k_BT$). Since both gases are at the same temperature, their average kinetic energies must be the same. Kinetic energy is also defined as $E_k = \\frac{1}{2}mv^2$. If the kinetic energies are equal but gas X has a larger mass ($m_X > m_Y$), then gas Y must have a larger average speed ($v_Y > v_X$) to compensate.",
+    "source_image_path": "B3-Gas-Laws/May 2021 HL TZ1 Q10 B.png"
+  },
+  {
+    "id": "May_2021_HL_TZ1_Q8",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ1 Q8 A.png"
+    },
+    "question_number": 8,
+    "content_markdown": "Which aspect of thermal physics is best explained by the molecular kinetic model?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The equation of state of ideal gases"
+      },
+      {
+        "label": "B",
+        "text": "The difference between Celsius and Kelvin temperature"
+      },
+      {
+        "label": "C",
+        "text": "The value of the Avogadro constant"
+      },
+      {
+        "label": "D",
+        "text": "The existence of gaseous isotopes"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The molecular kinetic model uses the motion and collisions of individual particles to derive macroscopic properties. By applying Newton's laws to these particles, we can derive the relationship between pressure, volume, and temperature, which is the basis for the equation of state of ideal gases ($PV = nRT$).",
+    "source_image_path": "B3-Gas-Laws/May 2021 HL TZ1 Q8 A.png"
+  },
+  {
+    "id": "May_2021_HL_TZ2_Q8",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ2 Q8 B.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A sample of oxygen gas with a volume of $3.0\\text{ m}^3$ is at $100\\text{ }^\\circ\\text{C}$. The gas is heated so that it expands at a constant pressure to a final volume of $6.0\\text{ m}^3$. What is the final temperature of the gas?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$750\\text{ }^\\circ\\text{C}$"
+      },
+      {
+        "label": "B",
+        "text": "$470\\text{ }^\\circ\\text{C}$"
+      },
+      {
+        "label": "C",
+        "text": "$370\\text{ }^\\circ\\text{C}$"
+      },
+      {
+        "label": "D",
+        "text": "$200\\text{ }^\\circ\\text{C}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "According to Charles's Law for a constant pressure process, $\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$, where temperature must be in Kelvin. First, convert the initial temperature: $T_1 = 100 + 273 = 373\\text{ K}$. Since the volume doubles from $3.0\\text{ m}^3$ to $6.0\\text{ m}^3$, the absolute temperature must also double: $T_2 = 2 \\times 373 = 746\\text{ K}$. Finally, convert back to Celsius: $746 - 273 = 473\\text{ }^\\circ\\text{C}$, which rounds to $470\\text{ }^\\circ\\text{C}$.",
+    "source_image_path": "B3-Gas-Laws/May 2021 HL TZ2 Q8 B.png"
+  },
+  {
+    "id": "May_2021_HL_TZ2_Q9",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ2 Q9 C.png"
+    },
+    "question_number": 9,
+    "content_markdown": "Two identical containers X and Y each contain an ideal gas. X has $N$ molecules of gas at an absolute temperature of $T$ and Y has $3N$ molecules of gas at an absolute temperature of $\\frac{T}{2}$.\n\nWhat is the ratio of the pressures $\\frac{P_Y}{P_X}$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two identical rectangular grey boxes labeled X and Y.",
+      "labels_to_preserve": [
+        "X",
+        "Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{6}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{2}{3}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{3}{2}$"
+      },
+      {
+        "label": "D",
+        "text": "6"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Using the ideal gas law $PV = NkT$, since the containers are identical, the volume $V$ is constant. Therefore, pressure $P$ is proportional to $N \\times T$. For container X, $P_X \\propto N \\times T$. For container Y, $P_Y \\propto 3N \\times \\frac{T}{2} = 1.5 NT$. The ratio $\\frac{P_Y}{P_X}$ is $\\frac{1.5 NT}{NT} = 1.5$, which is $\\frac{3}{2}$.",
+    "source_image_path": "B3-Gas-Laws/May 2021 HL TZ2 Q9 C.png"
+  },
+  {
+    "id": "May_2022_HL_TZ1_Q12",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ1 Q12 C.png"
+    },
+    "question_number": 12,
+    "content_markdown": "An ideal gas is maintained at a temperature of $100\\text{ K}$. The variation of the pressure $P$ and $\\frac{1}{\\text{volume}}$ of the gas is shown.\n\nWhat is the quantity of the gas?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A linear graph passing through the origin showing Pressure P in kPa on the y-axis and 1/volume in m^-3 on the x-axis. The line passes through the point (70, 560) approximately, or more clearly (50, 400).",
+      "labels_to_preserve": [
+        "P / kPa",
+        "1 / volume / m^{-3}",
+        "0",
+        "100",
+        "200",
+        "300",
+        "400",
+        "500",
+        "600",
+        "10",
+        "20",
+        "30",
+        "40",
+        "50",
+        "60",
+        "70",
+        "80"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{2 \\times 10^5}{R} \\text{ mol}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{200}{R} \\text{ mol}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{80}{R} \\text{ mol}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{4}{5R} \\text{ mol}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Using the ideal gas law $PV = nRT$, we can rewrite it as $P = nRT \\left(\\frac{1}{V}\\right)$. This means the gradient of the $P$ vs $1/V$ graph is equal to $nRT$. From the graph, the gradient is $\\frac{400 \\text{ kPa}}{50 \\text{ m}^{-3}} = \\frac{400 \\times 10^3}{50} = 8000 \\text{ Pa m}^3$. Setting $nRT = 8000$ with $T = 100\\text{ K}$, we get $n \\cdot R \\cdot 100 = 8000$, which simplifies to $n = \\frac{80}{R}$.",
+    "source_image_path": "B3-Gas-Laws/May 2022 HL TZ1 Q12 C.png"
+  },
+  {
+    "id": "May_2022_HL_TZ2_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ2 Q10 C.png"
+    },
+    "question_number": 10,
+    "content_markdown": "Which assumption is part of the molecular kinetic model of ideal gases?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The work done on a system equals the change in kinetic energy of the system."
+      },
+      {
+        "label": "B",
+        "text": "The volume of a gas results from adding the volume of the individual molecules."
+      },
+      {
+        "label": "C",
+        "text": "A gas is made up of tiny identical particles in constant random motion."
+      },
+      {
+        "label": "D",
+        "text": "All particles in a gas have kinetic and potential energy."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The kinetic molecular theory of gases relies on several key postulates: particles are in constant random motion, collisions are perfectly elastic, and the volume of the particles themselves is negligible compared to the container volume. Option C directly states one of these fundamental assumptions. Option B is incorrect because ideal gas particles are assumed to have negligible volume. Option D is incorrect because ideal gases are assumed to have no intermolecular forces, meaning they have zero potential energy.",
+    "source_image_path": "B3-Gas-Laws/May 2022 HL TZ2 Q10 C.png"
+  },
+  {
+    "id": "May_2022_HL_TZ2_Q9",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ2 Q9 A.png"
+    },
+    "question_number": 9,
+    "content_markdown": "What is true for an ideal gas?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$nRT = Nk_{\\text{B}}T$"
+      },
+      {
+        "label": "B",
+        "text": "$nRT = k_{\\text{B}}T$"
+      },
+      {
+        "label": "C",
+        "text": "$RT = Nk_{\\text{B}}T$"
+      },
+      {
+        "label": "D",
+        "text": "$RT = k_{\\text{B}}T$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The ideal gas law can be expressed in two ways: $PV = nRT$ (using moles $n$ and the gas constant $R$) and $PV = Nk_{\\text{B}}T$ (using the number of molecules $N$ and the Boltzmann constant $k_{\\text{B}}$). Since both expressions equal $PV$, they must equal each other: $nRT = Nk_{\\text{B}}T$.",
+    "source_image_path": "B3-Gas-Laws/May 2022 HL TZ2 Q9 A.png"
+  },
+  {
+    "id": "Nov_2001_HL_Q13",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2001,
+      "month": "Nov",
+      "session_label": "Nov 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2001 HL Q13 D.png"
+    },
+    "question_number": 13,
+    "content_markdown": "An enclosed gas is originally at $27\\text{ }^\\circ\\text{C}$ at a certain pressure. The gas volume is then doubled as shown.\n\nIn order to restore the pressure to its original value, to what value must the temperature now be adjusted, at this new volume?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two diagrams of a piston-cylinder system. The top diagram shows a gas occupying a certain volume. The bottom diagram shows the piston moved to the right, doubling the volume of the gas.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$-123\\text{ }^\\circ\\text{C}$"
+      },
+      {
+        "label": "B",
+        "text": "$13.5\\text{ }^\\circ\\text{C}$"
+      },
+      {
+        "label": "C",
+        "text": "$54\\text{ }^\\circ\\text{C}$"
+      },
+      {
+        "label": "D",
+        "text": "$327\\text{ }^\\circ\\text{C}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "First, convert the initial temperature to Kelvin: $T_1 = 27 + 273 = 300\\text{ K}$. According to the Ideal Gas Law $\\frac{P_1 V_1}{T_1} = \\frac{P_2 V_2}{T_2}$, if we want to restore the pressure ($P_1 = P_2$), the relationship simplifies to Charles's Law: $\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$. Since the volume is doubled ($V_2 = 2V_1$), the absolute temperature must also double: $T_2 = 2 \\times 300\\text{ K} = 600\\text{ K}$. Finally, convert back to Celsius: $600 - 273 = 327\\text{ }^\\circ\\text{C}$.",
+    "source_image_path": "B3-Gas-Laws/Nov 2001 HL Q13 D.png"
+  },
+  {
+    "id": "Nov_2001_HL_Q14",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2001,
+      "month": "Nov",
+      "session_label": "Nov 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2001 HL Q14 B.png"
+    },
+    "question_number": 14,
+    "content_markdown": "When the volume of an enclosed gas is **increased** at a constant temperature, the pressure exerted by the gas on the container wall **decreases**. Consider the following statements as possible explanations for this:\n\nI. the average speed at which the gas molecules strike the walls decreases.\nII. the rate at which molecules strike a given area of the walls decreases.\n\nThe pressure decrease is explained by",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I only."
+      },
+      {
+        "label": "B",
+        "text": "II only."
+      },
+      {
+        "label": "C",
+        "text": "I and II."
+      },
+      {
+        "label": "D",
+        "text": "neither I nor II."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Temperature is a measure of the average kinetic energy of the molecules. Since temperature is constant, the average speed of the molecules (Statement I) remains unchanged. However, as volume increases, the number of molecules per unit volume decreases, leading to a lower frequency of collisions per unit area of the wall (Statement II), which explains the drop in pressure.",
+    "source_image_path": "B3-Gas-Laws/Nov 2001 HL Q14 B.png"
+  },
+  {
+    "id": "Nov_2001_HL_Q18",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2001,
+      "month": "Nov",
+      "session_label": "Nov 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2001 HL Q18 C.png"
+    },
+    "question_number": 18,
+    "content_markdown": "An ideal gas is enclosed in a cylinder fitted with a piston as shown below. The cylinder walls are thermally conducting. The gas is compressed **isothermally** by pushing the piston in slowly.\n\nFor this process, the thermal energy exchanged with the surroundings will be",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal cylinder containing a gas, with a piston on the right side being pushed to the left as indicated by an arrow.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "zero."
+      },
+      {
+        "label": "B",
+        "text": "less than the work done."
+      },
+      {
+        "label": "C",
+        "text": "equal to the work done."
+      },
+      {
+        "label": "D",
+        "text": "greater than the work done."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "According to the first law of thermodynamics, $\\Delta U = Q - W$. For an ideal gas undergoing an isothermal process, the internal energy remains constant ($\\Delta U = 0$) because temperature is constant. Therefore, $0 = Q - W$, which implies $Q = W$. The magnitude of the thermal energy exchanged ($Q$) must be equal to the work done on the gas ($W$).",
+    "source_image_path": "B3-Gas-Laws/Nov 2001 HL Q18 C.png"
+  },
+  {
+    "id": "Nov_2002_HL_Q15",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2002,
+      "month": "Nov",
+      "session_label": "Nov 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2002 HL Q15 D.png"
+    },
+    "question_number": 15,
+    "content_markdown": "When a gas is compressed at constant temperature, the pressure increases. This is because the molecules of the gas",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "repel each other."
+      },
+      {
+        "label": "B",
+        "text": "are squashed together."
+      },
+      {
+        "label": "C",
+        "text": "hit the walls of the container at a greater average speed."
+      },
+      {
+        "label": "D",
+        "text": "hit the walls of the container more often in a given time."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Pressure in a gas is defined by the rate of change of momentum during collisions with the container walls. Since the temperature is constant, the average kinetic energy (and thus average speed) of the molecules remains the same. However, compressing the gas reduces the volume, increasing the number of molecules per unit volume. This leads to a higher frequency of collisions with the walls, resulting in increased pressure.",
+    "source_image_path": "B3-Gas-Laws/Nov 2002 HL Q15 D.png"
+  },
+  {
+    "id": "Nov_2003_HL_Q21",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2003,
+      "month": "Nov",
+      "session_label": "Nov 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2003 HL Q21 B.png"
+    },
+    "question_number": 21,
+    "content_markdown": "A container holds $20\\text{ g}$ of neon (mass number $20$) and also $8\\text{ g}$ of helium (mass number $4$).\n\nWhat is the ratio $\\frac{\\text{number of atoms of neon}}{\\text{number of atoms of helium}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.4"
+      },
+      {
+        "label": "B",
+        "text": "0.5"
+      },
+      {
+        "label": "C",
+        "text": "2.0"
+      },
+      {
+        "label": "D",
+        "text": "2.5"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "To find the ratio of the number of atoms, we first find the number of moles for each gas. For neon, $n_{\\text{Ne}} = \\frac{20\\text{ g}}{20\\text{ g/mol}} = 1\\text{ mole}$. For helium, $n_{\\text{He}} = \\frac{8\\text{ g}}{4\\text{ g/mol}} = 2\\text{ moles}$. Since the number of atoms is proportional to the number of moles ($N = n \\times N_A$), the ratio of atoms is the same as the ratio of moles: $1 / 2 = 0.5$.",
+    "source_image_path": "B3-Gas-Laws/Nov 2003 HL Q21 B.png"
+  },
+  {
+    "id": "Nov_2004_HL_Q18",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2004,
+      "month": "Nov",
+      "session_label": "Nov 2004",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2004 HL Q18 B.png"
+    },
+    "question_number": 18,
+    "content_markdown": "Which of the following is **not** an assumption on which the kinetic model of an ideal gas is based?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the question.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "All molecules behave as if they are perfectly elastic spheres."
+      },
+      {
+        "label": "B",
+        "text": "The mean-square speed of the molecules is proportional to the kelvin temperature."
+      },
+      {
+        "label": "C",
+        "text": "Unless in contact, the forces between molecules are negligible."
+      },
+      {
+        "label": "D",
+        "text": "The molecules are in continuous random motion."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The kinetic theory of gases is built on specific postulates (assumptions) like elastic collisions, negligible intermolecular forces, and random motion. While the relationship between mean-square speed and temperature is a mathematical consequence derived from these assumptions, it is a result of the model rather than an initial assumption itself.",
+    "source_image_path": "B3-Gas-Laws/Nov 2004 HL Q18 B.png"
+  },
+  {
+    "id": "Nov_2005_HL_Q17",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2005,
+      "month": "Nov",
+      "session_label": "Nov 2005",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2005 HL Q17 A.png"
+    },
+    "question_number": 17,
+    "content_markdown": "Two ideal gases X and Y, are contained in a cylinder at constant temperature. The mass of the atoms of X is $m$ and of Y is $4m$.\n\nWhich **one** of the following is the correct value of the ratio\n\n$$\\frac{\\text{average kinetic energy of the atoms of Y}}{\\text{average kinetic energy of the atoms of X}}?$$",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "16"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The average kinetic energy of the particles in an ideal gas is directly proportional to the absolute temperature ($E_k = \\frac{3}{2}k_B T$). Since both gases are in the same cylinder at the same constant temperature, their average kinetic energies must be identical, regardless of the mass of the individual atoms. Therefore, the ratio is 1:1.",
+    "source_image_path": "B3-Gas-Laws/Nov 2005 HL Q17 A.png"
+  },
+  {
+    "id": "Nov_2005_HL_Q18",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2005,
+      "month": "Nov",
+      "session_label": "Nov 2005",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2005 HL Q18 A.png"
+    },
+    "question_number": 18,
+    "content_markdown": "Container X below has volume $V$ and holds $n$ moles of an ideal gas at kelvin temperature $T$. Container Y has volume $2V$ and holds $3n$ moles of an ideal gas also at kelvin temperature $T$.\n\nThe pressure of the gas in X is $P_{\\text{X}}$ and in Y is $P_{\\text{Y}}$.\n\nThe ratio $\\frac{P_{\\text{X}}}{P_{\\text{Y}}}$ is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two rectangular containers labeled X and Y. Container X is smaller and contains text: volume V, temperature T, n moles, pressure P_X. Container Y is larger and contains text: volume 2V, temperature T, 3n moles, pressure P_Y.",
+      "labels_to_preserve": [
+        "container X",
+        "container Y",
+        "volume V",
+        "temperature T",
+        "n moles",
+        "pressure P_X",
+        "volume 2V",
+        "3n moles",
+        "pressure P_Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{2}{3}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{3}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "6"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Using the ideal gas law $PV = nRT$, we can express pressure as $P = \\frac{nRT}{V}$. For container X, $P_{\\text{X}} = \\frac{nRT}{V}$. For container Y, $P_{\\text{Y}} = \\frac{3nRT}{2V}$. Taking the ratio $\\frac{P_{\\text{X}}}{P_{\\text{Y}}} = \\frac{nRT/V}{3nRT/2V} = \\frac{1}{3/2} = \\frac{2}{3}$.",
+    "source_image_path": "B3-Gas-Laws/Nov 2005 HL Q18 A.png"
+  },
+  {
+    "id": "Nov_2006_HL_Q17",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2006,
+      "month": "Nov",
+      "session_label": "Nov 2006",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2006 HL Q17 B.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A fixed quantity of an ideal gas is compressed at constant temperature. The best explanation for the increase in pressure is that the molecules",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "are moving faster."
+      },
+      {
+        "label": "B",
+        "text": "are colliding more frequently with the container walls."
+      },
+      {
+        "label": "C",
+        "text": "exert greater forces on each other."
+      },
+      {
+        "label": "D",
+        "text": "are colliding more frequently with each other."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Since the temperature is constant, the average kinetic energy and speed of the molecules remain the same, ruling out A. Ideal gas molecules are assumed to have no intermolecular forces, ruling out C. Pressure is defined by the rate of momentum transfer to the container walls; when the volume decreases (compression), the number of molecules per unit volume increases, leading to a higher frequency of collisions with the walls.",
+    "source_image_path": "B3-Gas-Laws/Nov 2006 HL Q17 B.png"
+  },
+  {
+    "id": "Nov_2006_HL_Q19",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2006,
+      "month": "Nov",
+      "session_label": "Nov 2006",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2006 HL Q19 C.png"
+    },
+    "question_number": 19,
+    "content_markdown": "An ideal gas expands isothermally, doing $2500\\text{ J}$ of external work in the process. The thermal energy absorbed by the gas in this process is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "zero."
+      },
+      {
+        "label": "B",
+        "text": "less than $2500\\text{ J}$."
+      },
+      {
+        "label": "C",
+        "text": "equal to $2500\\text{ J}$."
+      },
+      {
+        "label": "D",
+        "text": "more than $2500\\text{ J}$."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "According to the first law of thermodynamics, $Q = \\Delta U + W$. For an isothermal expansion of an ideal gas, the temperature remains constant, which means the internal energy change $\\Delta U$ is zero. Therefore, the thermal energy absorbed $Q$ must be exactly equal to the work done $W$ by the gas.",
+    "source_image_path": "B3-Gas-Laws/Nov 2006 HL Q19 C.png"
+  },
+  {
+    "id": "Nov_2007_HL_Q15",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2007,
+      "month": "Nov",
+      "session_label": "Nov 2007",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2007 HL Q15 C.png"
+    },
+    "question_number": 15,
+    "content_markdown": "An ideal gas is kept in a container of fixed volume at a temperature of $30\\,^{\\circ}\\text{C}$ and a pressure of $6.0\\,\\text{atm}$. The gas is heated at constant volume to a temperature of $330\\,^{\\circ}\\text{C}$.\n\nThe new pressure of the gas is about",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two boxes representing a gas container before and after heating. The first box shows pressure 6.0 atm and temperature 30 degrees Celsius. An arrow points to the second box which shows 'new pressure?' and temperature 330 degrees Celsius.",
+      "labels_to_preserve": [
+        "pressure 6.0 atm",
+        "temperature 30 \u00b0C",
+        "gas",
+        "new pressure?",
+        "temperature 330 \u00b0C"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0.60\\,\\text{atm}$"
+      },
+      {
+        "label": "B",
+        "text": "$3.0\\,\\text{atm}$"
+      },
+      {
+        "label": "C",
+        "text": "$12\\,\\text{atm}$"
+      },
+      {
+        "label": "D",
+        "text": "$66\\,\\text{atm}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "For an ideal gas at constant volume, pressure is directly proportional to absolute temperature ($P \\propto T$). First, convert temperatures to Kelvin: $T_1 = 30 + 273 = 303\\,\\text{K}$ and $T_2 = 330 + 273 = 603\\,\\text{K}$. Since the absolute temperature roughly doubles ($603/303 \\approx 2$), the pressure must also roughly double from $6.0\\,\\text{atm}$ to $12\\,\\text{atm}$.",
+    "source_image_path": "B3-Gas-Laws/Nov 2007 HL Q15 C.png"
+  },
+  {
+    "id": "Nov_2007_HL_Q3",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2007,
+      "month": "Nov",
+      "session_label": "Nov 2007",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2007 HL Q3 B.png"
+    },
+    "question_number": 3,
+    "content_markdown": "The molar mass of water is $18\\text{ g}$. The approximate number of water molecules in a glass of water is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$10^{22}$"
+      },
+      {
+        "label": "B",
+        "text": "$10^{25}$"
+      },
+      {
+        "label": "C",
+        "text": "$10^{28}$"
+      },
+      {
+        "label": "D",
+        "text": "$10^{31}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "To estimate this, consider a standard glass of water holds about $250\\text{ ml}$, which is approximately $250\\text{ g}$ of water. Since the molar mass is $18\\text{ g/mol}$, the number of moles is roughly $250 / 18 \\approx 14\\text{ moles}$. Multiplying by Avogadro's constant ($6 \\times 10^{23}\\text{ molecules/mol}$) gives $14 \\times 6 \\times 10^{23} \\approx 8.4 \\times 10^{24}$, which is closest to the order of magnitude $10^{25}$.",
+    "source_image_path": "B3-Gas-Laws/Nov 2007 HL Q3 B.png"
+  },
+  {
+    "id": "Nov_2008_HL_Q18",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2008,
+      "month": "Nov",
+      "session_label": "Nov 2008",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2008 HL Q18 B.png"
+    },
+    "question_number": 18,
+    "content_markdown": "An isolated container is divided into two equal volumes by a partition. In each part of the container there is an ideal gas. They have the same pressure $P$. The partition is removed. Which of the following is the final pressure?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{P}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "$P$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{3P}{2}$"
+      },
+      {
+        "label": "D",
+        "text": "$2P$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Since the container is isolated and the partition is simply removed, the total number of moles and the temperature remain constant. Using the ideal gas law $PV = nRT$, if we combine two volumes $V$ at pressure $P$, the total volume becomes $2V$ and the total number of moles becomes $n_{total} = n_1 + n_2$. Since $P_1 = P_2 = P$ and $V_1 = V_2 = V$, then $n_1 = n_2$. The final pressure $P_f = \\frac{(n_1 + n_2)RT}{2V} = \\frac{2nRT}{2V} = \\frac{nRT}{V} = P$.",
+    "source_image_path": "B3-Gas-Laws/Nov 2008 HL Q18 B.png"
+  },
+  {
+    "id": "Nov_2009_HL_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2009,
+      "month": "Nov",
+      "session_label": "Nov 2009",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2009 HL Q10 C.png"
+    },
+    "question_number": 10,
+    "content_markdown": "Carbon has a relative atomic mass of 12 and oxygen has a relative atomic mass of 16. A sample of $6\\text{ g}$ of carbon has twice as many atoms as",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$32\\text{ g}$ of oxygen."
+      },
+      {
+        "label": "B",
+        "text": "$8\\text{ g}$ of oxygen."
+      },
+      {
+        "label": "C",
+        "text": "$4\\text{ g}$ of oxygen."
+      },
+      {
+        "label": "D",
+        "text": "$3\\text{ g}$ of oxygen."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "First, calculate the number of moles of carbon: $n = \\frac{m}{M} = \\frac{6}{12} = 0.5\\text{ mol}$. Since the question states this sample has twice as many atoms as the oxygen sample, the oxygen sample must contain $0.25\\text{ mol}$ of atoms. To find the mass of oxygen atoms, use $m = n \\times M = 0.25 \\times 16 = 4\\text{ g}$.",
+    "source_image_path": "B3-Gas-Laws/Nov 2009 HL Q10 C.png"
+  },
+  {
+    "id": "Nov_2009_HL_Q12",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2009,
+      "month": "Nov",
+      "session_label": "Nov 2009",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2009 HL Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "The behaviour of real gases is different from that predicted for ideal gases. Which of the following statements about real gases is **not** correct?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gas molecules have potential energy."
+      },
+      {
+        "label": "B",
+        "text": "Forces between gas molecules are always negligible."
+      },
+      {
+        "label": "C",
+        "text": "Gas molecules have volume."
+      },
+      {
+        "label": "D",
+        "text": "Real gases can liquefy."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Ideal gases are defined by assumptions such as having zero molecular volume and zero intermolecular forces (except during collisions). Real gases deviate from this because their molecules do have a finite volume and exert attractive/repulsive forces on each other. Therefore, saying these forces are 'always negligible' for real gases is incorrect, especially at high pressures or low temperatures where real gases can even liquefy due to these forces.",
+    "source_image_path": "B3-Gas-Laws/Nov 2009 HL Q12 B.png"
+  },
+  {
+    "id": "Nov_2010_HL_Q11",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2010,
+      "month": "Nov",
+      "session_label": "Nov 2010",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2010 HL Q11 A.png"
+    },
+    "question_number": 11,
+    "content_markdown": "The graph shows the variation with absolute temperature $T$ of the pressure $p$ of a fixed mass of an ideal gas.\n\nWhich of the following is correct concerning the volume and the density of the gas?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph of pressure p versus absolute temperature T showing a straight line passing through the origin (0,0). The line is dashed near the origin and solid as it increases.",
+      "labels_to_preserve": [
+        "p",
+        "T",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Volume: constant; Density: constant"
+      },
+      {
+        "label": "B",
+        "text": "Volume: constant; Density: increasing"
+      },
+      {
+        "label": "C",
+        "text": "Volume: increasing; Density: constant"
+      },
+      {
+        "label": "D",
+        "text": "Volume: increasing; Density: increasing"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "According to the ideal gas law $pV = nRT$, if the graph of $p$ against $T$ is a straight line through the origin, then $p/T$ is constant. This implies that $V$ must be constant. Since the mass of the gas is fixed and density is mass divided by volume, a constant volume means the density must also remain constant.",
+    "source_image_path": "B3-Gas-Laws/Nov 2010 HL Q11 A.png"
+  },
+  {
+    "id": "Nov_2011_HL_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2011,
+      "month": "Nov",
+      "session_label": "Nov 2011",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2011 HL Q10 A.png"
+    },
+    "question_number": 10,
+    "content_markdown": "The molar mass of magnesium is $24\\text{ g}$. $12\\text{ g}$ of magnesium contains the same number of particles as",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$6\\text{ g}$ of carbon-12."
+      },
+      {
+        "label": "B",
+        "text": "$12\\text{ g}$ of carbon-12."
+      },
+      {
+        "label": "C",
+        "text": "$24\\text{ g}$ of carbon-12."
+      },
+      {
+        "label": "D",
+        "text": "$6.02 \\times 10^{23}\\text{ g}$ of carbon-12."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The number of particles is proportional to the number of moles. For magnesium, $n = \\frac{m}{M} = \\frac{12\\text{ g}}{24\\text{ g/mol}} = 0.5\\text{ mol}$. To have the same number of particles, we need $0.5\\text{ mol}$ of carbon-12. Since the molar mass of carbon-12 is exactly $12\\text{ g/mol}$, the required mass is $0.5\\text{ mol} \\times 12\\text{ g/mol} = 6\\text{ g}$.",
+    "source_image_path": "B3-Gas-Laws/Nov 2011 HL Q10 A.png"
+  },
+  {
+    "id": "Nov_2011_HL_Q12",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2011,
+      "month": "Nov",
+      "session_label": "Nov 2011",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2011 HL Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A fixed mass of an ideal gas is at temperature $T$. The pressure is doubled and the volume is halved. What is the temperature after these changes?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{T}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "$T$"
+      },
+      {
+        "label": "C",
+        "text": "$2T$"
+      },
+      {
+        "label": "D",
+        "text": "$4T$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "According to the ideal gas law equation $\\frac{P_1 V_1}{T_1} = \\frac{P_2 V_2}{T_2}$. If the pressure is doubled ($P_2 = 2P_1$) and the volume is halved ($V_2 = \\frac{1}{2}V_1$), the product $PV$ remains constant ($2 \\times \\frac{1}{2} = 1$). Therefore, the temperature $T$ must also remain unchanged to satisfy the equation.",
+    "source_image_path": "B3-Gas-Laws/Nov 2011 HL Q12 B.png"
+  },
+  {
+    "id": "Nov_2012_HL_Q11",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2012,
+      "month": "Nov",
+      "session_label": "Nov 2012",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2012 HL Q11 D.png"
+    },
+    "question_number": 11,
+    "content_markdown": "An ideal gas expands adiabatically. What energy change is **true** for the gas?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "It gains thermal energy from the surroundings"
+      },
+      {
+        "label": "B",
+        "text": "It loses thermal energy to the surroundings"
+      },
+      {
+        "label": "C",
+        "text": "Its internal energy increases"
+      },
+      {
+        "label": "D",
+        "text": "Its internal energy decreases"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In an adiabatic process, there is no thermal energy exchange with the surroundings ($Q = 0$). According to the first law of thermodynamics, $\\Delta U = Q - W$. Since the gas expands, it does work on the surroundings ($W > 0$). Therefore, $\\Delta U = 0 - W$, which means $\\Delta U$ is negative, and the internal energy must decrease.",
+    "source_image_path": "B3-Gas-Laws/Nov 2012 HL Q11 D.png"
+  },
+  {
+    "id": "Nov_2014_HL_Q8",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2014,
+      "month": "Nov",
+      "session_label": "Nov 2014",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2014 HL Q8 B.png"
+    },
+    "question_number": 8,
+    "content_markdown": "What are the conditions of temperature and pressure at which the behaviour of a real gas approximates to the behaviour of an ideal gas?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Low pressure and low temperature"
+      },
+      {
+        "label": "B",
+        "text": "Low pressure and high temperature"
+      },
+      {
+        "label": "C",
+        "text": "High pressure and low temperature"
+      },
+      {
+        "label": "D",
+        "text": "High pressure and high temperature"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Real gases behave most like ideal gases when the intermolecular forces and the volume of the particles themselves become negligible. High temperature ensures particles have high kinetic energy to overcome attractive forces, while low pressure ensures particles are far apart so their individual volume is insignificant compared to the total volume of the container.",
+    "source_image_path": "B3-Gas-Laws/Nov 2014 HL Q8 B.png"
+  },
+  {
+    "id": "Nov_2015_HL_Q8",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2015,
+      "month": "Nov",
+      "session_label": "Nov 2015",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2015 HL Q8 B.png"
+    },
+    "question_number": 8,
+    "content_markdown": "An ideal gas and a solid of the same substance are at the same temperature. The average kinetic energy of the gas molecules is $E_g$ and the average kinetic energy of the solid molecules is $E_s$. What is the comparison between $E_g$ and $E_s$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$E_g$ is less than $E_s$."
+      },
+      {
+        "label": "B",
+        "text": "$E_g$ equals $E_s$."
+      },
+      {
+        "label": "C",
+        "text": "$E_g$ is greater than $E_s$."
+      },
+      {
+        "label": "D",
+        "text": "The relationship between $E_g$ and $E_s$ cannot be determined."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In thermodynamics, temperature is a direct measure of the average random kinetic energy of the particles in a substance. Since both the ideal gas and the solid are at the same temperature, their particles must have the same average kinetic energy, regardless of the state of matter or the potential energy differences between them.",
+    "source_image_path": "B3-Gas-Laws/Nov 2015 HL Q8 B.png"
+  },
+  {
+    "id": "Nov_2016_HL_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2016,
+      "month": "Nov",
+      "session_label": "Nov 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2016 HL Q10 B.png"
+    },
+    "question_number": 10,
+    "content_markdown": "The pressure of a fixed mass of an ideal gas in a container is decreased at constant temperature. For the molecules of the gas there will be a decrease in",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the mean square speed."
+      },
+      {
+        "label": "B",
+        "text": "the number striking the container walls every second."
+      },
+      {
+        "label": "C",
+        "text": "the force between them."
+      },
+      {
+        "label": "D",
+        "text": "their diameter."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Since temperature is constant, the average kinetic energy and thus the mean square speed remain constant. For an ideal gas, intermolecular forces are assumed to be zero, and the diameter of molecules is negligible/constant. According to Boyle's Law, if pressure decreases at constant temperature, the volume must increase. With a larger volume and the same speeds, the frequency of collisions with the walls (number striking per second) must decrease.",
+    "source_image_path": "B3-Gas-Laws/Nov 2016 HL Q10 B.png"
+  },
+  {
+    "id": "Nov_2016_HL_Q11",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2016,
+      "month": "Nov",
+      "session_label": "Nov 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2016 HL Q11 C.png"
+    },
+    "question_number": 11,
+    "content_markdown": "An ideal gas of $N$ molecules is maintained at a constant pressure $p$. The graph shows how the volume $V$ of the gas varies with absolute temperature $T$.\n\nWhat is the gradient of the graph?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A linear graph showing Volume V on the y-axis against absolute temperature T on the x-axis. The line is straight and passes through the origin (0,0).",
+      "labels_to_preserve": [
+        "V",
+        "T",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{N}{p}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{NR}{p}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{Nk_B}{p}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{N}{Rp}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The ideal gas law can be written in terms of the number of molecules $N$ as $pV = Nk_B T$. To find the gradient of a $V$ vs $T$ graph, we rearrange the equation to the form $y = mx$, which gives $V = (\\frac{Nk_B}{p})T$. Therefore, the gradient $m$ is $\\frac{Nk_B}{p}$.",
+    "source_image_path": "B3-Gas-Laws/Nov 2016 HL Q11 C.png"
+  },
+  {
+    "id": "Nov_2017_HL_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2017,
+      "month": "Nov",
+      "session_label": "Nov 2017",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2017 HL Q10 B.png"
+    },
+    "question_number": 10,
+    "content_markdown": "What does the constant $n$ represent in the equation of state for an ideal gas $pV = nRT$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The number of atoms in the gas"
+      },
+      {
+        "label": "B",
+        "text": "The number of moles of the gas"
+      },
+      {
+        "label": "C",
+        "text": "The number of molecules of the gas"
+      },
+      {
+        "label": "D",
+        "text": "The number of particles in the gas"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In the ideal gas law equation $pV = nRT$, $n$ specifically refers to the amount of substance in moles. If the equation used the Boltzmann constant $k_B$ (i.e., $pV = N k_B T$), then $N$ would represent the number of molecules or particles.",
+    "source_image_path": "B3-Gas-Laws/Nov 2017 HL Q10 B.png"
+  },
+  {
+    "id": "Nov_2018_HL_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2018,
+      "month": "Nov",
+      "session_label": "Nov 2018",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2018 HL Q10 C.png"
+    },
+    "question_number": 10,
+    "content_markdown": "Container X contains $1.0\\text{ mol}$ of an ideal gas. Container Y contains $2.0\\text{ mol}$ of the ideal gas. Y has four times the volume of X. The pressure in X is twice that in Y.\n\nWhat is $\\frac{\\text{temperature of gas in X}}{\\text{temperature of gas in Y}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "1"
+      },
+      {
+        "label": "D",
+        "text": "2"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Using the ideal gas law $PV = nRT$, we can express temperature as $T = \\frac{PV}{nR}$. For the ratio $\\frac{T_X}{T_Y}$, we have $\\frac{P_X V_X / (n_X R)}{P_Y V_Y / (n_Y R)} = \\frac{P_X}{P_Y} \\cdot \\frac{V_X}{V_Y} \\cdot \\frac{n_Y}{n_X}$. Substituting the given values: $\\frac{P_X}{P_Y} = 2$, $\\frac{V_X}{V_Y} = \\frac{1}{4}$, and $\\frac{n_Y}{n_X} = \\frac{2.0}{1.0} = 2$. Multiplying these together: $2 \\cdot \\frac{1}{4} \\cdot 2 = 1$.",
+    "source_image_path": "B3-Gas-Laws/Nov 2018 HL Q10 C.png"
+  },
+  {
+    "id": "Nov_2018_HL_Q9",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2018,
+      "month": "Nov",
+      "session_label": "Nov 2018",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2018 HL Q9 C.png"
+    },
+    "question_number": 9,
+    "content_markdown": "A container is filled with a mixture of helium and oxygen at the same temperature. The molar mass of helium is $4\\text{ g mol}^{-1}$ and that of oxygen is $32\\text{ g mol}^{-1}$.\n\nWhat is the ratio $\\frac{\\text{average speed of helium molecules}}{\\text{average speed of oxygen molecules}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{8}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{\\sqrt{8}}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\sqrt{8}$"
+      },
+      {
+        "label": "D",
+        "text": "8"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Since both gases are at the same temperature, their average kinetic energies are equal: $\\frac{1}{2}m_{He}v_{He}^2 = \\frac{1}{2}m_{O}v_{O}^2$. This implies that the ratio of their speeds is inversely proportional to the square root of the ratio of their masses: $\\frac{v_{He}}{v_{O}} = \\sqrt{\\frac{m_{O}}{m_{He}}}$. Substituting the molar masses, we get $\\sqrt{\\frac{32}{4}} = \\sqrt{8}$.",
+    "source_image_path": "B3-Gas-Laws/Nov 2018 HL Q9 C.png"
+  },
+  {
+    "id": "Nov_2019_HL_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2019,
+      "month": "Nov",
+      "session_label": "Nov 2019",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2019 HL Q10 C.png"
+    },
+    "question_number": 10,
+    "content_markdown": "Two flasks P and Q contain an ideal gas and are connected with a tube of negligible volume compared to that of the flasks. The volume of P is twice the volume of Q.\n\nP is held at a temperature of $200\\text{ K}$ and Q is held at a temperature of $400\\text{ K}$.\n\nWhat is $\\frac{\\text{mass of gas in P}}{\\text{mass of gas in Q}}$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two spherical flasks, a larger one labeled P and a smaller one labeled Q, connected by a thin horizontal tube.",
+      "labels_to_preserve": [
+        "P",
+        "Q"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{8}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{4}$"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "8"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Since the flasks are connected, the pressure $P$ is the same in both. Using the ideal gas law $PV = nRT$, the number of moles is $n = \\frac{PV}{RT}$. The mass is proportional to the number of moles for the same gas. For flask P: $n_P \\propto \\frac{V_P}{T_P} = \\frac{2V_Q}{200}$. For flask Q: $n_Q \\propto \\frac{V_Q}{T_Q} = \\frac{V_Q}{400}$. Taking the ratio $\\frac{n_P}{n_Q} = \\frac{2/200}{1/400} = \\frac{1/100}{1/400} = 4$.",
+    "source_image_path": "B3-Gas-Laws/Nov 2019 HL Q10 C.png"
+  },
+  {
+    "id": "Nov_2019_HL_Q9",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2019,
+      "month": "Nov",
+      "session_label": "Nov 2019",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2019 HL Q9 D.png"
+    },
+    "question_number": 9,
+    "content_markdown": "Under which conditions of pressure and density will a real gas approximate to an ideal gas?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four combinations of pressure and density labeled A through D.",
+      "labels_to_preserve": [
+        "Pressure",
+        "Density"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Pressure: high, Density: high"
+      },
+      {
+        "label": "B",
+        "text": "Pressure: high, Density: low"
+      },
+      {
+        "label": "C",
+        "text": "Pressure: low, Density: high"
+      },
+      {
+        "label": "D",
+        "text": "Pressure: low, Density: low"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "A real gas behaves most like an ideal gas when the molecules are far apart and moving fast, such that intermolecular forces and the volume of the molecules themselves become negligible. This occurs at low pressure (molecules are spread out) and low density (fewer molecules per unit volume).",
+    "source_image_path": "B3-Gas-Laws/Nov 2019 HL Q9 D.png"
+  },
+  {
+    "id": "Nov_2020_HL_Q7",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2020,
+      "month": "Nov",
+      "session_label": "Nov 2020",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2020 HL Q7 C.png"
+    },
+    "question_number": 7,
+    "content_markdown": "What is **not** an assumption of the kinetic model of an ideal gas?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Attractive forces between molecules are negligible."
+      },
+      {
+        "label": "B",
+        "text": "Collision duration is negligible compared with time between collisions."
+      },
+      {
+        "label": "C",
+        "text": "Molecules suffer negligible momentum change during wall collisions."
+      },
+      {
+        "label": "D",
+        "text": "Molecular volume is negligible compared with gas volume."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The kinetic model of an ideal gas assumes that collisions with the walls are perfectly elastic. This means that while kinetic energy is conserved, the momentum of a molecule changes from $+mv$ to $-mv$ (a total change of $2mv$). If the momentum change were negligible, the gas would exert no pressure on the container walls, which contradicts the fundamental definition of gas pressure ($P = F/A = \\frac{\\Delta p / \\Delta t}{A}$).",
+    "source_image_path": "B3-Gas-Laws/Nov 2020 HL Q7 C.png"
+  },
+  {
+    "id": "Nov_2020_HL_Q9",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2020,
+      "month": "Nov",
+      "session_label": "Nov 2020",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2020 HL Q9 A.png"
+    },
+    "question_number": 9,
+    "content_markdown": "Two containers X and Y are maintained at the same temperature. X has volume $4\\text{ m}^3$ and Y has volume $6\\text{ m}^3$. They both hold an ideal gas. The pressure in X is $100\\text{ Pa}$ and the pressure in Y is $50\\text{ Pa}$. The containers are then joined by a tube of negligible volume. What is the final pressure in the containers?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "70 Pa"
+      },
+      {
+        "label": "B",
+        "text": "75 Pa"
+      },
+      {
+        "label": "C",
+        "text": "80 Pa"
+      },
+      {
+        "label": "D",
+        "text": "150 Pa"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Since temperature is constant, we can use Boyle's Law or the conservation of the product $PV$ (which is proportional to the number of moles). The total $PV$ before joining is $(100 \\times 4) + (50 \\times 6) = 400 + 300 = 700$. After joining, the total volume is $4 + 6 = 10\\text{ m}^3$. The final pressure $P_f$ is found by $P_f \\times 10 = 700$, which gives $P_f = 70\\text{ Pa}$.",
+    "source_image_path": "B3-Gas-Laws/Nov 2020 HL Q9 A.png"
+  },
+  {
+    "id": "Nov_2021_HL_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2021,
+      "month": "Nov",
+      "session_label": "Nov 2021",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2021 HL Q10 D.png"
+    },
+    "question_number": 10,
+    "content_markdown": "The molar mass of an ideal gas is $M$. A fixed mass $m$ of the gas expands at a constant pressure $p$. The graph shows the variation with temperature $T$ of the gas volume $V$.\n\nWhat is the gradient of the graph?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph showing a linear relationship between volume V on the y-axis and temperature T on the x-axis. The line has a positive gradient and does not pass through the origin.",
+      "labels_to_preserve": [
+        "V",
+        "T",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{Mp}{mR}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{MR}{mp}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{mp}{MR}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{mR}{Mp}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "From the ideal gas law $pV = nRT$, we know that $V = \\frac{nRT}{p}$. The number of moles $n$ is equal to the mass $m$ divided by the molar mass $M$, so $n = \\frac{m}{M}$. Substituting this into the equation gives $V = \\left(\\frac{mR}{Mp}\\right)T$. Since the graph plots $V$ against $T$, the gradient is the coefficient of $T$, which is $\\frac{mR}{Mp}$.",
+    "source_image_path": "B3-Gas-Laws/Nov 2021 HL Q10 D.png"
+  },
+  {
+    "id": "Nov_2022_HL_Q11",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2022,
+      "month": "Nov",
+      "session_label": "Nov 2022",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2022 HL Q11 D.png"
+    },
+    "question_number": 11,
+    "content_markdown": "Gases in the atmosphere are compounds of $^{12}_{6}\\text{C}$, $^{1}_{1}\\text{H}$, $^{16}_{8}\\text{O}$ and $^{14}_{7}\\text{N}$.\n\nFour of these gases are $\\text{CO}_2$, $\\text{N}_2\\text{O}$, $\\text{CH}_4$ and $\\text{H}_2\\text{O}$. A pure sample of each gas is produced. Each sample has the same mass.\n\nWhich sample contains the greatest number of molecules?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\text{N}_2\\text{O}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\text{H}_2\\text{O}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\text{CO}_2$"
+      },
+      {
+        "label": "D",
+        "text": "$\\text{CH}_4$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The number of molecules $N$ is given by $N = n \\times N_A$, where $n$ is the number of moles. Since $n = \\frac{m}{M}$ (mass divided by molar mass) and the mass $m$ is the same for all samples, the number of molecules is inversely proportional to the molar mass ($N \\propto \\frac{1}{M}$). To find the greatest number of molecules, we look for the smallest molar mass. Calculating the approximate molar masses: $\\text{N}_2\\text{O} \\approx 44$, $\\text{H}_2\\text{O} \\approx 18$, $\\text{CO}_2 \\approx 44$, and $\\text{CH}_4 \\approx 16$. Methane ($\\text{CH}_4$) has the lowest molar mass, therefore it contains the greatest number of molecules for a fixed mass.",
+    "source_image_path": "B3-Gas-Laws/Nov 2022 HL Q11 D.png"
+  },
+  {
+    "id": "Nov_2022_HL_Q12",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2022,
+      "month": "Nov",
+      "session_label": "Nov 2022",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2022 HL Q12 A.png"
+    },
+    "question_number": 12,
+    "content_markdown": "Three statements about Boltzmann's constant $k_{\\text{B}}$ are:\n\nI. $k_{\\text{B}}$ has a unit of $\\text{J K}^{-1}$\n\nII. $k_{\\text{B}} = \\frac{\\text{gas constant}}{\\text{Avogadro's constant}}$\n\nIII. $k_{\\text{B}} = \\frac{\\text{the average kinetic energy of particles}}{\\text{temperature of the gas}}$\n\nWhich statements are correct?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present, only text-based statements and options.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I and II only"
+      },
+      {
+        "label": "B",
+        "text": "I and III only"
+      },
+      {
+        "label": "C",
+        "text": "II and III only"
+      },
+      {
+        "label": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Statement I is correct because $k_{\\text{B}}$ relates energy to temperature ($E = \\frac{3}{2}k_{\\text{B}}T$). Statement II is correct by definition ($k_{\\text{B}} = R/N_{\\text{A}}$). Statement III is incorrect because the average kinetic energy is $\\frac{3}{2}k_{\\text{B}}T$, meaning $k_{\\text{B}} = \\frac{2}{3} \\frac{\\bar{E}_k}{T}$, so the ratio of energy to temperature is not simply $k_{\\text{B}}$ but includes a numerical factor.",
+    "source_image_path": "B3-Gas-Laws/Nov 2022 HL Q12 A.png"
+  },
+  {
+    "id": "Specimen_2016_HL_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2016,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2016 HL Q10 A.png"
+    },
+    "question_number": 10,
+    "content_markdown": "Two separate sealed containers hold air at the same temperature. They are connected by a thin tube containing a valve. Initially one container holds $0.2\\text{ m}^3$ of air at a pressure of $50\\text{ kPa}$ and the other container holds $0.3\\text{ m}^3$ of air at a pressure of $20\\text{ kPa}$.\n\nThe valve is slowly opened and the temperature stays constant. What is the final pressure in the containers?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two circular containers connected by a horizontal tube with a valve in the middle. The left container is smaller and labeled with 0.2 m^3 and 50 kPa. The right container is larger and labeled with 0.3 m^3 and 20 kPa.",
+      "labels_to_preserve": [
+        "0.2 m^3",
+        "50 kPa",
+        "valve",
+        "0.3 m^3",
+        "20 kPa"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "32 kPa"
+      },
+      {
+        "label": "B",
+        "text": "35 kPa"
+      },
+      {
+        "label": "C",
+        "text": "38 kPa"
+      },
+      {
+        "label": "D",
+        "text": "70 kPa"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Since temperature is constant, we can use Boyle's Law ($P_1V_1 + P_2V_2 = P_fV_f$). The total initial 'amount' of gas (proportional to $PV$) is $(50 \\times 0.2) + (20 \\times 0.3) = 10 + 6 = 16$. The total final volume is $0.2 + 0.3 = 0.5\\text{ m}^3$. Therefore, the final pressure is $P_f = 16 / 0.5 = 32\\text{ kPa}$.",
+    "source_image_path": "B3-Gas-Laws/Specimen Paper 2016 HL Q10 A.png"
+  },
+  {
+    "id": "Specimen_2025_HL_Q10",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2025,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2025",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2025 HL Q10 D.png"
+    },
+    "question_number": 10,
+    "content_markdown": "The internal energy of a real gas is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "zero."
+      },
+      {
+        "label": "B",
+        "text": "equal to the intermolecular potential energy of the particles."
+      },
+      {
+        "label": "C",
+        "text": "equal to the total kinetic energy of the particles."
+      },
+      {
+        "label": "D",
+        "text": "equal to the sum of the intermolecular potential energy and the total kinetic energy of the particles."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In IB Physics, internal energy is defined as the sum of the random kinetic energy and the intermolecular potential energy of the particles in a substance. While an ideal gas is assumed to have zero intermolecular potential energy (making internal energy equal to kinetic energy only), a real gas has forces between particles, meaning both kinetic and potential components must be included.",
+    "source_image_path": "B3-Gas-Laws/Specimen Paper 2025 HL Q10 D.png"
+  },
+  {
+    "id": "Specimen_2025_HL_Q17",
+    "topic": "Gas Laws",
+    "topic_code": "B3",
+    "sub_topic": "Gas Laws",
+    "paper": {
+      "year": 2025,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2025",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2025 HL Q17 C.png"
+    },
+    "question_number": 17,
+    "content_markdown": "Two containers, X and Y, are filled with an ideal gas at the same pressure.\n\nThe volume of X is four times the volume of Y. The temperature of X is $327\\,^{\\circ}\\text{C}$ and the temperature of Y is $27\\,^{\\circ}\\text{C}$.\n\nWhat is $\\frac{\\text{amount of substance in X}}{\\text{amount of substance in Y}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{8}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "8"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Using the ideal gas law $PV = nRT$, we can express the amount of substance as $n = \\frac{PV}{RT}$. Since pressure $P$ is constant, the ratio is $\\frac{n_X}{n_Y} = \\frac{V_X}{V_Y} \\times \\frac{T_Y}{T_X}$. First, convert temperatures to Kelvin: $T_X = 327 + 273 = 600\\,\\text{K}$ and $T_Y = 27 + 273 = 300\\,\\text{K}$. Given $V_X = 4V_Y$, the ratio becomes $4 \\times \\frac{300}{600} = 4 \\times \\frac{1}{2} = 2$.",
+    "source_image_path": "B3-Gas-Laws/Specimen Paper 2025 HL Q17 C.png"
+  }
+]

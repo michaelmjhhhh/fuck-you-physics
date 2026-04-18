@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2001_HL_Q15",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2001,
+    "month": "Nov",
+    "session_label": "Nov 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2001 HL Q15 B.png"
+  },
+  "question_number": 15,
+  "content_markdown": "The atomic mass number of helium is 4 while that of neon is 20, and both are monatomic gases. When both gases are at the same temperature, the ratio of the average **speeds** of helium atoms to neon atoms will be",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$1 : 1$"
+    },
+    {
+      "label": "B",
+      "text": "$\\sqrt{5} : 1$"
+    },
+    {
+      "label": "C",
+      "text": "$5 : 1$"
+    },
+    {
+      "label": "D",
+      "text": "$25 : 1$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "At the same temperature, the average kinetic energy of the atoms is the same: $\\frac{1}{2}m_{He}v_{He}^2 = \\frac{1}{2}m_{Ne}v_{Ne}^2$. This implies that the speed $v$ is inversely proportional to the square root of the mass $m$. Therefore, the ratio of speeds is $\\frac{v_{He}}{v_{Ne}} = \\sqrt{\\frac{m_{Ne}}{m_{He}}} = \\sqrt{\\frac{20}{4}} = \\sqrt{5}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2001 HL Q15 B.png"
+}

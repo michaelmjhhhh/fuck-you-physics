@@ -1,0 +1,43 @@
+{
+  "id": "May_2012_HL_TZ2_Q13",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2012,
+    "month": "May",
+    "session_label": "May 2012",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2012 HL TZ2 Q13 D.png"
+  },
+  "question_number": 13,
+  "content_markdown": "Two boxes, X and Y, each contain an ideal gas at the same temperature. Box X has a volume $V$ and contains $n$ moles of the gas at a pressure $P_{\\text{x}}$. Box Y has a volume $5V$ and contains $\\frac{n}{3}$ moles of the gas at a pressure $P_{\\text{y}}$.\n\nWhich of the following gives the correct value of $\\frac{P_{\\text{x}}}{P_{\\text{y}}}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{15}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{3}{5}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{5}{3}$"
+    },
+    {
+      "label": "D",
+      "text": "15"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Using the ideal gas law $PV = nRT$, we can express pressure as $P = \\frac{nRT}{V}$. Since temperature $T$ and the gas constant $R$ are the same for both boxes, we can write the ratio of pressures as $\\frac{P_{\\text{x}}}{P_{\\text{y}}} = \\frac{n_{\\text{x}}/V_{\\text{x}}}{n_{\\text{y}}/V_{\\text{y}}}$. Substituting the given values: $n_{\\text{x}} = n$, $V_{\\text{x}} = V$, $n_{\\text{y}} = \\frac{n}{3}$, and $V_{\\text{y}} = 5V$. This gives $\\frac{P_{\\text{x}}}{P_{\\text{y}}} = \\frac{n/V}{(n/3)/(5V)} = \\frac{n/V}{n/15V} = 15$.",
+  "source_image_path": "B3-Gas-Laws/May 2012 HL TZ2 Q13 D.png"
+}

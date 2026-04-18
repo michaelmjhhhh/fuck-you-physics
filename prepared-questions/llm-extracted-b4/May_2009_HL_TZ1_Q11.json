@@ -1,0 +1,43 @@
+{
+  "id": "May_2009_HL_TZ1_Q11",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ1 Q11 B.png"
+  },
+  "question_number": 11,
+  "content_markdown": "A positive amount of thermal energy $Q$ is transferred to an ideal gas from its surroundings. The internal energy of the gas increases and the gas does a positive amount of work $W$ on its surroundings. The change of state of the gas is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "isochoric (isovolumetric)."
+    },
+    {
+      "label": "B",
+      "text": "isobaric."
+    },
+    {
+      "label": "C",
+      "text": "isothermal."
+    },
+    {
+      "label": "D",
+      "text": "adiabatic."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "According to the first law of thermodynamics, $Q = \\Delta U + W$. The problem states that $Q \u003e 0$, $\\Delta U \u003e 0$, and $W \u003e 0$. In an isochoric process, $W=0$. In an isothermal process, $\\Delta U=0$. In an adiabatic process, $Q=0$. Only an isobaric process (constant pressure expansion) allows for heat input to result in both an increase in internal energy (temperature rise) and work done (expansion).",
+  "source_image_path": "B4-Thermodynamics/May 2009 HL TZ1 Q11 B.png"
+}

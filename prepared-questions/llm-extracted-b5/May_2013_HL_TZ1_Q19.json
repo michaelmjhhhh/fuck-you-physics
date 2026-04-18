@@ -1,0 +1,46 @@
+{
+  "id": "May_2013_HL_TZ1_Q19",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric circuits",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ1 Q19 B.png"
+  },
+  "question_number": 19,
+  "content_markdown": "A cell of negligible internal resistance is connected to three identical lamps. A voltmeter is connected across one of the lamps.\n\nIf the filament in lamp X breaks, the reading on the voltmeter will",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a cell connected to a series-parallel combination of three lamps. One lamp is in series with a parallel pair of two lamps. A voltmeter is connected across the first series lamp. One of the lamps in the parallel pair is labeled X.",
+    "labels_to_preserve": [
+      "V",
+      "X"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "become zero."
+    },
+    {
+      "label": "B",
+      "text": "decrease."
+    },
+    {
+      "label": "C",
+      "text": "stay the same."
+    },
+    {
+      "label": "D",
+      "text": "increase."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Initially, the circuit consists of one lamp in series with a parallel combination of two lamps. If the filament in lamp X breaks, that branch of the parallel circuit becomes an open circuit. This increases the total resistance of the parallel section, which in turn increases the total resistance of the entire circuit. As a result, the total current flowing from the cell decreases. Since the voltmeter measures the potential difference across the first lamp ($V = IR$), and the current $I$ through it has decreased while its resistance $R$ remains constant, the voltmeter reading must decrease.",
+  "source_image_path": "B5-Current-and-Circuits/May 2013 HL TZ1 Q19 B.png"
+}

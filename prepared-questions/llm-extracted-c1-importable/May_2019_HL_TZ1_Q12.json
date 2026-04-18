@@ -1,0 +1,55 @@
+{
+  "id": "May_2019_HL_TZ1_Q12",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ1 Q12 D.png"
+  },
+  "question_number": 12,
+  "content_markdown": "Which graph shows the variation with time $t$ of the kinetic energy (KE) of an object undergoing simple harmonic motion (shm) of period $T$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs labeled A, B, C, and D showing Kinetic Energy (KE) on the y-axis and time (t) on the x-axis. Graphs A and B show sinusoidal waves that go into negative KE values. Graph C shows a positive-only sinusoidal wave with a period of T. Graph D shows a positive-only sinusoidal wave with a period of T/2.",
+    "labels_to_preserve": [
+      "KE",
+      "t",
+      "T",
+      "2T",
+      "0",
+      "0.5",
+      "1.0",
+      "1.5",
+      "-0.5",
+      "-1.0",
+      "-1.5"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Kinetic energy is given by $E_k = \\frac{1}{2}mv^2$. Since mass is positive and velocity is squared, KE can never be negative, eliminating graphs A and B. In SHM, the object reaches maximum speed twice per full oscillation cycle (once moving forward through equilibrium and once moving backward). Therefore, the frequency of the KE variation is double the frequency of the displacement, meaning the period of the KE graph must be $T/2$.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2019 HL TZ1 Q12 D.png"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "May_2022_HL_TZ1_Q29",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ1 Q29 A.png"
+  },
+  "question_number": 29,
+  "content_markdown": "The diagram shows, for a region on the Earth's surface, the incident, radiated and reflected intensities of the solar radiation.\n\nWhat is the albedo of the region?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing three vertical arrows relative to the surface of the Earth. An arrow pointing down represents incident radiation at 600 W m^-2. Two arrows pointing up represent radiated intensity at 450 W m^-2 and reflected intensity at 150 W m^-2.",
+    "labels_to_preserve": [
+      "incident 600 W m^{-2}",
+      "radiated 450 W m^{-2}",
+      "reflected 150 W m^{-2}",
+      "surface of the Earth"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{3}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{3}{4}$"
+    },
+    {
+      "label": "D",
+      "text": "1"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Albedo is defined as the ratio of the total scattered (reflected) power to the total incident power. In this diagram, the reflected intensity is $150\\text{ W m}^{-2}$ and the incident intensity is $600\\text{ W m}^{-2}$. Therefore, the albedo is $\\frac{150}{600} = \\frac{1}{4}$. Note that 'radiated' intensity refers to the long-wave thermal radiation emitted by the Earth, which is not included in the albedo calculation.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2022 HL TZ1 Q29 A.png"
+}

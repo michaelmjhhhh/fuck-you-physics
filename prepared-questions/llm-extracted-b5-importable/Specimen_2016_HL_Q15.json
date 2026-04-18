@@ -1,0 +1,43 @@
+{
+  "id": "Specimen_2016_HL_Q15",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric current",
+  "paper": {
+    "year": 2016,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2016 HL Q15 D.png"
+  },
+  "question_number": 15,
+  "content_markdown": "In a particular lightning flash a charge of $15\\text{ C}$ flows in a time of $0.5\\text{ ms}$. What is the average current?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$33\\text{ \\mu A}$"
+    },
+    {
+      "label": "B",
+      "text": "$7.5\\text{ mA}$"
+    },
+    {
+      "label": "C",
+      "text": "$30\\text{ A}$"
+    },
+    {
+      "label": "D",
+      "text": "$30\\text{ kA}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Average current is defined as the rate of flow of charge, $I = \\frac{\\Delta Q}{\\Delta t}$. Here, $\\Delta Q = 15\\text{ C}$ and $\\Delta t = 0.5\\text{ ms} = 0.5 \\times 10^{-3}\\text{ s}$. Calculating the ratio gives $I = \\frac{15}{0.0005} = 30,000\\text{ A}$, which is $30\\text{ kA}$.",
+  "source_image_path": "B5-Current-and-Circuits/Specimen Paper 2016 HL Q15 D.png"
+}

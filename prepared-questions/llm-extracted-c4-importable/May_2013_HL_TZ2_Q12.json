@@ -1,0 +1,48 @@
+{
+  "id": "May_2013_HL_TZ2_Q12",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Resonance and Damping",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ2 Q12 D.png"
+  },
+  "question_number": 12,
+  "content_markdown": "Two oscillators X and Y are undergoing forced oscillations each at a frequency close to the natural frequency of each oscillator. The graph shows the variation of amplitude with forcing frequency for each oscillator.\n\nWhich of the following correctly identifies the system that has the greater amount of damping and the greater natural frequency of oscillation?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph showing two resonance curves for oscillators X and Y. The y-axis is labeled 'amplitude' and the x-axis is labeled 'forcing frequency'. Curve X has a higher peak amplitude and a narrower width than curve Y. The peak of curve X occurs at a lower frequency than the peak of curve Y.",
+    "labels_to_preserve": [
+      "amplitude",
+      "forcing frequency",
+      "X",
+      "Y"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Greater amount of damping: X; Greater natural frequency: X"
+    },
+    {
+      "label": "B",
+      "text": "Greater amount of damping: X; Greater natural frequency: Y"
+    },
+    {
+      "label": "C",
+      "text": "Greater amount of damping: Y; Greater natural frequency: X"
+    },
+    {
+      "label": "D",
+      "text": "Greater amount of damping: Y; Greater natural frequency: Y"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Damping reduces the peak amplitude and broadens the resonance curve; since Y has a lower, flatter peak than X, Y is more heavily damped. The natural frequency corresponds to the frequency at the peak of the curve; since the peak of Y is further to the right on the horizontal axis than the peak of X, Y has a greater natural frequency.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2013 HL TZ2 Q12 D.png"
+}

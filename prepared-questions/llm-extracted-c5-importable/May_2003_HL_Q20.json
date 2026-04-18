@@ -1,0 +1,46 @@
+{
+  "id": "May_2003_HL_Q20",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2003,
+    "month": "May",
+    "session_label": "May 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2003 HL Q20 A.png"
+  },
+  "question_number": 20,
+  "content_markdown": "A sound emitting source moves along a straight line with speed $v$ relative to an observer at rest.\n\nThe speed of sound relative to the medium is $c$. The observer measures the speed of sound emitted by the source as",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A car moving towards a stationary observer sitting in a chair. An arrow labeled v indicates the car's velocity towards the observer. Musical notes are shown above the car.",
+    "labels_to_preserve": [
+      "v",
+      "Observer"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$c$"
+    },
+    {
+      "label": "B",
+      "text": "$c + v$"
+    },
+    {
+      "label": "C",
+      "text": "$c - v$"
+    },
+    {
+      "label": "D",
+      "text": "$v - c$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The speed of a wave (like sound) is determined solely by the properties of the medium through which it travels. While the frequency and wavelength change due to the Doppler effect, the speed of the sound waves relative to the stationary medium (and thus the stationary observer) remains constant at $c$.",
+  "source_image_path": "C5-Doppler-Effect/May 2003 HL Q20 A.png"
+}

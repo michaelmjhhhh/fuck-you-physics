@@ -1,0 +1,43 @@
+{
+  "id": "May_2013_HL_TZ1_Q10",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Simple harmonic motion",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ1 Q10 B.png"
+  },
+  "question_number": 10,
+  "content_markdown": "Microwave ovens cause the water molecules in food to resonate. Water molecules have a natural frequency of vibration $f$. In order to heat the food most effectively, the frequency of the microwaves should have a value",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "less than $f$."
+    },
+    {
+      "label": "B",
+      "text": "equal to $f$."
+    },
+    {
+      "label": "C",
+      "text": "greater than $f$."
+    },
+    {
+      "label": "D",
+      "text": "as large as possible."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Resonance occurs when the frequency of a periodic driving force (the microwaves) matches the natural frequency of the system (the water molecules). At this frequency, the amplitude of vibration is maximized, leading to the most efficient transfer of energy and thus the most effective heating.",
+  "source_image_path": "C2-Wave-Model/May 2013 HL TZ1 Q10 B.png"
+}

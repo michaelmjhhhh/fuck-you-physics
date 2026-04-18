@@ -1,0 +1,43 @@
+{
+  "id": "May_2022_HL_TZ2_Q29",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ2 Q29 A.png"
+  },
+  "question_number": 29,
+  "content_markdown": "A simple pendulum has a time period $T$ on the Earth. The pendulum is taken to the Moon where the gravitational field strength is $\\frac{1}{6}$ that of the Earth.\n\nWhat is the time period of the pendulum on the Moon?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$T\\sqrt{6}$"
+    },
+    {
+      "label": "B",
+      "text": "$T$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{\\sqrt{6}}{6}T$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{T}{6}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The time period of a simple pendulum is given by $T = 2\\pi\\sqrt{\\frac{l}{g}}$. Since the length $l$ remains constant and the gravitational field strength $g$ decreases by a factor of 6 ($g_{moon} = \\frac{g_{earth}}{6}$), the new time period $T'$ will be proportional to $\\frac{1}{\\sqrt{1/6}}$, which simplifies to $\\sqrt{6}$. Therefore, $T' = T\\sqrt{6}$.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2022 HL TZ2 Q29 A.png"
+}

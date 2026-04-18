@@ -1,0 +1,48 @@
+{
+  "id": "May_2018_HL_TZ1_Q16",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ1 Q16 A.png"
+  },
+  "question_number": 16,
+  "content_markdown": "Three resistors are connected as shown. What is the value of the total resistance between X and Y?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing three resistors. One $3\\,\\Omega$ resistor is in parallel with a series combination of another $3\\,\\Omega$ resistor and a $2\\,\\Omega$ resistor. Terminals X and Y are connected across the $2\\,\\Omega$ resistor.",
+    "labels_to_preserve": [
+      "3 \\Omega",
+      "2 \\Omega",
+      "X",
+      "Y"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$1.5\\,\\Omega$"
+    },
+    {
+      "label": "B",
+      "text": "$1.9\\,\\Omega$"
+    },
+    {
+      "label": "C",
+      "text": "$6.0\\,\\Omega$"
+    },
+    {
+      "label": "D",
+      "text": "$8.0\\,\\Omega$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "To find the resistance between X and Y, identify the parallel and series paths relative to those two points. The top $3\\,\\Omega$ resistor and the left $3\\,\\Omega$ resistor are in series with each other (forming a $6\\,\\Omega$ branch). This $6\\,\\Omega$ branch is then in parallel with the $2\\,\\Omega$ resistor located between X and Y. Using the parallel resistance formula: $1/R_{total} = 1/6 + 1/2 = 1/6 + 3/6 = 4/6$. Therefore, $R_{total} = 6/4 = 1.5\\,\\Omega$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2018 HL TZ1 Q16 A.png"
+}

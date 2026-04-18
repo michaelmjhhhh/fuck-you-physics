@@ -1,0 +1,46 @@
+{
+  "id": "May_2014_HL_TZ1_Q36",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ1 Q36 A.png"
+  },
+  "question_number": 36,
+  "content_markdown": "The average intensity of the solar radiation incident on a planet is $200\\text{ W m}^{-2}$. The albedo of the planet is $0.6$. The average temperature of the planet is constant.\n\nWhich of the following is a correct statement about the intensity of radiation reflected and radiated by the planet?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) with two columns: 'Intensity reflected by planet' and 'Intensity radiated by planet'.",
+    "labels_to_preserve": [
+      "Intensity reflected by planet",
+      "Intensity radiated by planet"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Intensity reflected: $120\\text{ W m}^{-2}$; Intensity radiated: $80\\text{ W m}^{-2}$"
+    },
+    {
+      "label": "B",
+      "text": "Intensity reflected: $120\\text{ W m}^{-2}$; Intensity radiated: less than $80\\text{ W m}^{-2}$"
+    },
+    {
+      "label": "C",
+      "text": "Intensity reflected: $80\\text{ W m}^{-2}$; Intensity radiated: $120\\text{ W m}^{-2}$"
+    },
+    {
+      "label": "D",
+      "text": "Intensity reflected: $80\\text{ W m}^{-2}$; Intensity radiated: less than $120\\text{ W m}^{-2}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Albedo is the ratio of reflected radiation to incident radiation. With an albedo of $0.6$, the reflected intensity is $0.6 \\times 200 = 120\\text{ W m}^{-2}$. Since the planet's temperature is constant, it must be in thermal equilibrium, meaning the total power in equals the total power out. The absorbed intensity is $200 - 120 = 80\\text{ W m}^{-2}$. To maintain a constant temperature, the planet must radiate away exactly what it absorbs, which is $80\\text{ W m}^{-2}$.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2014 HL TZ1 Q36 A.png"
+}

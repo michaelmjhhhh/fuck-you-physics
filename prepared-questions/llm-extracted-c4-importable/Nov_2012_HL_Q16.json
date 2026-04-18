@@ -1,0 +1,50 @@
+{
+  "id": "Nov_2012_HL_Q16",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2012,
+    "month": "Nov",
+    "session_label": "Nov 2012",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2012 HL Q16 B.png"
+  },
+  "question_number": 16,
+  "content_markdown": "P and Q are two points on a standing wave. R and S are two points on a progressive (travelling) wave.\n\nWhich of the following gives the relationship between the amplitudes of each pair of points?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two wave diagrams. The first shows a standing wave with two loops (nodes and antinodes) and points P and Q located at different positions within the same loop. The second shows a progressive wave with points R and S located at different horizontal positions along the wave profile.",
+    "labels_to_preserve": [
+      "P",
+      "Q",
+      "R",
+      "S",
+      "Standing wave",
+      "Progressive (travelling) wave"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Points P and Q: same amplitude; Points R and S: same amplitude"
+    },
+    {
+      "label": "B",
+      "text": "Points P and Q: different amplitude; Points R and S: same amplitude"
+    },
+    {
+      "label": "C",
+      "text": "Points P and Q: same amplitude; Points R and S: different amplitude"
+    },
+    {
+      "label": "D",
+      "text": "Points P and Q: different amplitude; Points R and S: different amplitude"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In a standing wave, the amplitude varies depending on the position (distance from a node), so points P and Q at different positions have different amplitudes. In a progressive wave, every point on the wave eventually reaches the same maximum displacement (amplitude) as the wave travels through them, so R and S have the same amplitude.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2012 HL Q16 B.png"
+}

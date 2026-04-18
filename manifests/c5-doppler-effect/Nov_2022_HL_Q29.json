@@ -1,0 +1,26 @@
+{
+  "id": "Nov_2022_HL_Q29",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "",
+  "paper": {
+    "year": 2022,
+    "month": "Nov",
+    "session_label": "Nov 2022",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2022 HL Q29 A.png"
+  },
+  "question_number": 29,
+  "correct_answer": "A",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "C5-Doppler-Effect/Nov 2022 HL Q29 A.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

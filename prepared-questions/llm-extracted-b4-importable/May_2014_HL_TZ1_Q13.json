@@ -1,0 +1,57 @@
+{
+  "id": "May_2014_HL_TZ1_Q13",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "B.4 Thermodynamics",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ1 Q13 A.png"
+  },
+  "question_number": 13,
+  "content_markdown": "An ideal gas expands at constant pressure. The graph shows the relationship between pressure $P$ and volume $V$ for this change.\n\nThe change in the internal energy of the gas during this expansion is $1800\\text{ J}$. What is the amount and the direction of thermal energy transferred?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A pressure-volume (P-V) graph showing a horizontal line at P = 4 x 10^5 Pa, starting from V = 1 x 10^-3 m^3 to V = 4 x 10^-3 m^3. An arrow indicates the direction of expansion.",
+    "labels_to_preserve": [
+      "P / \\times 10^5 \\text{ Pa}",
+      "V / \\times 10^{-3} \\text{ m}^3",
+      "0",
+      "2",
+      "4",
+      "6",
+      "8",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "3000 J into the gas"
+    },
+    {
+      "label": "B",
+      "text": "3000 J out of the gas"
+    },
+    {
+      "label": "C",
+      "text": "600 J into the gas"
+    },
+    {
+      "label": "D",
+      "text": "600 J out of the gas"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "First, calculate the work done by the gas using the area under the P-V graph: $W = P\\Delta V = (4 \\times 10^5 \\text{ Pa}) \\times (4 - 1) \\times 10^{-3} \\text{ m}^3 = 4 \\times 3 \\times 10^2 = 1200\\text{ J}$. Since the gas is expanding, work is done by the gas ($W = +1200\\text{ J}$). Using the first law of thermodynamics, $Q = \\Delta U + W$, we substitute the given change in internal energy $\\Delta U = 1800\\text{ J}$ and the calculated work: $Q = 1800\\text{ J} + 1200\\text{ J} = 3000\\text{ J}$. A positive $Q$ indicates that thermal energy is transferred into the gas.",
+  "source_image_path": "B4-Thermodynamics/May 2014 HL TZ1 Q13 A.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2001_HL_Q19",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2001,
+    "month": "Nov",
+    "session_label": "Nov 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2001 HL Q19 A.png"
+  },
+  "question_number": 19,
+  "content_markdown": "A ships engineer proposes generating energy for ships by inventing an engine which would take in sea water, extract some of its internal thermal energy and use this for driving the ship. The resulting cooled water would then be returned to the sea.\n\nHow do the first and second laws of thermodynamics relate to this proposed process?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "First law: Satisfied; Second law: Violated"
+    },
+    {
+      "label": "B",
+      "text": "First law: Satisfied; Second law: Satisfied"
+    },
+    {
+      "label": "C",
+      "text": "First law: Violated; Second law: Violated"
+    },
+    {
+      "label": "D",
+      "text": "First law: Violated; Second law: Satisfied"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The first law (conservation of energy) is satisfied because energy is simply being converted from thermal energy to work. However, the second law (Kelvin-Planck statement) is violated because it is impossible to construct a heat engine that operates in a cycle and produces no effect other than the extraction of heat from a single reservoir and the performance of an equivalent amount of work. You need a temperature difference (a cold sink) to reject heat to.",
+  "source_image_path": "B4-Thermodynamics/Nov 2001 HL Q19 A.png"
+}

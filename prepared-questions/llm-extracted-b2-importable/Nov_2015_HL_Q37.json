@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2015_HL_Q37",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2015,
+    "month": "Nov",
+    "session_label": "Nov 2015",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2015 HL Q37 D.png"
+  },
+  "question_number": 37,
+  "content_markdown": "The average surface temperature of Mars is about $200\\text{ K}$. The average surface temperature of Earth is about $300\\text{ K}$. Both can be regarded as black bodies.\n\nWhat is the ratio $\\frac{\\text{energy radiated per second per unit area on Mars}}{\\text{energy radiated per second per unit area on Earth}}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.7"
+    },
+    {
+      "label": "B",
+      "text": "0.4"
+    },
+    {
+      "label": "C",
+      "text": "0.3"
+    },
+    {
+      "label": "D",
+      "text": "0.2"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "According to the Stefan-Boltzmann law, the power radiated per unit area (intensity) of a black body is proportional to the fourth power of its absolute temperature ($P/A = \\sigma T^4$). Therefore, the ratio of the energy radiated per second per unit area is $(\\frac{T_{\\text{Mars}}}{T_{\\text{Earth}}})^4 = (\\frac{200}{300})^4 = (\\frac{2}{3})^4 = \\frac{16}{81} \\approx 0.1975$, which rounds to 0.2.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2015 HL Q37 D.png"
+}

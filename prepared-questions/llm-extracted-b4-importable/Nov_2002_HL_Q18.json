@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2002_HL_Q18",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2002,
+    "month": "Nov",
+    "session_label": "Nov 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2002 HL Q18 B.png"
+  },
+  "question_number": 18,
+  "content_markdown": "The solid line on the graph below represents the pressure-volume changes for an ideal gas undergoing an isothermal expansion. The dashed line on the graph shows the pressure-volume changes for an expansion **that is not isothermal**.\n\nIn the expansion that is not isothermal, the internal energy of the gas",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A Pressure-Volume (P-V) graph showing two expansion curves starting from the same initial state. The solid line (isothermal) is higher than the dashed line (non-isothermal) at the final volume.",
+    "labels_to_preserve": [
+      "Pressure",
+      "Volume",
+      "Isothermal expansion",
+      "Expansion that is not isothermal"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "increases."
+    },
+    {
+      "label": "B",
+      "text": "decreases."
+    },
+    {
+      "label": "C",
+      "text": "stays the same."
+    },
+    {
+      "label": "D",
+      "text": "changes but whether it decreases or increases cannot be determined from the graph alone."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "For an ideal gas, internal energy is proportional to temperature ($U \\propto T$). On a P-V diagram, isotherms further from the origin represent higher temperatures. Since the dashed line ends at a point with a lower pressure for the same final volume compared to the isothermal line, the final temperature $T_f$ must be lower than the initial temperature $T_i$ (based on $PV=nRT$). Therefore, the internal energy decreases.",
+  "source_image_path": "B4-Thermodynamics/Nov 2002 HL Q18 B.png"
+}

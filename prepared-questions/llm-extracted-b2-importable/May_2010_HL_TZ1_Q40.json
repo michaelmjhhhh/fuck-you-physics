@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ1_Q40",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ1 Q40 D.png"
+  },
+  "question_number": 40,
+  "content_markdown": "The albedo for the oceans is lower than that for glaciers. This is because, compared to ice, sea water",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "has a greater density."
+    },
+    {
+      "label": "B",
+      "text": "has a greater specific heat capacity."
+    },
+    {
+      "label": "C",
+      "text": "has a greater coefficient of volume expansion."
+    },
+    {
+      "label": "D",
+      "text": "absorbs a greater amount of radiative power."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Albedo is defined as the ratio of reflected radiation to incident radiation. A lower albedo means that less radiation is reflected and, consequently, more radiation is absorbed. Therefore, sea water (with a lower albedo) absorbs more radiative power than ice/glaciers.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2010 HL TZ1 Q40 D.png"
+}

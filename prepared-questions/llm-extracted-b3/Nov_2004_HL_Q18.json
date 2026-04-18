@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2004_HL_Q18",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2004,
+    "month": "Nov",
+    "session_label": "Nov 2004",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2004 HL Q18 B.png"
+  },
+  "question_number": 18,
+  "content_markdown": "Which of the following is **not** an assumption on which the kinetic model of an ideal gas is based?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the question.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "All molecules behave as if they are perfectly elastic spheres."
+    },
+    {
+      "label": "B",
+      "text": "The mean-square speed of the molecules is proportional to the kelvin temperature."
+    },
+    {
+      "label": "C",
+      "text": "Unless in contact, the forces between molecules are negligible."
+    },
+    {
+      "label": "D",
+      "text": "The molecules are in continuous random motion."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The kinetic theory of gases is built on specific postulates (assumptions) like elastic collisions, negligible intermolecular forces, and random motion. While the relationship between mean-square speed and temperature is a mathematical consequence derived from these assumptions, it is a result of the model rather than an initial assumption itself.",
+  "source_image_path": "B3-Gas-Laws/Nov 2004 HL Q18 B.png"
+}

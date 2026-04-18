@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2020_HL_Q18",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Internal resistance and electromotive force",
+  "paper": {
+    "year": 2020,
+    "month": "Nov",
+    "session_label": "Nov 2020",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2020 HL Q18 A.png"
+  },
+  "question_number": 18,
+  "content_markdown": "An electrical power supply has an internal resistance. It supplies a direct current $I$ to an external circuit for a time $t$. What is the electromotive force (emf) of the power supply?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{\\text{total energy transferred to the whole circuit}}{I \\times t}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{\\text{total power transferred to the whole circuit}}{I \\times t}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{\\text{total energy transferred to the external circuit}}{I \\times t}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{\\text{total power transferred to the external circuit}}{I \\times t}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The electromotive force (emf) is defined as the total work done (or energy transferred) per unit charge in moving a charge around a complete circuit. Since charge $Q = I \\times t$, the emf $\\epsilon = \\frac{W}{Q} = \\frac{\\text{Total Energy}}{I \\times t}$. This energy must account for the whole circuit, including the internal resistance of the power supply itself.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2020 HL Q18 A.png"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2021_HL_Q17",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Internal resistance and electromotive force",
+  "paper": {
+    "year": 2021,
+    "month": "Nov",
+    "session_label": "Nov 2021",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2021 HL Q17 C.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A cell has an emf of $3.0\\text{ V}$ and an internal resistance of $2.0\\,\\Omega$. The cell is connected in series with a resistance of $10\\,\\Omega$.\n\nWhat is the terminal potential difference of the cell?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A simple circuit diagram showing a cell with an emf of 3.0V connected in a loop to a single resistor of 10 ohms.",
+    "labels_to_preserve": [
+      "3.0 V",
+      "10 Ω"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.5 V"
+    },
+    {
+      "label": "B",
+      "text": "1.5 V"
+    },
+    {
+      "label": "C",
+      "text": "2.5 V"
+    },
+    {
+      "label": "D",
+      "text": "3.0 V"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "To find the terminal potential difference ($V$), first calculate the total resistance of the circuit: $R_{total} = R + r = 10\\,\\Omega + 2.0\\,\\Omega = 12\\,\\Omega$. Then, find the current using Ohm's law for the whole circuit: $I = \\frac{\\epsilon}{R_{total}} = \\frac{3.0\\text{ V}}{12\\,\\Omega} = 0.25\\text{ A}$. Finally, the terminal potential difference is the voltage across the external resistor: $V = I \\times R = 0.25\\text{ A} \\times 10\\,\\Omega = 2.5\\text{ V}$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2021 HL Q17 C.png"
+}

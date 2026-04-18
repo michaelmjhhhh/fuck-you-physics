@@ -1,0 +1,50 @@
+{
+  "id": "Nov_2019_HL_Q23",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Energy sources",
+  "paper": {
+    "year": 2019,
+    "month": "Nov",
+    "session_label": "Nov 2019",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2019 HL Q23 B.png"
+  },
+  "question_number": 23,
+  "content_markdown": "What are the units of specific energy and energy density?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table with two columns labeled 'Specific energy' and 'Energy density' and four rows labeled A, B, C, and D.",
+    "labels_to_preserve": [
+      "Specific energy",
+      "Energy density",
+      "J m^{-1}",
+      "J m^{-2}",
+      "J kg^{-1}",
+      "J m^{-3}"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Specific energy: $J\\,m^{-1}$; Energy density: $J\\,m^{-2}$"
+    },
+    {
+      "label": "B",
+      "text": "Specific energy: $J\\,kg^{-1}$; Energy density: $J\\,m^{-3}$"
+    },
+    {
+      "label": "C",
+      "text": "Specific energy: $J\\,kg^{-1}$; Energy density: $J\\,m^{-2}$"
+    },
+    {
+      "label": "D",
+      "text": "Specific energy: $J\\,m^{-1}$; Energy density: $J\\,m^{-3}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Specific energy is defined as the energy per unit mass ($J\\,kg^{-1}$), while energy density is defined as the energy per unit volume ($J\\,m^{-3}$). These definitions are fundamental to comparing the efficiency of different fuel sources in the energy production topic.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2019 HL Q23 B.png"
+}

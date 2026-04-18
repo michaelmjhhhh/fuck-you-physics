@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2018_HL_Q26",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2018,
+    "month": "Nov",
+    "session_label": "Nov 2018",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2018 HL Q26 C.png"
+  },
+  "question_number": 26,
+  "content_markdown": "An object undergoing simple harmonic motion (SHM) has a period $T$ and total energy $E$. The amplitude of oscillations is halved. What are the new period and total energy of the system?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) with columns for 'Period' and 'Total energy'.",
+    "labels_to_preserve": [
+      "Period",
+      "Total energy",
+      "T",
+      "E"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Period: $\\frac{T}{2}$, Total energy: $\\frac{E}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "Period: $\\frac{T}{2}$, Total energy: $\\frac{E}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "Period: $T$, Total energy: $\\frac{E}{4}$"
+    },
+    {
+      "label": "D",
+      "text": "Period: $T$, Total energy: $\\frac{E}{2}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In SHM, the period $T$ is independent of the amplitude (it only depends on the properties of the system like mass and spring constant). However, the total energy $E$ is proportional to the square of the amplitude ($E \\propto A^2$). If the amplitude is halved ($A \\to \\frac{1}{2}A$), the energy becomes $(\\frac{1}{2})^2 = \\frac{1}{4}$ of the original value.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2018 HL Q26 C.png"
+}

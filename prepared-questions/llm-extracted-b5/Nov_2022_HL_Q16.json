@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2022_HL_Q16",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2022,
+    "month": "Nov",
+    "session_label": "Nov 2022",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2022 HL Q16 D.png"
+  },
+  "question_number": 16,
+  "content_markdown": "Two copper wires of equal lengths but different diameters are used to connect a cell to a load. Wire 1 has a diameter $M$, wire 2 has a diameter $2M$. The electron drift velocities in wires 1 and 2 are $v_1$ and $v_2$.\n\nWhat is $\\frac{v_2}{v_1}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "4"
+    },
+    {
+      "label": "B",
+      "text": "2"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{1}{2}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{1}{4}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Since the wires are connected in series to the same load, the current $I$ is the same in both. Using the formula $I = nAve$, where $A$ is the cross-sectional area, we see that $v \\propto \\frac{1}{A}$. Since $A = \\pi(\\frac{d}{2})^2$, the area is proportional to the square of the diameter ($A \\propto d^2$). Therefore, $v \\propto \\frac{1}{d^2}$. If the diameter doubles ($M \\to 2M$), the area increases by a factor of 4, meaning the drift velocity must decrease by a factor of 4.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2022 HL Q16 D.png"
+}

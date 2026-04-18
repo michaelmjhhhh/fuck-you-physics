@@ -1,0 +1,43 @@
+{
+  "id": "May_2007_HL_TZ1_Q23",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2007,
+    "month": "May",
+    "session_label": "May 2007",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2007 HL TZ1 Q23 A.png"
+  },
+  "question_number": 23,
+  "content_markdown": "A police car, sounding its siren, is travelling at constant speed towards a stationary observer. The sound emitted by the siren is of constant frequency. The frequency of the sound as heard by the observer is higher than that heard by the driver of the police car. The reason for this is that",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the wavefronts received by the observer are closer together than the wavefronts received by the driver."
+    },
+    {
+      "label": "B",
+      "text": "the speed of the wavefronts is greater as measured by the observer than by the driver."
+    },
+    {
+      "label": "C",
+      "text": "the speed of the wavefronts is less as measured by the observer than by the driver."
+    },
+    {
+      "label": "D",
+      "text": "the wavefronts received by the observer are further apart than the wavefronts received by the driver."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The Doppler effect for a moving source occurs because the source 'catches up' with the wavefronts it has already emitted in the direction of motion. This results in a shorter wavelength (wavefronts closer together) in front of the source. Since the speed of sound in the medium remains constant for both observers, the shorter wavelength results in a higher observed frequency ($f = v/\\lambda$).",
+  "source_image_path": "C5-Doppler-Effect/May 2007 HL TZ1 Q23 A.png"
+}

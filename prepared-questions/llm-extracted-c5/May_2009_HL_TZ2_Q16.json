@@ -1,0 +1,47 @@
+{
+  "id": "May_2009_HL_TZ2_Q16",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ2 Q16 D.png"
+  },
+  "question_number": 16,
+  "content_markdown": "A siren at rest emits a sound of frequency $f_0$. The speed of sound in air is $v$. The siren moves away from an observer at rest relative to the siren in a straight line with constant speed $v_s$.\n\n![diagram]\n\nThe observer measures a frequency lower than $f_0$ because the",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing an observer standing on the left and a car (siren) moving to the right away from the observer with a velocity vector labeled v_s.",
+    "labels_to_preserve": [
+      "observer",
+      "siren",
+      "v_s"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "speed at which the sound moves relative to the observer is $v - v_s$."
+    },
+    {
+      "label": "B",
+      "text": "speed at which the sound moves relative to the observer is $v_s - v$."
+    },
+    {
+      "label": "C",
+      "text": "wavelength measured by the observer is smaller by a factor $\\frac{v_s}{v}$."
+    },
+    {
+      "label": "D",
+      "text": "wavelength measured by the observer is greater by a factor $\\frac{v_s}{v}$."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In the Doppler effect for a moving source, the speed of sound in the medium (relative to the observer) remains constant at $v$. The change in frequency is caused by the source 'stretching' or 'compressing' the wavefronts in space. When the source moves away, each successive crest is emitted from a position further away than the previous one, resulting in an increased wavelength $\\lambda' = \\lambda + \\Delta \\lambda$, where $\\Delta \\lambda = v_s T = \\frac{v_s}{f_0}$. This makes the observed wavelength greater.",
+  "source_image_path": "C5-Doppler-Effect/May 2009 HL TZ2 Q16 D.png"
+}

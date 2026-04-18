@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2014_HL_Q10",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2014,
+    "month": "Nov",
+    "session_label": "Nov 2014",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2014 HL Q10 A.png"
+  },
+  "question_number": 10,
+  "content_markdown": "A body moves with simple harmonic motion (SHM) with period $T$ and total energy $E_{\\text{T}}$. What is the total energy when the period of the motion is changed to $5T$ and the amplitude of the motion remains constant?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$0.04 E_{\\text{T}}$"
+    },
+    {
+      "label": "B",
+      "text": "$0.2 E_{\\text{T}}$"
+    },
+    {
+      "label": "C",
+      "text": "$5 E_{\\text{T}}$"
+    },
+    {
+      "label": "D",
+      "text": "$25 E_{\\text{T}}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The total energy $E_{\\text{T}}$ in SHM is proportional to the square of the frequency ($f^2$) or inversely proportional to the square of the period ($1/T^2$), since $E = \\frac{1}{2}m\\omega^2x_0^2$ and $\\omega = \\frac{2\\pi}{T}$. If the period $T$ increases by a factor of 5, the energy changes by a factor of $(1/5)^2 = 1/25$. Calculating $1/25$ gives $0.04$.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2014 HL Q10 A.png"
+}

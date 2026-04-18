@@ -1,0 +1,46 @@
+{
+  "id": "May_2006_HL_TZ1_Q16",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ1 Q16 B.png"
+  },
+  "question_number": 16,
+  "content_markdown": "Which of the following correctly shows the changes, if any, in the potential energy and in the kinetic energy of the molecules of a solid as it melts?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table with two columns titled 'Potential energy' and 'Kinetic energy' corresponding to options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Potential energy",
+      "Kinetic energy"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Potential energy: Decreases; Kinetic energy: Increases"
+    },
+    {
+      "label": "B",
+      "text": "Potential energy: Increases; Kinetic energy: Stays the same"
+    },
+    {
+      "label": "C",
+      "text": "Potential energy: Stays the same; Kinetic energy: Decreases"
+    },
+    {
+      "label": "D",
+      "text": "Potential energy: Stays the same; Kinetic energy: Stays the same"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "During a phase change such as melting, the temperature remains constant, which means the average kinetic energy of the molecules does not change. However, energy is being supplied to break the intermolecular bonds, which increases the potential energy of the molecules.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2006 HL TZ1 Q16 B.png"
+}

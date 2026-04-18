@@ -1,0 +1,47 @@
+{
+  "id": "May_2010_HL_TZ2_Q17",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ2 Q17 B.png"
+  },
+  "question_number": 17,
+  "content_markdown": "Two $10\\,\\Omega$ resistors are connected as shown.\n\nWhat is the resistance across PQ?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing two 10 Ohm resistors in a specific configuration. A wire connects the left side of the first resistor to the right side of the second resistor. Terminal P is connected to the right side of the second resistor, and terminal Q is connected to the junction between the two resistors.",
+    "labels_to_preserve": [
+      "10 \\Omega",
+      "P",
+      "Q"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$0\\,\\Omega$"
+    },
+    {
+      "label": "B",
+      "text": "$5\\,\\Omega$"
+    },
+    {
+      "label": "C",
+      "text": "$10\\,\\Omega$"
+    },
+    {
+      "label": "D",
+      "text": "$20\\,\\Omega$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "By tracing the paths from P to Q, we can see that the two resistors are actually in parallel. Terminal P is connected to the 'outer' ends of both resistors via the top bypass wire, while terminal Q is connected to the common junction between them. Therefore, the total resistance $R_{total}$ is given by $\\frac{1}{R_{total}} = \\frac{1}{10} + \\frac{1}{10}$, which results in $5\\,\\Omega$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2010 HL TZ2 Q17 B.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2017_HL_TZ1_Q25",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ1 Q25 D.png"
+  },
+  "question_number": 25,
+  "content_markdown": "The average albedo of glacier ice is 0.25.\n\nWhat is $\\frac{\\text{power absorbed by glacier ice}}{\\text{power reflected by glacier ice}}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.25"
+    },
+    {
+      "label": "B",
+      "text": "0.33"
+    },
+    {
+      "label": "C",
+      "text": "2.5"
+    },
+    {
+      "label": "D",
+      "text": "3.0"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Albedo ($\\alpha$) is defined as the ratio of reflected power to incident power. Here, $\\alpha = 0.25$, meaning 25% of the power is reflected. Since energy is conserved, the remaining 75% (or $1 - 0.25 = 0.75$) must be absorbed. The question asks for the ratio of absorbed power to reflected power, which is $0.75 / 0.25 = 3.0$.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2017 HL TZ1 Q25 D.png"
+}

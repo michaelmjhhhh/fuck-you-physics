@@ -1,0 +1,43 @@
+{
+  "id": "May_2000_HL_Q7",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2000,
+    "month": "May",
+    "session_label": "May 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2000 HL Q7 A.png"
+  },
+  "question_number": 7,
+  "content_markdown": "A particle is undergoing simple harmonic motion. When it is at its maximum displacement from its equilibrium position, which one of the following about its velocity and acceleration is correct?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "Table showing velocity and acceleration options for a particle in SHM.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Velocity: zero; Acceleration: maximum"
+    },
+    {
+      "label": "B",
+      "text": "Velocity: zero; Acceleration: zero"
+    },
+    {
+      "label": "C",
+      "text": "Velocity: maximum; Acceleration: zero"
+    },
+    {
+      "label": "D",
+      "text": "Velocity: maximum; Acceleration: maximum"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In Simple Harmonic Motion (SHM), the acceleration is proportional to the displacement but in the opposite direction ($a = -\\omega^2 x$). Therefore, at maximum displacement, acceleration is at its maximum magnitude. Conversely, the particle momentarily stops to change direction at the amplitude, meaning its velocity is zero at that point.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2000 HL Q7 A.png"
+}

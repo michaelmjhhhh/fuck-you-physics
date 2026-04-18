@@ -1,0 +1,45 @@
+{
+  "id": "May_2003_HL_Q16",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave properties",
+  "paper": {
+    "year": 2003,
+    "month": "May",
+    "session_label": "May 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2003 HL Q16 B.png"
+  },
+  "question_number": 16,
+  "content_markdown": "Water waves at the surface of a pond pass a floating log of length $L$. The log is at rest relative to the bank. The diagram shows wave crests at one instant.\n\nThe number of crests passing the log per unit time is $N$. The speed of the water waves relative to the log at rest is",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a log of length L with vertical lines representing wave crests passing over it. There are 7 crest intervals spanning the length L of the log.",
+    "labels_to_preserve": [
+      "L"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{L}{7}(N-1)$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{L}{6}(N-1)$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{L}{7}(N)$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{L}{6}(N)$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "First, determine the wavelength $\\lambda$ from the diagram. The length $L$ of the log is divided into 7 equal intervals by the wave crests, so $\\lambda = L/7$. The problem states that $N$ crests pass a point per unit time, which is the definition of frequency $f = N$. Using the wave speed formula $v = f\\lambda$, we substitute the values to get $v = N \\times (L/7) = \\frac{L}{7}(N)$.",
+  "source_image_path": "C2-Wave-Model/May 2003 HL Q16 B.png"
+}

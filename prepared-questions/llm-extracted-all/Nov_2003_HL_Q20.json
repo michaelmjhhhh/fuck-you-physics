@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2003_HL_Q20",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2003,
+    "month": "Nov",
+    "session_label": "Nov 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2003 HL Q20 D.png"
+  },
+  "question_number": 20,
+  "content_markdown": "The specific latent heat of vaporization of a substance is greater than its specific latent heat of fusion because",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "boiling takes place at a higher temperature than melting."
+    },
+    {
+      "label": "B",
+      "text": "thermal energy is required to raise the temperature from the melting point to the boiling point."
+    },
+    {
+      "label": "C",
+      "text": "the volume of the substance decreases on freezing but increases when boiling."
+    },
+    {
+      "label": "D",
+      "text": "the increase in potential energy of the molecules is greater on boiling than on melting."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Latent heat is the energy required to change the phase of a substance without changing its temperature. This energy is used to overcome intermolecular forces, thereby increasing the potential energy of the molecules. In vaporization (liquid to gas), the molecules must be completely separated against attractive forces, which requires significantly more work and results in a much larger increase in potential energy compared to fusion (solid to liquid), where molecules only move slightly further apart.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2003 HL Q20 D.png"
+}

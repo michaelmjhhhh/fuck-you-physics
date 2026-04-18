@@ -1,0 +1,43 @@
+{
+  "id": "May_2001_HL_Q17",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2001,
+    "month": "May",
+    "session_label": "May 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2001 HL Q17 C.png"
+  },
+  "question_number": 17,
+  "content_markdown": "Two pipes have the same length. Pipe X is open at both ends while pipe Y is closed at one end. What is the ratio of the fundamental frequency in pipe X to that in pipe Y?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{2}$"
+    },
+    {
+      "label": "B",
+      "text": "1"
+    },
+    {
+      "label": "C",
+      "text": "2"
+    },
+    {
+      "label": "D",
+      "text": "3"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "For a pipe of length $L$ open at both ends (Pipe X), the fundamental wavelength is $\\lambda_X = 2L$, so the frequency is $f_X = \\frac{v}{2L}$. For a pipe closed at one end (Pipe Y), the fundamental wavelength is $\\lambda_Y = 4L$, so the frequency is $f_Y = \\frac{v}{4L}$. The ratio $\\frac{f_X}{f_Y} = \\frac{v/2L}{v/4L} = \\frac{4}{2} = 2$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2001 HL Q17 C.png"
+}

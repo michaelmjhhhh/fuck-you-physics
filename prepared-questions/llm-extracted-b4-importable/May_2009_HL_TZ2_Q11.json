@@ -1,0 +1,43 @@
+{
+  "id": "May_2009_HL_TZ2_Q11",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "B.4 Thermodynamics",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ2 Q11 C.png"
+  },
+  "question_number": 11,
+  "content_markdown": "Which of the following statements is in agreement with the second law of thermodynamics?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "It is possible to continuously convert thermal energy fully into work."
+    },
+    {
+      "label": "B",
+      "text": "In natural processes, local entropy must increase."
+    },
+    {
+      "label": "C",
+      "text": "Thermal energy will not flow by itself from cold to hot bodies."
+    },
+    {
+      "label": "D",
+      "text": "The entropy in a closed system tends to decrease."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The second law of thermodynamics has several equivalent formulations. One is the Clausius statement, which specifies that heat cannot spontaneously flow from a colder body to a hotter body without external work. Option A violates the Kelvin-Planck statement (no heat engine can be 100% efficient), Option B is incorrect because local entropy can decrease if the surroundings' entropy increases more, and Option D is the opposite of the law (entropy of an isolated system tends to increase).",
+  "source_image_path": "B4-Thermodynamics/May 2009 HL TZ2 Q11 C.png"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "Nov_2017_HL_Q11",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2017,
+    "month": "Nov",
+    "session_label": "Nov 2017",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2017 HL Q11 B.png"
+  },
+  "question_number": 11,
+  "content_markdown": "The graph shows the variation with position $s$ of the displacement $x$ of a wave undergoing simple harmonic motion (SHM).\n\nWhat is the magnitude of the velocity at the displacements X, Y and Z?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph of displacement x against position s showing a sinusoidal wave. Point X is at a negative peak (maximum displacement), point Y is at the equilibrium position (zero displacement), and point Z is at the equilibrium position (zero displacement).",
+    "labels_to_preserve": [
+      "x",
+      "s",
+      "0",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "X: maximum; Y: zero; Z: maximum"
+    },
+    {
+      "label": "B",
+      "text": "X: zero; Y: maximum; Z: maximum"
+    },
+    {
+      "label": "C",
+      "text": "X: maximum; Y: maximum; Z: zero"
+    },
+    {
+      "label": "D",
+      "text": "X: zero; Y: maximum; Z: zero"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In Simple Harmonic Motion, the magnitude of velocity is zero at the points of maximum displacement (the turning points) and reaches its maximum value when the displacement is zero (the equilibrium position). Looking at the graph: Point X is at a maximum displacement (a trough), so velocity is zero. Points Y and Z are at the equilibrium position (x = 0), so velocity is maximum at both.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2017 HL Q11 B.png"
+}

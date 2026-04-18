@@ -1,0 +1,49 @@
+{
+  "id": "Nov_2013_HL_Q8",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic cycles",
+  "paper": {
+    "year": 2013,
+    "month": "Nov",
+    "session_label": "Nov 2013",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2013 HL Q8 D.png"
+  },
+  "question_number": 8,
+  "content_markdown": "The graph shows the variation of pressure $P$ with volume $V$ of an ideal gas during a thermodynamic cycle.\n\nDuring which stages is work done on the gas and work done by the gas?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A P-V diagram showing a triangular cycle with vertices X, Y, and Z. The process X to Y is an expansion (downward curve/slope), Y to Z is a compression at constant pressure (horizontal line to the left), and Z to X is an isochoric pressure increase (vertical line upwards).",
+    "labels_to_preserve": [
+      "P",
+      "V",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Work done on gas: $X \\rightarrow Y$ only; Work done by gas: $Y \\rightarrow Z$ only"
+    },
+    {
+      "label": "B",
+      "text": "Work done on gas: $X \\rightarrow Y$ and $Z \\rightarrow X$; Work done by gas: $Y \\rightarrow Z$ only"
+    },
+    {
+      "label": "C",
+      "text": "Work done on gas: $Y \\rightarrow Z$ only; Work done by gas: $Z \\rightarrow X$ and $X \\rightarrow Y$"
+    },
+    {
+      "label": "D",
+      "text": "Work done on gas: $Y \\rightarrow Z$ only; Work done by gas: $X \\rightarrow Y$ only"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Work is done by the gas when it expands (volume increases), which occurs during the stage $X \\rightarrow Y$. Work is done on the gas when it is compressed (volume decreases), which occurs during the stage $Y \\rightarrow Z$. In the stage $Z \\rightarrow X$, the volume is constant (isochoric), so no work is done.",
+  "source_image_path": "B4-Thermodynamics/Nov 2013 HL Q8 D.png"
+}

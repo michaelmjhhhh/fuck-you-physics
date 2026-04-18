@@ -1,0 +1,64 @@
+{
+  "id": "Nov_2019_HL_Q12",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2019,
+    "month": "Nov",
+    "session_label": "Nov 2019",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2019 HL Q12 C.png"
+  },
+  "question_number": 12,
+  "content_markdown": "The graph shows the variation with time for the displacement of a particle in a travelling wave.\n\nWhat are the frequency and amplitude for the oscillation of the particle?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A displacement-time graph for a particle. The y-axis is displacement / $10^{-6}$ m ranging from -2.0 to 2.0. The x-axis is time / $10^{-6}$ s ranging from 0 to 40. The wave starts at a peak of 2.0 at t=0, crosses zero at t=5, reaches a trough at t=10, and completes one full cycle at t=20.",
+    "labels_to_preserve": [
+      "displacement / 10^{-6} m",
+      "time / 10^{-6} s",
+      "0",
+      "5",
+      "10",
+      "15",
+      "20",
+      "25",
+      "30",
+      "35",
+      "40",
+      "0.0",
+      "0.5",
+      "1.0",
+      "1.5",
+      "2.0",
+      "-0.5",
+      "-1.0",
+      "-1.5",
+      "-2.0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Frequency / kHz: 20, Amplitude / μm: 2"
+    },
+    {
+      "label": "B",
+      "text": "Frequency / kHz: 20, Amplitude / μm: 4"
+    },
+    {
+      "label": "C",
+      "text": "Frequency / kHz: 50, Amplitude / μm: 2"
+    },
+    {
+      "label": "D",
+      "text": "Frequency / kHz: 50, Amplitude / μm: 4"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "From the graph, the maximum displacement (amplitude) is $2.0 \\times 10^{-6}$ m, which is $2$ μm. The time for one complete oscillation (period $T$) is $20 \\times 10^{-6}$ s. The frequency $f$ is the reciprocal of the period: $f = \\frac{1}{T} = \\frac{1}{20 \\times 10^{-6} \\text{ s}} = 0.05 \\times 10^6 \\text{ Hz} = 50 \\times 10^3 \\text{ Hz} = 50 \\text{ kHz}$.",
+  "source_image_path": "C2-Wave-Model/Nov 2019 HL Q12 C.png"
+}

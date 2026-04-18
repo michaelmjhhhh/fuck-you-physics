@@ -1,0 +1,53 @@
+{
+  "id": "May_2022_HL_TZ2_Q13",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ2 Q13 C.png"
+  },
+  "question_number": 13,
+  "content_markdown": "A wave travels along a string. Graph M shows the variation with time of the displacement of a point X on the string. Graph N shows the variation with distance of the displacement of the string. PQ and RS are marked on the graphs.\n\nWhat is the speed of the wave?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two sinusoidal wave graphs. Graph M is displacement vs time, showing points P and Q at consecutive peaks. Graph N is displacement vs distance, showing points R and S at consecutive troughs.",
+    "labels_to_preserve": [
+      "Graph M",
+      "Graph N",
+      "displacement",
+      "time",
+      "distance",
+      "P",
+      "Q",
+      "R",
+      "S"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{PQ}{RS}$"
+    },
+    {
+      "label": "B",
+      "text": "$PQ \\times RS$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{RS}{PQ}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{1}{PQ \\times RS}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In Graph M (displacement vs time), the horizontal distance between two consecutive peaks PQ represents the period $T$. In Graph N (displacement vs distance), the horizontal distance between two consecutive troughs RS represents the wavelength $\\lambda$. The wave speed $v$ is defined as $v = \\frac{\\lambda}{T}$. Substituting the variables from the graphs, we get $v = \\frac{RS}{PQ}$.",
+  "source_image_path": "C2-Wave-Model/May 2022 HL TZ2 Q13 C.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2013_HL_TZ1_Q7",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ1 Q7 B.png"
+  },
+  "question_number": 7,
+  "content_markdown": "Which of the following is the temperature of an object related to?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The kinetic energy of the object"
+    },
+    {
+      "label": "B",
+      "text": "The random kinetic energy of the particles in the object"
+    },
+    {
+      "label": "C",
+      "text": "The potential energy of the particles in the object"
+    },
+    {
+      "label": "D",
+      "text": "The sum of the random kinetic energy and potential energy of the particles in the object"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Temperature is a measure of the average random kinetic energy of the particles in a substance. It is important to distinguish between the bulk kinetic energy of the object (moving as a whole) and the microscopic random motion of its constituent particles. Option D describes internal energy, not temperature.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2013 HL TZ1 Q7 B.png"
+}

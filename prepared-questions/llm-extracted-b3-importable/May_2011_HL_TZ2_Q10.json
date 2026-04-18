@@ -1,0 +1,43 @@
+{
+  "id": "May_2011_HL_TZ2_Q10",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2011,
+    "month": "May",
+    "session_label": "May 2011",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2011 HL TZ2 Q10 B.png"
+  },
+  "question_number": 10,
+  "content_markdown": "The volume of an ideal gas in a container is increased at constant temperature. Which of the following statements is/are correct about the molecules of the gas?\n\nI. Their average speed remains constant.\nII. The frequency of collisions of molecules with unit area of the container wall decreases.\nIII. The force between them decreases.",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "I only"
+    },
+    {
+      "label": "B",
+      "text": "I and II only"
+    },
+    {
+      "label": "C",
+      "text": "I and III only"
+    },
+    {
+      "label": "D",
+      "text": "II and III only"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Statement I is correct because average kinetic energy (and thus average speed) is proportional to absolute temperature, which is constant. Statement II is correct because increasing volume at constant temperature decreases pressure; pressure is defined by the rate of momentum transfer per unit area, which depends on collision frequency. Statement III is incorrect because a fundamental assumption of an ideal gas is that there are no intermolecular forces between molecules (except during collisions), so the force is already zero and does not 'decrease'.",
+  "source_image_path": "B3-Gas-Laws/May 2011 HL TZ2 Q10 B.png"
+}

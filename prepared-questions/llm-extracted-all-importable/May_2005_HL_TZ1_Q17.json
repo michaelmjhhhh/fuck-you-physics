@@ -1,0 +1,43 @@
+{
+  "id": "May_2005_HL_TZ1_Q17",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ1 Q17 B.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A liquid is evaporating, causing the liquid to cool.\n\nThe temperature of the liquid decreases because",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the number of liquid molecules is decreasing."
+    },
+    {
+      "label": "B",
+      "text": "the mean kinetic energy of the liquid molecules is decreasing."
+    },
+    {
+      "label": "C",
+      "text": "the pressure above the liquid surface is increasing."
+    },
+    {
+      "label": "D",
+      "text": "the rate of evaporation is increasing."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Evaporation occurs when the most energetic molecules escape from the surface of a liquid. Since temperature is a measure of the average (mean) kinetic energy of the molecules remaining in the liquid, the departure of these high-energy molecules results in a lower average kinetic energy for the remaining liquid, thus decreasing its temperature.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2005 HL TZ1 Q17 B.png"
+}

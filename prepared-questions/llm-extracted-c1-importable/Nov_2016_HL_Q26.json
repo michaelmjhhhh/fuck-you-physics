@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2016_HL_Q26",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2016,
+    "month": "Nov",
+    "session_label": "Nov 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2016 HL Q26 C.png"
+  },
+  "question_number": 26,
+  "content_markdown": "A particle is oscillating with simple harmonic motion (shm) of amplitude $x_0$ and maximum kinetic energy $E_k$. What is the potential energy of the system when the particle is a distance $0.20 x_0$ from its maximum displacement?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$0.20 E_k$"
+    },
+    {
+      "label": "B",
+      "text": "$0.36 E_k$"
+    },
+    {
+      "label": "C",
+      "text": "$0.64 E_k$"
+    },
+    {
+      "label": "D",
+      "text": "$0.80 E_k$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In SHM, the maximum kinetic energy $E_k$ is equal to the total energy of the system, which is also the maximum potential energy $E_p = \\frac{1}{2} k x_0^2$. The question asks for the potential energy when the particle is $0.20 x_0$ away from the maximum displacement. Since maximum displacement is $x_0$, the current displacement $x$ is $x_0 - 0.20 x_0 = 0.80 x_0$. Potential energy is proportional to the square of the displacement: $E_p \\propto x^2$. Therefore, the potential energy at this point is $(0.80)^2$ times the maximum energy, which is $0.64 E_k$.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2016 HL Q26 C.png"
+}

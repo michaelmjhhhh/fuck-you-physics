@@ -1,0 +1,43 @@
+{
+  "id": "May_2000_HL_Q8",
+  "topic": "Rigid Body Mechanics",
+  "topic_code": "A4",
+  "sub_topic": "Rigid Body Mechanics",
+  "paper": {
+    "year": 2000,
+    "month": "May",
+    "session_label": "May 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2000 HL Q8 D.png"
+  },
+  "question_number": 8,
+  "content_markdown": "A satellite is orbiting the earth in a circular orbit. Which one of the following properties of the satellite does **not** remain constant?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy"
+    },
+    {
+      "label": "B",
+      "text": "Gravitational potential energy"
+    },
+    {
+      "label": "C",
+      "text": "Angular momentum"
+    },
+    {
+      "label": "D",
+      "text": "Velocity"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In a circular orbit, the speed, kinetic energy, and gravitational potential energy remain constant because the radius is fixed. Angular momentum is also conserved as the gravitational force acts as a central force (zero torque). However, velocity is a vector; since the direction of motion is constantly changing as the satellite moves around the circle, the velocity is not constant.",
+  "source_image_path": "A4-Rigid-Body-Mechanics/May 2000 HL Q8 D.png"
+}

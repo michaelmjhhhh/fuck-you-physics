@@ -1,0 +1,48 @@
+{
+  "id": "May_2021_HL_TZ2_Q17",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ2 Q17 C.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A circuit contains a variable resistor of maximum resistance $R$ and a fixed resistor, also of resistance $R$, connected in series. The emf of the battery is $6.0\\text{ V}$ and its internal resistance is negligible.\n\nWhat are the initial and final voltmeter readings when the variable resistor is increased from an initial resistance of zero to a final resistance of $R$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a 6.0V battery in series with a fixed resistor R and a variable resistor (0-R). A voltmeter is connected in parallel across the fixed resistor R.",
+    "labels_to_preserve": [
+      "6.0 V",
+      "R",
+      "V",
+      "0-R"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Initial: 0 V; Final: 6.0 V"
+    },
+    {
+      "label": "B",
+      "text": "Initial: 6.0 V; Final: 0 V"
+    },
+    {
+      "label": "C",
+      "text": "Initial: 6.0 V; Final: 3.0 V"
+    },
+    {
+      "label": "D",
+      "text": "Initial: 3.0 V; Final: 6.0 V"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Initially, the variable resistor is $0\\, \\Omega$, so the fixed resistor $R$ is the only resistance in the circuit. The entire $6.0\\text{ V}$ drops across it. Finally, when the variable resistor is $R$, the two resistors are equal in series, so the $6.0\\text{ V}$ is split equally between them, resulting in $3.0\\text{ V}$ across the fixed resistor.",
+  "source_image_path": "B5-Current-and-Circuits/May 2021 HL TZ2 Q17 C.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2005_HL_TZ2_Q13",
+  "topic": "Rigid Body Mechanics",
+  "topic_code": "A4",
+  "sub_topic": "Rigid Body Mechanics",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ2 Q13 B.png"
+  },
+  "question_number": 13,
+  "content_markdown": "For a body to be in rotational equilibrium",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the net force acting on the body must be zero."
+    },
+    {
+      "label": "B",
+      "text": "the net torque acting on the body must be zero."
+    },
+    {
+      "label": "C",
+      "text": "both the net force and the net torque acting on the body must be zero."
+    },
+    {
+      "label": "D",
+      "text": "the net force acting on the body must equal the net torque acting on the body."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Rotational equilibrium specifically refers to the state where the angular acceleration is zero, which occurs when the sum of all external torques (net torque) acting on the body is zero. While 'static equilibrium' requires both net force and net torque to be zero, 'rotational equilibrium' focuses solely on the rotational aspect.",
+  "source_image_path": "A4-Rigid-Body-Mechanics/May 2005 HL TZ2 Q13 B.png"
+}

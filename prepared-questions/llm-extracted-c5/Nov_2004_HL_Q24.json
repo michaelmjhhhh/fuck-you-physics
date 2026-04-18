@@ -1,0 +1,49 @@
+{
+  "id": "Nov_2004_HL_Q24",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2004,
+    "month": "Nov",
+    "session_label": "Nov 2004",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2004 HL Q24 B.png"
+  },
+  "question_number": 24,
+  "content_markdown": "A source S produces sound waves of frequency $f$ and is moving along a straight line as shown below.\n\nWhich observer I, II, III or IV could hear a sound of frequency $f$ when the source is in the position shown?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a source S moving to the right along a dashed horizontal line. Observer I is behind the source, and observer IV is ahead of the source on the same line. Observers II and III are located below the line of motion.",
+    "labels_to_preserve": [
+      "I",
+      "S",
+      "IV",
+      "II",
+      "III"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "I"
+    },
+    {
+      "label": "B",
+      "text": "II"
+    },
+    {
+      "label": "C",
+      "text": "III"
+    },
+    {
+      "label": "D",
+      "text": "IV"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The Doppler effect shift depends on the component of the source's velocity relative to the observer. For observers I and IV, the source is moving directly away or towards them, causing a maximum frequency shift. For observers II and III, there is a component of velocity. However, the question asks who hears the original frequency $f$. This only occurs when the relative velocity component is zero, which happens when the source is at the point of closest approach to an observer (where the line from the source to the observer is perpendicular to the velocity). Looking at the geometry, when the source is at position S, it is directly above observer II, meaning the instantaneous velocity vector is perpendicular to the line S-II, resulting in no Doppler shift at that exact moment.",
+  "source_image_path": "C5-Doppler-Effect/Nov 2004 HL Q24 B.png"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "May_2014_HL_TZ1_Q19",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ1 Q19 A.png"
+  },
+  "question_number": 19,
+  "content_markdown": "Light of wavelength $\\lambda_0$ is emitted from a nearby galaxy. The light is received on Earth and the wavelength is measured to be $\\lambda$ where $\\lambda \u003c \\lambda_0$. Which of the following correctly describes the speed and direction of motion of the galaxy?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) with columns for Speed and Direction.",
+    "labels_to_preserve": [
+      "Speed",
+      "Direction",
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Speed: $\\frac{\\lambda_0 - \\lambda}{\\lambda_0}c$, Direction: towards earth"
+    },
+    {
+      "label": "B",
+      "text": "Speed: $\\frac{\\lambda_0 - \\lambda}{\\lambda}c$, Direction: towards earth"
+    },
+    {
+      "label": "C",
+      "text": "Speed: $\\frac{\\lambda_0 - \\lambda}{\\lambda_0}c$, Direction: away from earth"
+    },
+    {
+      "label": "D",
+      "text": "Speed: $\\frac{\\lambda_0 - \\lambda}{\\lambda}c$, Direction: away from earth"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Since the observed wavelength $\\lambda$ is less than the emitted wavelength $\\lambda_0$, the light is blue-shifted, meaning the source is moving towards the observer (Earth). For the Doppler effect of light at non-relativistic speeds, the change in wavelength is given by $\\Delta \\lambda / \\lambda_0 = v/c$. Rearranging for speed $v$ gives $v = \\frac{\\lambda_0 - \\lambda}{\\lambda_0}c$.",
+  "source_image_path": "C5-Doppler-Effect/May 2014 HL TZ1 Q19 A.png"
+}

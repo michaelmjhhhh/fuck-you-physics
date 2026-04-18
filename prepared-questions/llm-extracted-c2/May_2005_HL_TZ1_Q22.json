@@ -1,0 +1,53 @@
+{
+  "id": "May_2005_HL_TZ1_Q22",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Superposition",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ1 Q22 B.png"
+  },
+  "question_number": 22,
+  "content_markdown": "The two graphs show the variation with time of the individual displacements of two waves as they pass through the same point.\n\nThe displacement of the resultant wave at the point at time $T$ is equal to",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two displacement-time graphs. The first graph shows a wave with amplitude $A_1$; at time $T$, the displacement is $x_1$. The second graph shows a wave with amplitude $A_2$; at time $T$, the displacement is $-x_2$.",
+    "labels_to_preserve": [
+      "displacement",
+      "time",
+      "A_1",
+      "-A_1",
+      "x_1",
+      "T",
+      "A_2",
+      "-A_2",
+      "-x_2"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$x_1 + x_2$"
+    },
+    {
+      "label": "B",
+      "text": "$x_1 - x_2$"
+    },
+    {
+      "label": "C",
+      "text": "$A_1 + A_2$"
+    },
+    {
+      "label": "D",
+      "text": "$A_1 - A_2$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "According to the principle of superposition, the resultant displacement at any point is the algebraic sum of the individual displacements. At time $T$, the first wave has a displacement of $+x_1$ and the second wave has a displacement of $-x_2$. Summing these gives $x_1 + (-x_2) = x_1 - x_2$.",
+  "source_image_path": "C2-Wave-Model/May 2005 HL TZ1 Q22 B.png"
+}

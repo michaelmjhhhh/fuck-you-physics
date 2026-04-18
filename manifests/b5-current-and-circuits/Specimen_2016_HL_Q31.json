@@ -1,0 +1,26 @@
+{
+  "id": "Specimen_2016_HL_Q31",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "",
+  "paper": {
+    "year": 2016,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2016 HL Q31 D.png"
+  },
+  "question_number": 31,
+  "correct_answer": "D",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "B5-Current-and-Circuits/Specimen Paper 2016 HL Q31 D.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

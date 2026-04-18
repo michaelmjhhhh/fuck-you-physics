@@ -1,0 +1,47 @@
+{
+  "id": "May_2002_HL_Q23",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2002,
+    "month": "May",
+    "session_label": "May 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2002 HL Q23 C.png"
+  },
+  "question_number": 23,
+  "content_markdown": "A strong wind is blowing in the direction P to Q as shown, at less than the speed of sound.\n\nA whistle at Q emits sound of frequency $f$. Which of the following will be true for a listener at point P?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A horizontal arrow pointing from left to right labeled 'Wind'. Point P is on the left side of the arrow and point Q is on the right side.",
+    "labels_to_preserve": [
+      "P",
+      "Q",
+      "Wind"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "No sound will be heard."
+    },
+    {
+      "label": "B",
+      "text": "The sound heard will have frequency less than $f$."
+    },
+    {
+      "label": "C",
+      "text": "The sound heard will have frequency $f$."
+    },
+    {
+      "label": "D",
+      "text": "The sound heard will have frequency greater than $f$."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The Doppler effect depends on the relative motion between the source and the observer. In this scenario, both the source (Q) and the listener (P) are stationary relative to the ground. While the wind changes the speed of the sound waves relative to the ground (making them slower when traveling from Q to P), it does not change the rate at which wave fronts are emitted or received. Therefore, the frequency remains unchanged.",
+  "source_image_path": "C2-Wave-Model/May 2002 HL Q23 C.png"
+}

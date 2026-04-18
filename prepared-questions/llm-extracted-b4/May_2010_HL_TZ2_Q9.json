@@ -1,0 +1,49 @@
+{
+  "id": "May_2010_HL_TZ2_Q9",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic cycles",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ2 Q9 C.png"
+  },
+  "question_number": 9,
+  "content_markdown": "The diagram shows the pressure–volume ($PV$) relationship for a gas.\n\nWhich of the following area(s) is/are equal to the work done by the gas as it expands?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A P-V diagram showing a closed cycle. The expansion occurs along the top curve (from left to right). The area under this top curve is divided into two parts: 'area I' is the area enclosed by the cycle, and 'area II' is the area between the bottom curve of the cycle and the volume axis.",
+    "labels_to_preserve": [
+      "P",
+      "V",
+      "0",
+      "area I",
+      "area II"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "area I"
+    },
+    {
+      "label": "B",
+      "text": "area II"
+    },
+    {
+      "label": "C",
+      "text": "area I + area II"
+    },
+    {
+      "label": "D",
+      "text": "area I − area II"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Work done by a gas during expansion is the area under the specific path of expansion on a P-V diagram. In this cycle, the expansion occurs along the upper curve. The total area under this upper curve down to the V-axis consists of both the enclosed area (area I) and the area below the lower curve (area II).",
+  "source_image_path": "B4-Thermodynamics/May 2010 HL TZ2 Q9 C.png"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2013_HL_Q13",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2013,
+    "month": "Nov",
+    "session_label": "Nov 2013",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2013 HL Q13 C.png"
+  },
+  "question_number": 13,
+  "content_markdown": "The diagrams show four different organ pipes drawn to scale. Standing waves in the fundamental (first harmonic) mode are set up inside each pipe. Which pipe produces a fundamental note with the lowest frequency?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four organ pipes of varying lengths and boundary conditions: A is short and open at both ends; B is short and closed at one end; C is long and closed at one end; D is long and open at both ends.",
+    "labels_to_preserve": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Frequency is given by $f = \\frac{v}{\\lambda}$. To find the lowest frequency, we need the longest wavelength $\\lambda$. For an open pipe of length $L$, the fundamental wavelength is $\\lambda = 2L$. For a closed pipe (one end closed), the fundamental wavelength is $\\lambda = 4L$. Comparing the options: Pipe C is a long pipe and is closed at one end, meaning its wavelength is four times its physical length ($4L_{long}$). Pipe D is the same length but open at both ends, so its wavelength is only $2L_{long}$. Since $4L_{long} \u003e 2L_{long}$ and $4L_{long}$ is clearly greater than the wavelengths for the shorter pipes A and B, pipe C produces the longest wavelength and thus the lowest frequency.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2013 HL Q13 C.png"
+}

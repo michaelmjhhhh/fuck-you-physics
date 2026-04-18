@@ -1,0 +1,46 @@
+{
+  "id": "May_2001_HL_Q13",
+  "topic": "Rigid Body Mechanics",
+  "topic_code": "A4",
+  "sub_topic": "Torque and Equilibrium",
+  "paper": {
+    "year": 2001,
+    "month": "May",
+    "session_label": "May 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2001 HL Q13 B.png"
+  },
+  "question_number": 13,
+  "content_markdown": "A $60\\text{ kg}$ person riding a bicycle puts all of her weight on each pedal in turn when climbing a hill. The pedals rotate in a circle of radius $20\\text{ cm}$. Estimate the maximum torque that is exerted by the person.",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a bicycle chain wheel with a pedal arm at an angle. The radius of the pedal rotation is labeled as 20 cm.",
+    "labels_to_preserve": [
+      "chain wheel",
+      "20 cm"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$12\\text{ Nm}$"
+    },
+    {
+      "label": "B",
+      "text": "$120\\text{ Nm}$"
+    },
+    {
+      "label": "C",
+      "text": "$1\\,200\\text{ Nm}$"
+    },
+    {
+      "label": "D",
+      "text": "$12\\,000\\text{ Nm}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Maximum torque occurs when the force is applied perpendicular to the lever arm. The force is the person's weight $W = mg \\approx 60 \\times 10 = 600\\text{ N}$. The lever arm (radius) is $0.20\\text{ m}$. Thus, $\\tau = F \\times r = 600 \\times 0.20 = 120\\text{ Nm}$.",
+  "source_image_path": "A4-Rigid-Body-Mechanics/May 2001 HL Q13 B.png"
+}

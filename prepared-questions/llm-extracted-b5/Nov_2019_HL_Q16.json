@@ -1,0 +1,49 @@
+{
+  "id": "Nov_2019_HL_Q16",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric circuits",
+  "paper": {
+    "year": 2019,
+    "month": "Nov",
+    "session_label": "Nov 2019",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2019 HL Q16 B.png"
+  },
+  "question_number": 16,
+  "content_markdown": "Two power supplies, one of constant emf $24\\text{ V}$ and the other of variable emf $P$, are connected to two resistors as shown. Both power supplies have negligible internal resistances.\n\nWhat is the magnitude of $P$ for the reading on the ammeter to be zero?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram containing a 24V battery in parallel with a series combination of a 9 ohm and a 3 ohm resistor. A second branch containing an ammeter and a variable power supply P is connected across the 3 ohm resistor.",
+    "labels_to_preserve": [
+      "24 V",
+      "9 \\Omega",
+      "3 \\Omega",
+      "A",
+      "P"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Zero"
+    },
+    {
+      "label": "B",
+      "text": "6 V"
+    },
+    {
+      "label": "C",
+      "text": "8 V"
+    },
+    {
+      "label": "D",
+      "text": "18 V"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "For the ammeter reading to be zero, the potential difference across the branch containing the ammeter and power supply $P$ must be zero. This means the emf $P$ must exactly equal the potential drop across the $3\\,\\Omega$ resistor. Using the potential divider rule for the left loop: $V_{3\\Omega} = 24\\text{ V} \\times \\frac{3\\,\\Omega}{9\\,\\Omega + 3\\,\\Omega} = 24 \\times \\frac{3}{12} = 6\\text{ V}$. Therefore, $P$ must be $6\\text{ V}$ to oppose this potential difference perfectly.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2019 HL Q16 B.png"
+}

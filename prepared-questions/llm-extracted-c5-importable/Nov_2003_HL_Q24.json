@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2003_HL_Q24",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2003,
+    "month": "Nov",
+    "session_label": "Nov 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2003 HL Q24 D.png"
+  },
+  "question_number": 24,
+  "content_markdown": "A source of sound moves directly towards a stationary observer. The frequency of the sound detected by the observer is different from the source frequency because",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the loudness of the sound increases as the source moves towards the observer."
+    },
+    {
+      "label": "B",
+      "text": "the apparent wavelength of the sound is longer."
+    },
+    {
+      "label": "C",
+      "text": "the speed of sound relative to the observer is increased."
+    },
+    {
+      "label": "D",
+      "text": "the apparent wavelength of the sound is shorter."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "When a source moves towards a stationary observer, each successive wave crest is emitted from a position closer to the observer than the previous crest. This 'bunches up' the wavefronts in front of the source, resulting in a shorter apparent wavelength $\\lambda'$. Since the speed of sound $v$ in the medium remains constant, the relationship $f = v/\\lambda$ means a shorter wavelength results in a higher observed frequency.",
+  "source_image_path": "C5-Doppler-Effect/Nov 2003 HL Q24 D.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2005_HL_TZ1_Q25",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave interference",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ1 Q25 A.png"
+  },
+  "question_number": 25,
+  "content_markdown": "The waves from two light sources meet at a point. Which condition is essential for interference to be observed?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Constant phase difference between the waves"
+    },
+    {
+      "label": "B",
+      "text": "Equal amplitude of the waves"
+    },
+    {
+      "label": "C",
+      "text": "Equal frequency of the waves"
+    },
+    {
+      "label": "D",
+      "text": "Equal intensities of the waves"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "For a stable interference pattern to be observed (coherence), the phase difference between the sources must remain constant over time. While equal frequency is a prerequisite for a constant phase difference, the most fundamental 'essential' condition for observable interference in this context is coherence, which is defined by a constant phase relationship.",
+  "source_image_path": "C2-Wave-Model/May 2005 HL TZ1 Q25 A.png"
+}

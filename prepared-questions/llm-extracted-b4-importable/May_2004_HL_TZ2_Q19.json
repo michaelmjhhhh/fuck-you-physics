@@ -1,0 +1,52 @@
+{
+  "id": "May_2004_HL_TZ2_Q19",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic cycles",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ2 Q19 A.png"
+  },
+  "question_number": 19,
+  "content_markdown": "The diagram shows the variation with volume $V$ of pressure $p$ during one complete cycle of a heat engine.\n\nThe work done is represented by the area",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A pressure-volume (p-V) graph showing a thermodynamic cycle. The cycle goes from point 3 to 1 (expansion), 1 to 2 (isochoric cooling), and 2 back to 3 (isobaric compression). Area A is the triangular region enclosed by the cycle path. Area B is the rectangular region below the isobaric line 2-3 down to the V-axis.",
+    "labels_to_preserve": [
+      "p",
+      "V",
+      "0",
+      "1",
+      "2",
+      "3",
+      "A",
+      "B"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A."
+    },
+    {
+      "label": "B",
+      "text": "B."
+    },
+    {
+      "label": "C",
+      "text": "(B + A)."
+    },
+    {
+      "label": "D",
+      "text": "(B − A)."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In a $p-V$ diagram, the net work done during a complete cycle is equal to the area enclosed by the cycle on the graph. In this specific diagram, the path $3 \\rightarrow 1 \\rightarrow 2 \\rightarrow 3$ encloses the triangular region labeled 'A'. Area 'B' represents the work done on the gas during the compression phase, but the net work (useful work output) is only the area inside the loop.",
+  "source_image_path": "B4-Thermodynamics/May 2004 HL TZ2 Q19 A.png"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "May_2009_HL_TZ2_Q21",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ2 Q21 C.png"
+  },
+  "question_number": 21,
+  "content_markdown": "Which of the following correctly gives the resistance of an ideal ammeter and resistance of an ideal voltmeter?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the resistance values for an ammeter and a voltmeter for four options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Ammeter",
+      "Voltmeter",
+      "infinite",
+      "zero"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Ammeter: infinite; Voltmeter: infinite"
+    },
+    {
+      "label": "B",
+      "text": "Ammeter: zero; Voltmeter: zero"
+    },
+    {
+      "label": "C",
+      "text": "Ammeter: zero; Voltmeter: infinite"
+    },
+    {
+      "label": "D",
+      "text": "Ammeter: infinite; Voltmeter: zero"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "An ideal ammeter is connected in series and should have zero resistance so it doesn't affect the current it is measuring. An ideal voltmeter is connected in parallel and should have infinite resistance so it doesn't draw any current away from the component it is measuring.",
+  "source_image_path": "B5-Current-and-Circuits/May 2009 HL TZ2 Q21 C.png"
+}

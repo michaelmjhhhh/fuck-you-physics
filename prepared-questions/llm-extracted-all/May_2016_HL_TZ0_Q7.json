@@ -1,0 +1,53 @@
+{
+  "id": "May_2016_HL_TZ0_Q7",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2016,
+    "month": "May",
+    "session_label": "May 2016",
+    "level": "HL",
+    "timezone": "TZ0",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2016 HL TZ0 Q7 B.png"
+  },
+  "question_number": 7,
+  "content_markdown": "A container with $0.60\\text{ kg}$ of a liquid substance is placed on a heater at time $t=0$. The specific latent heat of vaporization of the substance is $200\\text{ kJ kg}^{-1}$. The graph shows the variation of the temperature $T$ of the substance with time $t$.\n\nWhat is the power of the heater?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A temperature-time graph showing a substance being heated. The temperature increases from t=0 to t=10s, remains constant (plateau) from t=10s to t=50s, and then increases again from t=50s to t=60s.",
+    "labels_to_preserve": [
+      "T",
+      "t / s",
+      "0",
+      "10",
+      "20",
+      "30",
+      "40",
+      "50",
+      "60"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "1200 W"
+    },
+    {
+      "label": "B",
+      "text": "3000 W"
+    },
+    {
+      "label": "C",
+      "text": "4800 W"
+    },
+    {
+      "label": "D",
+      "text": "13300 W"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The plateau on the graph represents the phase change (boiling) where the temperature remains constant. This occurs between $t = 10\\text{ s}$ and $t = 50\\text{ s}$, so the duration is $\\Delta t = 40\\text{ s}$. The energy required for vaporization is $Q = mL = 0.60\\text{ kg} \\times 200,000\\text{ J kg}^{-1} = 120,000\\text{ J}$. Since Power $P = \\frac{Q}{\\Delta t}$, we have $P = \\frac{120,000\\text{ J}}{40\\text{ s}} = 3000\\text{ W}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2016 HL TZ0 Q7 B.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2009_HL_Q38",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2009,
+    "month": "Nov",
+    "session_label": "Nov 2009",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2009 HL Q38 B.png"
+  },
+  "question_number": 38,
+  "content_markdown": "Which of the following is likely to increase greenhouse gas concentrations in the atmosphere?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Using natural gas instead of coal to generate electrical energy"
+    },
+    {
+      "label": "B",
+      "text": "Incineration of waste to generate electrical energy"
+    },
+    {
+      "label": "C",
+      "text": "Increased use of wind turbines to generate electrical energy"
+    },
+    {
+      "label": "D",
+      "text": "Carbon dioxide capture and storage at the power station"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "To identify which action increases greenhouse gas concentrations, we look for processes that release gases like $CO_2$ or $CH_4$. Incineration (burning) of waste releases carbon dioxide and other greenhouse gases into the atmosphere. In contrast, switching from coal to gas (A) reduces the rate of increase because gas is more efficient/less carbon-intensive, wind turbines (C) are carbon-neutral during operation, and carbon capture (D) actively removes $CO_2$ from the emission stream.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2009 HL Q38 B.png"
+}

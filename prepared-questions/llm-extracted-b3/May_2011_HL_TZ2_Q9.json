@@ -1,0 +1,43 @@
+{
+  "id": "May_2011_HL_TZ2_Q9",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2011,
+    "month": "May",
+    "session_label": "May 2011",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2011 HL TZ2 Q9 D.png"
+  },
+  "question_number": 9,
+  "content_markdown": "The energy of the molecules of an ideal gas is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "thermal only."
+    },
+    {
+      "label": "B",
+      "text": "thermal and potential."
+    },
+    {
+      "label": "C",
+      "text": "potential and kinetic."
+    },
+    {
+      "label": "D",
+      "text": "kinetic only."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In the kinetic model of an ideal gas, one of the fundamental assumptions is that there are no intermolecular forces between the molecules (except during perfectly elastic collisions). Since potential energy arises from these intermolecular forces, the internal energy of an ideal gas consists entirely of the random kinetic energy of its molecules.",
+  "source_image_path": "B3-Gas-Laws/May 2011 HL TZ2 Q9 D.png"
+}

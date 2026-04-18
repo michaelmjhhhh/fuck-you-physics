@@ -1,0 +1,43 @@
+{
+  "id": "May_2009_HL_TZ2_Q15",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ2 Q15 A.png"
+  },
+  "question_number": 15,
+  "content_markdown": "Which of the following statements is true for a standing wave on a string?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "No energy is transferred along the string."
+    },
+    {
+      "label": "B",
+      "text": "The maximum kinetic energy of each segment of the string is proportional to the amplitude of the segment."
+    },
+    {
+      "label": "C",
+      "text": "Each segment of the string oscillates with different phase and frequency."
+    },
+    {
+      "label": "D",
+      "text": "The amplitude along the string varies with time."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Standing waves are formed by the superposition of two waves of the same frequency and amplitude traveling in opposite directions. Because these waves carry equal energy in opposite directions, the net energy transfer (power) across any point is zero. Regarding the other options: kinetic energy is proportional to the square of the amplitude ($E_k \\propto A^2$), all points between nodes oscillate in phase with the same frequency, and the amplitude of a specific point is a fixed property of its position, not a time-varying one.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2009 HL TZ2 Q15 A.png"
+}

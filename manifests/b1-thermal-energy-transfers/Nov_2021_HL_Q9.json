@@ -1,0 +1,26 @@
+{
+  "id": "Nov_2021_HL_Q9",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "",
+  "paper": {
+    "year": 2021,
+    "month": "Nov",
+    "session_label": "Nov 2021",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2021 HL Q9 B.png"
+  },
+  "question_number": 9,
+  "correct_answer": "B",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2021 HL Q9 B.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

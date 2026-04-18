@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2014_HL_Q13",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves",
+  "paper": {
+    "year": 2014,
+    "month": "Nov",
+    "session_label": "Nov 2014",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2014 HL Q13 B.png"
+  },
+  "question_number": 13,
+  "content_markdown": "A string is made to vibrate at its third harmonic. The diagram shows two points P and Q at a particular instant in time.\n\nWhich of the following compares the period of vibration of P and Q and the average speed of P and Q?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A standing wave on a string showing three loops (third harmonic). Point P is located near the peak of the first loop, and point Q is located at the trough of the second loop.",
+    "labels_to_preserve": [
+      "P",
+      "Q"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Period: same; Average speed: same"
+    },
+    {
+      "label": "B",
+      "text": "Period: same; Average speed: different"
+    },
+    {
+      "label": "C",
+      "text": "Period: different; Average speed: same"
+    },
+    {
+      "label": "D",
+      "text": "Period: different; Average speed: different"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In a standing wave, all points on the string (except nodes) vibrate with the same frequency and therefore the same period. However, the amplitude of vibration varies depending on the position along the string. Since average speed over a cycle is proportional to amplitude ($v_{avg} = \\frac{4A}{T}$), and P and Q are at different distances from their respective nodes/antinodes (Q is at an antinode while P is not), their average speeds are different.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2014 HL Q13 B.png"
+}

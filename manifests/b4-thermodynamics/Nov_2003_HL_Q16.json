@@ -1,0 +1,26 @@
+{
+  "id": "Nov_2003_HL_Q16",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "",
+  "paper": {
+    "year": 2003,
+    "month": "Nov",
+    "session_label": "Nov 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2003 HL Q16 B.png"
+  },
+  "question_number": 16,
+  "correct_answer": "B",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "B4-Thermodynamics/Nov 2003 HL Q16 B.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

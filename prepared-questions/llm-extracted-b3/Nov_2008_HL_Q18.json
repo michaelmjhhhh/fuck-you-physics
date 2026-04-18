@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2008_HL_Q18",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2008,
+    "month": "Nov",
+    "session_label": "Nov 2008",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2008 HL Q18 B.png"
+  },
+  "question_number": 18,
+  "content_markdown": "An isolated container is divided into two equal volumes by a partition. In each part of the container there is an ideal gas. They have the same pressure $P$. The partition is removed. Which of the following is the final pressure?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{P}{2}$"
+    },
+    {
+      "label": "B",
+      "text": "$P$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{3P}{2}$"
+    },
+    {
+      "label": "D",
+      "text": "$2P$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Since the container is isolated and the partition is simply removed, the total number of moles and the temperature remain constant. Using the ideal gas law $PV = nRT$, if we combine two volumes $V$ at pressure $P$, the total volume becomes $2V$ and the total number of moles becomes $n_{total} = n_1 + n_2$. Since $P_1 = P_2 = P$ and $V_1 = V_2 = V$, then $n_1 = n_2$. The final pressure $P_f = \\frac{(n_1 + n_2)RT}{2V} = \\frac{2nRT}{2V} = \\frac{nRT}{V} = P$.",
+  "source_image_path": "B3-Gas-Laws/Nov 2008 HL Q18 B.png"
+}

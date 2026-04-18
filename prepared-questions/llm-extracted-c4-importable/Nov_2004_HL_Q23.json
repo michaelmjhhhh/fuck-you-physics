@@ -1,0 +1,52 @@
+{
+  "id": "Nov_2004_HL_Q23",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves",
+  "paper": {
+    "year": 2004,
+    "month": "Nov",
+    "session_label": "Nov 2004",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2004 HL Q23 D.png"
+  },
+  "question_number": 23,
+  "content_markdown": "A loudspeaker emits sound of frequency $f$. The sound waves are reflected from a wall. The arrangement is shown below.\n\nWhen a microphone is moved along the line SW, minimum loudness of sound is detected at points P, Q and R. There are no other minima between these points. The separation of the minima is $d$.\n\nThe speed of the sound wave is",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a loudspeaker S emitting sound towards a wall W. Points P, Q, and R are marked on the line SW between the speaker and the wall. The distance between P and Q is d, and the distance between Q and R is d.",
+    "labels_to_preserve": [
+      "S",
+      "P",
+      "Q",
+      "R",
+      "W",
+      "d",
+      "loudspeaker",
+      "wall"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{2} fd$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{f}{d}$"
+    },
+    {
+      "label": "C",
+      "text": "$fd$"
+    },
+    {
+      "label": "D",
+      "text": "$2fd$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The interference between the incident and reflected waves creates a standing wave pattern. In a standing wave, the distance between consecutive nodes (minima) is equal to half a wavelength ($\\lambda/2$). Given that the distance between minima is $d$, we have $d = \\lambda/2$, which means $\\lambda = 2d$. Using the wave equation $v = f\\lambda$, we substitute the wavelength to get $v = f(2d) = 2fd$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2004 HL Q23 D.png"
+}

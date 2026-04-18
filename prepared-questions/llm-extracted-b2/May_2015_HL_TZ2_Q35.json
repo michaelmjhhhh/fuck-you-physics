@@ -1,0 +1,49 @@
+{
+  "id": "May_2015_HL_TZ2_Q35",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ2 Q35 C.png"
+  },
+  "question_number": 35,
+  "content_markdown": "Which of the following lists snow, desert and ocean in increasing order of magnitude of albedo?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A-D) with three columns representing the progression from lowest albedo to highest albedo.",
+    "labels_to_preserve": [
+      "Lowest albedo",
+      "Highest albedo",
+      "snow",
+      "desert",
+      "ocean"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Lowest: snow; Middle: desert; Highest: ocean"
+    },
+    {
+      "label": "B",
+      "text": "Lowest: snow; Middle: ocean; Highest: desert"
+    },
+    {
+      "label": "C",
+      "text": "Lowest: ocean; Middle: desert; Highest: snow"
+    },
+    {
+      "label": "D",
+      "text": "Lowest: desert; Middle: ocean; Highest: snow"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Albedo is the ratio of reflected radiation to incident radiation. Dark surfaces like the ocean absorb most light (low albedo, approx 0.06), while light-colored surfaces like snow reflect most light (high albedo, approx 0.8 to 0.9). Deserts fall in between (approx 0.3).",
+  "source_image_path": "B2-Greenhouse-Effect/May 2015 HL TZ2 Q35 C.png"
+}

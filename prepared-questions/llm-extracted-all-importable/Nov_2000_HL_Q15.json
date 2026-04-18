@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2000_HL_Q15",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2000,
+    "month": "Nov",
+    "session_label": "Nov 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2000 HL Q15 B.png"
+  },
+  "question_number": 15,
+  "content_markdown": "The diagram shows a section of double glazed window. The panes of glass are separated by an air gap that is of the same thickness as the two panes of glass. The room temperature is greater than the outside temperature and both temperatures are constant.\n\nWhich **one** of the following statements is **true**?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A cross-section of a double-glazed window showing three layers: glass, air, and glass. The left side is labeled 'room' and the right side is labeled 'outside'.",
+    "labels_to_preserve": [
+      "room",
+      "glass",
+      "air",
+      "outside"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "There is no energy transfer from the room to the outside."
+    },
+    {
+      "label": "B",
+      "text": "The rate of energy transfer across the glass is the same as that across the air gap."
+    },
+    {
+      "label": "C",
+      "text": "The rate of energy transfer across the glass is greater than that across the air gap."
+    },
+    {
+      "label": "D",
+      "text": "The rate of energy transfer across the glass is less than that across the air gap."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In a steady-state system where temperatures are constant, the rate of energy transfer (power) must be the same through every layer in series. If the rate were different, energy would accumulate in one of the layers, causing its temperature to change, which contradicts the 'constant temperature' condition.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2000 HL Q15 B.png"
+}

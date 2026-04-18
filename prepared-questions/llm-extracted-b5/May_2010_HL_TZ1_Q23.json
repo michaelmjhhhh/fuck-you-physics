@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ1_Q23",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric cells",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ1 Q23 A.png"
+  },
+  "question_number": 23,
+  "content_markdown": "The electromotive force (emf) of a cell is defined as",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the power supplied by the cell per unit current from the cell."
+    },
+    {
+      "label": "B",
+      "text": "the force that the cell provides to drive electrons round a circuit."
+    },
+    {
+      "label": "C",
+      "text": "the energy supplied by the cell per unit current from the cell."
+    },
+    {
+      "label": "D",
+      "text": "the potential difference across the terminals of the cell."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The definition of emf relates to the work done (energy) per unit charge. Since power is energy per unit time ($P = E/t$) and current is charge per unit time ($I = Q/t$), the ratio of power to current ($P/I$) simplifies to $(E/t) / (Q/t) = E/Q$, which is the energy per unit charge. This matches the standard definition of emf.",
+  "source_image_path": "B5-Current-and-Circuits/May 2010 HL TZ1 Q23 A.png"
+}

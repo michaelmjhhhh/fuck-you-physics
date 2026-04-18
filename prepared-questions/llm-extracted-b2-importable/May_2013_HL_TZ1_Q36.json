@@ -1,0 +1,43 @@
+{
+  "id": "May_2013_HL_TZ1_Q36",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ1 Q36 C.png"
+  },
+  "question_number": 36,
+  "content_markdown": "Carbon dioxide is a greenhouse gas because",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "it absorbs infrared light radiated by the Sun."
+    },
+    {
+      "label": "B",
+      "text": "it absorbs ultraviolet light radiated by the Earth."
+    },
+    {
+      "label": "C",
+      "text": "its natural frequency molecular oscillation lies in the infrared region."
+    },
+    {
+      "label": "D",
+      "text": "its natural frequency molecular oscillation lies in the ultraviolet region."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Greenhouse gases like $CO_2$ have molecular vibrational modes with natural frequencies that match the frequency of infrared radiation. This resonance allows them to absorb the long-wavelength (infrared) radiation emitted by the Earth's surface, rather than the short-wavelength radiation primarily emitted by the Sun.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2013 HL TZ1 Q36 C.png"
+}

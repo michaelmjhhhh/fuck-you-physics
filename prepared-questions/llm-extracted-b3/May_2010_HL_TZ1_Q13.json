@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ1_Q13",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ1 Q13 B.png"
+  },
+  "question_number": 13,
+  "content_markdown": "The behaviour of a monatomic gas such as helium will approximate to that of an ideal gas when it is kept at",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "a temperature close to absolute zero."
+    },
+    {
+      "label": "B",
+      "text": "low pressure."
+    },
+    {
+      "label": "C",
+      "text": "very high pressure."
+    },
+    {
+      "label": "D",
+      "text": "very high temperature."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Real gases behave most like ideal gases at low pressures and high temperatures. At low pressure, the volume of the gas particles themselves becomes negligible compared to the total volume of the container, and the particles are far enough apart that intermolecular forces are negligible. While 'very high temperature' is also a condition for ideal behavior, 'low pressure' is a more fundamental requirement for the assumptions of the kinetic theory of gases to hold true in standard IB contexts.",
+  "source_image_path": "B3-Gas-Laws/May 2010 HL TZ1 Q13 B.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2013_HL_TZ1_Q37",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ1 Q37 A.png"
+  },
+  "question_number": 37,
+  "content_markdown": "Which of the following is most likely to increase the rate of global warming?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Deforestation"
+    },
+    {
+      "label": "B",
+      "text": "Increasing the use of nuclear power stations"
+    },
+    {
+      "label": "C",
+      "text": "Increasing the use of renewable energy sources"
+    },
+    {
+      "label": "D",
+      "text": "Using natural gas instead of coal for electricity generation"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Global warming is primarily driven by the concentration of greenhouse gases like $CO_2$ in the atmosphere. Deforestation increases this rate because trees act as carbon sinks; removing them reduces the amount of $CO_2$ absorbed from the atmosphere and often involves burning or decaying wood which releases stored carbon. Options B, C, and D are all strategies typically used to reduce carbon emissions compared to traditional coal-fired power.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2013 HL TZ1 Q37 A.png"
+}

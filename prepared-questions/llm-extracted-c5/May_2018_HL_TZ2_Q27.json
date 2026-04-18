@@ -1,0 +1,50 @@
+{
+  "id": "May_2018_HL_TZ2_Q27",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ2 Q27 A.png"
+  },
+  "question_number": 27,
+  "content_markdown": "A train is approaching an observer with constant speed\n\n$$\\frac{c}{34}$$\n\nwhere $c$ is the speed of sound in still air. The train emits sound of wavelength $\\lambda$. What is the observed speed of the sound and observed wavelength as the train approaches?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table with two columns: 'Speed of sound' and 'Wavelength', and four rows labeled A, B, C, and D.",
+    "labels_to_preserve": [
+      "Speed of sound",
+      "Wavelength",
+      "c",
+      "33\\lambda/34",
+      "35c/34",
+      "\\lambda"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Speed of sound: $c$; Wavelength: $\\frac{33\\lambda}{34}$"
+    },
+    {
+      "label": "B",
+      "text": "Speed of sound: $\\frac{35c}{34}$; Wavelength: $\\frac{33\\lambda}{34}$"
+    },
+    {
+      "label": "C",
+      "text": "Speed of sound: $c$; Wavelength: $\\lambda$"
+    },
+    {
+      "label": "D",
+      "text": "Speed of sound: $\\frac{35c}{34}$; Wavelength: $\\lambda$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The speed of sound in a medium is determined by the properties of the medium itself (like air temperature and density), not the motion of the source, so the observed speed remains $c$. For a source approaching an observer, the wavefronts are 'bunched up', resulting in a shorter observed wavelength. Using the Doppler formula for wavelength $\\lambda' = \\lambda \\frac{v - v_s}{v}$, we get $\\lambda' = \\lambda \\frac{c - c/34}{c} = \\lambda \\frac{33/34c}{c} = \\frac{33\\lambda}{34}$.",
+  "source_image_path": "C5-Doppler-Effect/May 2018 HL TZ2 Q27 A.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2021_HL_TZ1_Q14",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ1 Q14 C.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A metal rod of length $45\\text{ cm}$ is clamped at its mid point. The speed of sound in the metal rod is $1500\\text{ m s}^{-1}$ and the speed of sound in air is $300\\text{ m s}^{-1}$. The metal rod vibrates at its first harmonic. What is the wavelength in air of the sound wave produced by the metal rod?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$4.5\\text{ cm}$"
+    },
+    {
+      "label": "B",
+      "text": "$9.0\\text{ cm}$"
+    },
+    {
+      "label": "C",
+      "text": "$18\\text{ cm}$"
+    },
+    {
+      "label": "D",
+      "text": "$90\\text{ cm}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "First, determine the wavelength in the rod. A rod clamped at the center has a node at the center and antinodes at the ends for the first harmonic, meaning the length $L = \\lambda_{rod} / 2$. Thus, $\\lambda_{rod} = 2 \\times 45\\text{ cm} = 90\\text{ cm}$. Next, find the frequency using the speed in the rod: $f = v_{rod} / \\lambda_{rod} = 1500 / 0.9$. Since the frequency remains constant when the wave transfers to air, the wavelength in air is $\\lambda_{air} = v_{air} / f = 300 / (1500 / 0.9) = 0.9 \\times (300 / 1500) = 0.9 \\times 0.2 = 0.18\\text{ m}$, which is $18\\text{ cm}$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2021 HL TZ1 Q14 C.png"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2004_HL_Q17",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2004,
+    "month": "Nov",
+    "session_label": "Nov 2004",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2004 HL Q17 A.png"
+  },
+  "question_number": 17,
+  "content_markdown": "As part of an experiment to determine the latent heat of vaporisation of water, a student boils some water in a beaker using an electric heater as shown below.\n\nThe student notes two sources of error.\n\nError 1: thermal energy is lost from the sides of the beaker\nError 2: as the water is boiling, water splashes out of the beaker\n\nWhich of the following gives the correct effect of these two errors on the calculated value for the specific latent heat?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a beaker filled with water and an electric heater submerged in it. Labels point to the beaker, water, and heater.",
+    "labels_to_preserve": [
+      "beaker",
+      "water",
+      "heater"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Error 1: Increase; Error 2: Decrease"
+    },
+    {
+      "label": "B",
+      "text": "Error 1: Increase; Error 2: No change"
+    },
+    {
+      "label": "C",
+      "text": "Error 1: Decrease; Error 2: Increase"
+    },
+    {
+      "label": "D",
+      "text": "Error 1: Decrease; Error 2: No change"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The specific latent heat is calculated using $L = Q/m$. In Error 1, energy $Q$ is supplied by the heater but lost to the surroundings, meaning the energy used to actually vaporize the water is less than the measured $Q$. This leads to an overestimation (Increase) of $L$. In Error 2, water splashes out, meaning the measured change in mass $m$ is greater than the mass actually vaporized. Since $m$ is in the denominator, an artificially large $m$ leads to an underestimation (Decrease) of the calculated $L$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2004 HL Q17 A.png"
+}

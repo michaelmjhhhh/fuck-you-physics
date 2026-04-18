@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2019_HL_Q8",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2019,
+    "month": "Nov",
+    "session_label": "Nov 2019",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2019 HL Q8 A.png"
+  },
+  "question_number": 8,
+  "content_markdown": "A mass $m$ of water is at a temperature of $290\\text{ K}$. The specific heat capacity of water is $c$. Ice, at its melting point, is added to the water to reduce the water temperature to the freezing point. The specific latent heat of fusion for ice is $L$. What is the minimum mass of ice that is required?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{17mc}{L}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{290mc}{L}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{17mL}{c}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{290mL}{c}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "To solve this, we use the principle of conservation of energy: Energy lost by water = Energy gained by ice. The water cools from $290\\text{ K}$ to the freezing point of water ($273\\text{ K}$), so $\\Delta T = 290 - 273 = 17\\text{ K}$. The energy lost by the water is $Q = mc\\Delta T = m \\cdot c \\cdot 17$. The ice is already at its melting point, so it only needs energy to melt: $Q = M_{ice}L$. Equating the two: $17mc = M_{ice}L$, which gives $M_{ice} = \\frac{17mc}{L}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2019 HL Q8 A.png"
+}

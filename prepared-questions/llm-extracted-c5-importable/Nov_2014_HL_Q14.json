@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2014_HL_Q14",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2014,
+    "month": "Nov",
+    "session_label": "Nov 2014",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2014 HL Q14 B.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A source of sound moves away from an observer. The observed frequency of the sound differs from the frequency emitted by the source because the",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "observed wavelength of the sound is less than the emitted wavelength."
+    },
+    {
+      "label": "B",
+      "text": "observed wavelength of the sound is greater than the emitted wavelength."
+    },
+    {
+      "label": "C",
+      "text": "speed of sound relative to the observer has decreased."
+    },
+    {
+      "label": "D",
+      "text": "speed of sound relative to the observer has increased."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "When a source moves away from an observer, each successive wave crest is emitted from a position further away than the previous one. This effectively 'stretches' the distance between crests in the medium, resulting in a longer (greater) observed wavelength and a lower observed frequency. The speed of sound in the medium remains constant relative to the medium/observer (in classical physics contexts like this).",
+  "source_image_path": "C5-Doppler-Effect/Nov 2014 HL Q14 B.png"
+}

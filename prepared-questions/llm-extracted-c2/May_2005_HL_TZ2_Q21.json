@@ -1,0 +1,43 @@
+{
+  "id": "May_2005_HL_TZ2_Q21",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Superposition and interference",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ2 Q21 B.png"
+  },
+  "question_number": 21,
+  "content_markdown": "The diagram below shows two pulses on a string travelling toward each other.\n\nWhich of the following diagrams best shows the shape of the string after the pulses have passed through each other?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A horizontal string with two pulses: a positive (upward) pulse moving to the right and a negative (downward) pulse moving to the left.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A straight horizontal line with no pulses."
+    },
+    {
+      "label": "B",
+      "text": "A string with a negative pulse on the left moving left and a positive pulse on the right moving right."
+    },
+    {
+      "label": "C",
+      "text": "A string with a positive pulse on the left and a negative pulse on the right."
+    },
+    {
+      "label": "D",
+      "text": "A string with two wide, shallow pulses."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "According to the principle of superposition, wave pulses pass through each other unchanged in shape and speed. The positive pulse moving right will continue moving right after the encounter, and the negative pulse moving left will continue moving left. Therefore, after they pass, the negative pulse will be on the left side and the positive pulse will be on the right side.",
+  "source_image_path": "C2-Wave-Model/May 2005 HL TZ2 Q21 B.png"
+}

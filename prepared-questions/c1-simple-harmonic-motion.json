@@ -1,0 +1,2877 @@
+[
+  {
+    "id": "May_2000_HL_Q7",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2000,
+      "month": "May",
+      "session_label": "May 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2000 HL Q7 A.png"
+    },
+    "question_number": 7,
+    "content_markdown": "A particle is undergoing simple harmonic motion. When it is at its maximum displacement from its equilibrium position, which one of the following about its velocity and acceleration is correct?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "Table showing velocity and acceleration options for a particle in SHM.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Velocity: zero; Acceleration: maximum"
+      },
+      {
+        "label": "B",
+        "text": "Velocity: zero; Acceleration: zero"
+      },
+      {
+        "label": "C",
+        "text": "Velocity: maximum; Acceleration: zero"
+      },
+      {
+        "label": "D",
+        "text": "Velocity: maximum; Acceleration: maximum"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In Simple Harmonic Motion (SHM), the acceleration is proportional to the displacement but in the opposite direction ($a = -\\omega^2 x$). Therefore, at maximum displacement, acceleration is at its maximum magnitude. Conversely, the particle momentarily stops to change direction at the amplitude, meaning its velocity is zero at that point.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2000 HL Q7 A.png"
+  },
+  {
+    "id": "May_2001_HL_Q12",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Circular Motion",
+    "paper": {
+      "year": 2001,
+      "month": "May",
+      "session_label": "May 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2001 HL Q12 A.png"
+    },
+    "question_number": 12,
+    "content_markdown": "The angular speed of the 'minute' hand of an analogue watch is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{\\pi}{1800} \\text{ rad/s}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{\\pi}{60} \\text{ rad/s}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{\\pi}{30} \\text{ rad/s}$"
+      },
+      {
+        "label": "D",
+        "text": "$120\\pi \\text{ rad/s}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "To find the angular speed $\\omega$, use the formula $\\omega = \\frac{2\\pi}{T}$. The minute hand of a watch completes one full revolution in 60 minutes. Converting this period to seconds: $T = 60 \\times 60 = 3600 \\text{ s}$. Therefore, $\\omega = \\frac{2\\pi}{3600} = \\frac{\\pi}{1800} \\text{ rad/s}$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2001 HL Q12 A.png"
+  },
+  {
+    "id": "May_2001_HL_Q8",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2001,
+      "month": "May",
+      "session_label": "May 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2001 HL Q8 C.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A mass suspended from a spring is oscillating up and down with a **small** amplitude $A$. If the amplitude of the oscillation is doubled, the period will",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "halve."
+      },
+      {
+        "label": "B",
+        "text": "double."
+      },
+      {
+        "label": "C",
+        "text": "remain the same."
+      },
+      {
+        "label": "D",
+        "text": "increase by a factor of $\\sqrt{2}$."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In Simple Harmonic Motion (SHM), the period $T$ is independent of the amplitude $A$. For a mass-spring system, the period is given by $T = 2\\pi\\sqrt{\\frac{m}{k}}$, which depends only on the mass and the spring constant, not the displacement or amplitude.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2001 HL Q8 C.png"
+  },
+  {
+    "id": "May_2002_HL_Q8",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2002,
+      "month": "May",
+      "session_label": "May 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2002 HL Q8 B.png"
+    },
+    "question_number": 8,
+    "content_markdown": "When an object undergoes simple harmonic motion, which of the following is true of the magnitude of the acceleration of the object?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "It is uniform throughout the motion."
+      },
+      {
+        "label": "B",
+        "text": "It is greatest at the end points of the motion."
+      },
+      {
+        "label": "C",
+        "text": "It is greatest at the midpoint of the motion."
+      },
+      {
+        "label": "D",
+        "text": "It is greatest at the midpoints and the endpoints."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In Simple Harmonic Motion (SHM), the defining relationship is $a = -\\omega^2 x$. This means the magnitude of acceleration is directly proportional to the displacement from the equilibrium position. Therefore, acceleration is zero at the midpoint (where $x=0$) and reaches its maximum magnitude at the maximum displacement, which are the endpoints of the motion.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2002 HL Q8 B.png"
+  },
+  {
+    "id": "May_2009_HL_TZ1_Q13",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ1 Q13 A.png"
+    },
+    "question_number": 13,
+    "content_markdown": "Which graph correctly shows how the acceleration $a$ of a particle undergoing SHM varies with its displacement $x$ from its equilibrium position?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs showing acceleration 'a' on the y-axis and displacement 'x' on the x-axis. Graph A is a straight line with a negative gradient passing through the origin. Graph B is a straight line with a positive gradient passing through the origin. Graph C is a sine wave passing through the origin. Graph D is a cosine wave.",
+      "labels_to_preserve": [
+        "a",
+        "x"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The defining characteristic of Simple Harmonic Motion (SHM) is that the acceleration $a$ is directly proportional to the displacement $x$ and is always directed towards the equilibrium position. This is expressed by the equation $a = -\\omega^2 x$. Mathematically, this represents a straight line passing through the origin with a constant negative gradient, which corresponds to graph A.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2009 HL TZ1 Q13 A.png"
+  },
+  {
+    "id": "May_2009_HL_TZ1_Q14",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ1 Q14 A.png"
+    },
+    "question_number": 14,
+    "content_markdown": "A mass on the end of a horizontal spring is displaced from its equilibrium position by a distance $A$ and released. Its subsequent oscillations have total energy $E$ and time period $T$.\n\nAn identical mass is attached to an identical spring. The maximum displacement is $2A$. Assuming this spring obeys Hooke's law, which of the following gives the correct time period and total energy?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal spring-mass system on a friction-free surface. The mass is shown at equilibrium with a dashed line and an arrow indicating displacement A.",
+      "labels_to_preserve": [
+        "Spring",
+        "Mass",
+        "Friction free surface",
+        "A"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "New time period: $T$; New energy: $4E$"
+      },
+      {
+        "label": "B",
+        "text": "New time period: $T$; New energy: $2E$"
+      },
+      {
+        "label": "C",
+        "text": "New time period: $\\sqrt{2}T$; New energy: $4E$"
+      },
+      {
+        "label": "D",
+        "text": "New time period: $\\sqrt{2}T$; New energy: $2E$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "For a mass-spring system, the time period $T = 2\\pi\\sqrt{\\frac{m}{k}}$ is independent of the amplitude, so the period remains $T$. The total energy in SHM is proportional to the square of the amplitude ($E = \\frac{1}{2}kA^2$). If the amplitude doubles to $2A$, the energy increases by a factor of $2^2 = 4$, resulting in $4E$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2009 HL TZ1 Q14 A.png"
+  },
+  {
+    "id": "May_2009_HL_TZ1_Q15",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Damping",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ1 Q15 C.png"
+    },
+    "question_number": 15,
+    "content_markdown": "The graph below represents the variation with time of the displacement of an oscillating particle.\n\nThe motion of the object is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A displacement-time graph showing a sinusoidal wave whose amplitude decreases gradually over several cycles.",
+      "labels_to_preserve": [
+        "displacement",
+        "time",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "over damped."
+      },
+      {
+        "label": "B",
+        "text": "critically damped."
+      },
+      {
+        "label": "C",
+        "text": "lightly damped."
+      },
+      {
+        "label": "D",
+        "text": "not damped."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The graph shows an oscillation where the amplitude decreases gradually over time. This is the characteristic behavior of light damping (under-damping). In over-damping or critical damping, the system would return to equilibrium without oscillating. If it were not damped, the amplitude would remain constant.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2009 HL TZ1 Q15 C.png"
+  },
+  {
+    "id": "May_2009_HL_TZ2_Q12",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ2 Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A cart, connected to two identical springs, is oscillating with simple harmonic motion between two points X and Y that are equidistant from point O.\n\nThe cart is in equilibrium at",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A cart on wheels attached to two horizontal springs on either side, fixed to walls. The cart is moving to the right. Below the cart is a scale with points X, O, and Y marked.",
+      "labels_to_preserve": [
+        "X",
+        "O",
+        "Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "all points between X and Y."
+      },
+      {
+        "label": "B",
+        "text": "point O only."
+      },
+      {
+        "label": "C",
+        "text": "points X and Y only."
+      },
+      {
+        "label": "D",
+        "text": "points O, X and Y only."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In Simple Harmonic Motion (SHM), equilibrium is defined as the position where the net force acting on the object is zero. For a mass-spring system, this occurs at the center of the oscillation (point O), where the restoring forces from the springs cancel each other out. At the endpoints X and Y, the displacement is at a maximum, meaning the restoring force (and thus acceleration) is also at its maximum, so the object is definitely not in equilibrium there.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2009 HL TZ2 Q12 B.png"
+  },
+  {
+    "id": "May_2009_HL_TZ2_Q13",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ2 Q13 A.png"
+    },
+    "question_number": 13,
+    "content_markdown": "For a system executing simple harmonic motion, the restoring force acting on the system is proportional to the",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "displacement of the system from equilibrium."
+      },
+      {
+        "label": "B",
+        "text": "amplitude of oscillation."
+      },
+      {
+        "label": "C",
+        "text": "elastic potential energy."
+      },
+      {
+        "label": "D",
+        "text": "frequency of oscillation."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Simple Harmonic Motion (SHM) is defined by the condition that the acceleration $a$ (and therefore the restoring force $F = ma$) is directly proportional to the displacement $x$ from the equilibrium position and is directed towards that position ($F \\propto -x$).",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2009 HL TZ2 Q13 A.png"
+  },
+  {
+    "id": "May_2010_HL_TZ1_Q15",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ1 Q15 C.png"
+    },
+    "question_number": 15,
+    "content_markdown": "The graph shows how the velocity $v$ of an object undergoing simple harmonic motion varies with time $t$ for one complete period of oscillation.\n\nWhich of the following sketch graphs best shows how the total energy $E$ of the object varies with $t$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A velocity-time graph for one period of SHM starting at v=0, moving to a negative peak, then positive peak, returning to zero. Four options show different energy-time graphs.",
+      "labels_to_preserve": [
+        "v",
+        "t",
+        "E",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In simple harmonic motion, energy is conserved if there is no damping. While kinetic energy and potential energy exchange and vary sinusoidally at twice the frequency of the displacement, the total energy (the sum of kinetic and potential) remains constant over time. Therefore, the graph of total energy $E$ against time $t$ must be a horizontal straight line.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2010 HL TZ1 Q15 C.png"
+  },
+  {
+    "id": "May_2010_HL_TZ2_Q10",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ2 Q10 B.png"
+    },
+    "question_number": 10,
+    "content_markdown": "The graphs show how the acceleration $a$ of four different particles varies with their displacement $x$. Which of the particles is executing simple harmonic motion?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs labeled A, B, C, and D showing acceleration 'a' on the vertical axis versus displacement 'x' on the horizontal axis. Graph A is a straight line with a positive gradient passing through the origin. Graph B is a straight line with a negative gradient passing through the origin. Graph C is an ellipse centered at the origin. Graph D is a sinusoidal-like curve with a negative gradient at the origin.",
+      "labels_to_preserve": [
+        "a",
+        "x",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Simple Harmonic Motion (SHM) is defined by the relationship $a = -\\omega^2 x$. This means the acceleration must be directly proportional to the displacement and directed towards the equilibrium position (indicated by the negative sign). Graphically, this corresponds to a straight line passing through the origin with a constant negative gradient.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2010 HL TZ2 Q10 B.png"
+  },
+  {
+    "id": "May_2011_HL_TZ1_Q10",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ1 Q10 D.png"
+    },
+    "question_number": 10,
+    "content_markdown": "The graph shows how the displacement varies with time for an object undergoing simple harmonic motion.\n\nWhich graph shows how the object's acceleration $a$ varies with time $t$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A displacement-time graph for SHM starting at the origin and moving in the negative displacement direction first (a negative sine wave).",
+      "labels_to_preserve": [
+        "displacement",
+        "time",
+        "0",
+        "a",
+        "t"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In Simple Harmonic Motion, acceleration is proportional to the negative of the displacement ($a \\propto -x$). The original displacement graph is a negative sine wave ($x = -x_0 \\sin(\\omega t)$). Therefore, the acceleration graph must be the reflection of the displacement graph across the time axis, resulting in a positive sine wave ($a = a_0 \\sin(\\omega t)$). Graph D shows a sine wave starting at zero and moving in the positive direction initially, which correctly represents this relationship.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2011 HL TZ1 Q10 D.png"
+  },
+  {
+    "id": "May_2011_HL_TZ2_Q13",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ2 Q13 C.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A particle oscillates with simple harmonic motion with period $T$.\n\nAt time $t=0$, the particle has its maximum displacement. Which graph shows the variation with time $t$ of the kinetic energy $E_{\\text{k}}$ of the particle?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs labeled A, B, C, and D showing kinetic energy Ek versus time t. Graphs A and B show sinusoidal waves that go into negative energy values. Graph C shows a rectified-like wave with two full cycles within time T, starting at zero. Graph D shows one full cycle within time T, starting at zero.",
+      "labels_to_preserve": [
+        "E_k",
+        "t",
+        "T",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "At maximum displacement, the velocity of a particle in SHM is zero, so the kinetic energy must be zero at $t=0$. Kinetic energy is always positive ($E_{\\text{k}} = \\frac{1}{2}mv^2$), which eliminates graphs A and B. Furthermore, in one full period $T$ of displacement, the particle passes through the equilibrium position (where $E_{\\text{k}}$ is maximum) twice, meaning the kinetic energy completes two full cycles in time $T$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2011 HL TZ2 Q13 C.png"
+  },
+  {
+    "id": "May_2012_HL_TZ1_Q9",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ1 Q9 A.png"
+    },
+    "question_number": 9,
+    "content_markdown": "An object is undergoing simple harmonic motion (SHM) about a fixed point P. The magnitude of its displacement from P is $x$. Which of the following is correct?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) with two columns: 'Magnitude of resultant force' and 'Direction of resultant force'.",
+      "labels_to_preserve": [
+        "P",
+        "x"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Magnitude of resultant force: proportional to $x$; Direction of resultant force: towards P"
+      },
+      {
+        "label": "B",
+        "text": "Magnitude of resultant force: inversely proportional to $x$; Direction of resultant force: towards P"
+      },
+      {
+        "label": "C",
+        "text": "Magnitude of resultant force: proportional to $x$; Direction of resultant force: away from P"
+      },
+      {
+        "label": "D",
+        "text": "Magnitude of resultant force: inversely proportional to $x$; Direction of resultant force: away from P"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "By definition, Simple Harmonic Motion (SHM) requires a restoring force that is directly proportional to the displacement from the equilibrium position ($F = -kx$). The negative sign indicates that the force is always directed towards the equilibrium point (P), acting to 'restore' the object to its center.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2012 HL TZ1 Q9 A.png"
+  },
+  {
+    "id": "May_2012_HL_TZ2_Q14",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ2 Q14 B.png"
+    },
+    "question_number": 14,
+    "content_markdown": "A particle is undergoing simple harmonic motion (SHM) in a horizontal plane. The total mechanical energy of the system is $E$. Which of the following correctly gives the kinetic energy of the particle at the positions of maximum displacement and equilibrium?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing kinetic energy values at maximum displacement and equilibrium for four options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Maximum displacement",
+        "Equilibrium"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Maximum displacement: $\\frac{1}{2}E$; Equilibrium: $\\frac{1}{2}E$"
+      },
+      {
+        "label": "B",
+        "text": "Maximum displacement: $0$; Equilibrium: $E$"
+      },
+      {
+        "label": "C",
+        "text": "Maximum displacement: $\\frac{1}{2}E$; Equilibrium: $0$"
+      },
+      {
+        "label": "D",
+        "text": "Maximum displacement: $E$; Equilibrium: $0$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In Simple Harmonic Motion, energy oscillates between kinetic and potential forms. At maximum displacement (the amplitude), the particle momentarily stops to change direction, so its velocity and kinetic energy are zero. At the equilibrium position, the particle moves at its maximum speed, meaning all the mechanical energy $E$ is in the form of kinetic energy.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2012 HL TZ2 Q14 B.png"
+  },
+  {
+    "id": "May_2013_HL_TZ2_Q13",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ2 Q13 D.png"
+    },
+    "question_number": 13,
+    "content_markdown": "An object undergoes simple harmonic motion with time period $T$ and amplitude $0.5\\text{ m}$. At time $t = 0\\text{ s}$ the displacement of the object is a maximum.\n\nWhat is the displacement of the object at time $t = \\frac{3T}{4}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$-0.50\\text{ m}$"
+      },
+      {
+        "label": "B",
+        "text": "$0.50\\text{ m}$"
+      },
+      {
+        "label": "C",
+        "text": "$0.25\\text{ m}$"
+      },
+      {
+        "label": "D",
+        "text": "$0\\text{ m}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Since the displacement is maximum at $t=0$, the motion follows a cosine function: $x(t) = A \\cos(\\omega t) = A \\cos(\\frac{2\\pi}{T}t)$. Substituting $t = \\frac{3T}{4}$ gives $x = 0.5 \\cos(\\frac{2\\pi}{T} \\cdot \\frac{3T}{4}) = 0.5 \\cos(\\frac{3\\pi}{2})$. Since $\\cos(\\frac{3\\pi}{2}) = 0$, the displacement is $0\\text{ m}$. Conceptually, at three-quarters of a period, the object has moved from maximum positive displacement, through equilibrium, to maximum negative displacement, and back to equilibrium.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2013 HL TZ2 Q13 D.png"
+  },
+  {
+    "id": "May_2014_HL_TZ1_Q15",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ1 Q15 A.png"
+    },
+    "question_number": 15,
+    "content_markdown": "A body undergoes simple harmonic motion. Which graph correctly shows the variation with displacement $x$ of the velocity $v$ of the body?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs showing velocity v on the y-axis and displacement x on the x-axis. Graph A is an ellipse centered at the origin. Graph B is a sine-like wave passing through the origin. Graph C is a downward-opening parabola-like curve. Graph D is a straight line with a negative gradient passing through the origin.",
+      "labels_to_preserve": [
+        "v",
+        "x",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In Simple Harmonic Motion, the relationship between velocity $v$ and displacement $x$ is given by the equation $v = \\pm \\omega \\sqrt{x_0^2 - x^2}$. Squaring both sides and rearranging gives $\\frac{v^2}{\\omega^2} + x^2 = x_0^2$, which is the equation of an ellipse. Physically, this makes sense because velocity is maximum when displacement is zero, and velocity is zero at maximum displacement (the amplitudes).",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2014 HL TZ1 Q15 A.png"
+  },
+  {
+    "id": "May_2014_HL_TZ2_Q13",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ2 Q13 A.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A particle P executes simple harmonic motion (SHM) about its equilibrium position Y.\n\nThe amplitude of the motion is XY.\n\nAt which of the positions shown on the diagram is the acceleration of P equal to zero and the kinetic energy of P equal to zero?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal line representing the path of a particle P. Point X is at the left end, point Y is in the middle, and the particle P is shown between X and Y. Tick marks are present at X and Y.",
+      "labels_to_preserve": [
+        "P",
+        "X",
+        "Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Acceleration: Y; Kinetic energy: X"
+      },
+      {
+        "label": "B",
+        "text": "Acceleration: X; Kinetic energy: X"
+      },
+      {
+        "label": "C",
+        "text": "Acceleration: Y; Kinetic energy: Y"
+      },
+      {
+        "label": "D",
+        "text": "Acceleration: X; Kinetic energy: Y"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In SHM, acceleration is proportional to displacement from equilibrium but in the opposite direction ($a = -\\omega^2 x$). Therefore, acceleration is zero at the equilibrium position (Y). Kinetic energy is zero at the maximum displacement (the amplitude), where the particle momentarily stops to change direction. Since XY is the amplitude and Y is equilibrium, X is the position of maximum displacement where kinetic energy is zero.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2014 HL TZ2 Q13 A.png"
+  },
+  {
+    "id": "May_2014_HL_TZ2_Q14",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ2 Q14 D.png"
+    },
+    "question_number": 14,
+    "content_markdown": "A particle executes simple harmonic motion (SHM) with period $T$.\n\nWhich sketch graph correctly shows how the total energy $E$ of the particle varies with time $t$ from $t = 0$ to $t = \\frac{T}{2}$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs labeled A, B, C, and D showing different variations of energy E against time t from 0 to T/2. Graph A shows a single positive sine-like hump. Graph B shows a U-shaped curve starting and ending at a maximum. Graph C shows a full sine wave cycle including negative values. Graph D shows a horizontal straight line at a constant positive value.",
+      "labels_to_preserve": [
+        "E",
+        "t",
+        "0",
+        "T/2"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In simple harmonic motion, while kinetic energy and potential energy oscillate and exchange values, the total energy (the sum of the two) remains constant over time, assuming no resistive forces are present. Therefore, the graph of total energy $E$ against time $t$ must be a horizontal straight line.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2014 HL TZ2 Q14 D.png"
+  },
+  {
+    "id": "May_2015_HL_TZ2_Q10",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ2 Q10 D.png"
+    },
+    "question_number": 10,
+    "content_markdown": "A liquid in a U-tube is given an initial displacement and allowed to oscillate. The motion of the liquid is recorded using a motion sensor. Which graph shows the variation with time $t$ of the velocity $v$ of the liquid?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs labeled A, B, C, and D showing velocity v against time t. Graph A is a straight line with negative slope. Graph B is a parabola opening upwards. Graph C is a sinusoidal wave with constant amplitude. Graph D is a sinusoidal wave with decreasing amplitude (damped oscillation).",
+      "labels_to_preserve": [
+        "v",
+        "t",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The liquid in a U-tube undergoes simple harmonic motion (SHM). In real-world scenarios, resistive forces (friction and viscosity) cause the energy of the system to dissipate over time, leading to damped oscillations. Therefore, the velocity-time graph should be a sinusoidal wave where the amplitude decreases over time, as shown in graph D.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2015 HL TZ2 Q10 D.png"
+  },
+  {
+    "id": "May_2015_HL_TZ2_Q11",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ2 Q11 A.png"
+    },
+    "question_number": 11,
+    "content_markdown": "The bob of a pendulum has an initial displacement $x_0$ to the right. The bob is released and allowed to oscillate. The graph shows how the displacement varies with time. At which point is the velocity of the bob at maximum towards the right?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A displacement-time graph for a simple harmonic oscillator starting at positive maximum displacement x0. Points A, B, C, and D are marked on the curve.",
+      "labels_to_preserve": [
+        "displacement",
+        "time",
+        "x_0",
+        "0",
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Velocity is the gradient of the displacement-time graph. To find the maximum velocity towards the right (positive direction), we look for the point where the slope is steepest and positive. At point A, the graph crosses the equilibrium position with its maximum positive gradient. Points B and D are turning points where velocity is zero, and at point C, the velocity is at its maximum but in the negative direction (towards the left).",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2015 HL TZ2 Q11 A.png"
+  },
+  {
+    "id": "May_2016_HL_TZ0_Q21",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2016,
+      "month": "May",
+      "session_label": "May 2016",
+      "level": "HL",
+      "timezone": "TZ0",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2016 HL TZ0 Q21 A.png"
+    },
+    "question_number": 21,
+    "content_markdown": "A mass is connected to a spring on a frictionless horizontal surface as shown.\n\nThe spring is extended beyond its equilibrium length and the mass executes simple harmonic motion (SHM). Which of the following is independent of the initial displacement of the spring?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal mass-spring system on a surface. The spring is attached to a wall on the left and a block (mass) on the right.",
+      "labels_to_preserve": [
+        "spring",
+        "mass",
+        "surface"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The angular frequency of the oscillation"
+      },
+      {
+        "label": "B",
+        "text": "The total energy of the mass"
+      },
+      {
+        "label": "C",
+        "text": "The average speed of the mass"
+      },
+      {
+        "label": "D",
+        "text": "The maximum kinetic energy of the mass"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In Simple Harmonic Motion (SHM), the angular frequency $\\omega$ is determined solely by the properties of the system (for a mass-spring system, $\\omega = \\sqrt{k/m}$). It does not depend on the amplitude (initial displacement). Conversely, total energy ($E = \\frac{1}{2}kA^2$), maximum kinetic energy ($E_{k,max} = \\frac{1}{2}kA^2$), and average speed (which is proportional to $A\\omega$) all depend on the amplitude $A$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2016 HL TZ0 Q21 A.png"
+  },
+  {
+    "id": "May_2016_HL_TZ0_Q24",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2016,
+      "month": "May",
+      "session_label": "May 2016",
+      "level": "HL",
+      "timezone": "TZ0",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2016 HL TZ0 Q24 A.png"
+    },
+    "question_number": 24,
+    "content_markdown": "A simple pendulum has mass $M$ and length $l$. The period of oscillation of the pendulum is $T$. What is the period of oscillation of a pendulum with mass $4M$ and length $0.25l$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.5T"
+      },
+      {
+        "label": "B",
+        "text": "T"
+      },
+      {
+        "label": "C",
+        "text": "2T"
+      },
+      {
+        "label": "D",
+        "text": "4T"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The period of a simple pendulum is given by $T = 2\\pi\\sqrt{\\frac{l}{g}}$. Notice that the mass $M$ does not appear in the formula, so changing it to $4M$ has no effect. If the length $l$ is changed to $0.25l$, the new period $T'$ becomes $2\\pi\\sqrt{\\frac{0.25l}{g}} = \\sqrt{0.25} \\times 2\\pi\\sqrt{\\frac{l}{g}} = 0.5T$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2016 HL TZ0 Q24 A.png"
+  },
+  {
+    "id": "May_2017_HL_TZ1_Q11",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ1 Q11 A.png"
+    },
+    "question_number": 11,
+    "content_markdown": "A particle undergoes simple harmonic motion (SHM). The graph shows the variation of velocity $v$ of the particle with time $t$.\n\nWhat is the variation with time of the acceleration $a$ of the particle?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A velocity-time graph for a particle in SHM starting at a negative velocity, crossing zero with a positive gradient, and oscillating sinusoidally.",
+      "labels_to_preserve": [
+        "v",
+        "t",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Acceleration is the derivative of velocity ($a = \\frac{dv}{dt}$), which corresponds to the gradient of the $v-t$ graph. At $t=0$, the velocity graph has its maximum positive gradient, meaning acceleration must be at its maximum positive value. Only graph B starts at a positive maximum.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2017 HL TZ1 Q11 A.png"
+  },
+  {
+    "id": "May_2017_HL_TZ1_Q26",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ1 Q26 C.png"
+    },
+    "question_number": 26,
+    "content_markdown": "A pendulum oscillating near the surface of the Earth swings with a time period $T$. What is the time period of the same pendulum near the surface of the planet Mercury where the gravitational field strength is $0.4g$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0.4T$"
+      },
+      {
+        "label": "B",
+        "text": "$0.6T$"
+      },
+      {
+        "label": "C",
+        "text": "$1.6T$"
+      },
+      {
+        "label": "D",
+        "text": "$2.5T$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The time period of a simple pendulum is given by $T = 2\\pi\\sqrt{\\frac{L}{g}}$. Since the length $L$ remains constant, the time period is inversely proportional to the square root of the gravitational field strength ($T \\propto \\frac{1}{\\sqrt{g}}$). On Mercury, the new period $T'$ is $T' = 2\\pi\\sqrt{\\frac{L}{0.4g}} = \\frac{T}{\\sqrt{0.4}}$. Calculating $\\frac{1}{\\sqrt{0.4}} \\approx \\frac{1}{0.63} \\approx 1.58$, which rounds to $1.6T$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2017 HL TZ1 Q26 C.png"
+  },
+  {
+    "id": "May_2017_HL_TZ2_Q11",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ2 Q11 D.png"
+    },
+    "question_number": 11,
+    "content_markdown": "In simple harmonic oscillations which two quantities always have opposite directions?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Kinetic energy and potential energy"
+      },
+      {
+        "label": "B",
+        "text": "Velocity and acceleration"
+      },
+      {
+        "label": "C",
+        "text": "Velocity and displacement"
+      },
+      {
+        "label": "D",
+        "text": "Acceleration and displacement"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The defining characteristic of Simple Harmonic Motion (SHM) is that the acceleration $a$ is proportional to the displacement $x$ from the equilibrium position and is always directed towards that equilibrium position. This is mathematically expressed as $a = -\\omega^2 x$. The negative sign indicates that the acceleration vector and the displacement vector are always in opposite directions.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2017 HL TZ2 Q11 D.png"
+  },
+  {
+    "id": "May_2017_HL_TZ2_Q26",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ2 Q26 C.png"
+    },
+    "question_number": 26,
+    "content_markdown": "A mass oscillates with simple harmonic motion (SHM) of amplitude $x_0$. Its total energy is $16\\text{ J}$.\n\nWhat is the kinetic energy of the mass when its displacement is $\\frac{x_0}{2}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "4 J"
+      },
+      {
+        "label": "B",
+        "text": "8 J"
+      },
+      {
+        "label": "C",
+        "text": "12 J"
+      },
+      {
+        "label": "D",
+        "text": "16 J"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In SHM, total energy $E_T$ is proportional to the square of the amplitude ($E_T \\propto x_0^2$). The potential energy $E_P$ at a displacement $x$ is proportional to the square of that displacement ($E_P \\propto x^2$). When $x = \\frac{x_0}{2}$, the potential energy is $(\\frac{1}{2})^2 = \\frac{1}{4}$ of the total energy. Since $E_T = E_K + E_P$, the kinetic energy $E_K$ must be $1 - \\frac{1}{4} = \\frac{3}{4}$ of the total energy. Therefore, $E_K = \\frac{3}{4} \\times 16\\text{ J} = 12\\text{ J}$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2017 HL TZ2 Q26 C.png"
+  },
+  {
+    "id": "May_2018_HL_TZ1_Q14",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ1 Q14 B.png"
+    },
+    "question_number": 14,
+    "content_markdown": "A system that is subject to a restoring force oscillates about an equilibrium position.\n\nFor the motion to be simple harmonic, the restoring force must be proportional to",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the amplitude of the oscillation."
+      },
+      {
+        "label": "B",
+        "text": "the displacement from the equilibrium position."
+      },
+      {
+        "label": "C",
+        "text": "the potential energy of the system."
+      },
+      {
+        "label": "D",
+        "text": "the period of the oscillation."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The defining condition for Simple Harmonic Motion (SHM) is that the acceleration (and therefore the net restoring force, since $F=ma$) is directly proportional to the displacement from the equilibrium position and directed towards it ($F \\propto -x$).",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2018 HL TZ1 Q14 B.png"
+  },
+  {
+    "id": "May_2018_HL_TZ1_Q26",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ1 Q26 B.png"
+    },
+    "question_number": 26,
+    "content_markdown": "A mass at the end of a vertical spring and a simple pendulum perform oscillations on Earth that are simple harmonic with time period $T$. Both the pendulum and the mass-spring system are taken to the Moon. The acceleration of free fall on the Moon is smaller than that on Earth. What is correct about the time periods of the pendulum and the mass-spring system on the Moon?\n\n| | Simple pendulum | Mass-spring system |\n| :--- | :--- | :--- |\n| **A.** | $T$ | $T$ |\n| **B.** | greater than $T$ | $T$ |\n| **C.** | greater than $T$ | greater than $T$ |\n| **D.** | $T$ | greater than $T$ |",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) for the time periods of a simple pendulum and a mass-spring system on the Moon compared to Earth.",
+      "labels_to_preserve": [
+        "Simple pendulum",
+        "Mass-spring system",
+        "T",
+        "greater than T"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Simple pendulum: $T$; Mass-spring system: $T$"
+      },
+      {
+        "label": "B",
+        "text": "Simple pendulum: greater than $T$; Mass-spring system: $T$"
+      },
+      {
+        "label": "C",
+        "text": "Simple pendulum: greater than $T$; Mass-spring system: greater than $T$"
+      },
+      {
+        "label": "D",
+        "text": "Simple pendulum: $T$; Mass-spring system: greater than $T$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The time period of a simple pendulum is given by $T = 2\\pi\\sqrt{\\frac{l}{g}}$. Since $g$ is smaller on the Moon, the denominator decreases, making the time period greater than $T$. The time period of a mass-spring system is given by $T = 2\\pi\\sqrt{\\frac{m}{k}}$. This formula does not depend on $g$, so the time period remains $T$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2018 HL TZ1 Q26 B.png"
+  },
+  {
+    "id": "May_2018_HL_TZ2_Q11",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ2 Q11 D.png"
+    },
+    "question_number": 11,
+    "content_markdown": "What is true about the acceleration of a particle that is oscillating with simple harmonic motion (SHM)?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "It is in the opposite direction to its velocity"
+      },
+      {
+        "label": "B",
+        "text": "It is decreasing when the potential energy is increasing"
+      },
+      {
+        "label": "C",
+        "text": "It is proportional to the frequency of the oscillation"
+      },
+      {
+        "label": "D",
+        "text": "It is at a minimum when the velocity is at a maximum"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In SHM, acceleration is defined by $a = -\\omega^2 x$. At the equilibrium position ($x=0$), the acceleration is zero (minimum magnitude), while the velocity is at its maximum. Conversely, at the amplitudes, acceleration is at its maximum and velocity is zero.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2018 HL TZ2 Q11 D.png"
+  },
+  {
+    "id": "May_2018_HL_TZ2_Q24",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ2 Q24 D.png"
+    },
+    "question_number": 24,
+    "content_markdown": "A simple pendulum bob oscillates as shown.\n\nAt which position is the resultant force on the pendulum bob zero?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A simple pendulum shown at three positions: A (left extreme), B (equilibrium/center), and C (right extreme).",
+      "labels_to_preserve": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "At position A"
+      },
+      {
+        "label": "B",
+        "text": "At position B"
+      },
+      {
+        "label": "C",
+        "text": "At position C"
+      },
+      {
+        "label": "D",
+        "text": "Resultant force is never zero during the oscillation"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In a simple pendulum, the resultant force is never zero. At the extremes (A and C), there is a restoring force acting towards the center. At the equilibrium position (B), while the horizontal restoring force is zero, the bob is moving in a circular arc, meaning there must be a non-zero centripetal force (tension minus weight component) directed towards the pivot to maintain the circular path.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2018 HL TZ2 Q24 D.png"
+  },
+  {
+    "id": "May_2019_HL_TZ1_Q11",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ1 Q11 C.png"
+    },
+    "question_number": 11,
+    "content_markdown": "A particle performs simple harmonic motion (shm). What is the phase difference between the displacement and the acceleration of the particle?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{\\pi}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\pi$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{3\\pi}{2}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In simple harmonic motion, the defining equation is $a = -\\omega^2 x$. The negative sign indicates that the acceleration is always in the opposite direction to the displacement. In terms of wave phase, a complete reversal of direction corresponds to a phase shift of $180^\\circ$, which is $\\pi$ radians.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2019 HL TZ1 Q11 C.png"
+  },
+  {
+    "id": "May_2019_HL_TZ1_Q12",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ1 Q12 D.png"
+    },
+    "question_number": 12,
+    "content_markdown": "Which graph shows the variation with time $t$ of the kinetic energy (KE) of an object undergoing simple harmonic motion (shm) of period $T$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs labeled A, B, C, and D showing Kinetic Energy (KE) on the y-axis and time (t) on the x-axis. Graphs A and B show sinusoidal waves that go into negative KE values. Graph C shows a positive-only sinusoidal wave with a period of T. Graph D shows a positive-only sinusoidal wave with a period of T/2.",
+      "labels_to_preserve": [
+        "KE",
+        "t",
+        "T",
+        "2T",
+        "0",
+        "0.5",
+        "1.0",
+        "1.5",
+        "-0.5",
+        "-1.0",
+        "-1.5"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Kinetic energy is given by $E_k = \\frac{1}{2}mv^2$. Since mass is positive and velocity is squared, KE can never be negative, eliminating graphs A and B. In SHM, the object reaches maximum speed twice per full oscillation cycle (once moving forward through equilibrium and once moving backward). Therefore, the frequency of the KE variation is double the frequency of the displacement, meaning the period of the KE graph must be $T/2$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2019 HL TZ1 Q12 D.png"
+  },
+  {
+    "id": "May_2019_HL_TZ1_Q28",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ1 Q28 D.png"
+    },
+    "question_number": 28,
+    "content_markdown": "The four pendulums shown have been cut from the same uniform sheet of board. They are attached to the ceiling with strings of equal length.\n\nWhich pendulum has the shortest period?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four pendulums (A, B, C, D) hanging from a ceiling by strings of equal length. The bobs are different shapes: A is a rectangle, B is a diamond, C is a trapezoid wider at the bottom, and D is a trapezoid wider at the top.",
+      "labels_to_preserve": [
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The period of a pendulum depends on the distance from the pivot to the center of mass (CM) of the system. For a simple pendulum, $T = 2\\pi\\sqrt{\\frac{L}{g}}$. In this case, the strings are of equal length, so the pendulum with the shortest period will be the one where the center of mass of the bob is highest (closest to the pivot), effectively making the pendulum length $L$ the shortest. Comparing the shapes: the trapezoid in D has more mass concentrated at the top compared to the others, placing its center of mass higher than the rectangle (A), the diamond (B), or the bottom-heavy trapezoid (C).",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2019 HL TZ1 Q28 D.png"
+  },
+  {
+    "id": "May_2019_HL_TZ2_Q16",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ2 Q16 A.png"
+    },
+    "question_number": 16,
+    "content_markdown": "An object at the end of a spring oscillates vertically with simple harmonic motion (shm). The graph shows the variation with time $t$ of the displacement $x$ of the object.\n\nWhat is the velocity of the object?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A displacement-time graph for SHM. The vertical axis is displacement x, ranging from -2A to 2A. The horizontal axis is time t, marked with 0, 2T, and 4T. The curve starts at x = -2A at t = 0, reaches x = 2A at t = T, and returns to x = -2A at t = 2T.",
+      "labels_to_preserve": [
+        "x",
+        "t",
+        "2A",
+        "A",
+        "0",
+        "-A",
+        "-2A",
+        "2T",
+        "4T"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$-\\frac{2\\pi A}{T} \\sin\\left(\\frac{\\pi t}{T}\\right)$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{2\\pi A}{T} \\sin\\left(\\frac{\\pi t}{T}\\right)$"
+      },
+      {
+        "label": "C",
+        "text": "$-\\frac{2\\pi A}{T} \\cos\\left(\\frac{\\pi t}{T}\\right)$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{2\\pi A}{T} \\cos\\left(\\frac{\\pi t}{T}\\right)$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "From the graph, the displacement follows a negative cosine function: $x = -2A \\cos(\\omega t)$. The period of the oscillation is $2T$, so the angular frequency is $\\omega = \\frac{2\\pi}{\\text{period}} = \\frac{2\\pi}{2T} = \\frac{\\pi}{T}$. Thus, $x = -2A \\cos\\left(\\frac{\\pi t}{T}\\right)$. To find the velocity, we differentiate displacement with respect to time: $v = \\frac{dx}{dt} = -2A \\cdot \\left(-\\frac{\\pi}{T}\\right) \\sin\\left(\\frac{\\pi t}{T}\\right) = \\frac{2\\pi A}{T} \\sin\\left(\\frac{\\pi t}{T}\\right)$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2019 HL TZ2 Q16 A.png"
+  },
+  {
+    "id": "May_2019_HL_TZ2_Q17",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ2 Q17 D.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A mass on a spring is displaced from its equilibrium position. Which graph represents the variation of acceleration with displacement for the mass after it is released?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs showing acceleration on the y-axis and displacement on the x-axis. Graph A is a cubic-style curve passing through the origin. Graph B is a parabola opening upwards with its vertex at the origin. Graph C is a straight line with a positive gradient passing through the origin. Graph D is a straight line with a negative gradient passing through the origin.",
+      "labels_to_preserve": [
+        "acceleration",
+        "displacement"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Simple Harmonic Motion (SHM) is defined by the relationship $a \\propto -x$, where $a$ is acceleration and $x$ is displacement. This means the graph of acceleration against displacement must be a straight line passing through the origin with a negative gradient. Only graph D satisfies this condition.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2019 HL TZ2 Q17 D.png"
+  },
+  {
+    "id": "May_2021_HL_TZ1_Q26",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ1 Q26 D.png"
+    },
+    "question_number": 26,
+    "content_markdown": "Which is correct for the tangential acceleration of a simple pendulum at small amplitudes?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "It is inversely proportional to displacement."
+      },
+      {
+        "label": "B",
+        "text": "It is proportional to displacement."
+      },
+      {
+        "label": "C",
+        "text": "It is opposite to displacement."
+      },
+      {
+        "label": "D",
+        "text": "It is proportional and opposite to displacement."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "For a simple pendulum undergoing simple harmonic motion (SHM) at small angles, the restoring force is proportional to the displacement and acts in the opposite direction. Since $F = ma$, the tangential acceleration $a$ must also be proportional to the displacement $x$ and directed towards the equilibrium position (opposite to the displacement), satisfying the SHM condition $a \\propto -x$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2021 HL TZ1 Q26 D.png"
+  },
+  {
+    "id": "May_2021_HL_TZ2_Q11",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ2 Q11 C.png"
+    },
+    "question_number": 11,
+    "content_markdown": "The bob of a pendulum has an initial displacement $x_0$ to the right. The bob is released and allowed to oscillate. The graph shows how the displacement varies with time. At which point is the velocity of the bob at its maximum magnitude directed towards the left?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A displacement-time graph for a simple harmonic oscillator starting at positive maximum displacement x_0. Points A, B, C, and D are marked on the curve.",
+      "labels_to_preserve": [
+        "displacement",
+        "time",
+        "x_0",
+        "0",
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Velocity is the gradient of the displacement-time graph ($v = \\frac{dx}{dt}$). Maximum magnitude occurs when the displacement is zero (equilibrium position), which narrows it down to points A and C. Since the initial displacement $x_0$ was to the right (positive), a velocity directed towards the left corresponds to a negative gradient. At point C, the slope of the graph is negative, indicating the bob is moving back towards the left through the equilibrium position.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2021 HL TZ2 Q11 C.png"
+  },
+  {
+    "id": "May_2021_HL_TZ2_Q19",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Circular Motion",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ2 Q19 A.png"
+    },
+    "question_number": 19,
+    "content_markdown": "An object moves in a circle of constant radius. Values of the centripetal force $F$ are measured for different values of angular velocity $\\omega$. A graph is plotted with $\\omega$ on the $x$-axis. Which quantity plotted on the $y$-axis will produce a straight-line graph?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\sqrt{F}$"
+      },
+      {
+        "label": "B",
+        "text": "$F$"
+      },
+      {
+        "label": "C",
+        "text": "$F^2$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{1}{F}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The centripetal force is given by the formula $F = m\\omega^2 r$. Since $m$ and $r$ are constant, $F \\propto \\omega^2$. To get a straight-line graph with $\\omega$ on the $x$-axis, we need a $y$ variable such that $y \\propto \\omega$. Taking the square root of both sides of the proportionality gives $\\sqrt{F} \\propto \\omega$, so plotting $\\sqrt{F}$ on the $y$-axis results in a linear relationship.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2021 HL TZ2 Q19 A.png"
+  },
+  {
+    "id": "May_2022_HL_TZ2_Q12",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ2 Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A particle undergoes simple harmonic motion. Which quantities of the motion can be simultaneously zero?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Displacement and velocity"
+      },
+      {
+        "label": "B",
+        "text": "Displacement and acceleration"
+      },
+      {
+        "label": "C",
+        "text": "Velocity and acceleration"
+      },
+      {
+        "label": "D",
+        "text": "Displacement, velocity and acceleration"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In Simple Harmonic Motion (SHM), the defining relationship is $a = -\\omega^2 x$. This means that acceleration ($a$) is directly proportional to displacement ($x$). Therefore, whenever displacement is zero (at the equilibrium position), acceleration must also be zero. Conversely, velocity is at its maximum when displacement is zero, and velocity is zero when displacement is at its maximum (the amplitudes).",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2022 HL TZ2 Q12 B.png"
+  },
+  {
+    "id": "May_2022_HL_TZ2_Q29",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ2 Q29 A.png"
+    },
+    "question_number": 29,
+    "content_markdown": "A simple pendulum has a time period $T$ on the Earth. The pendulum is taken to the Moon where the gravitational field strength is $\\frac{1}{6}$ that of the Earth.\n\nWhat is the time period of the pendulum on the Moon?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$T\\sqrt{6}$"
+      },
+      {
+        "label": "B",
+        "text": "$T$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{\\sqrt{6}}{6}T$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{T}{6}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The time period of a simple pendulum is given by $T = 2\\pi\\sqrt{\\frac{l}{g}}$. Since the length $l$ remains constant and the gravitational field strength $g$ decreases by a factor of 6 ($g_{moon} = \\frac{g_{earth}}{6}$), the new time period $T'$ will be proportional to $\\frac{1}{\\sqrt{1/6}}$, which simplifies to $\\sqrt{6}$. Therefore, $T' = T\\sqrt{6}$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/May 2022 HL TZ2 Q29 A.png"
+  },
+  {
+    "id": "Nov_2000_HL_Q10",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Damping and Oscillations",
+    "paper": {
+      "year": 2000,
+      "month": "Nov",
+      "session_label": "Nov 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2000 HL Q10 B.png"
+    },
+    "question_number": 10,
+    "content_markdown": "A mass is suspended from a spring and set into vertical oscillation with a frequency $f$. Because of frictional forces the mass will eventually stop oscillating. At some time during the oscillations the amplitude of oscillation is equal to half its initial amplitude. At this point the frequency of oscillation is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{f}{2}$."
+      },
+      {
+        "label": "B",
+        "text": "$f$."
+      },
+      {
+        "label": "C",
+        "text": "$f\\sqrt{2}$."
+      },
+      {
+        "label": "D",
+        "text": "$2f$."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In simple harmonic motion (SHM) and lightly damped oscillations, the frequency of the system is determined by the physical properties of the oscillator (the mass $m$ and the spring constant $k$ for a mass-spring system, where $f = \\frac{1}{2\\pi}\\sqrt{\\frac{k}{m}}$). While damping causes the amplitude to decrease over time, it does not significantly change the frequency of the oscillation in the context of standard IB Physics problems unless the damping is extremely heavy. Therefore, even when the amplitude is halved, the frequency remains $f$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2000 HL Q10 B.png"
+  },
+  {
+    "id": "Nov_2001_HL_Q20",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Wave characteristics",
+    "paper": {
+      "year": 2001,
+      "month": "Nov",
+      "session_label": "Nov 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2001 HL Q20 B.png"
+    },
+    "question_number": 20,
+    "content_markdown": "Circular water waves are produced by a dipper oscillating up and down into the water. The circles in the diagram represent wave crests moving outward on the water surface.\n\nIf the frequency of the dipper is doubled, the distance between the crests of the waves will",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A top-down view of concentric circular wave crests emanating from a central point labeled 'Dipper'. Four arrows point radially outward from the center.",
+      "labels_to_preserve": [
+        "Dipper"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "remain unchanged."
+      },
+      {
+        "label": "B",
+        "text": "halve."
+      },
+      {
+        "label": "C",
+        "text": "double."
+      },
+      {
+        "label": "D",
+        "text": "quadruple."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The distance between crests is the wavelength $\\lambda$. According to the wave equation $v = f\\lambda$, the wave speed $v$ is determined by the medium (water). If the frequency $f$ is doubled while $v$ remains constant, the wavelength $\\lambda$ must be halved to satisfy the equation.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2001 HL Q20 B.png"
+  },
+  {
+    "id": "Nov_2002_HL_Q11",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2002,
+      "month": "Nov",
+      "session_label": "Nov 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2002 HL Q11 D.png"
+    },
+    "question_number": 11,
+    "content_markdown": "A mass on the end of a spring undergoes simple harmonic motion about an equilibrium position as shown below.\n\nIf the upward direction is taken as positive, which graph best represents how the **acceleration** of the mass varies with **displacement** from the equilibrium position?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A mass hanging from a vertical spring attached to a ceiling. A dashed line indicates the equilibrium position. An arrow labeled 'Displacement' points upwards from the equilibrium line.",
+      "labels_to_preserve": [
+        "Displacement",
+        "Equilibrium position",
+        "Acceleration"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A graph showing a sinusoidal curve starting at the origin, going positive for negative displacement and negative for positive displacement."
+      },
+      {
+        "label": "B",
+        "text": "A graph showing a sinusoidal curve starting at the origin, going negative for negative displacement and positive for positive displacement."
+      },
+      {
+        "label": "C",
+        "text": "A graph showing a straight line with a positive gradient passing through the origin."
+      },
+      {
+        "label": "D",
+        "text": "A graph showing a straight line with a negative gradient passing through the origin."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The defining characteristic of Simple Harmonic Motion (SHM) is that the acceleration $a$ is directly proportional to the displacement $x$ and directed towards the equilibrium position. This is expressed mathematically as $a = -\\omega^2 x$. This relationship is linear (a straight line) and has a negative gradient because the acceleration always opposes the displacement.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2002 HL Q11 D.png"
+  },
+  {
+    "id": "Nov_2010_HL_Q12",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2010,
+      "month": "Nov",
+      "session_label": "Nov 2010",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2010 HL Q12 D.png"
+    },
+    "question_number": 12,
+    "content_markdown": "Which of the following graphs shows the variation with displacement $x$ of the speed $v$ of a particle performing simple harmonic motion?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs labeled A, B, C, and D showing different curves on a v-x coordinate system. Graph A shows a bell-shaped curve crossing the x-axis. Graph B shows a sine-wave-like curve passing through the origin. Graph C shows a parabola opening upwards with its vertex at the origin. Graph D shows a semi-elliptical or parabolic curve opening downwards with its maximum at x=0 and speed always non-negative.",
+      "labels_to_preserve": [
+        "v",
+        "x",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In Simple Harmonic Motion (SHM), the relationship between velocity $v$ and displacement $x$ is given by $v = \\pm \\omega \\sqrt{x_0^2 - x^2}$. Since the question asks for 'speed', we consider the magnitude $|v|$. Speed is maximum at the equilibrium position ($x=0$) and zero at the maximum displacement ($x = \\pm x_0$). Furthermore, speed is a scalar and must be non-negative, which eliminates graphs that show negative values for $v$. Graph D correctly shows a maximum speed at the origin and zero speed at the amplitudes, while remaining positive throughout.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2010 HL Q12 D.png"
+  },
+  {
+    "id": "Nov_2010_HL_Q13",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2010,
+      "month": "Nov",
+      "session_label": "Nov 2010",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2010 HL Q13 D.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A particle performs simple harmonic oscillations. Which of the following quantities will be unaffected by a reduction in the amplitude of oscillations?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The total energy"
+      },
+      {
+        "label": "B",
+        "text": "The maximum speed"
+      },
+      {
+        "label": "C",
+        "text": "The maximum acceleration"
+      },
+      {
+        "label": "D",
+        "text": "The period"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In Simple Harmonic Motion (SHM), the period $T$ is independent of the amplitude $x_0$. This is a defining characteristic of isochronous oscillations. Conversely, total energy $E \\propto x_0^2$, maximum speed $v_{max} = \\omega x_0$, and maximum acceleration $a_{max} = \\omega^2 x_0$ all depend directly on the amplitude.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2010 HL Q13 D.png"
+  },
+  {
+    "id": "Nov_2011_HL_Q13",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2011,
+      "month": "Nov",
+      "session_label": "Nov 2011",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2011 HL Q13 B.png"
+    },
+    "question_number": 13,
+    "content_markdown": "The diagram shows the variation of velocity $v$ with time $t$ for an object performing simple harmonic motion.\n\nWhich of the following shows how the acceleration $a$ varies with $t$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph of velocity v against time t starting at the origin (0,0) and following a sine wave pattern.",
+      "labels_to_preserve": [
+        "v",
+        "t",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A graph of acceleration a against time t starting at (0,0) and following a sine wave pattern."
+      },
+      {
+        "label": "B",
+        "text": "A graph of acceleration a against time t starting at a maximum positive value and following a cosine wave pattern."
+      },
+      {
+        "label": "C",
+        "text": "A graph of acceleration a against time t starting at (0,0) and following a negative sine wave pattern."
+      },
+      {
+        "label": "D",
+        "text": "A graph of acceleration a against time t starting at a maximum negative value and following a negative cosine wave pattern."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Acceleration is the derivative of velocity with respect to time ($a = \\frac{dv}{dt}$). In the provided $v-t$ graph, the velocity starts at zero and has its maximum positive gradient at $t=0$. Therefore, the acceleration graph must start at its maximum positive value at $t=0$, which corresponds to a cosine function.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2011 HL Q13 B.png"
+  },
+  {
+    "id": "Nov_2011_HL_Q18",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2011,
+      "month": "Nov",
+      "session_label": "Nov 2011",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2011 HL Q18 A.png"
+    },
+    "question_number": 18,
+    "content_markdown": "The equation for the velocity of an object performing simple harmonic motion is $v = v_0 \\sin \\omega t$. Which of the following is a correct alternative form of the equation?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the question.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$v = v_0 \\sin \\left( \\frac{2\\pi}{T} \\right) t$"
+      },
+      {
+        "label": "B",
+        "text": "$v = v_0 \\sin \\left( \\frac{t}{T} \\right)$"
+      },
+      {
+        "label": "C",
+        "text": "$v = v_0 \\sin 2\\pi Tt$"
+      },
+      {
+        "label": "D",
+        "text": "$v = v_0 \\sin \\left( \\frac{T}{2\\pi} \\right) t$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In simple harmonic motion, the angular frequency $\\omega$ is related to the time period $T$ by the relationship $\\omega = \\frac{2\\pi}{T}$. Substituting this into the original equation $v = v_0 \\sin \\omega t$ gives $v = v_0 \\sin \\left( \\frac{2\\pi}{T} \\right) t$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2011 HL Q18 A.png"
+  },
+  {
+    "id": "Nov_2012_HL_Q13",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2012,
+      "month": "Nov",
+      "session_label": "Nov 2012",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2012 HL Q13 A.png"
+    },
+    "question_number": 13,
+    "content_markdown": "An object undergoes simple harmonic motion. Which graph shows the relationship between the acceleration $a$ and the displacement $x$ from the equilibrium position?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs showing acceleration 'a' on the vertical axis and displacement 'x' on the horizontal axis. Graph A is a straight line with a negative gradient passing through the origin. Graph B is a straight line with a positive gradient passing through the origin. Graph C is a curve with a negative gradient passing through the origin. Graph D is a curve with a positive gradient passing through the origin.",
+      "labels_to_preserve": [
+        "a",
+        "x",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The defining characteristic of Simple Harmonic Motion (SHM) is that the acceleration is directly proportional to the displacement and directed towards the equilibrium position. Mathematically, this is expressed as $a = -\\omega^2 x$. This equation represents a straight line passing through the origin with a constant negative gradient ($-\\omega^2$). Therefore, graph A is the only one that correctly represents this linear, negative relationship.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2012 HL Q13 A.png"
+  },
+  {
+    "id": "Nov_2013_HL_Q10",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2013,
+      "month": "Nov",
+      "session_label": "Nov 2013",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2013 HL Q10 D.png"
+    },
+    "question_number": 10,
+    "content_markdown": "For a body undergoing simple harmonic motion the velocity and acceleration are",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "always in the same direction."
+      },
+      {
+        "label": "B",
+        "text": "always in opposite directions."
+      },
+      {
+        "label": "C",
+        "text": "in the same direction for a quarter of the period."
+      },
+      {
+        "label": "D",
+        "text": "in the same direction for half the period."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In SHM, acceleration is always directed towards the equilibrium position. Velocity is directed towards equilibrium when the body is moving back from an extreme, and away from equilibrium when moving towards an extreme. Specifically, they are in the same direction when the object is moving towards the center (speeding up) and in opposite directions when moving away from the center (slowing down). Each of these phases lasts for exactly half of the total period.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2013 HL Q10 D.png"
+  },
+  {
+    "id": "Nov_2014_HL_Q10",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2014,
+      "month": "Nov",
+      "session_label": "Nov 2014",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2014 HL Q10 A.png"
+    },
+    "question_number": 10,
+    "content_markdown": "A body moves with simple harmonic motion (SHM) with period $T$ and total energy $E_{\\text{T}}$. What is the total energy when the period of the motion is changed to $5T$ and the amplitude of the motion remains constant?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0.04 E_{\\text{T}}$"
+      },
+      {
+        "label": "B",
+        "text": "$0.2 E_{\\text{T}}$"
+      },
+      {
+        "label": "C",
+        "text": "$5 E_{\\text{T}}$"
+      },
+      {
+        "label": "D",
+        "text": "$25 E_{\\text{T}}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The total energy $E_{\\text{T}}$ in SHM is proportional to the square of the frequency ($f^2$) or inversely proportional to the square of the period ($1/T^2$), since $E = \\frac{1}{2}m\\omega^2x_0^2$ and $\\omega = \\frac{2\\pi}{T}$. If the period $T$ increases by a factor of 5, the energy changes by a factor of $(1/5)^2 = 1/25$. Calculating $1/25$ gives $0.04$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2014 HL Q10 A.png"
+  },
+  {
+    "id": "Nov_2016_HL_Q12",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2016,
+      "month": "Nov",
+      "session_label": "Nov 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2016 HL Q12 D.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A particle oscillates with simple harmonic motion (shm) of period $T$. Which graph shows the variation with time of the kinetic energy of the particle?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs labeled A, B, C, and D showing kinetic energy on the y-axis and time on the x-axis from 0 to T. Graph A shows a cosine wave going into negative values. Graph B shows a positive-only cosine-squared-like wave with one full cycle over period T. Graph C shows a wave with two cycles over period T that goes into negative values. Graph D shows a positive-only wave with two full cycles over period T.",
+      "labels_to_preserve": [
+        "kinetic energy",
+        "time",
+        "0",
+        "T"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Kinetic energy is given by $E_k = \\frac{1}{2}mv^2$. Since velocity $v$ is a sinusoidal function of time, $v^2$ must always be positive (eliminating A and C). Furthermore, in one full period $T$ of displacement, the particle passes through the equilibrium position (maximum speed) twice and the extremes (zero speed) twice. Therefore, the kinetic energy completes two full cycles in one period $T$ of the oscillation.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2016 HL Q12 D.png"
+  },
+  {
+    "id": "Nov_2016_HL_Q26",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2016,
+      "month": "Nov",
+      "session_label": "Nov 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2016 HL Q26 C.png"
+    },
+    "question_number": 26,
+    "content_markdown": "A particle is oscillating with simple harmonic motion (shm) of amplitude $x_0$ and maximum kinetic energy $E_k$. What is the potential energy of the system when the particle is a distance $0.20 x_0$ from its maximum displacement?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0.20 E_k$"
+      },
+      {
+        "label": "B",
+        "text": "$0.36 E_k$"
+      },
+      {
+        "label": "C",
+        "text": "$0.64 E_k$"
+      },
+      {
+        "label": "D",
+        "text": "$0.80 E_k$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In SHM, the maximum kinetic energy $E_k$ is equal to the total energy of the system, which is also the maximum potential energy $E_p = \\frac{1}{2} k x_0^2$. The question asks for the potential energy when the particle is $0.20 x_0$ away from the maximum displacement. Since maximum displacement is $x_0$, the current displacement $x$ is $x_0 - 0.20 x_0 = 0.80 x_0$. Potential energy is proportional to the square of the displacement: $E_p \\propto x^2$. Therefore, the potential energy at this point is $(0.80)^2$ times the maximum energy, which is $0.64 E_k$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2016 HL Q26 C.png"
+  },
+  {
+    "id": "Nov_2017_HL_Q11",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2017,
+      "month": "Nov",
+      "session_label": "Nov 2017",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2017 HL Q11 B.png"
+    },
+    "question_number": 11,
+    "content_markdown": "The graph shows the variation with position $s$ of the displacement $x$ of a wave undergoing simple harmonic motion (SHM).\n\nWhat is the magnitude of the velocity at the displacements X, Y and Z?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph of displacement x against position s showing a sinusoidal wave. Point X is at a negative peak (maximum displacement), point Y is at the equilibrium position (zero displacement), and point Z is at the equilibrium position (zero displacement).",
+      "labels_to_preserve": [
+        "x",
+        "s",
+        "0",
+        "X",
+        "Y",
+        "Z"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "X: maximum; Y: zero; Z: maximum"
+      },
+      {
+        "label": "B",
+        "text": "X: zero; Y: maximum; Z: maximum"
+      },
+      {
+        "label": "C",
+        "text": "X: maximum; Y: maximum; Z: zero"
+      },
+      {
+        "label": "D",
+        "text": "X: zero; Y: maximum; Z: zero"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In Simple Harmonic Motion, the magnitude of velocity is zero at the points of maximum displacement (the turning points) and reaches its maximum value when the displacement is zero (the equilibrium position). Looking at the graph: Point X is at a maximum displacement (a trough), so velocity is zero. Points Y and Z are at the equilibrium position (x = 0), so velocity is maximum at both.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2017 HL Q11 B.png"
+  },
+  {
+    "id": "Nov_2017_HL_Q27",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2017,
+      "month": "Nov",
+      "session_label": "Nov 2017",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2017 HL Q27 B.png"
+    },
+    "question_number": 27,
+    "content_markdown": "A spring loaded with mass $m$ oscillates with simple harmonic motion. The amplitude of the motion is $A$ and the spring has total energy $E$. What is the total energy of the spring when the mass is increased to $3m$ and the amplitude is increased to $2A$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$2E$"
+      },
+      {
+        "label": "B",
+        "text": "$4E$"
+      },
+      {
+        "label": "C",
+        "text": "$12E$"
+      },
+      {
+        "label": "D",
+        "text": "$18E$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The total energy of a mass-spring system in SHM is given by $E = \\frac{1}{2}kA^2$, where $k$ is the spring constant and $A$ is the amplitude. Notice that the total energy depends only on the spring constant and the square of the amplitude; it is independent of the mass $m$. Therefore, if the amplitude is doubled ($2A$), the energy becomes proportional to $(2A)^2$, which is $4A^2$. This results in a total energy of $4E$ regardless of the change in mass.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2017 HL Q27 B.png"
+  },
+  {
+    "id": "Nov_2018_HL_Q26",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2018,
+      "month": "Nov",
+      "session_label": "Nov 2018",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2018 HL Q26 C.png"
+    },
+    "question_number": 26,
+    "content_markdown": "An object undergoing simple harmonic motion (SHM) has a period $T$ and total energy $E$. The amplitude of oscillations is halved. What are the new period and total energy of the system?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) with columns for 'Period' and 'Total energy'.",
+      "labels_to_preserve": [
+        "Period",
+        "Total energy",
+        "T",
+        "E"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Period: $\\frac{T}{2}$, Total energy: $\\frac{E}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "Period: $\\frac{T}{2}$, Total energy: $\\frac{E}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "Period: $T$, Total energy: $\\frac{E}{4}$"
+      },
+      {
+        "label": "D",
+        "text": "Period: $T$, Total energy: $\\frac{E}{2}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In SHM, the period $T$ is independent of the amplitude (it only depends on the properties of the system like mass and spring constant). However, the total energy $E$ is proportional to the square of the amplitude ($E \\propto A^2$). If the amplitude is halved ($A \\to \\frac{1}{2}A$), the energy becomes $(\\frac{1}{2})^2 = \\frac{1}{4}$ of the original value.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2018 HL Q26 C.png"
+  },
+  {
+    "id": "Nov_2019_HL_Q26",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2019,
+      "month": "Nov",
+      "session_label": "Nov 2019",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2019 HL Q26 A.png"
+    },
+    "question_number": 26,
+    "content_markdown": "An object undergoes simple harmonic motion (shm) of amplitude $x_0$. When the displacement of the object is $\\frac{x_0}{3}$, the speed of the object is $v$. What is the speed when the displacement is $x_0$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{v}{3}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{\\sqrt{2}}{3}v$"
+      },
+      {
+        "label": "D",
+        "text": "$3v$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In simple harmonic motion, the amplitude $x_0$ represents the maximum displacement from the equilibrium position. At the maximum displacement (the turning points), the velocity of the object is instantaneously zero because all the energy is stored as potential energy and the object is changing direction.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2019 HL Q26 A.png"
+  },
+  {
+    "id": "Nov_2020_HL_Q10",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2020,
+      "month": "Nov",
+      "session_label": "Nov 2020",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2020 HL Q10 D.png"
+    },
+    "question_number": 10,
+    "content_markdown": "An object moves with simple harmonic motion. The acceleration of the object is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "constant."
+      },
+      {
+        "label": "B",
+        "text": "always directed away from the centre of the oscillation."
+      },
+      {
+        "label": "C",
+        "text": "a maximum at the centre of the oscillation."
+      },
+      {
+        "label": "D",
+        "text": "a maximum at the extremes of the oscillation."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In Simple Harmonic Motion (SHM), the defining relationship is $a = -\\omega^2 x$. This means acceleration is proportional to displacement but in the opposite direction (restoring). Therefore, acceleration is zero at the equilibrium position ($x=0$) and reaches its maximum magnitude when the displacement is at its maximum (the extremes of the oscillation).",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2020 HL Q10 D.png"
+  },
+  {
+    "id": "Nov_2020_HL_Q27",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2020,
+      "month": "Nov",
+      "session_label": "Nov 2020",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2020 HL Q27 C.png"
+    },
+    "question_number": 27,
+    "content_markdown": "A simple pendulum and a mass\u2013spring system oscillate with the same time period. The mass of the pendulum bob and the mass on the spring are initially identical. The masses are halved.\n\nWhat is $\\frac{\\text{time period of pendulum}}{\\text{time period of mass--spring system}}$ when the masses have been changed?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{\\sqrt{2}}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "1"
+      },
+      {
+        "label": "C",
+        "text": "$\\sqrt{2}$"
+      },
+      {
+        "label": "D",
+        "text": "2"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The time period of a simple pendulum is $T_p = 2\\pi\\sqrt{\\frac{l}{g}}$, which is independent of mass. Therefore, $T_p$ remains unchanged when the mass is halved. The time period of a mass-spring system is $T_s = 2\\pi\\sqrt{\\frac{m}{k}}$. When the mass $m$ is halved, the new period becomes $T_s' = 2\\pi\\sqrt{\\frac{m/2}{k}} = \\frac{T_s}{\\sqrt{2}}$. Since initially $T_p = T_s$, the new ratio is $\\frac{T_p}{T_s / \\sqrt{2}} = \\sqrt{2}$.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2020 HL Q27 C.png"
+  },
+  {
+    "id": "Nov_2021_HL_Q26",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2021,
+      "month": "Nov",
+      "session_label": "Nov 2021",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2021 HL Q26 D.png"
+    },
+    "question_number": 26,
+    "content_markdown": "A simple pendulum undergoes simple harmonic motion. The gravitational potential energy of the pendulum is zero at the equilibrium position. How many times during **one** oscillation is the kinetic energy of the pendulum equal to its gravitational potential energy?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In one full oscillation, the pendulum moves from one extreme to the other and back. Kinetic energy ($E_k$) and gravitational potential energy ($E_p$) are equal when each is half of the total energy. This occurs twice between the equilibrium and each extreme. Since there are four 'quarters' of a full cycle (equilibrium to right, right to equilibrium, equilibrium to left, left to equilibrium), and the condition $E_k = E_p$ is met once in each quarter, it happens a total of 4 times.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2021 HL Q26 D.png"
+  },
+  {
+    "id": "Nov_2022_HL_Q13",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2022,
+      "month": "Nov",
+      "session_label": "Nov 2022",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2022 HL Q13 A.png"
+    },
+    "question_number": 13,
+    "content_markdown": "An object oscillates at the free end of a vertical spring. The graph shows the variation of the object's position with time.\n\nAt which position does the object have zero velocity and a negative acceleration?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A sinusoidal graph of position versus time for an oscillating object. Points A, B, C, and D are marked on the curve. A is at the first peak, B is at the first equilibrium crossing (moving downwards), C is at the first trough, and D is at the second equilibrium crossing (moving upwards).",
+      "labels_to_preserve": [
+        "position",
+        "time",
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In simple harmonic motion, velocity is zero at the extremes (peaks and troughs) where the gradient of the position-time graph is zero. Acceleration is proportional to the negative of the displacement ($a \\propto -x$). Therefore, for acceleration to be negative, the displacement must be positive. Point A is at a positive maximum displacement, meaning velocity is zero and acceleration is at its most negative value.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2022 HL Q13 A.png"
+  },
+  {
+    "id": "Specimen_2016_HL_Q11",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2016,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2016 HL Q11 C.png"
+    },
+    "question_number": 11,
+    "content_markdown": "In simple harmonic motion, the velocity leads the displacement by a phase angle $\\phi$. What is the value of $\\phi$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Zero"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{\\pi}{4}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{\\pi}{2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\pi$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In SHM, if displacement is $x = A \\cos(\\omega t)$, then velocity is $v = -A\\omega \\sin(\\omega t) = A\\omega \\cos(\\omega t + \\frac{\\pi}{2})$. This shows that the velocity function is shifted ahead of the displacement function by a quarter cycle, which corresponds to a phase difference of $\\pi/2$ radians.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Specimen Paper 2016 HL Q11 C.png"
+  },
+  {
+    "id": "Specimen_2025_HL_Q19",
+    "topic": "Simple Harmonic Motion",
+    "topic_code": "C1",
+    "sub_topic": "Simple Harmonic Motion",
+    "paper": {
+      "year": 2025,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2025",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2025 HL Q19 C.png"
+    },
+    "question_number": 19,
+    "content_markdown": "A particle undergoes simple harmonic motion of period $T$. At time $t = 0$ the particle is at its equilibrium position.\n\nWhat is $t$ when the particle is at its greatest distance from the equilibrium position?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{T}{8}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{T}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{3T}{4}$"
+      },
+      {
+        "label": "D",
+        "text": "$T$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In simple harmonic motion starting from equilibrium ($x=0$ at $t=0$), the displacement follows a sine function $x(t) = A \\sin(\\omega t)$. The particle reaches its greatest distance (amplitude) at $t = \\frac{T}{4}$ and $t = \\frac{3T}{4}$. Among the given options, $\\frac{3T}{4}$ is the only one that corresponds to a point of maximum displacement.",
+    "source_image_path": "C1-Simple-Harmonic-Motion/Specimen Paper 2025 HL Q19 C.png"
+  }
+]

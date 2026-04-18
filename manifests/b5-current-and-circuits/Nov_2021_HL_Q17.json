@@ -1,0 +1,26 @@
+{
+  "id": "Nov_2021_HL_Q17",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "",
+  "paper": {
+    "year": 2021,
+    "month": "Nov",
+    "session_label": "Nov 2021",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2021 HL Q17 C.png"
+  },
+  "question_number": 17,
+  "correct_answer": "C",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "B5-Current-and-Circuits/Nov 2021 HL Q17 C.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

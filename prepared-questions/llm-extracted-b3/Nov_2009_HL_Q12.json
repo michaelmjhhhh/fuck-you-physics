@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2009_HL_Q12",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2009,
+    "month": "Nov",
+    "session_label": "Nov 2009",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2009 HL Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "The behaviour of real gases is different from that predicted for ideal gases. Which of the following statements about real gases is **not** correct?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Gas molecules have potential energy."
+    },
+    {
+      "label": "B",
+      "text": "Forces between gas molecules are always negligible."
+    },
+    {
+      "label": "C",
+      "text": "Gas molecules have volume."
+    },
+    {
+      "label": "D",
+      "text": "Real gases can liquefy."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Ideal gases are defined by assumptions such as having zero molecular volume and zero intermolecular forces (except during collisions). Real gases deviate from this because their molecules do have a finite volume and exert attractive/repulsive forces on each other. Therefore, saying these forces are 'always negligible' for real gases is incorrect, especially at high pressures or low temperatures where real gases can even liquefy due to these forces.",
+  "source_image_path": "B3-Gas-Laws/Nov 2009 HL Q12 B.png"
+}

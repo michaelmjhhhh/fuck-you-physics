@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2004_HL_Q16",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2004,
+    "month": "Nov",
+    "session_label": "Nov 2004",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2004 HL Q16 C.png"
+  },
+  "question_number": 16,
+  "content_markdown": "A temperature scale is to be constructed using the property $X$ of a substance.\n\nWhich of the following must be a characteristic of the property $X$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The value of the property must be zero at zero kelvin."
+    },
+    {
+      "label": "B",
+      "text": "The property must increase with increase of temperature."
+    },
+    {
+      "label": "C",
+      "text": "The property must have a different value at each temperature to be measured."
+    },
+    {
+      "label": "D",
+      "text": "The value of the property must vary linearly with kelvin temperature."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "To function as a thermometric property, there must be a unique mapping between the property and the temperature. If the property had the same value at two different temperatures, the scale would be ambiguous. While linearity (D) is convenient for simple scales, it is not strictly required as long as the relationship is known and monotonic (different values for different temperatures).",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2004 HL Q16 C.png"
+}

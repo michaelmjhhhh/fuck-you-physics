@@ -1,0 +1,46 @@
+{
+  "id": "May_2015_HL_TZ1_Q9",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ1 Q9 A.png"
+  },
+  "question_number": 9,
+  "content_markdown": "A fixed mass of an ideal gas undergoes an isochoric (isovolumetric) change. This increases the pressure of the gas. Which describes the change of internal energy of the gas and the direction of transfer of thermal energy?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A-D) with columns for 'Internal energy' and 'Direction of transfer of thermal energy'.",
+    "labels_to_preserve": [
+      "Internal energy",
+      "Direction of transfer of thermal energy"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Internal energy: increase; Direction of transfer of thermal energy: to the gas"
+    },
+    {
+      "label": "B",
+      "text": "Internal energy: increase; Direction of transfer of thermal energy: from the gas"
+    },
+    {
+      "label": "C",
+      "text": "Internal energy: decrease; Direction of transfer of thermal energy: to the gas"
+    },
+    {
+      "label": "D",
+      "text": "Internal energy: decrease; Direction of transfer of thermal energy: from the gas"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In an isochoric process, the volume is constant, so no work is done ($W = 0$). According to the ideal gas law ($PV = nRT$), if pressure increases at constant volume, the temperature must increase. Since internal energy of an ideal gas is proportional to temperature, internal energy increases. By the first law of thermodynamics ($Q = \\Delta U + W$), if $\\Delta U$ is positive and $W$ is zero, $Q$ must be positive, meaning thermal energy is transferred to the gas.",
+  "source_image_path": "B3-Gas-Laws/May 2015 HL TZ1 Q9 A.png"
+}

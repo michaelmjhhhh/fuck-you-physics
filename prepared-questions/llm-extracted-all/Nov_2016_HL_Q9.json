@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2016_HL_Q9",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2016,
+    "month": "Nov",
+    "session_label": "Nov 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2016 HL Q9 D.png"
+  },
+  "question_number": 9,
+  "content_markdown": "Energy is supplied at a constant rate to a fixed mass of a material. The material begins as a solid. The graph shows the variation of the temperature of the material with time.\n\nThe specific heat capacities of the solid, liquid and gaseous forms of the material are $c_s$, $c_l$ and $c_g$ respectively. What can be deduced about the values of $c_s$, $c_l$ and $c_g$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A temperature-time graph showing three sloped regions separated by two horizontal plateaus. The first slope (solid) is the steepest, the second slope (liquid) is the least steep, and the third slope (gas) has an intermediate steepness.",
+    "labels_to_preserve": [
+      "temperature",
+      "time"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$c_s \u003e c_g \u003e c_l$"
+    },
+    {
+      "label": "B",
+      "text": "$c_l \u003e c_s \u003e c_g$"
+    },
+    {
+      "label": "C",
+      "text": "$c_l \u003e c_g \u003e c_s$"
+    },
+    {
+      "label": "D",
+      "text": "$c_g \u003e c_s \u003e c_l$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Since energy is supplied at a constant rate ($P = \\frac{Q}{t}$), the power is constant. From the specific heat formula $Q = mc\\Delta T$, we can derive $P = mc\\frac{\\Delta T}{t}$, which means the gradient of the temperature-time graph is $\\frac{\\Delta T}{t} = \\frac{P}{mc}$. Because $P$ and $m$ are constant, the specific heat capacity $c$ is inversely proportional to the gradient of the graph. Looking at the slopes: the liquid phase has the shallowest gradient (highest $c$), the gas phase has a medium gradient, and the solid phase has the steepest gradient (lowest $c$). Therefore, $c_l \u003e c_g \u003e c_s$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2016 HL Q9 D.png"
+}

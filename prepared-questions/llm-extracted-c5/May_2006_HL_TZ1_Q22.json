@@ -1,0 +1,48 @@
+{
+  "id": "May_2006_HL_TZ1_Q22",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ1 Q22 B.png"
+  },
+  "question_number": 22,
+  "content_markdown": "A point source is moving at a constant speed in a straight-line towards the right and emits sound waves of constant frequency. The speed of the source is less than the speed of sound. Which of the diagrams correctly shows the wavefronts emitted by the source?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four diagrams (A, B, C, D) showing circular wavefronts emitted by a source moving to the right. Diagram A shows wavefronts touching at the right edge. Diagram B shows wavefronts bunched on the right but not touching. Diagrams C and D show wavefronts crossing each other or the source leading the wavefronts.",
+    "labels_to_preserve": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "When a source moves slower than the speed of sound ($v_s \u003c v$), the wavefronts bunch up in the direction of motion (to the right) because the source 'catches up' slightly to the previously emitted waves. However, since it is slower than sound, the wavefronts never cross each other and the source remains inside the most recently emitted wavefront. Diagram B correctly illustrates this bunching effect without the wavefronts touching (which would imply $v_s = v$) or crossing (which would imply $v_s \u003e v$).",
+  "source_image_path": "C5-Doppler-Effect/May 2006 HL TZ1 Q22 B.png"
+}

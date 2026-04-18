@@ -1,0 +1,46 @@
+{
+  "id": "May_2010_HL_TZ2_Q13",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Doppler effect",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ2 Q13 A.png"
+  },
+  "question_number": 13,
+  "content_markdown": "A man standing by the shore observes sea waves approaching at a frequency of $0.20\\text{ Hz}$. A man on a boat observes that waves are approaching the boat at a frequency of $0.50\\text{ Hz}$. The speed of the waves is $2.0\\text{ m s}^{-1}$. Which of the following gives a possible value for the speed of the boat and its direction?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) with columns for Speed in m/s and Direction.",
+    "labels_to_preserve": [
+      "Speed / m s^{-1}",
+      "Direction"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Speed: 3.0; Direction: away from the shore"
+    },
+    {
+      "label": "B",
+      "text": "Speed: 3.0; Direction: towards the shore"
+    },
+    {
+      "label": "C",
+      "text": "Speed: 1.2; Direction: away from the shore"
+    },
+    {
+      "label": "D",
+      "text": "Speed: 1.2; Direction: towards the shore"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "First, find the wavelength using the shore observer: $\\lambda = v/f = 2.0 / 0.20 = 10\\text{ m}$. For the boat observer, the relative frequency is higher ($0.50\\text{ Hz}$), meaning the boat must be moving towards the source of the waves (away from the shore). The relative speed of the waves to the boat is $v_{rel} = f' \\lambda = 0.50 \\times 10 = 5.0\\text{ m s}^{-1}$. Since the waves move at $2.0\\text{ m s}^{-1}$ and the boat moves towards them, the boat's speed $v_b$ satisfies $v_{rel} = v_w + v_b$, so $5.0 = 2.0 + v_b$, giving $v_b = 3.0\\text{ m s}^{-1}$.",
+  "source_image_path": "C2-Wave-Model/May 2010 HL TZ2 Q13 A.png"
+}

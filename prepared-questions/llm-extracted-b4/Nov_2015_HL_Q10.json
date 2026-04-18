@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2015_HL_Q10",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Entropy and the Second Law of Thermodynamics",
+  "paper": {
+    "year": 2015,
+    "month": "Nov",
+    "session_label": "Nov 2015",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2015 HL Q10 D.png"
+  },
+  "question_number": 10,
+  "content_markdown": "A system consists of a refrigerator with its door open operating in a thermally insulated room. What are the change in the entropy of the system and the change in temperature of the room?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four combinations of entropy change of the system and temperature change of the room.",
+    "labels_to_preserve": [
+      "Entropy change of system",
+      "Temperature change of room"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Entropy change of system: decreases; Temperature change of room: decreases"
+    },
+    {
+      "label": "B",
+      "text": "Entropy change of system: decreases; Temperature change of room: increases"
+    },
+    {
+      "label": "C",
+      "text": "Entropy change of system: increases; Temperature change of room: decreases"
+    },
+    {
+      "label": "D",
+      "text": "Entropy change of system: increases; Temperature change of room: increases"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "According to the Second Law of Thermodynamics, the total entropy of an isolated system (the insulated room) must increase in any real process. Furthermore, while the refrigerator moves heat from its interior to its exterior, it also consumes electrical energy to do work. This electrical energy is eventually dissipated as heat within the room. Since the room is thermally insulated, this additional energy causes the temperature of the room to increase.",
+  "source_image_path": "B4-Thermodynamics/Nov 2015 HL Q10 D.png"
+}

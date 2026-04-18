@@ -1,0 +1,47 @@
+{
+  "id": "May_2017_HL_TZ1_Q28",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ1 Q28 A.png"
+  },
+  "question_number": 28,
+  "content_markdown": "A train moving at speed $u$ relative to the ground, sounds a whistle of constant frequency $f$ as it moves towards a vertical cliff face.\n\nThe sound from the whistle reaches the cliff face and is reflected back to the train. The speed of sound in stationary air is $c$.\n\nWhat whistle frequency is observed on the train after the reflection?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a train on a track moving with velocity u towards a vertical cliff face. An arrow indicates the direction of motion.",
+    "labels_to_preserve": [
+      "u",
+      "train",
+      "cliff face"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{(c + u)}{(c - u)} f$"
+    },
+    {
+      "label": "B",
+      "text": "$(c + u) f$"
+    },
+    {
+      "label": "C",
+      "text": "$(c - u) f$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{(c - u)}{(c + u)} f$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "This is a double Doppler effect problem. First, the cliff acts as a stationary observer receiving sound from a moving source (the train), so the frequency at the cliff is $f' = f \\frac{c}{c - u}$. Second, the cliff acts as a stationary source reflecting that frequency $f'$, and the train acts as a moving observer moving towards the source, so the final frequency is $f'' = f' \\frac{c + u}{c}$. Substituting $f'$ into the second equation gives $f'' = f \\frac{c + u}{c - u}$.",
+  "source_image_path": "C5-Doppler-Effect/May 2017 HL TZ1 Q28 A.png"
+}

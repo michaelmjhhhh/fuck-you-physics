@@ -1,0 +1,43 @@
+{
+  "id": "May_2001_HL_Q23",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2001,
+    "month": "May",
+    "session_label": "May 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2001 HL Q23 C.png"
+  },
+  "question_number": 23,
+  "content_markdown": "Let the average translational kinetic energy, at a temperature $T$, of helium (molar mass $4\\text{ g mol}^{-1}$) be $K$. The average translational kinetic energy, at the same temperature, of neon (molar mass $20\\text{ g mol}^{-1}$) would be",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$5K$"
+    },
+    {
+      "label": "B",
+      "text": "$\\sqrt{5}K$"
+    },
+    {
+      "label": "C",
+      "text": "$K$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{1}{5}K$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The average translational kinetic energy of an ideal gas molecule is given by the equation $E_k = \\frac{3}{2}k_B T$. This formula shows that the kinetic energy depends solely on the absolute temperature $T$ and is independent of the mass or identity of the gas molecule. Since both helium and neon are at the same temperature $T$, their average translational kinetic energies must be identical.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2001 HL Q23 C.png"
+}

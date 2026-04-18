@@ -1,0 +1,43 @@
+{
+  "id": "May_2021_HL_TZ2_Q24",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ2 Q24 B.png"
+  },
+  "question_number": 24,
+  "content_markdown": "What is the main role of carbon dioxide in the greenhouse effect?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "It absorbs incoming radiation from the Sun."
+    },
+    {
+      "label": "B",
+      "text": "It absorbs outgoing radiation from the Earth."
+    },
+    {
+      "label": "C",
+      "text": "It reflects incoming radiation from the Sun."
+    },
+    {
+      "label": "D",
+      "text": "It reflects outgoing radiation from the Earth."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Greenhouse gases like carbon dioxide are transparent to short-wavelength radiation from the Sun but absorb long-wavelength (infrared) radiation emitted by the Earth's surface. This absorption traps energy in the atmosphere, leading to the greenhouse effect.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2021 HL TZ2 Q24 B.png"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "Specimen_2025_HL_Q20",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2025,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2025",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2025 HL Q20 C.png"
+  },
+  "question_number": 20,
+  "content_markdown": "Diagram 1 shows the variation with position of the displacement of a standing wave formed on a string.\n\nDiagram 2 shows the variation with position of the displacement of a travelling wave moving to the right along a string.\n\nPoints P, Q, R and S are points on the string.\n\nWhat is the phase difference between P and Q and the phase difference between R and S?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two graphs showing displacement vs position. Diagram 1 is a standing wave with points P and Q located in the same loop (between the same two nodes). Diagram 2 is a travelling wave with points R and S separated by a horizontal distance of one-quarter of a wavelength.",
+    "labels_to_preserve": [
+      "Diagram 1",
+      "Diagram 2",
+      "displacement",
+      "position",
+      "P",
+      "Q",
+      "R",
+      "S"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Phase difference between P and Q: 0; Phase difference between R and S: 0"
+    },
+    {
+      "label": "B",
+      "text": "Phase difference between P and Q: $\\frac{\\pi}{2}$; Phase difference between R and S: 0"
+    },
+    {
+      "label": "C",
+      "text": "Phase difference between P and Q: 0; Phase difference between R and S: $\\frac{\\pi}{2}$"
+    },
+    {
+      "label": "D",
+      "text": "Phase difference between P and Q: $\\frac{\\pi}{2}$; Phase difference between R and S: $\\frac{\\pi}{2}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In a standing wave, all points between two adjacent nodes vibrate in phase, so the phase difference between P and Q is 0. In a travelling wave, the phase difference $\\phi$ is given by $\\phi = \\frac{2\\pi x}{\\lambda}$. Since R and S are separated by a distance of $\\frac{\\lambda}{4}$ (two grid units where a full wavelength is eight units), the phase difference is $\\frac{2\\pi (\\lambda/4)}{\\lambda} = \\frac{\\pi}{2}$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Specimen Paper 2025 HL Q20 C.png"
+}

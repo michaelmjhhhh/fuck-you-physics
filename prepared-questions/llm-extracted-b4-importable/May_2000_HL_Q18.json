@@ -1,0 +1,51 @@
+{
+  "id": "May_2000_HL_Q18",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2000,
+    "month": "May",
+    "session_label": "May 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2000 HL Q18 C.png"
+  },
+  "question_number": 18,
+  "content_markdown": "It is proposed to build a heat engine that would operate between a hot reservoir at a temperature of $400\\text{ K}$ and a cold reservoir at $300\\text{ K}$. See the diagram below. In each cycle it would take $100\\text{ J}$ from the hot reservoir, lose $25\\text{ J}$ to the cold reservoir and do $75\\text{ J}$ of work.\n\nThis proposed heat engine would violate",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A schematic diagram of a heat engine showing energy flow from a hot reservoir (400 K) to a cold reservoir (300 K). 100 J enters the engine, 75 J leaves as work out, and 25 J leaves to the cold reservoir.",
+    "labels_to_preserve": [
+      "hot reservoir",
+      "T_H = 400 K",
+      "100 J",
+      "work out = 75 J",
+      "25 J",
+      "cold reservoir",
+      "T_C = 300 K"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "both the first and the second laws of thermodynamics."
+    },
+    {
+      "label": "B",
+      "text": "the first but not the second law of thermodynamics."
+    },
+    {
+      "label": "C",
+      "text": "the second but not the first law of thermodynamics."
+    },
+    {
+      "label": "D",
+      "text": "neither the first nor the second law of thermodynamics."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The first law is satisfied because energy is conserved ($100\\text{ J} = 75\\text{ J} + 25\\text{ J}$). However, the maximum theoretical efficiency (Carnot efficiency) is $1 - \\frac{T_C}{T_H} = 1 - \\frac{300}{400} = 0.25$ or $25\\%$. This engine claims an efficiency of $\\frac{W}{Q_H} = \\frac{75}{100} = 0.75$ or $75\\%$. Since the proposed efficiency exceeds the Carnot efficiency, it violates the second law of thermodynamics.",
+  "source_image_path": "B4-Thermodynamics/May 2000 HL Q18 C.png"
+}

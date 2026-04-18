@@ -1,0 +1,46 @@
+{
+  "id": "May_2022_HL_TZ2_Q11",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ2 Q11 B.png"
+  },
+  "question_number": 11,
+  "content_markdown": "Water at room temperature is placed in a freezer. The specific heat capacity of water is twice the specific heat capacity of ice. Assume that thermal energy is transferred from the water at a constant rate.\n\nWhich graph shows the variation with time of the temperature of the water?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs (A, B, C, D) showing temperature T against time t. Each graph consists of three segments: a cooling liquid phase, a constant temperature phase change (freezing), and a cooling solid phase. The slopes of the first and third segments vary between the options.",
+    "labels_to_preserve": [
+      "T",
+      "t"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The rate of temperature change is given by $\\frac{\\Delta T}{\\Delta t} = \\frac{P}{mc}$, where $P$ is the constant power (rate of energy transfer). Since the specific heat capacity of water ($c_{water}$) is twice that of ice ($c_{ice}$), the gradient of the cooling curve for water should be half the gradient of the cooling curve for ice. In other words, the temperature of the ice should drop twice as fast as the temperature of the water did. Graph B correctly shows a steeper slope for the ice phase compared to the water phase.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2022 HL TZ2 Q11 B.png"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "May_2015_HL_TZ2_Q8",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ2 Q8 A.png"
+  },
+  "question_number": 8,
+  "content_markdown": "An ideal gas undergoes adiabatic expansion from state X to a new state of volume $V$. During this process the work done by the gas is $W$. What is the change in internal energy and the work done in an **isothermal** expansion of this gas from X to $V$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A-D) with columns for 'Change in internal energy' and 'Work done'.",
+    "labels_to_preserve": [
+      "Change in internal energy",
+      "Work done"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Change in internal energy: 0; Work done: greater than $W$"
+    },
+    {
+      "label": "B",
+      "text": "Change in internal energy: 0; Work done: less than $W$"
+    },
+    {
+      "label": "C",
+      "text": "Change in internal energy: greater than 0; Work done: less than $W$"
+    },
+    {
+      "label": "D",
+      "text": "Change in internal energy: less than 0; Work done: same as $W$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In an isothermal expansion of an ideal gas, the temperature remains constant, so the change in internal energy is 0. On a P-V diagram, an isotherm lies above an adiabat starting from the same point X. Therefore, the area under the curve (work done) for the isothermal process to the same final volume $V$ is greater than the area under the adiabatic curve $W$.",
+  "source_image_path": "B3-Gas-Laws/May 2015 HL TZ2 Q8 A.png"
+}

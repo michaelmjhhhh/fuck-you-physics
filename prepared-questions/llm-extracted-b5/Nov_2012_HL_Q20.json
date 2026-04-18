@@ -1,0 +1,50 @@
+{
+  "id": "Nov_2012_HL_Q20",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2012,
+    "month": "Nov",
+    "session_label": "Nov 2012",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2012 HL Q20 D.png"
+  },
+  "question_number": 20,
+  "content_markdown": "An ideal ammeter is used to measure the current in a resistor. Which of the following gives the resistance of an ideal ammeter and the way it is connected to the resistor?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A-D) with columns for 'Resistance' and 'Connection'.",
+    "labels_to_preserve": [
+      "Resistance",
+      "Connection",
+      "infinite",
+      "zero",
+      "in parallel",
+      "in series"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Resistance: infinite; Connection: in parallel"
+    },
+    {
+      "label": "B",
+      "text": "Resistance: infinite; Connection: in series"
+    },
+    {
+      "label": "C",
+      "text": "Resistance: zero; Connection: in parallel"
+    },
+    {
+      "label": "D",
+      "text": "Resistance: zero; Connection: in series"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "An ideal ammeter is designed to measure current without affecting the circuit it is placed in. To ensure it doesn't change the total resistance of the branch, it must have zero resistance. Furthermore, to measure the flow of charge through a specific component, it must be placed in series so that the same current passes through both the ammeter and the resistor.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2012 HL Q20 D.png"
+}

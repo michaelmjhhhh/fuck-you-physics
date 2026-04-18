@@ -1,0 +1,43 @@
+{
+  "id": "May_2017_HL_TZ1_Q12",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "C.2 Wave model",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ1 Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A travelling wave of period $5.0\\text{ ms}$ travels along a stretched string at a speed of $40\\text{ m s}^{-1}$. Two points on the string are $0.050\\text{ m}$ apart.\n\nWhat is the phase difference between the two points?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{\\pi}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\pi$"
+    },
+    {
+      "label": "D",
+      "text": "$2\\pi$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "First, calculate the wavelength using $\\lambda = vT$. Given $v = 40\\text{ m s}^{-1}$ and $T = 5.0 \\times 10^{-3}\\text{ s}$, we get $\\lambda = 40 \\times 0.005 = 0.20\\text{ m}$. The phase difference $\\phi$ is related to the path difference $\\Delta x$ by the formula $\\phi = \\frac{2\\pi \\Delta x}{\\lambda}$. Substituting the values: $\\phi = \\frac{2\\pi \\times 0.050}{0.20} = \\frac{2\\pi}{4} = \\frac{\\pi}{2}$.",
+  "source_image_path": "C2-Wave-Model/May 2017 HL TZ1 Q12 B.png"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2014_HL_Q36",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2014,
+    "month": "Nov",
+    "session_label": "Nov 2014",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2014 HL Q36 B.png"
+  },
+  "question_number": 36,
+  "content_markdown": "Changes in the climate are leading to a reduction in ice cover on Earth. Which of the following describes, for Earth, the change in albedo and the change in the rate of energy absorption?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table with two columns: 'Change in albedo' and 'Change in rate of energy absorption'.",
+    "labels_to_preserve": [
+      "Change in albedo",
+      "Change in rate of energy absorption"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Change in albedo: decrease; Change in rate of energy absorption: decrease"
+    },
+    {
+      "label": "B",
+      "text": "Change in albedo: decrease; Change in rate of energy absorption: increase"
+    },
+    {
+      "label": "C",
+      "text": "Change in albedo: increase; Change in rate of energy absorption: increase"
+    },
+    {
+      "label": "D",
+      "text": "Change in albedo: increase; Change in rate of energy absorption: decrease"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Ice has a high albedo because it reflects a large portion of incoming solar radiation. If ice cover reduces, the Earth's surface becomes less reflective, meaning the albedo decreases. Since less energy is being reflected back into space, more energy must be absorbed by the Earth's surface, leading to an increase in the rate of energy absorption.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2014 HL Q36 B.png"
+}

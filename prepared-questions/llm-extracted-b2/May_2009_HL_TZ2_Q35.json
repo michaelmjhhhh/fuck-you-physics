@@ -1,0 +1,43 @@
+{
+  "id": "May_2009_HL_TZ2_Q35",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ2 Q35 D.png"
+  },
+  "question_number": 35,
+  "content_markdown": "The average temperature of the surface of the Sun is about 20 times more than the average surface temperature of the Earth. The average power per unit area radiated by the Earth is $P$. The average power per unit area radiated by the Sun is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$20\\,P$"
+    },
+    {
+      "label": "B",
+      "text": "$400\\,P$"
+    },
+    {
+      "label": "C",
+      "text": "$8000\\,P$"
+    },
+    {
+      "label": "D",
+      "text": "$160\\,000\\,P$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "According to the Stefan-Boltzmann law, the power per unit area radiated by a black body is proportional to the fourth power of its absolute temperature ($P \\propto T^4$). If the Sun's temperature is 20 times that of the Earth, the power per unit area radiated by the Sun will be $20^4$ times that of the Earth. Calculating $20^4 = 20 \\times 20 \\times 20 \\times 20 = 160,000$.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2009 HL TZ2 Q35 D.png"
+}

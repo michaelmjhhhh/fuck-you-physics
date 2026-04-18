@@ -1,0 +1,43 @@
+{
+  "id": "May_2013_HL_TZ1_Q8",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic processes",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ1 Q8 A.png"
+  },
+  "question_number": 8,
+  "content_markdown": "A fixed mass of gas is compressed in a very short period of time. Which of the following describes this process?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Adiabatic"
+    },
+    {
+      "label": "B",
+      "text": "Isobaric"
+    },
+    {
+      "label": "C",
+      "text": "Isochoric (isovolumetric)"
+    },
+    {
+      "label": "D",
+      "text": "Isothermal"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "When a gas is compressed very rapidly, there is insufficient time for thermal energy to be exchanged between the gas and its surroundings. In thermodynamics, a process where no heat transfer occurs ($Q = 0$) is defined as an adiabatic process.",
+  "source_image_path": "B4-Thermodynamics/May 2013 HL TZ1 Q8 A.png"
+}

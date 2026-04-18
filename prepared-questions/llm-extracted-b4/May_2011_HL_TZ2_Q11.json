@@ -1,0 +1,43 @@
+{
+  "id": "May_2011_HL_TZ2_Q11",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2011,
+    "month": "May",
+    "session_label": "May 2011",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2011 HL TZ2 Q11 A.png"
+  },
+  "question_number": 11,
+  "content_markdown": "During an adiabatic expansion, a gas does $50\\text{ J}$ of work against the surroundings. It is then cooled at constant volume by removing $20\\text{ J}$ of energy from the gas. The magnitude of the total change in internal energy of the gas is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "70 J."
+    },
+    {
+      "label": "B",
+      "text": "50 J."
+    },
+    {
+      "label": "C",
+      "text": "30 J."
+    },
+    {
+      "label": "D",
+      "text": "20 J."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Using the first law of thermodynamics, $\\Delta U = Q - W$. In the first step (adiabatic), $Q = 0$ and $W = +50\\text{ J}$, so $\\Delta U_1 = -50\\text{ J}$. In the second step (isochoric), $W = 0$ and $Q = -20\\text{ J}$, so $\\Delta U_2 = -20\\text{ J}$. The total change is $\\Delta U_{total} = -50\\text{ J} - 20\\text{ J} = -70\\text{ J}$. The magnitude is $70\\text{ J}$.",
+  "source_image_path": "B4-Thermodynamics/May 2011 HL TZ2 Q11 A.png"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "May_2000_HL_Q12",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2000,
+    "month": "May",
+    "session_label": "May 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2000 HL Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A vacuum flask (or Dewar flask) is an insulated container useful for storing hot or cold liquids (coffee, tea, liquid nitrogen, *etc.*). In its construction a vacuum is used to minimise energy transfer with the environment.\n\nThe vacuum reduces",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A cross-section diagram of a double-walled flask with a narrow opening at the top. An arrow points to the space between the inner and outer walls.",
+    "labels_to_preserve": [
+      "vacuum between walls"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "radiation, convection and conduction losses."
+    },
+    {
+      "label": "B",
+      "text": "convection and conduction losses."
+    },
+    {
+      "label": "C",
+      "text": "convection losses only."
+    },
+    {
+      "label": "D",
+      "text": "radiation losses only."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Conduction and convection both require a medium (matter) to transfer thermal energy. Conduction relies on particle-to-particle contact, and convection relies on the bulk movement of fluids. By removing the air to create a vacuum, these two pathways are effectively eliminated. Radiation, however, consists of electromagnetic waves and can travel through a vacuum, so it is not reduced by the vacuum itself (it is usually reduced by silvering the walls).",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2000 HL Q12 B.png"
+}

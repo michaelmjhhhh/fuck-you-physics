@@ -1,0 +1,43 @@
+{
+  "id": "May_2014_HL_TZ2_Q27",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ2 Q27 B.png"
+  },
+  "question_number": 27,
+  "content_markdown": "What is the definition of the unified atomic mass unit?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the question.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The mass of one atom of hydrogen."
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{12}$ of the mass of an atom of carbon-12."
+    },
+    {
+      "label": "C",
+      "text": "The mass of one atom of carbon-12."
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{1}{16}$ of the mass of an atom of oxygen-16."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The unified atomic mass unit ($u$) is defined by international agreement as exactly one-twelfth of the mass of a neutral atom of carbon-12 in its ground state. This provides a standard scale for comparing the relative masses of different isotopes.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2014 HL TZ2 Q27 B.png"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "May_2015_HL_TZ2_Q14",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ2 Q14 B.png"
+  },
+  "question_number": 14,
+  "content_markdown": "An object emitting a sound of frequency $100\\text{ Hz}$ orbits in a horizontal circle at a rate of two revolutions per second.\n\nAn observer standing a short distance away from the object is able to hear the sound. Which of the following describes the sound the observer is able to hear?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing an object emitting sound moving in a dashed elliptical path representing a horizontal circle. An observer is standing to the right of the circular path on the same horizontal plane.",
+    "labels_to_preserve": [
+      "path of the object",
+      "object emitting sound",
+      "observer"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A sound of constant frequency but varying in amplitude"
+    },
+    {
+      "label": "B",
+      "text": "A sound of constantly varying frequency"
+    },
+    {
+      "label": "C",
+      "text": "A sound with a frequency of $50\\text{ Hz}$"
+    },
+    {
+      "label": "D",
+      "text": "A sound with a frequency of $200\\text{ Hz}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Because the object is moving in a circle, its velocity component relative to the observer is constantly changing. Due to the Doppler effect, as the object moves towards the observer, the frequency increases, and as it moves away, the frequency decreases. Since the circular motion is continuous, the observer hears a frequency that varies periodically over time.",
+  "source_image_path": "C5-Doppler-Effect/May 2015 HL TZ2 Q14 B.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2013_HL_TZ2_Q9",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ2 Q9 B.png"
+  },
+  "question_number": 9,
+  "content_markdown": "Two ideal gases X and Y are at the same temperature. The mass of the molecules of gas X is twice the mass of the molecules of gas Y.\n\nWhat is the ratio $\\frac{\\text{average speed of molecules of gas X}}{\\text{average speed of molecules of gas Y}}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present, only text and mathematical expressions.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{2}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{\\sqrt{2}}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\sqrt{2}$"
+    },
+    {
+      "label": "D",
+      "text": "2"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Since the gases are at the same temperature, their average kinetic energies are equal: $\\frac{1}{2}m_X v_X^2 = \\frac{1}{2}m_Y v_Y^2$. Given $m_X = 2m_Y$, we can substitute to get $2m_Y v_X^2 = m_Y v_Y^2$. Simplifying gives $2v_X^2 = v_Y^2$, which leads to $\\frac{v_X^2}{v_Y^2} = \\frac{1}{2}$. Taking the square root of both sides, the ratio of the speeds is $\\frac{v_X}{v_Y} = \\frac{1}{\\sqrt{2}}$.",
+  "source_image_path": "B3-Gas-Laws/May 2013 HL TZ2 Q9 B.png"
+}

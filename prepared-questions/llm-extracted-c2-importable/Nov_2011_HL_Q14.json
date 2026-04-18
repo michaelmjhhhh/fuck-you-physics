@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2011_HL_Q14",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Electromagnetic waves",
+  "paper": {
+    "year": 2011,
+    "month": "Nov",
+    "session_label": "Nov 2011",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2011 HL Q14 C.png"
+  },
+  "question_number": 14,
+  "content_markdown": "Which of the following gives regions of the electromagnetic spectrum in the order of **decreasing** frequency?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "gamma-ray, microwave, visible"
+    },
+    {
+      "label": "B",
+      "text": "radio wave, infrared, microwave"
+    },
+    {
+      "label": "C",
+      "text": "ultraviolet, infrared, microwave"
+    },
+    {
+      "label": "D",
+      "text": "visible, gamma-ray, radio wave"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "To solve this, recall the EM spectrum in order of increasing frequency: Radio, Microwave, Infrared, Visible, Ultraviolet, X-ray, Gamma-ray. Decreasing frequency means moving from right to left on that list. Option C follows this correctly: Ultraviolet (highest), then Infrared, then Microwave (lowest of the three).",
+  "source_image_path": "C2-Wave-Model/Nov 2011 HL Q14 C.png"
+}

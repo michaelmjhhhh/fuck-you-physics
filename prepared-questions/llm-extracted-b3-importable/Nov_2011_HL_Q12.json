@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2011_HL_Q12",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2011,
+    "month": "Nov",
+    "session_label": "Nov 2011",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2011 HL Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A fixed mass of an ideal gas is at temperature $T$. The pressure is doubled and the volume is halved. What is the temperature after these changes?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{T}{2}$"
+    },
+    {
+      "label": "B",
+      "text": "$T$"
+    },
+    {
+      "label": "C",
+      "text": "$2T$"
+    },
+    {
+      "label": "D",
+      "text": "$4T$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "According to the ideal gas law equation $\\frac{P_1 V_1}{T_1} = \\frac{P_2 V_2}{T_2}$. If the pressure is doubled ($P_2 = 2P_1$) and the volume is halved ($V_2 = \\frac{1}{2}V_1$), the product $PV$ remains constant ($2 \\times \\frac{1}{2} = 1$). Therefore, the temperature $T$ must also remain unchanged to satisfy the equation.",
+  "source_image_path": "B3-Gas-Laws/Nov 2011 HL Q12 B.png"
+}

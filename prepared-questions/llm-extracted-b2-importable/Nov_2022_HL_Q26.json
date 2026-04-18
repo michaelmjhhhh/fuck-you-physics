@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2022_HL_Q26",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2022,
+    "month": "Nov",
+    "session_label": "Nov 2022",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2022 HL Q26 A.png"
+  },
+  "question_number": 26,
+  "content_markdown": "The electromagnetic spectrum radiated by a black body at temperature $T$ shows a peak at wavelength $\\lambda_p$.\n\nWhat is the variation of $\\lambda_p$ with $T$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs showing different relationships between peak wavelength lambda_p on the y-axis and temperature T on the x-axis.",
+    "labels_to_preserve": [
+      "\\lambda_p",
+      "T",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A graph showing an inverse relationship (hyperbola) where $\\lambda_p$ decreases as $T$ increases."
+    },
+    {
+      "label": "B",
+      "text": "A graph showing a linear relationship with a positive gradient and a positive y-intercept."
+    },
+    {
+      "label": "C",
+      "text": "A graph showing a linear relationship with a negative gradient."
+    },
+    {
+      "label": "D",
+      "text": "A graph showing a curve that starts at the origin, rises to a peak, and then decreases (resembling a Planck curve shape)."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "According to Wien's displacement law, the peak wavelength $\\lambda_p$ is inversely proportional to the absolute temperature $T$ of the black body ($\\lambda_p \\propto \\frac{1}{T}$). This relationship is represented by a rectangular hyperbola, which is shown in graph A.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2022 HL Q26 A.png"
+}

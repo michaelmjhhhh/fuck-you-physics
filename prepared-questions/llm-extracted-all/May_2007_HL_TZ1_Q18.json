@@ -1,0 +1,46 @@
+{
+  "id": "May_2007_HL_TZ1_Q18",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2007,
+    "month": "May",
+    "session_label": "May 2007",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2007 HL TZ1 Q18 C.png"
+  },
+  "question_number": 18,
+  "content_markdown": "An ideal gas is contained in a cylinder by a piston. The volume of the gas is decreased by moving the piston rapidly in the direction shown.\n\nThe average speed of the gas molecules is initially increased because the molecules",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a cylinder containing gas with a piston being pushed to the left. Two arrows indicate the direction of the piston's movement.",
+    "labels_to_preserve": [
+      "gas",
+      "piston moved rapidly in this direction"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "have a smaller volume in which to move."
+    },
+    {
+      "label": "B",
+      "text": "make more collisions in unit time with the cylinder walls and piston."
+    },
+    {
+      "label": "C",
+      "text": "have energy transferred to them as they collide with the moving piston."
+    },
+    {
+      "label": "D",
+      "text": "make more collisions with each other in unit time."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "When a molecule collides elastically with a piston moving towards it, the molecule rebounds with a higher speed relative to the laboratory frame (similar to a ball hitting a moving bat). This kinetic energy transfer from the macroscopic work done on the piston to the microscopic particles is what increases the internal energy and temperature of the gas during rapid compression.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2007 HL TZ1 Q18 C.png"
+}

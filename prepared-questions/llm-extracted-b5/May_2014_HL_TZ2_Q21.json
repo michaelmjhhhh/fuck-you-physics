@@ -1,0 +1,47 @@
+{
+  "id": "May_2014_HL_TZ2_Q21",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric circuits",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ2 Q21 C.png"
+  },
+  "question_number": 21,
+  "content_markdown": "Three identical filament lamps W, X and Y are connected in the circuit as shown. The cell has negligible internal resistance.\n\nWhen the switch is closed, all the lamps light. Which of the following correctly describes what happens to the brightness of lamp W and lamp Y when the switch is opened?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram containing a DC cell and three lamps. Lamp W is in series with a parallel combination of Lamp X (with a switch) and Lamp Y.",
+    "labels_to_preserve": [
+      "W",
+      "X",
+      "Y"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Lamp W: decreases; Lamp Y: decreases"
+    },
+    {
+      "label": "B",
+      "text": "Lamp W: increases; Lamp Y: decreases"
+    },
+    {
+      "label": "C",
+      "text": "Lamp W: decreases; Lamp Y: increases"
+    },
+    {
+      "label": "D",
+      "text": "Lamp W: increases; Lamp Y: increases"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "When the switch is opened, lamp X is removed from the parallel combination. This increases the total resistance of the parallel section (from $R/2$ to $R$), which in turn increases the total circuit resistance. As a result, the total current flowing through lamp W decreases, making it dimmer. However, because the parallel section now takes a larger share of the total voltage (due to its increased resistance relative to W), the potential difference across lamp Y increases, making it brighter.",
+  "source_image_path": "B5-Current-and-Circuits/May 2014 HL TZ2 Q21 C.png"
+}

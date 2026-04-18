@@ -1,0 +1,53 @@
+{
+  "id": "May_2008_HL_TZ1_Q20",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2008,
+    "month": "May",
+    "session_label": "May 2008",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2008 HL TZ1 20 B.png"
+  },
+  "question_number": 20,
+  "content_markdown": "The graph shows the variation with pressure $p$ of the volume $V$ of a sample of gas.\n\nThe work done during the change of state from X to Y is",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph of Volume V (y-axis) against Pressure p (x-axis). A right-angled triangle is formed by points X, Y, and Z. Point X is at (p1, V1), point Y is at (p1, V2), and point Z is at (p2, V1). The process from X to Y is a vertical line at constant pressure p1.",
+    "labels_to_preserve": [
+      "V",
+      "V_1",
+      "V_2",
+      "p",
+      "p_1",
+      "p_2",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "zero"
+    },
+    {
+      "label": "B",
+      "text": "$p_1 (V_2 - V_1)$"
+    },
+    {
+      "label": "C",
+      "text": "$p_2 V_2 - p_1 V_1$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{1}{2} (p_2 - p_1)(V_2 - V_1)$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Work done by a gas is defined as $W = \\int p \\, dV$. In the process from X to Y, the pressure is constant at $p_1$ while the volume changes from $V_1$ to $V_2$. Therefore, the work done is the pressure multiplied by the change in volume: $W = p_1(V_2 - V_1)$. Note that on a $V$-$p$ graph (as opposed to the standard $p$-$V$ graph), the work done is the area under the curve relative to the volume axis.",
+  "source_image_path": "B4-Thermodynamics/May 2008 HL TZ1 20 B.png"
+}

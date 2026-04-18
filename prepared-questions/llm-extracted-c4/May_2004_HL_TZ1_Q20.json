@@ -1,0 +1,43 @@
+{
+  "id": "May_2004_HL_TZ1_Q20",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ1 Q20 A.png"
+  },
+  "question_number": 20,
+  "content_markdown": "A pipe, open at both ends, has a length $L$. The speed of sound in the air in the pipe is $v$. The frequency of vibration of the fundamental (first harmonic) standing wave that can be set up in the pipe is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{v}{2L}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{L}{2v}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{4v}{L}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{L}{4v}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "For a pipe open at both ends, the fundamental frequency occurs when the length of the pipe $L$ is equal to half a wavelength ($\\lambda/2$). Since $v = f\\lambda$, we can substitute $\\lambda = 2L$ into the wave equation to get $v = f(2L)$, which rearranges to $f = \\frac{v}{2L}$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2004 HL TZ1 Q20 A.png"
+}

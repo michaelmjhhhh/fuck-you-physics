@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2006_HL_Q18",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2006,
+    "month": "Nov",
+    "session_label": "Nov 2006",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2006 HL Q18 C.png"
+  },
+  "question_number": 18,
+  "content_markdown": "A metal ball at a temperature of $200\\,^{\\circ}\\text{C}$ is suspended in an evacuated container. The walls of the container are kept at a **constant** temperature of $100\\,^{\\circ}\\text{C}$.\n\nWhich **one** of the following statements about the temperature of the ball is correct?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a shaded circle representing a metal ball suspended inside a rectangular box representing an evacuated container. Labels indicate the vacuum, the ball at 200 degrees Celsius, and the walls at 100 degrees Celsius.",
+    "labels_to_preserve": [
+      "walls of evacuated container at 100 °C",
+      "suspended metal ball at 200 °C",
+      "vacuum"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "It will eventually reach absolute zero."
+    },
+    {
+      "label": "B",
+      "text": "It will remain constant at $200\\,^{\\circ}\\text{C}$."
+    },
+    {
+      "label": "C",
+      "text": "It will eventually become $100\\,^{\\circ}\\text{C}$."
+    },
+    {
+      "label": "D",
+      "text": "It will eventually reach a constant temperature between $200\\,^{\\circ}\\text{C}$ and $100\\,^{\\circ}\\text{C}$."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Even in a vacuum, thermal energy is transferred via radiation. The ball will emit more radiation than it absorbs until it reaches thermal equilibrium with its surroundings. Since the walls are maintained at a constant 100 degrees Celsius, the ball will continue to cool until its temperature matches that of the walls.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2006 HL Q18 C.png"
+}

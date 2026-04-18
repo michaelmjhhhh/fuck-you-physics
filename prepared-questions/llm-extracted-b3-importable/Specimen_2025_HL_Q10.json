@@ -1,0 +1,43 @@
+{
+  "id": "Specimen_2025_HL_Q10",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2025,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2025",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2025 HL Q10 D.png"
+  },
+  "question_number": 10,
+  "content_markdown": "The internal energy of a real gas is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "zero."
+    },
+    {
+      "label": "B",
+      "text": "equal to the intermolecular potential energy of the particles."
+    },
+    {
+      "label": "C",
+      "text": "equal to the total kinetic energy of the particles."
+    },
+    {
+      "label": "D",
+      "text": "equal to the sum of the intermolecular potential energy and the total kinetic energy of the particles."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In IB Physics, internal energy is defined as the sum of the random kinetic energy and the intermolecular potential energy of the particles in a substance. While an ideal gas is assumed to have zero intermolecular potential energy (making internal energy equal to kinetic energy only), a real gas has forces between particles, meaning both kinetic and potential components must be included.",
+  "source_image_path": "B3-Gas-Laws/Specimen Paper 2025 HL Q10 D.png"
+}

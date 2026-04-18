@@ -1,0 +1,45 @@
+{
+  "id": "May_2022_HL_TZ1_Q21",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "B.5 Current and circuits",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ1 Q21 A.png"
+  },
+  "question_number": 21,
+  "content_markdown": "Two cells are connected in parallel as shown below. Each cell has an emf of $5.0\\text{ V}$ and an internal resistance of $2.0\\text{ }\\Omega$. The lamp has a resistance of $4.0\\text{ }\\Omega$. The ammeter is ideal.\n\nWhat is the reading on the ammeter?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing two identical cells in parallel, each with an internal resistance. They are connected in series with an ideal ammeter and a lamp.",
+    "labels_to_preserve": [
+      "A"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "1.0A"
+    },
+    {
+      "label": "B",
+      "text": "1.3A"
+    },
+    {
+      "label": "C",
+      "text": "2.0A"
+    },
+    {
+      "label": "D",
+      "text": "2.5A"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "First, find the equivalent emf and internal resistance of the parallel combination. Since the cells are identical and in parallel, the total emf remains $5.0\\text{ V}$. The equivalent internal resistance $r_{eq}$ is found using $\\frac{1}{r_{eq}} = \\frac{1}{2.0} + \\frac{1}{2.0}$, giving $r_{eq} = 1.0\\text{ }\\Omega$. The total resistance in the circuit is the sum of the equivalent internal resistance and the lamp resistance: $R_{total} = 1.0\\text{ }\\Omega + 4.0\\text{ }\\Omega = 5.0\\text{ }\\Omega$. Using Ohm's law $I = \\frac{V}{R}$, the current is $I = \\frac{5.0\\text{ V}}{5.0\\text{ }\\Omega} = 1.0\\text{ A}$.",
+  "source_image_path": "B5-Current-and-Circuits/May 2022 HL TZ1 Q21 A.png"
+}

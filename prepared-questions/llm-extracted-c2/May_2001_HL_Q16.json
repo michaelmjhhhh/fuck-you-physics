@@ -1,0 +1,43 @@
+{
+  "id": "May_2001_HL_Q16",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Electromagnetic waves",
+  "paper": {
+    "year": 2001,
+    "month": "May",
+    "session_label": "May 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2001 HL Q16 C.png"
+  },
+  "question_number": 16,
+  "content_markdown": "Which **one** of the following is **not** an electromagnetic wave?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "radio"
+    },
+    {
+      "label": "B",
+      "text": "microwaves"
+    },
+    {
+      "label": "C",
+      "text": "ultrasound"
+    },
+    {
+      "label": "D",
+      "text": "X-rays"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Electromagnetic waves consist of oscillating electric and magnetic fields and can travel through a vacuum. Radio waves, microwaves, and X-rays are all parts of the electromagnetic spectrum. Ultrasound, however, is a high-frequency mechanical longitudinal wave (sound) that requires a medium to propagate, making it the correct answer for what is NOT an electromagnetic wave.",
+  "source_image_path": "C2-Wave-Model/May 2001 HL Q16 C.png"
+}

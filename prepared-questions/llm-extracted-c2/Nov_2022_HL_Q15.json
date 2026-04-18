@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2022_HL_Q15",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave properties",
+  "paper": {
+    "year": 2022,
+    "month": "Nov",
+    "session_label": "Nov 2022",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2022 HL Q15 A.png"
+  },
+  "question_number": 15,
+  "content_markdown": "A point source emits a sound wave of amplitude $Z$. A person stands a distance $L$ from the source. The amplitude is changed to $2Z$.\n\nWhat distance must the person move through in order to hear the original intensity again?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$L$"
+    },
+    {
+      "label": "B",
+      "text": "$2L$"
+    },
+    {
+      "label": "C",
+      "text": "$3L$"
+    },
+    {
+      "label": "D",
+      "text": "$7L$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Intensity $I$ is proportional to the square of the amplitude ($I \\propto A^2$) and inversely proportional to the square of the distance from a point source ($I \\propto \\frac{1}{r^2}$). Initially, $I_1 \\propto \\frac{Z^2}{L^2}$. When the amplitude becomes $2Z$, the new intensity at distance $r$ is $I_2 \\propto \\frac{(2Z)^2}{r^2} = \\frac{4Z^2}{r^2}$. For the intensities to be equal ($I_1 = I_2$), we need $\\frac{Z^2}{L^2} = \\frac{4Z^2}{r^2}$, which simplifies to $r^2 = 4L^2$, so $r = 2L$. The question asks for the distance the person must *move through*, which is the change in distance: $\\Delta r = 2L - L = L$.",
+  "source_image_path": "C2-Wave-Model/Nov 2022 HL Q15 A.png"
+}

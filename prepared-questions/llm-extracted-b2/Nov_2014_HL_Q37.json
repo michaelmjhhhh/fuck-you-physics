@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2014_HL_Q37",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2014,
+    "month": "Nov",
+    "session_label": "Nov 2014",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2014 HL Q37 A.png"
+  },
+  "question_number": 37,
+  "content_markdown": "The graph shows the emission spectrum for a black body at absolute temperature $T_1$.\n\nWhich graph shows the emission spectrum for the same black body at an absolute temperature $T_2$ where $T_2 \u003e T_1$? The original graph is shown as a dotted line.",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A black body radiation curve showing relative intensity versus wavelength. The initial curve is labeled T1. Four options show a second curve labeled T2 relative to the dotted T1 curve.",
+    "labels_to_preserve": [
+      "relative intensity",
+      "wavelength",
+      "T_1",
+      "T_2"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "According to Wien's displacement law, as temperature increases, the peak wavelength shifts to the left (shorter wavelengths). According to the Stefan-Boltzmann law, the total power radiated (area under the curve) increases significantly with temperature ($P \\propto T^4$), so the peak intensity must be higher. Only graph A correctly shows both a higher peak and a shift toward shorter wavelengths.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2014 HL Q37 A.png"
+}

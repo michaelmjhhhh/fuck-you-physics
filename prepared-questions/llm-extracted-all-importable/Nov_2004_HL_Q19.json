@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2004_HL_Q19",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2004,
+    "month": "Nov",
+    "session_label": "Nov 2004",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2004 HL Q19 B.png"
+  },
+  "question_number": 19,
+  "content_markdown": "Which of the following is the internal energy of a system?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The total thermal energy gained by the system during melting and boiling."
+    },
+    {
+      "label": "B",
+      "text": "The sum of the potential and the kinetic energies of the particles of the system."
+    },
+    {
+      "label": "C",
+      "text": "The total external work done on the system during melting and boiling."
+    },
+    {
+      "label": "D",
+      "text": "The change in the potential energy of the system that occurs during melting and boiling."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Internal energy is defined as the total microscopic energy of a system. This consists of the sum of the random kinetic energy of the particles (associated with temperature) and the intermolecular potential energy (associated with the phase/state of the substance).",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2004 HL Q19 B.png"
+}

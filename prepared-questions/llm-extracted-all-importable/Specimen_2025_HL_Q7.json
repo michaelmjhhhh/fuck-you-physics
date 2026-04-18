@@ -1,0 +1,45 @@
+{
+  "id": "Specimen_2025_HL_Q7",
+  "topic": "Rigid Body Mechanics",
+  "topic_code": "A4",
+  "sub_topic": "Rigid Body Mechanics",
+  "paper": {
+    "year": 2025,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2025",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2025 HL Q7 C.png"
+  },
+  "question_number": 7,
+  "content_markdown": "A cylinder of mass $M$ and radius $R$ rotates at constant angular speed $\\omega$ about an axis through its centre. The rotational kinetic energy of the cylinder is $K$.\n\nThe moment of inertia of the cylinder is $\\frac{1}{2}MR^2$.\n\nA second cylinder has mass $2M$, radius $2R$ and rotates with angular speed $2\\omega$.\n\nWhat is the rotational kinetic energy of the second cylinder?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A vertical cylinder rotating about its central longitudinal axis, indicated by a dashed line and a curved arrow showing rotation.",
+    "labels_to_preserve": [
+      "rotation axis"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$8K$"
+    },
+    {
+      "label": "B",
+      "text": "$16K$"
+    },
+    {
+      "label": "C",
+      "text": "$32K$"
+    },
+    {
+      "label": "D",
+      "text": "$64K$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The rotational kinetic energy is given by $K = \\frac{1}{2}I\\omega^2$. For the first cylinder, $K = \\frac{1}{2}(\\frac{1}{2}MR^2)\\omega^2 = \\frac{1}{4}MR^2\\omega^2$. For the second cylinder, the new moment of inertia is $I' = \\frac{1}{2}(2M)(2R)^2 = \\frac{1}{2}(2M)(4R^2) = 4MR^2$. The new angular speed is $2\\omega$. Thus, the new kinetic energy is $K' = \\frac{1}{2}I'(2\\omega)^2 = \\frac{1}{2}(4MR^2)(4\\omega^2) = 8MR^2\\omega^2$. Comparing $K'$ to $K$, we see that $K' = 32 \\times (\\frac{1}{4}MR^2\\omega^2) = 32K$.",
+  "source_image_path": "A4-Rigid-Body-Mechanics/Specimen Paper 2025 HL Q7 C.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2009_HL_Q10",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2009,
+    "month": "Nov",
+    "session_label": "Nov 2009",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2009 HL Q10 C.png"
+  },
+  "question_number": 10,
+  "content_markdown": "Carbon has a relative atomic mass of 12 and oxygen has a relative atomic mass of 16. A sample of $6\\text{ g}$ of carbon has twice as many atoms as",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$32\\text{ g}$ of oxygen."
+    },
+    {
+      "label": "B",
+      "text": "$8\\text{ g}$ of oxygen."
+    },
+    {
+      "label": "C",
+      "text": "$4\\text{ g}$ of oxygen."
+    },
+    {
+      "label": "D",
+      "text": "$3\\text{ g}$ of oxygen."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "First, calculate the number of moles of carbon: $n = \\frac{m}{M} = \\frac{6}{12} = 0.5\\text{ mol}$. Since the question states this sample has twice as many atoms as the oxygen sample, the oxygen sample must contain $0.25\\text{ mol}$ of atoms. To find the mass of oxygen atoms, use $m = n \\times M = 0.25 \\times 16 = 4\\text{ g}$.",
+  "source_image_path": "B3-Gas-Laws/Nov 2009 HL Q10 C.png"
+}

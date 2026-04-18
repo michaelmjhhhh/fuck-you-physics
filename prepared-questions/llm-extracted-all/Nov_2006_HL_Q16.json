@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2006_HL_Q16",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2006,
+    "month": "Nov",
+    "session_label": "Nov 2006",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2006 HL Q16 C.png"
+  },
+  "question_number": 16,
+  "content_markdown": "Which **one** of the following correctly describes the changes, if any, of the kinetic energy and the potential energy of the molecules of a liquid as it is boiling?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) with columns for Kinetic energy and Potential energy changes.",
+    "labels_to_preserve": [
+      "Kinetic energy",
+      "Potential energy",
+      "increases",
+      "stays constant"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy: increases; Potential energy: increases"
+    },
+    {
+      "label": "B",
+      "text": "Kinetic energy: increases; Potential energy: stays constant"
+    },
+    {
+      "label": "C",
+      "text": "Kinetic energy: stays constant; Potential energy: increases"
+    },
+    {
+      "label": "D",
+      "text": "Kinetic energy: stays constant; Potential energy: stays constant"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "During a phase change like boiling, the temperature of the substance remains constant. Since temperature is a measure of the average kinetic energy of the molecules, the kinetic energy stays constant. The energy being added is used to overcome intermolecular forces, which increases the potential energy of the molecules as they move further apart to form a gas.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2006 HL Q16 C.png"
+}

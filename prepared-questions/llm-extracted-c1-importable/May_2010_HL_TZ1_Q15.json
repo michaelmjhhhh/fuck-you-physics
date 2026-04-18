@@ -1,0 +1,48 @@
+{
+  "id": "May_2010_HL_TZ1_Q15",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ1 Q15 C.png"
+  },
+  "question_number": 15,
+  "content_markdown": "The graph shows how the velocity $v$ of an object undergoing simple harmonic motion varies with time $t$ for one complete period of oscillation.\n\nWhich of the following sketch graphs best shows how the total energy $E$ of the object varies with $t$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A velocity-time graph for one period of SHM starting at v=0, moving to a negative peak, then positive peak, returning to zero. Four options show different energy-time graphs.",
+    "labels_to_preserve": [
+      "v",
+      "t",
+      "E",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In simple harmonic motion, energy is conserved if there is no damping. While kinetic energy and potential energy exchange and vary sinusoidally at twice the frequency of the displacement, the total energy (the sum of kinetic and potential) remains constant over time. Therefore, the graph of total energy $E$ against time $t$ must be a horizontal straight line.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2010 HL TZ1 Q15 C.png"
+}

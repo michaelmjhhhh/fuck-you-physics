@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2001_HL_Q17",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2001,
+    "month": "Nov",
+    "session_label": "Nov 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2001 HL Q17 D.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A lead bullet is fired into an iron plate, where it deforms and stops. As a result, the temperature of the lead increases by an amount $\\Delta T$. For an identical bullet hitting the plate with **twice** the speed, what is the best estimate of the temperature increase?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\Delta T$"
+    },
+    {
+      "label": "B",
+      "text": "$\\sqrt{2} \\Delta T$"
+    },
+    {
+      "label": "C",
+      "text": "$2 \\Delta T$"
+    },
+    {
+      "label": "D",
+      "text": "$4 \\Delta T$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The kinetic energy of the bullet is $E_k = \\frac{1}{2}mv^2$. When the bullet stops, this energy is converted into thermal energy $Q = mc\\Delta T$. Since $E_k \\propto v^2$, doubling the speed ($2v$) results in $2^2 = 4$ times the kinetic energy. Assuming the same fraction of energy is converted to heat in the bullet, the temperature increase will be $4 \\Delta T$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2001 HL Q17 D.png"
+}

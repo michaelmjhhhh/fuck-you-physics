@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2014_HL_Q19",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric circuits",
+  "paper": {
+    "year": 2014,
+    "month": "Nov",
+    "session_label": "Nov 2014",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2014 HL Q19 A.png"
+  },
+  "question_number": 19,
+  "content_markdown": "A voltmeter of resistance $50\\text{ k}\\Omega$ is used to measure the electric potential difference in a circuit, as shown. The cell has an electromotive force (emf) of $5.0\\text{ V}$ and negligible internal resistance.\n\nWhat is the reading on the voltmeter?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a 5.0V cell connected in series with two resistors of 50kΩ and 100kΩ. A voltmeter is connected in parallel across the 50kΩ resistor.",
+    "labels_to_preserve": [
+      "5.0 V",
+      "50 k\\Omega",
+      "100 k\\Omega",
+      "V"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "1.0 V"
+    },
+    {
+      "label": "B",
+      "text": "1.7 V"
+    },
+    {
+      "label": "C",
+      "text": "4.0 V"
+    },
+    {
+      "label": "D",
+      "text": "5.0 V"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The voltmeter is not ideal; it has a resistance of $50\\text{ k}\\Omega$. When connected in parallel with the $50\\text{ k}\\Omega$ resistor, the equivalent resistance of that parallel combination is $R_p = \\frac{50 \\times 50}{50 + 50} = 25\\text{ k}\\Omega$. The circuit then acts as a potential divider with $25\\text{ k}\\Omega$ and $100\\text{ k}\\Omega$ in series. The voltmeter reading is the voltage across the parallel part: $V = 5.0 \\times \\frac{25}{25 + 100} = 5.0 \\times \\frac{25}{125} = 5.0 \\times \\frac{1}{5} = 1.0\\text{ V}$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2014 HL Q19 A.png"
+}

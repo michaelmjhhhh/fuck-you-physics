@@ -1,0 +1,3438 @@
+[
+  {
+    "id": "May_2000_HL_Q16",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic processes",
+    "paper": {
+      "year": 2000,
+      "month": "May",
+      "session_label": "May 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2000 HL Q16 A.png"
+    },
+    "question_number": 16,
+    "content_markdown": "When the volume of a gas increases, it does work. The work done would be greatest for which one of the following processes?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Isobaric."
+      },
+      {
+        "label": "B",
+        "text": "Adiabatic."
+      },
+      {
+        "label": "C",
+        "text": "Isothermal."
+      },
+      {
+        "label": "D",
+        "text": "The work done would be the same for all of the above."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Work done is the area under the curve on a $P-V$ diagram. For a given increase in volume, the isobaric process maintains the highest pressure throughout the expansion, resulting in the largest area under the curve compared to isothermal or adiabatic processes where pressure drops as volume increases.",
+    "source_image_path": "B4-Thermodynamics/May 2000 HL Q16 A.png"
+  },
+  {
+    "id": "May_2000_HL_Q17",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2000,
+      "month": "May",
+      "session_label": "May 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2000 HL Q17 A.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A system absorbs $70\\text{ J}$ of thermal energy and in the process does $40\\text{ J}$ of work. The internal energy change is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "30 J."
+      },
+      {
+        "label": "B",
+        "text": "40 J."
+      },
+      {
+        "label": "C",
+        "text": "70 J."
+      },
+      {
+        "label": "D",
+        "text": "110 J."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "This question tests the First Law of Thermodynamics: $\\Delta U = Q - W$. Here, the system absorbs heat ($Q = +70\\text{ J}$) and performs work on the surroundings ($W = +40\\text{ J}$). Therefore, the change in internal energy is $\\Delta U = 70\\text{ J} - 40\\text{ J} = 30\\text{ J}$.",
+    "source_image_path": "B4-Thermodynamics/May 2000 HL Q17 A.png"
+  },
+  {
+    "id": "May_2000_HL_Q18",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2000,
+      "month": "May",
+      "session_label": "May 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2000 HL Q18 C.png"
+    },
+    "question_number": 18,
+    "content_markdown": "It is proposed to build a heat engine that would operate between a hot reservoir at a temperature of $400\\text{ K}$ and a cold reservoir at $300\\text{ K}$. See the diagram below. In each cycle it would take $100\\text{ J}$ from the hot reservoir, lose $25\\text{ J}$ to the cold reservoir and do $75\\text{ J}$ of work.\n\nThis proposed heat engine would violate",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A schematic diagram of a heat engine showing energy flow from a hot reservoir (400 K) to a cold reservoir (300 K). 100 J enters the engine, 75 J leaves as work out, and 25 J leaves to the cold reservoir.",
+      "labels_to_preserve": [
+        "hot reservoir",
+        "T_H = 400 K",
+        "100 J",
+        "work out = 75 J",
+        "25 J",
+        "cold reservoir",
+        "T_C = 300 K"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "both the first and the second laws of thermodynamics."
+      },
+      {
+        "label": "B",
+        "text": "the first but not the second law of thermodynamics."
+      },
+      {
+        "label": "C",
+        "text": "the second but not the first law of thermodynamics."
+      },
+      {
+        "label": "D",
+        "text": "neither the first nor the second law of thermodynamics."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The first law is satisfied because energy is conserved ($100\\text{ J} = 75\\text{ J} + 25\\text{ J}$). However, the maximum theoretical efficiency (Carnot efficiency) is $1 - \\frac{T_C}{T_H} = 1 - \\frac{300}{400} = 0.25$ or $25\\%$. This engine claims an efficiency of $\\frac{W}{Q_H} = \\frac{75}{100} = 0.75$ or $75\\%$. Since the proposed efficiency exceeds the Carnot efficiency, it violates the second law of thermodynamics.",
+    "source_image_path": "B4-Thermodynamics/May 2000 HL Q18 C.png"
+  },
+  {
+    "id": "May_2001_HL_Q22",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "B.4 Thermodynamics",
+    "paper": {
+      "year": 2001,
+      "month": "May",
+      "session_label": "May 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2001 HL Q22 B.png"
+    },
+    "question_number": 22,
+    "content_markdown": "The $P$-$V$ diagram shows two isotherms for a fixed mass of ideal gas, at temperatures $T_X$ and $T_Y$. Which **one** of the following is correct?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A pressure-volume (P-V) graph showing two hyperbolic curves representing isotherms. The upper curve is labeled T_Y and the lower curve is labeled T_X.",
+      "labels_to_preserve": [
+        "P",
+        "V",
+        "T_X",
+        "T_Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$T_X > T_Y$"
+      },
+      {
+        "label": "B",
+        "text": "$T_X < T_Y$"
+      },
+      {
+        "label": "C",
+        "text": "$T_X = T_Y$"
+      },
+      {
+        "label": "D",
+        "text": "Temperatures cannot be compared from a $P$-$V$ diagram alone."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "According to the ideal gas law $PV = nRT$, for a fixed amount of gas, the product $PV$ is directly proportional to the absolute temperature $T$. On a $P$-$V$ diagram, isotherms further from the origin represent higher values of $PV$ and thus higher temperatures. Since the curve for $T_Y$ is consistently above and to the right of the curve for $T_X$, it follows that $T_Y > T_X$.",
+    "source_image_path": "B4-Thermodynamics/May 2001 HL Q22 B.png"
+  },
+  {
+    "id": "May_2001_HL_Q24",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic processes",
+    "paper": {
+      "year": 2001,
+      "month": "May",
+      "session_label": "May 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2001 HL Q24 B.png"
+    },
+    "question_number": 24,
+    "content_markdown": "A gas is taken through a cyclic process $A \\rightarrow B \\rightarrow C \\rightarrow A$ as shown in the $P$-$V$ diagram. The work done by the gas during one complete cycle is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A P-V diagram showing a triangular cycle. Point A is at (6.0, 2.0), Point B is at (10.0, 8.0), and Point C is at (10.0, 2.0). The cycle goes clockwise from A to B, then vertically down to C, then horizontally back to A. Pressure P is in kPa and Volume V is in m\u00b3.",
+      "labels_to_preserve": [
+        "P (kPa)",
+        "V (m\u00b3)",
+        "A",
+        "B",
+        "C",
+        "2.0",
+        "8.0",
+        "6.0",
+        "10.0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "24 kJ."
+      },
+      {
+        "label": "B",
+        "text": "12 kJ."
+      },
+      {
+        "label": "C",
+        "text": "6 kJ."
+      },
+      {
+        "label": "D",
+        "text": "4 kJ."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The work done in a cyclic process is equal to the area enclosed by the cycle on a P-V diagram. The shape is a right-angled triangle with a base $\\Delta V = (10.0 - 6.0) = 4.0\\text{ m}^3$ and a height $\\Delta P = (8.0 - 2.0) = 6.0\\text{ kPa}$. The area is $\\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times 4.0\\text{ m}^3 \\times 6.0\\text{ kPa} = 12.0\\text{ kJ}$. Since the cycle is clockwise, the net work done by the gas is positive.",
+    "source_image_path": "B4-Thermodynamics/May 2001 HL Q24 B.png"
+  },
+  {
+    "id": "May_2001_HL_Q25",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic processes",
+    "paper": {
+      "year": 2001,
+      "month": "May",
+      "session_label": "May 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2001 HL Q25 A.png"
+    },
+    "question_number": 25,
+    "content_markdown": "The energy absorbed by an ideal gas during an isothermal expansion is equal to",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the work done by the gas."
+      },
+      {
+        "label": "B",
+        "text": "the work done on the gas."
+      },
+      {
+        "label": "C",
+        "text": "the change in the internal energy of the gas."
+      },
+      {
+        "label": "D",
+        "text": "zero."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In an isothermal process for an ideal gas, the temperature remains constant, which means the internal energy change $\\Delta U$ is zero. According to the first law of thermodynamics, $Q = \\Delta U + W$. Since $\\Delta U = 0$, the heat absorbed $Q$ must be exactly equal to the work done by the gas $W$.",
+    "source_image_path": "B4-Thermodynamics/May 2001 HL Q25 A.png"
+  },
+  {
+    "id": "May_2002_HL_Q17",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic processes",
+    "paper": {
+      "year": 2002,
+      "month": "May",
+      "session_label": "May 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2002 HL Q17 C.png"
+    },
+    "question_number": 17,
+    "content_markdown": "When a gas is compressed adiabatically, the work done on the gas is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "zero."
+      },
+      {
+        "label": "B",
+        "text": "less than the change in internal energy, but not zero."
+      },
+      {
+        "label": "C",
+        "text": "equal to the change in internal energy."
+      },
+      {
+        "label": "D",
+        "text": "greater than the change in internal energy."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "According to the first law of thermodynamics, $Q = \\Delta U + W$, where $W$ is the work done by the gas. In an adiabatic process, $Q = 0$. Therefore, $0 = \\Delta U + W$, which implies $\\Delta U = -W$. Since the work done *on* the gas is defined as $W_{on} = -W$, we find that $W_{on} = \\Delta U$. Thus, the work done on the gas is exactly equal to the change in internal energy.",
+    "source_image_path": "B4-Thermodynamics/May 2002 HL Q17 C.png"
+  },
+  {
+    "id": "May_2003_HL_Q13",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic processes",
+    "paper": {
+      "year": 2003,
+      "month": "May",
+      "session_label": "May 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2003 HL Q13 A.png"
+    },
+    "question_number": 13,
+    "content_markdown": "When a gas in a thermally insulated cylinder is suddenly compressed, the change of state is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "adiabatic."
+      },
+      {
+        "label": "B",
+        "text": "isothermal."
+      },
+      {
+        "label": "C",
+        "text": "isobaric."
+      },
+      {
+        "label": "D",
+        "text": "isochoric."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "An adiabatic process is one where no heat is exchanged with the surroundings ($Q = 0$). This occurs either when the system is perfectly thermally insulated or when the process happens so 'suddenly' (rapidly) that there is no time for heat transfer to occur. Since the cylinder is both thermally insulated and the compression is sudden, it is a classic example of an adiabatic change.",
+    "source_image_path": "B4-Thermodynamics/May 2003 HL Q13 A.png"
+  },
+  {
+    "id": "May_2003_HL_Q14",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2003,
+      "month": "May",
+      "session_label": "May 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2003 HL Q14 B.png"
+    },
+    "question_number": 14,
+    "content_markdown": "Which **one** of the following diagrams correctly represents the directions of the energy transfers that take place in a heat pump?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four energy flow diagrams (A, B, C, D) showing a central 'pump' connected to a 'hot' reservoir and a 'cold' reservoir. Arrows indicate the direction of work $W$, heat from the cold reservoir $Q_c$, and heat to/from the hot reservoir $Q_h$.",
+      "labels_to_preserve": [
+        "hot",
+        "cold",
+        "pump",
+        "W",
+        "Q_h",
+        "Q_c"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Work $W$ leaves the pump; heat $Q_c$ enters from cold; heat $Q_h$ enters hot reservoir."
+      },
+      {
+        "label": "B",
+        "text": "Work $W$ enters the pump; heat $Q_c$ enters from cold; heat $Q_h$ enters hot reservoir."
+      },
+      {
+        "label": "C",
+        "text": "Work $W$ enters the pump; heat $Q_h$ leaves hot reservoir; heat $Q_c$ enters cold reservoir."
+      },
+      {
+        "label": "D",
+        "text": "Work $W$ leaves the pump; heat $Q_h$ leaves hot reservoir; heat $Q_c$ enters cold reservoir."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "A heat pump is a device that uses external work ($W$ into the system) to transfer thermal energy from a colder body ($Q_c$ out of the cold reservoir) to a warmer body ($Q_h$ into the hot reservoir). This process reverses the natural flow of heat, which requires an input of energy.",
+    "source_image_path": "B4-Thermodynamics/May 2003 HL Q14 B.png"
+  },
+  {
+    "id": "May_2003_HL_Q15",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2003,
+      "month": "May",
+      "session_label": "May 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2003 HL Q15 C.png"
+    },
+    "question_number": 15,
+    "content_markdown": "The graph below shows the variation with volume of the pressure of a system.\n\nThe work done in compressing the gas from R to P is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A pressure-volume (P-V) graph showing a thermodynamic cycle PQR. Point P is at (2, 1), Q is at (5, 4), and R is at (5, 1). The pressure axis is in units of $10^5$ Pa and the volume axis is in units of $m^3$. The path from R to P is a horizontal line at constant pressure.",
+      "labels_to_preserve": [
+        "P",
+        "Q",
+        "R",
+        "Pressure / 10^5 Pa",
+        "Volume / m^3"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$5.0 \\times 10^5$ J"
+      },
+      {
+        "label": "B",
+        "text": "$4.5 \\times 10^5$ J"
+      },
+      {
+        "label": "C",
+        "text": "$3.0 \\times 10^5$ J"
+      },
+      {
+        "label": "D",
+        "text": "0"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Work done in a thermodynamic process is given by the area under the P-V curve, or $W = P\\Delta V$ for an isobaric process. For the path R to P, the pressure is constant at $1.0 \\times 10^5$ Pa. The change in volume $\\Delta V$ is $2 - 5 = -3$ $m^3$. The magnitude of the work done is $|P\\Delta V| = (1.0 \\times 10^5 \\text{ Pa}) \\times (3 \\text{ m}^3) = 3.0 \\times 10^5$ J.",
+    "source_image_path": "B4-Thermodynamics/May 2003 HL Q15 C.png"
+  },
+  {
+    "id": "May_2004_HL_TZ1_Q18",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ1 Q18 A.png"
+    },
+    "question_number": 18,
+    "content_markdown": "Which **one** of the following diagrams correctly shows the energy transfer paths for a heat pump operating between a hot and a cold reservoir?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four Sankey-style energy flow diagrams showing a central circle labeled 'heat pump' connected to a 'hot' reservoir above and a 'cold' reservoir below. Arrows indicate the direction of energy transfer (work and heat).",
+      "labels_to_preserve": [
+        "hot",
+        "cold",
+        "heat pump"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Diagram A: Work enters the pump, heat is taken from the cold reservoir, and heat is delivered to the hot reservoir."
+      },
+      {
+        "label": "B",
+        "text": "Diagram B: Heat is taken from the cold reservoir, and energy is output as work and heat to the hot reservoir."
+      },
+      {
+        "label": "C",
+        "text": "Diagram C: Work enters the pump, heat is taken from the hot reservoir, and heat is delivered to the cold reservoir."
+      },
+      {
+        "label": "D",
+        "text": "Diagram D: Heat is taken from the hot reservoir, and energy is output as work and heat to the cold reservoir."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "A heat pump requires an external work input ($W$) to move thermal energy from a lower-temperature (cold) reservoir to a higher-temperature (hot) reservoir. Therefore, the arrows for work and cold-reservoir heat should point into the pump, while the arrow for hot-reservoir heat should point out of the pump into the hot reservoir.",
+    "source_image_path": "B4-Thermodynamics/May 2004 HL TZ1 Q18 A.png"
+  },
+  {
+    "id": "May_2004_HL_TZ1_Q19",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ1 Q19 C.png"
+    },
+    "question_number": 19,
+    "content_markdown": "A heat engine operates in a Carnot cycle between two reservoirs, a hot reservoir at temperature $T_{\\text{H}}$ and a cold reservoir at temperature $T_{\\text{C}}$. The efficiency of the engine is $50\\,\\%$. The temperature of the hot reservoir is increased to $2T_{\\text{H}}$. The efficiency of the engine is now",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$25\\,\\%.$"
+      },
+      {
+        "label": "B",
+        "text": "$33\\,\\%.$"
+      },
+      {
+        "label": "C",
+        "text": "$75\\,\\%.$"
+      },
+      {
+        "label": "D",
+        "text": "$100\\,\\%.$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The efficiency of a Carnot engine is given by $\\eta = 1 - \\frac{T_{\\text{C}}}{T_{\\text{H}}}$. Initially, $0.50 = 1 - \\frac{T_{\\text{C}}}{T_{\\text{H}}}$, which implies $\\frac{T_{\\text{C}}}{T_{\\text{H}}} = 0.50$, or $T_{\\text{C}} = 0.50 T_{\\text{H}}$. When the hot reservoir temperature is doubled to $2T_{\\text{H}}$, the new efficiency $\\eta'$ becomes $1 - \\frac{T_{\\text{C}}}{2T_{\\text{H}}}$. Substituting $T_{\\text{C}} = 0.50 T_{\\text{H}}$, we get $\\eta' = 1 - \\frac{0.50 T_{\\text{H}}}{2T_{\\text{H}}} = 1 - 0.25 = 0.75$, which is $75\\,\\%.$",
+    "source_image_path": "B4-Thermodynamics/May 2004 HL TZ1 Q19 C.png"
+  },
+  {
+    "id": "May_2004_HL_TZ2_Q19",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic cycles",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ2 Q19 A.png"
+    },
+    "question_number": 19,
+    "content_markdown": "The diagram shows the variation with volume $V$ of pressure $p$ during one complete cycle of a heat engine.\n\nThe work done is represented by the area",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A pressure-volume (p-V) graph showing a thermodynamic cycle. The cycle goes from point 3 to 1 (expansion), 1 to 2 (isochoric cooling), and 2 back to 3 (isobaric compression). Area A is the triangular region enclosed by the cycle path. Area B is the rectangular region below the isobaric line 2-3 down to the V-axis.",
+      "labels_to_preserve": [
+        "p",
+        "V",
+        "0",
+        "1",
+        "2",
+        "3",
+        "A",
+        "B"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A."
+      },
+      {
+        "label": "B",
+        "text": "B."
+      },
+      {
+        "label": "C",
+        "text": "(B + A)."
+      },
+      {
+        "label": "D",
+        "text": "(B \u2212 A)."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In a $p-V$ diagram, the net work done during a complete cycle is equal to the area enclosed by the cycle on the graph. In this specific diagram, the path $3 \\rightarrow 1 \\rightarrow 2 \\rightarrow 3$ encloses the triangular region labeled 'A'. Area 'B' represents the work done on the gas during the compression phase, but the net work (useful work output) is only the area inside the loop.",
+    "source_image_path": "B4-Thermodynamics/May 2004 HL TZ2 Q19 A.png"
+  },
+  {
+    "id": "May_2004_HL_TZ2_Q20",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic processes",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ2 Q20 C.png"
+    },
+    "question_number": 20,
+    "content_markdown": "A gas expands rapidly. The process is approximately",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "isobaric."
+      },
+      {
+        "label": "B",
+        "text": "isothermal."
+      },
+      {
+        "label": "C",
+        "text": "adiabatic."
+      },
+      {
+        "label": "D",
+        "text": "isovolumetric."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "When a gas expands very rapidly, there is insufficient time for thermal energy to be exchanged between the gas and its surroundings ($Q \\approx 0$). By definition, a process where no heat is transferred is called an adiabatic process.",
+    "source_image_path": "B4-Thermodynamics/May 2004 HL TZ2 Q20 C.png"
+  },
+  {
+    "id": "May_2005_HL_TZ1_Q19",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ1 Q19 B.png"
+    },
+    "question_number": 19,
+    "content_markdown": "The diagram shows the pressure / volume ($p/V$) diagram for one cycle PQRS of an engine.\n\nIn which sections of the cycle is work done **on** the engine?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A p-V diagram showing a thermodynamic cycle with four points: P, Q, R, and S. The cycle moves from P to Q (compression), Q to R (isobaric expansion), R to S (expansion), and S to P (isochoric cooling).",
+      "labels_to_preserve": [
+        "p",
+        "V",
+        "P",
+        "Q",
+        "R",
+        "S"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "SP only"
+      },
+      {
+        "label": "B",
+        "text": "PQ only"
+      },
+      {
+        "label": "C",
+        "text": "SP and PQ only"
+      },
+      {
+        "label": "D",
+        "text": "RS and SP only"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Work is done on a gas (the engine's working fluid) when its volume decreases ($W = -\\int p dV$). Looking at the $p/V$ diagram, the volume decreases only during the transition from P to Q. In the section S to P, the volume is constant, so no work is done. In sections Q to R and R to S, the volume increases, meaning work is done by the engine.",
+    "source_image_path": "B4-Thermodynamics/May 2005 HL TZ1 Q19 B.png"
+  },
+  {
+    "id": "May_2005_HL_TZ1_Q20",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ1 Q20 D.png"
+    },
+    "question_number": 20,
+    "content_markdown": "A Carnot engine operates between two thermal reservoirs. The thermodynamic temperature of the higher-temperature reservoir is $T_{\\text{H}}$ and of the lower, $T_{\\text{L}}$.\n\nWhich **one** of the following is a correct expression for the efficiency of the engine?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{T_{\\text{H}}}{T_{\\text{L}}}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{T_{\\text{L}}}{T_{\\text{H}}}$"
+      },
+      {
+        "label": "C",
+        "text": "$1 - \\left( \\frac{T_{\\text{H}}}{T_{\\text{L}}} \\right)$"
+      },
+      {
+        "label": "D",
+        "text": "$1 - \\left( \\frac{T_{\\text{L}}}{T_{\\text{H}}} \\right)$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The efficiency of a heat engine is defined as the ratio of work output to heat input. For a Carnot cycle, which is a theoretical ideal, the efficiency can be expressed solely in terms of the absolute temperatures of the hot and cold reservoirs. The formula is $\\eta = 1 - \\frac{Q_{\\text{out}}}{Q_{\\text{in}}}$, which for a Carnot engine simplifies to $\\eta = 1 - \\frac{T_{\\text{L}}}{T_{\\text{H}}}$, where $T_{\\text{L}}$ is the temperature of the cold sink and $T_{\\text{H}}$ is the temperature of the hot source.",
+    "source_image_path": "B4-Thermodynamics/May 2005 HL TZ1 Q20 D.png"
+  },
+  {
+    "id": "May_2005_HL_TZ2_Q16",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ2 Q16 A.png"
+    },
+    "question_number": 16,
+    "content_markdown": "The diagram below represents the four stages of a Carnot Cycle.\n\nWhich of the following describes the process $A \\rightarrow B$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A pressure-volume (P-V) graph showing a Carnot cycle with four points labeled A, B, C, and D. The process A to B is the top-most curve moving from left to right.",
+      "labels_to_preserve": [
+        "pressure",
+        "volume",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Isothermal expansion"
+      },
+      {
+        "label": "B",
+        "text": "Isothermal compression"
+      },
+      {
+        "label": "C",
+        "text": "Adiabatic expansion"
+      },
+      {
+        "label": "D",
+        "text": "Adiabatic compression"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In a standard Carnot cycle represented on a P-V diagram, the cycle starts at the highest pressure and temperature (point A). The first stage, $A \\rightarrow B$, is an isothermal expansion where the gas absorbs heat from the hot reservoir while its volume increases and pressure decreases along a constant temperature curve. The subsequent stage $B \\rightarrow C$ is the adiabatic expansion.",
+    "source_image_path": "B4-Thermodynamics/May 2005 HL TZ2 Q16 A.png"
+  },
+  {
+    "id": "May_2005_HL_TZ2_Q17",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Entropy and the second law of thermodynamics",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ2 Q17 A.png"
+    },
+    "question_number": 17,
+    "content_markdown": "The second law of thermodynamics states that the entropy of the universe is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "increasing."
+      },
+      {
+        "label": "B",
+        "text": "decreasing."
+      },
+      {
+        "label": "C",
+        "text": "zero."
+      },
+      {
+        "label": "D",
+        "text": "constant but not zero."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The second law of thermodynamics implies that in any spontaneous process, the total entropy of an isolated system (like the universe) must increase over time. While local entropy can decrease, it must be compensated by a larger increase elsewhere.",
+    "source_image_path": "B4-Thermodynamics/May 2005 HL TZ2 Q17 A.png"
+  },
+  {
+    "id": "May_2006_HL_TZ1_Q17",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2006,
+      "month": "May",
+      "session_label": "May 2006",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2006 HL TZ1 Q17 D.png"
+    },
+    "question_number": 17,
+    "content_markdown": "Which of the following combinations of changes will produce the greatest increase in the theoretical maximum efficiency of a heat engine?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four combinations of changes to the temperature of the cold reservoir and the temperature of the hot reservoir.",
+      "labels_to_preserve": [
+        "Temperature of cold reservoir",
+        "Temperature of hot reservoir",
+        "Increase",
+        "Decrease"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Temperature of cold reservoir: Increase; Temperature of hot reservoir: Decrease"
+      },
+      {
+        "label": "B",
+        "text": "Temperature of cold reservoir: Increase; Temperature of hot reservoir: Increase"
+      },
+      {
+        "label": "C",
+        "text": "Temperature of cold reservoir: Decrease; Temperature of hot reservoir: Decrease"
+      },
+      {
+        "label": "D",
+        "text": "Temperature of cold reservoir: Decrease; Temperature of hot reservoir: Increase"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The theoretical maximum efficiency of a heat engine is given by the Carnot efficiency formula: $\\eta = 1 - \\frac{T_{cold}}{T_{hot}}$. To maximize this value, we need to make the fraction $\\frac{T_{cold}}{T_{hot}}$ as small as possible. This is achieved by decreasing the numerator ($T_{cold}$) and increasing the denominator ($T_{hot}$).",
+    "source_image_path": "B4-Thermodynamics/May 2006 HL TZ1 Q17 D.png"
+  },
+  {
+    "id": "May_2006_HL_TZ1_Q18",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2006,
+      "month": "May",
+      "session_label": "May 2006",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2006 HL TZ1 Q18 A.png"
+    },
+    "question_number": 18,
+    "content_markdown": "An operating refrigerator with its door open is placed in a thermally insulated room.\n\nThe refrigerator operates for a long period of time. Which of the following correctly gives the change in temperature and the entropy of the air in the room?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A simple line drawing showing a refrigerator with an open door inside a rectangular box representing a thermally insulated room. A power cord extends from the refrigerator to the wall of the room.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Temperature: Increases; Entropy: Increases"
+      },
+      {
+        "label": "B",
+        "text": "Temperature: Increases; Entropy: Decreases"
+      },
+      {
+        "label": "C",
+        "text": "Temperature: Decreases; Entropy: Decreases"
+      },
+      {
+        "label": "D",
+        "text": "Temperature: Decreases; Entropy: Increases"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The refrigerator is an engine running in reverse; it takes electrical work to move heat. Since the room is insulated, the electrical energy supplied to the refrigerator is eventually dissipated as heat within the room, causing the temperature to increase. Furthermore, according to the Second Law of Thermodynamics, the total entropy of an isolated system (the room + refrigerator) must increase during any real process.",
+    "source_image_path": "B4-Thermodynamics/May 2006 HL TZ1 Q18 A.png"
+  },
+  {
+    "id": "May_2006_HL_TZ2_Q19",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2006,
+      "month": "May",
+      "session_label": "May 2006",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2006 HL TZ2 Q19 C.png"
+    },
+    "question_number": 19,
+    "content_markdown": "The first law of thermodynamics may be expressed in terms of the quantities below.\n\n$\\Delta U$, the **increase** in the internal energy of the system\n$Q$, the energy transferred **to** the system by heating\n$W$, the work done **on** the system\n\nWhich **one** of the following is a correct statement of the law?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present, only text and mathematical equations.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$W = \\Delta U + Q$"
+      },
+      {
+        "label": "B",
+        "text": "$W = -\\Delta U - Q$"
+      },
+      {
+        "label": "C",
+        "text": "$W = \\Delta U - Q$"
+      },
+      {
+        "label": "D",
+        "text": "$W = -\\Delta U + Q$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The first law of thermodynamics is a statement of energy conservation. The change in internal energy ($\\Delta U$) is equal to the heat added to the system ($Q$) plus the work done on the system ($W$). Rearranging $\\Delta U = Q + W$ to solve for $W$ gives $W = \\Delta U - Q$.",
+    "source_image_path": "B4-Thermodynamics/May 2006 HL TZ2 Q19 C.png"
+  },
+  {
+    "id": "May_2006_HL_TZ2_Q20",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2006,
+      "month": "May",
+      "session_label": "May 2006",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2006 HL TZ2 Q20 C.png"
+    },
+    "question_number": 20,
+    "content_markdown": "The diagram below shows energy transfers in a heat pump operating between two reservoirs at temperatures $T_{\\text{H}}$ and $T_{\\text{C}}$ ($T_{\\text{H}} > T_{\\text{C}}$).\n\nWhich of the following gives the correct relationship between $W$, $Q_{\\text{C}}$ and $Q_{\\text{H}}$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A schematic of a heat pump system. A central box labeled 'heat pump' receives work input W from the right. It extracts heat Q_C from a cold reservoir at temperature T_C below it and exhausts heat Q_H to a hot reservoir at temperature T_H above it.",
+      "labels_to_preserve": [
+        "T_H",
+        "Q_H",
+        "heat pump",
+        "W",
+        "Q_C",
+        "T_C"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$W > Q_{\\text{H}} - Q_{\\text{C}}$"
+      },
+      {
+        "label": "B",
+        "text": "$W < Q_{\\text{H}} - Q_{\\text{C}}$"
+      },
+      {
+        "label": "C",
+        "text": "$W = Q_{\\text{H}} - Q_{\\text{C}}$"
+      },
+      {
+        "label": "D",
+        "text": "$W = Q_{\\text{H}} + Q_{\\text{C}}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "According to the first law of thermodynamics (conservation of energy), the total energy entering the heat pump must equal the total energy leaving it. In this diagram, the energy inputs are the work $W$ and the heat extracted from the cold reservoir $Q_{\\text{C}}$. The energy output is the heat delivered to the hot reservoir $Q_{\\text{H}}$. Therefore, $W + Q_{\\text{C}} = Q_{\\text{H}}$, which rearranges to $W = Q_{\\text{H}} - Q_{\\text{C}}$.",
+    "source_image_path": "B4-Thermodynamics/May 2006 HL TZ2 Q20 C.png"
+  },
+  {
+    "id": "May_2007_HL_TZ1_Q19",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2007,
+      "month": "May",
+      "session_label": "May 2007",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2007 HL TZ1 Q19 C.png"
+    },
+    "question_number": 19,
+    "content_markdown": "The diagram shows the relation between the pressure $P$ and the volume $V$ of an ideal gas in a Carnot engine during one cycle of operation of the engine.\n\nIn which part of the cycle is thermal energy transferred from the gas to the surroundings?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A P-V diagram showing a Carnot cycle with four stages labeled X, Y, Z, and W. The cycle proceeds clockwise from X to Y, Y to Z, Z to W, and W back to X. X-Y and Z-W are isotherms, while Y-Z and W-X are adiabats.",
+      "labels_to_preserve": [
+        "P",
+        "V",
+        "X",
+        "Y",
+        "Z",
+        "W",
+        "Pressure P",
+        "Volume V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "XY"
+      },
+      {
+        "label": "B",
+        "text": "YZ"
+      },
+      {
+        "label": "C",
+        "text": "ZW"
+      },
+      {
+        "label": "D",
+        "text": "WX"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In a Carnot cycle, thermal energy is transferred to the surroundings (exhausted) during the isothermal compression phase. Looking at the P-V diagram, XY is isothermal expansion (heat in), YZ is adiabatic expansion, ZW is isothermal compression (heat out), and WX is adiabatic compression. Therefore, heat is transferred to the surroundings during the ZW stage.",
+    "source_image_path": "B4-Thermodynamics/May 2007 HL TZ1 Q19 C.png"
+  },
+  {
+    "id": "May_2007_HL_TZ1_Q20",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Entropy and the Second Law of Thermodynamics",
+    "paper": {
+      "year": 2007,
+      "month": "May",
+      "session_label": "May 2007",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2007 HL TZ1 Q20 B.png"
+    },
+    "question_number": 20,
+    "content_markdown": "A beaker contains water at a higher temperature than its surroundings. Which of the following correctly describes the entropy change in the water and in the surroundings as the water cools?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the entropy changes of the water and the surroundings for four options A, B, C, and D.",
+      "labels_to_preserve": [
+        "entropy of the water",
+        "entropy of the surroundings"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "entropy of the water: decreases; entropy of the surroundings: decreases"
+      },
+      {
+        "label": "B",
+        "text": "entropy of the water: decreases; entropy of the surroundings: increases"
+      },
+      {
+        "label": "C",
+        "text": "entropy of the water: increases; entropy of the surroundings: decreases"
+      },
+      {
+        "label": "D",
+        "text": "entropy of the water: increases; entropy of the surroundings: increases"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "When the water cools, it loses thermal energy to the surroundings. Since entropy change is defined as $\\Delta S = \\frac{\\Delta Q}{T}$, the water (losing heat) experiences a decrease in entropy. Conversely, the surroundings (gaining heat) experience an increase in entropy. Note that according to the Second Law of Thermodynamics, the total entropy of the universe must increase, meaning the increase in the surroundings' entropy outweighs the decrease in the water's entropy.",
+    "source_image_path": "B4-Thermodynamics/May 2007 HL TZ1 Q20 B.png"
+  },
+  {
+    "id": "May_2007_HL_TZ2_Q20",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic cycles",
+    "paper": {
+      "year": 2007,
+      "month": "May",
+      "session_label": "May 2007",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2007 HL TZ2 20 D.png"
+    },
+    "question_number": 20,
+    "content_markdown": "Which of the following pressure-volume ($p$-$V$) diagrams best represents a Carnot cycle?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four different p-V diagrams showing closed thermodynamic cycles. Option A shows a cycle with a horizontal top and vertical right side. Option B shows a cycle with a horizontal top and horizontal bottom. Option C shows a cycle bounded by four curves (two isotherms and two adiabats). Option D shows a cycle with straight diagonal lines.",
+      "labels_to_preserve": [
+        "p",
+        "V"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "A Carnot cycle consists of four reversible processes: two isothermal processes and two adiabatic processes. On a p-V diagram, these appear as four distinct curves. Isotherms follow $p \\propto 1/V$, while adiabats are steeper, following $p \\propto 1/V^\\gamma$. Diagram C is the only one showing four curved paths consistent with these processes, whereas the others include isobaric (horizontal) or isochoric (vertical) segments which are not part of a Carnot cycle.",
+    "source_image_path": "B4-Thermodynamics/May 2007 HL TZ2 20 D.png"
+  },
+  {
+    "id": "May_2007_HL_TZ2_Q21",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Entropy",
+    "paper": {
+      "year": 2007,
+      "month": "May",
+      "session_label": "May 2007",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2007 HL TZ2 21 D.png"
+    },
+    "question_number": 21,
+    "content_markdown": "Boiling water in a beaker is heated continuously. Steam escapes into the surroundings.\n\nWhich of the following correctly lists the entropy changes of the boiling water and the surroundings?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the entropy changes for boiling water and surroundings for options A, B, C, and D.",
+      "labels_to_preserve": [
+        "boiling water",
+        "surroundings"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "boiling water: increases; surroundings: constant"
+      },
+      {
+        "label": "B",
+        "text": "boiling water: increases; surroundings: increases"
+      },
+      {
+        "label": "C",
+        "text": "boiling water: decreases; surroundings: constant"
+      },
+      {
+        "label": "D",
+        "text": "boiling water: decreases; surroundings: increases"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "When water boils and turns into steam, the molecules become much more disordered, so the entropy of the water system increases. Simultaneously, heat is being transferred to the surroundings and steam is escaping into them, which increases the disorder (entropy) of the surroundings as well. According to the Second Law of Thermodynamics, the total entropy of an isolated system (water + surroundings) must increase in an irreversible process.",
+    "source_image_path": "B4-Thermodynamics/May 2007 HL TZ2 21 D.png"
+  },
+  {
+    "id": "May_2008_HL_TZ1_Q17",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermal energy transfer",
+    "paper": {
+      "year": 2008,
+      "month": "May",
+      "session_label": "May 2008",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2008 HL TZ1 17 D.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A copper block and a steel block each have the same mass. The copper block is at a higher temperature than the steel block.\n\nThe blocks are placed in thermal contact and they then reach thermal equilibrium. There is no energy exchange with the surroundings.\n\nHow do the magnitude of the change in temperature $\\Delta T$ and the magnitude of the change in internal energy $\\Delta U$ of the two blocks compare?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options A, B, C, and D with columns for the magnitude of change in temperature (delta T) and the magnitude of change in internal energy (delta U).",
+      "labels_to_preserve": [
+        "$\\Delta T$",
+        "$\\Delta U$"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\Delta T$: same; $\\Delta U$: same"
+      },
+      {
+        "label": "B",
+        "text": "$\\Delta T$: same; $\\Delta U$: different"
+      },
+      {
+        "label": "C",
+        "text": "$\\Delta T$: different; $\\Delta U$: same"
+      },
+      {
+        "label": "D",
+        "text": "$\\Delta T$: different; $\\Delta U$: different"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Since the system is isolated, the energy lost by the copper block must equal the energy gained by the steel block, so the magnitude of the change in internal energy $\\Delta U$ is the same for both. However, the change in temperature depends on the specific heat capacity ($Q = mc\\Delta T$). Since copper and steel have different specific heat capacities and the same mass, the same amount of energy transfer will result in different temperature changes $\\Delta T$.",
+    "source_image_path": "B4-Thermodynamics/May 2008 HL TZ1 17 D.png"
+  },
+  {
+    "id": "May_2008_HL_TZ1_Q20",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2008,
+      "month": "May",
+      "session_label": "May 2008",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2008 HL TZ1 20 B.png"
+    },
+    "question_number": 20,
+    "content_markdown": "The graph shows the variation with pressure $p$ of the volume $V$ of a sample of gas.\n\nThe work done during the change of state from X to Y is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph of Volume V (y-axis) against Pressure p (x-axis). A right-angled triangle is formed by points X, Y, and Z. Point X is at (p1, V1), point Y is at (p1, V2), and point Z is at (p2, V1). The process from X to Y is a vertical line at constant pressure p1.",
+      "labels_to_preserve": [
+        "V",
+        "V_1",
+        "V_2",
+        "p",
+        "p_1",
+        "p_2",
+        "X",
+        "Y",
+        "Z"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "zero"
+      },
+      {
+        "label": "B",
+        "text": "$p_1 (V_2 - V_1)$"
+      },
+      {
+        "label": "C",
+        "text": "$p_2 V_2 - p_1 V_1$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{1}{2} (p_2 - p_1)(V_2 - V_1)$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Work done by a gas is defined as $W = \\int p \\, dV$. In the process from X to Y, the pressure is constant at $p_1$ while the volume changes from $V_1$ to $V_2$. Therefore, the work done is the pressure multiplied by the change in volume: $W = p_1(V_2 - V_1)$. Note that on a $V$-$p$ graph (as opposed to the standard $p$-$V$ graph), the work done is the area under the curve relative to the volume axis.",
+    "source_image_path": "B4-Thermodynamics/May 2008 HL TZ1 20 B.png"
+  },
+  {
+    "id": "May_2008_HL_TZ1_Q21",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Entropy and the Second Law of Thermodynamics",
+    "paper": {
+      "year": 2008,
+      "month": "May",
+      "session_label": "May 2008",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2008 HL TZ1 21 D.png"
+    },
+    "question_number": 21,
+    "content_markdown": "Some liquid wax is placed in cool air so that the wax freezes. What are the changes, if any, in the entropy of the wax and of the cool air as the wax is freezing?\n\n| | freezing wax | cool air |\n| :--- | :--- | :--- |\n| A. | constant | increases |\n| B. | increases | decreases |\n| C. | decreases | constant |\n| D. | decreases | increases |",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "A table showing the possible changes in entropy for freezing wax and cool air.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "freezing wax: constant; cool air: increases"
+      },
+      {
+        "label": "B",
+        "text": "freezing wax: increases; cool air: decreases"
+      },
+      {
+        "label": "C",
+        "text": "freezing wax: decreases; cool air: constant"
+      },
+      {
+        "label": "D",
+        "text": "freezing wax: decreases; cool air: increases"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "When wax freezes, it transitions from a liquid to a more ordered solid state, so its entropy decreases. During this process, latent heat is released from the wax into the surrounding cool air. Since the air absorbs this heat, the thermal agitation of the air molecules increases, leading to an increase in the entropy of the air.",
+    "source_image_path": "B4-Thermodynamics/May 2008 HL TZ1 21 D.png"
+  },
+  {
+    "id": "May_2008_HL_TZ2_Q19",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Entropy and the second law of thermodynamics",
+    "paper": {
+      "year": 2008,
+      "month": "May",
+      "session_label": "May 2008",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2008 HL TZ2 19 C.png"
+    },
+    "question_number": 19,
+    "content_markdown": "For any natural process, the second law of thermodynamics states that the total entropy of the universe",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "always decreases."
+      },
+      {
+        "label": "B",
+        "text": "usually decreases but may increase."
+      },
+      {
+        "label": "C",
+        "text": "always increases."
+      },
+      {
+        "label": "D",
+        "text": "usually increases but may decrease."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The second law of thermodynamics is a fundamental principle stating that in any spontaneous or 'natural' process, the total entropy of an isolated system (like the universe) must increase over time. While local entropy can decrease (like water freezing), it always comes at the cost of a larger increase in entropy elsewhere in the surroundings.",
+    "source_image_path": "B4-Thermodynamics/May 2008 HL TZ2 19 C.png"
+  },
+  {
+    "id": "May_2008_HL_TZ2_Q20",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2008,
+      "month": "May",
+      "session_label": "May 2008",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2008 HL TZ2 20 C.png"
+    },
+    "question_number": 20,
+    "content_markdown": "The diagram below shows the pressure-volume changes for one cycle PQRS of a Carnot engine.\n\nDuring which part of the cycle is thermal energy transferred to the surroundings?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A pressure-volume (P-V) graph showing a Carnot cycle with four stages: P to Q (isothermal expansion), Q to R (adiabatic expansion), R to S (isothermal compression), and S to P (adiabatic compression).",
+      "labels_to_preserve": [
+        "pressure",
+        "volume",
+        "P",
+        "Q",
+        "R",
+        "S"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$P \\rightarrow Q$"
+      },
+      {
+        "label": "B",
+        "text": "$Q \\rightarrow R$"
+      },
+      {
+        "label": "C",
+        "text": "$R \\rightarrow S$"
+      },
+      {
+        "label": "D",
+        "text": "$S \\rightarrow P$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In a Carnot cycle, thermal energy is absorbed from the hot reservoir during the isothermal expansion ($P \\rightarrow Q$) and thermal energy is rejected (transferred to the surroundings/cold reservoir) during the isothermal compression ($R \\rightarrow S$). The stages $Q \\rightarrow R$ and $S \\rightarrow P$ are adiabatic, meaning no thermal energy is transferred.",
+    "source_image_path": "B4-Thermodynamics/May 2008 HL TZ2 20 C.png"
+  },
+  {
+    "id": "May_2009_HL_TZ1_Q11",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ1 Q11 B.png"
+    },
+    "question_number": 11,
+    "content_markdown": "A positive amount of thermal energy $Q$ is transferred to an ideal gas from its surroundings. The internal energy of the gas increases and the gas does a positive amount of work $W$ on its surroundings. The change of state of the gas is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "isochoric (isovolumetric)."
+      },
+      {
+        "label": "B",
+        "text": "isobaric."
+      },
+      {
+        "label": "C",
+        "text": "isothermal."
+      },
+      {
+        "label": "D",
+        "text": "adiabatic."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "According to the first law of thermodynamics, $Q = \\Delta U + W$. The problem states that $Q > 0$, $\\Delta U > 0$, and $W > 0$. In an isochoric process, $W=0$. In an isothermal process, $\\Delta U=0$. In an adiabatic process, $Q=0$. Only an isobaric process (constant pressure expansion) allows for heat input to result in both an increase in internal energy (temperature rise) and work done (expansion).",
+    "source_image_path": "B4-Thermodynamics/May 2009 HL TZ1 Q11 B.png"
+  },
+  {
+    "id": "May_2009_HL_TZ1_Q12",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Entropy and the second law of thermodynamics",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ1 Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "Which of the following correctly describes the entropy changes of the water molecules and the universe when a sample of water freezes?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the entropy changes for water molecules and the universe for four options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Water molecules",
+        "Universe"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Water molecules: increases; Universe: increases"
+      },
+      {
+        "label": "B",
+        "text": "Water molecules: decreases; Universe: increases"
+      },
+      {
+        "label": "C",
+        "text": "Water molecules: increases; Universe: decreases"
+      },
+      {
+        "label": "D",
+        "text": "Water molecules: decreases; Universe: decreases"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "When water freezes, it transitions from a liquid to a more ordered solid state, so the entropy of the water molecules decreases. However, freezing is an exothermic process that releases heat into the surroundings. According to the second law of thermodynamics, the total entropy of the universe must increase for any spontaneous process, meaning the increase in entropy of the surroundings outweighs the decrease in entropy of the water.",
+    "source_image_path": "B4-Thermodynamics/May 2009 HL TZ1 Q12 B.png"
+  },
+  {
+    "id": "May_2009_HL_TZ2_Q11",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "B.4 Thermodynamics",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ2 Q11 C.png"
+    },
+    "question_number": 11,
+    "content_markdown": "Which of the following statements is in agreement with the second law of thermodynamics?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "It is possible to continuously convert thermal energy fully into work."
+      },
+      {
+        "label": "B",
+        "text": "In natural processes, local entropy must increase."
+      },
+      {
+        "label": "C",
+        "text": "Thermal energy will not flow by itself from cold to hot bodies."
+      },
+      {
+        "label": "D",
+        "text": "The entropy in a closed system tends to decrease."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The second law of thermodynamics has several equivalent formulations. One is the Clausius statement, which specifies that heat cannot spontaneously flow from a colder body to a hotter body without external work. Option A violates the Kelvin-Planck statement (no heat engine can be 100% efficient), Option B is incorrect because local entropy can decrease if the surroundings' entropy increases more, and Option D is the opposite of the law (entropy of an isolated system tends to increase).",
+    "source_image_path": "B4-Thermodynamics/May 2009 HL TZ2 Q11 C.png"
+  },
+  {
+    "id": "May_2010_HL_TZ1_Q14",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ1 Q14 D.png"
+    },
+    "question_number": 14,
+    "content_markdown": "The diagram shows the pressure $p$ and volume $V$ relationship for one cycle of operation of an engine.\n\nWhich of the labelled parts of the cycle identify isobaric changes and adiabatic changes of state?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A p-V diagram showing a four-stage cycle. Stage I is a horizontal line at high pressure. Stage II is a curved expansion. Stage III is a horizontal line at low pressure. Stage IV is a vertical line at low volume.",
+      "labels_to_preserve": [
+        "p",
+        "V",
+        "I",
+        "II",
+        "III",
+        "IV"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Isobaric: IV only; Adiabatic: I and II only"
+      },
+      {
+        "label": "B",
+        "text": "Isobaric: I and III only; Adiabatic: II and IV only"
+      },
+      {
+        "label": "C",
+        "text": "Isobaric: II and III only; Adiabatic: IV only"
+      },
+      {
+        "label": "D",
+        "text": "Isobaric: I and III only; Adiabatic: II only"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Isobaric processes occur at constant pressure, which are represented by horizontal lines on a p-V diagram (I and III). Adiabatic processes involve changes in both pressure and volume following a curve $pV^\\gamma = \\text{constant}$ (II). Process IV is isochoric (constant volume) because it is a vertical line.",
+    "source_image_path": "B4-Thermodynamics/May 2010 HL TZ1 Q14 D.png"
+  },
+  {
+    "id": "May_2010_HL_TZ2_Q9",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic cycles",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ2 Q9 C.png"
+    },
+    "question_number": 9,
+    "content_markdown": "The diagram shows the pressure\u2013volume ($PV$) relationship for a gas.\n\nWhich of the following area(s) is/are equal to the work done by the gas as it expands?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A P-V diagram showing a closed cycle. The expansion occurs along the top curve (from left to right). The area under this top curve is divided into two parts: 'area I' is the area enclosed by the cycle, and 'area II' is the area between the bottom curve of the cycle and the volume axis.",
+      "labels_to_preserve": [
+        "P",
+        "V",
+        "0",
+        "area I",
+        "area II"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "area I"
+      },
+      {
+        "label": "B",
+        "text": "area II"
+      },
+      {
+        "label": "C",
+        "text": "area I + area II"
+      },
+      {
+        "label": "D",
+        "text": "area I \u2212 area II"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Work done by a gas during expansion is the area under the specific path of expansion on a P-V diagram. In this cycle, the expansion occurs along the upper curve. The total area under this upper curve down to the V-axis consists of both the enclosed area (area I) and the area below the lower curve (area II).",
+    "source_image_path": "B4-Thermodynamics/May 2010 HL TZ2 Q9 C.png"
+  },
+  {
+    "id": "May_2011_HL_TZ1_Q8",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ1 Q8 B.png"
+    },
+    "question_number": 8,
+    "content_markdown": "Which of the following is equivalent to the principle of energy conservation?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Newton\u2019s first law"
+      },
+      {
+        "label": "B",
+        "text": "The first law of thermodynamics"
+      },
+      {
+        "label": "C",
+        "text": "Newton\u2019s second law"
+      },
+      {
+        "label": "D",
+        "text": "The second law of thermodynamics"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The first law of thermodynamics is a specific application of the law of conservation of energy to thermal systems, stating that the change in internal energy of a system is equal to the heat added to the system minus the work done by the system ($Q = \\Delta U + W$).",
+    "source_image_path": "B4-Thermodynamics/May 2011 HL TZ1 Q8 B.png"
+  },
+  {
+    "id": "May_2011_HL_TZ1_Q9",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic cycles",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ1 Q9 C.png"
+    },
+    "question_number": 9,
+    "content_markdown": "An ideal gas undergoes the thermodynamic changes represented in the $P-V$ diagram below ($P \\rightarrow Q \\rightarrow R \\rightarrow P$).\n\nWhich of the following is the net work done by the gas in a cycle?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A P-V diagram showing a clockwise cycle PQR. P is at (0.5, 3), Q is at (1.5, 3), and R is at (1.5, 1). The path P to Q is isobaric expansion, Q to R is isochoric cooling, and R to P is a linear compression back to the start.",
+      "labels_to_preserve": [
+        "P",
+        "Q",
+        "R",
+        "Pressure / \\times 10^5 Pa",
+        "Volume / \\times m^3",
+        "0",
+        "0.5",
+        "1.0",
+        "1.5",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$4.5 \\times 10^5 \\text{ J}$"
+      },
+      {
+        "label": "B",
+        "text": "$3.0 \\times 10^5 \\text{ J}$"
+      },
+      {
+        "label": "C",
+        "text": "$1.0 \\times 10^5 \\text{ J}$"
+      },
+      {
+        "label": "D",
+        "text": "Zero"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The net work done by a gas in a thermodynamic cycle is equal to the area enclosed by the cycle on a P-V diagram. The cycle PQR forms a right-angled triangle. The base of the triangle (change in volume) is $1.5 - 0.5 = 1.0 \\times m^3$. The height of the triangle (change in pressure) is $(3 - 1) \\times 10^5 \\text{ Pa} = 2 \\times 10^5 \\text{ Pa}$. The area of the triangle is $\\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times 1.0 \\times (2 \\times 10^5) = 1.0 \\times 10^5 \\text{ J}$. Since the cycle is clockwise, the net work done by the gas is positive.",
+    "source_image_path": "B4-Thermodynamics/May 2011 HL TZ1 Q9 C.png"
+  },
+  {
+    "id": "May_2011_HL_TZ2_Q11",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ2 Q11 A.png"
+    },
+    "question_number": 11,
+    "content_markdown": "During an adiabatic expansion, a gas does $50\\text{ J}$ of work against the surroundings. It is then cooled at constant volume by removing $20\\text{ J}$ of energy from the gas. The magnitude of the total change in internal energy of the gas is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "70 J."
+      },
+      {
+        "label": "B",
+        "text": "50 J."
+      },
+      {
+        "label": "C",
+        "text": "30 J."
+      },
+      {
+        "label": "D",
+        "text": "20 J."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Using the first law of thermodynamics, $\\Delta U = Q - W$. In the first step (adiabatic), $Q = 0$ and $W = +50\\text{ J}$, so $\\Delta U_1 = -50\\text{ J}$. In the second step (isochoric), $W = 0$ and $Q = -20\\text{ J}$, so $\\Delta U_2 = -20\\text{ J}$. The total change is $\\Delta U_{total} = -50\\text{ J} - 20\\text{ J} = -70\\text{ J}$. The magnitude is $70\\text{ J}$.",
+    "source_image_path": "B4-Thermodynamics/May 2011 HL TZ2 Q11 A.png"
+  },
+  {
+    "id": "May_2012_HL_TZ1_Q7",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic processes",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ1 Q7 C.png"
+    },
+    "question_number": 7,
+    "content_markdown": "In the $P-V$ diagram below, which line could represent an adiabatic change for an ideal gas?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A pressure-volume (P-V) graph showing four different process paths starting from a single point. Path A is horizontal (isobaric), Path D is vertical (isochoric), and Paths B and C are curves sloping downwards to the right. Path C is steeper than Path B.",
+      "labels_to_preserve": [
+        "P",
+        "V",
+        "0",
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In a P-V diagram, an adiabatic process ($PV^\\gamma = \\text{constant}$) is steeper than an isothermal process ($PV = \\text{constant}$) because $\\gamma > 1$. Line A is isobaric, Line D is isochoric, and between the two expansion curves B and C, the steeper one (C) represents the adiabatic change.",
+    "source_image_path": "B4-Thermodynamics/May 2012 HL TZ1 Q7 C.png"
+  },
+  {
+    "id": "May_2012_HL_TZ1_Q8",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Entropy",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ1 Q8 B.png"
+    },
+    "question_number": 8,
+    "content_markdown": "The entropy of a system",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "will decrease if the system\u2019s temperature is increased."
+      },
+      {
+        "label": "B",
+        "text": "is related to the degree of disorder in the system."
+      },
+      {
+        "label": "C",
+        "text": "must always increase."
+      },
+      {
+        "label": "D",
+        "text": "is always conserved."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Entropy is a thermodynamic property that measures the number of possible microscopic configurations (microstates) of a system, which is conceptually linked to the 'disorder' or randomness of that system. While the entropy of the universe (isolated system) must always increase or remain constant according to the Second Law of Thermodynamics, the entropy of a specific system can decrease if work is done on it or heat is removed.",
+    "source_image_path": "B4-Thermodynamics/May 2012 HL TZ1 Q8 B.png"
+  },
+  {
+    "id": "May_2013_HL_TZ1_Q8",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic processes",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ1 Q8 A.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A fixed mass of gas is compressed in a very short period of time. Which of the following describes this process?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Adiabatic"
+      },
+      {
+        "label": "B",
+        "text": "Isobaric"
+      },
+      {
+        "label": "C",
+        "text": "Isochoric (isovolumetric)"
+      },
+      {
+        "label": "D",
+        "text": "Isothermal"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "When a gas is compressed very rapidly, there is insufficient time for thermal energy to be exchanged between the gas and its surroundings. In thermodynamics, a process where no heat transfer occurs ($Q = 0$) is defined as an adiabatic process.",
+    "source_image_path": "B4-Thermodynamics/May 2013 HL TZ1 Q8 A.png"
+  },
+  {
+    "id": "May_2013_HL_TZ1_Q9",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "B.4 Thermodynamics",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ1 Q9 C.png"
+    },
+    "question_number": 9,
+    "content_markdown": "Which of the following statements is consistent with the second law of thermodynamics?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Thermal energy can flow by itself from a cold to a hot body."
+      },
+      {
+        "label": "B",
+        "text": "A heat engine can be $100\\%$ efficient."
+      },
+      {
+        "label": "C",
+        "text": "In natural processes, total entropy tends to increase."
+      },
+      {
+        "label": "D",
+        "text": "The entropy in every closed system is constant."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The second law of thermodynamics states that the total entropy of an isolated system can never decrease over time; it can only remain constant or increase. Option C directly reflects the Clausius/Entropy formulation of the law. Option A and B are violations of the law (Clausius and Kelvin-Planck statements respectively), and Option D is incorrect because entropy increases in irreversible processes.",
+    "source_image_path": "B4-Thermodynamics/May 2013 HL TZ1 Q9 C.png"
+  },
+  {
+    "id": "May_2013_HL_TZ2_Q10",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic processes",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ2 Q10 B.png"
+    },
+    "question_number": 10,
+    "content_markdown": "The graph shows the variation of pressure $P$ with volume $V$ for a gas undergoing an adiabatic expansion.\n\nWhich of the following areas correctly identifies the work done by the gas?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A P-V diagram showing an adiabatic expansion curve. The area under the curve is divided into two regions: a shaded upper region labeled X and a dotted lower rectangular region labeled Z extending to the V-axis.",
+      "labels_to_preserve": [
+        "P",
+        "V",
+        "0",
+        "X",
+        "Z"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "X"
+      },
+      {
+        "label": "B",
+        "text": "X + Z"
+      },
+      {
+        "label": "C",
+        "text": "X - Z"
+      },
+      {
+        "label": "D",
+        "text": "Z"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In a pressure-volume (P-V) diagram, the work done by a gas during an expansion is represented by the total area under the curve between the initial and final volumes. This area is the integral $\\int P dV$. In the provided diagram, the total area under the adiabatic curve consists of both the shaded region X and the dotted region Z, so the total work done is X + Z.",
+    "source_image_path": "B4-Thermodynamics/May 2013 HL TZ2 Q10 B.png"
+  },
+  {
+    "id": "May_2013_HL_TZ2_Q11",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "B.4 Thermodynamics",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ2 Q11 A.png"
+    },
+    "question_number": 11,
+    "content_markdown": "An isolated system consists of a block of ice floating in a glass of water. The ice melts completely at constant temperature. Which of the following identifies the change in internal energy of the system and the change in entropy of the system?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) with columns for 'Internal energy' and 'Entropy'.",
+      "labels_to_preserve": [
+        "Internal energy",
+        "Entropy"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Internal energy: no change; Entropy: increase"
+      },
+      {
+        "label": "B",
+        "text": "Internal energy: no change; Entropy: decrease"
+      },
+      {
+        "label": "C",
+        "text": "Internal energy: increase; Entropy: decrease"
+      },
+      {
+        "label": "D",
+        "text": "Internal energy: increase; Entropy: increase"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Since the system is isolated, no energy enters or leaves, meaning the total internal energy must remain constant (First Law of Thermodynamics). However, the melting of ice is a spontaneous process that leads to a more disordered state (liquid vs solid), which increases the total entropy of the system (Second Law of Thermodynamics).",
+    "source_image_path": "B4-Thermodynamics/May 2013 HL TZ2 Q11 A.png"
+  },
+  {
+    "id": "May_2014_HL_TZ1_Q13",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "B.4 Thermodynamics",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ1 Q13 A.png"
+    },
+    "question_number": 13,
+    "content_markdown": "An ideal gas expands at constant pressure. The graph shows the relationship between pressure $P$ and volume $V$ for this change.\n\nThe change in the internal energy of the gas during this expansion is $1800\\text{ J}$. What is the amount and the direction of thermal energy transferred?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A pressure-volume (P-V) graph showing a horizontal line at P = 4 x 10^5 Pa, starting from V = 1 x 10^-3 m^3 to V = 4 x 10^-3 m^3. An arrow indicates the direction of expansion.",
+      "labels_to_preserve": [
+        "P / \\times 10^5 \\text{ Pa}",
+        "V / \\times 10^{-3} \\text{ m}^3",
+        "0",
+        "2",
+        "4",
+        "6",
+        "8",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "3000 J into the gas"
+      },
+      {
+        "label": "B",
+        "text": "3000 J out of the gas"
+      },
+      {
+        "label": "C",
+        "text": "600 J into the gas"
+      },
+      {
+        "label": "D",
+        "text": "600 J out of the gas"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "First, calculate the work done by the gas using the area under the P-V graph: $W = P\\Delta V = (4 \\times 10^5 \\text{ Pa}) \\times (4 - 1) \\times 10^{-3} \\text{ m}^3 = 4 \\times 3 \\times 10^2 = 1200\\text{ J}$. Since the gas is expanding, work is done by the gas ($W = +1200\\text{ J}$). Using the first law of thermodynamics, $Q = \\Delta U + W$, we substitute the given change in internal energy $\\Delta U = 1800\\text{ J}$ and the calculated work: $Q = 1800\\text{ J} + 1200\\text{ J} = 3000\\text{ J}$. A positive $Q$ indicates that thermal energy is transferred into the gas.",
+    "source_image_path": "B4-Thermodynamics/May 2014 HL TZ1 Q13 A.png"
+  },
+  {
+    "id": "May_2014_HL_TZ2_Q12",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "B.4 Thermodynamics",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ2 Q12 C.png"
+    },
+    "question_number": 12,
+    "content_markdown": "Which process will increase the entropy of the local surroundings?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The melting of a block of ice"
+      },
+      {
+        "label": "B",
+        "text": "Evaporation of water vapour"
+      },
+      {
+        "label": "C",
+        "text": "The isothermal expansion of a gas"
+      },
+      {
+        "label": "D",
+        "text": "The adiabatic expansion of a gas"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Entropy change of the surroundings is determined by the heat transfer $\\Delta S_{surr} = -\\frac{Q}{T}$. For the entropy of the surroundings to increase, heat must be transferred from the system to the surroundings ($Q$ must be negative for the system). In an isothermal expansion, the system must absorb heat from the surroundings to maintain constant temperature, which decreases the entropy of the surroundings. In an adiabatic expansion, no heat is exchanged ($Q=0$), so the entropy of the surroundings remains constant. Melting and evaporation are endothermic processes for the system, meaning they take heat from the surroundings, thus decreasing the entropy of the surroundings. Note: This specific question is often debated in IB contexts regarding the definition of 'local surroundings' and the specific thermodynamic path taken.",
+    "source_image_path": "B4-Thermodynamics/May 2014 HL TZ2 Q12 C.png"
+  },
+  {
+    "id": "May_2015_HL_TZ2_Q9",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Entropy",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ2 Q9 C.png"
+    },
+    "question_number": 9,
+    "content_markdown": "A block of ice at $0\\,^{\\circ}\\text{C}$ is placed on a surface and allowed to melt completely to give water at $0\\,^{\\circ}\\text{C}$. During this process the entropy of the",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "molecules in the block has decreased."
+      },
+      {
+        "label": "B",
+        "text": "surroundings has increased."
+      },
+      {
+        "label": "C",
+        "text": "universe has increased."
+      },
+      {
+        "label": "D",
+        "text": "universe has decreased."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Melting is a phase change from solid to liquid, which increases the disorder (entropy) of the substance itself. Furthermore, according to the Second Law of Thermodynamics, any spontaneous process in an isolated system (the universe) results in an increase in total entropy.",
+    "source_image_path": "B4-Thermodynamics/May 2015 HL TZ2 Q9 C.png"
+  },
+  {
+    "id": "Nov_2001_HL_Q19",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2001,
+      "month": "Nov",
+      "session_label": "Nov 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2001 HL Q19 A.png"
+    },
+    "question_number": 19,
+    "content_markdown": "A ships engineer proposes generating energy for ships by inventing an engine which would take in sea water, extract some of its internal thermal energy and use this for driving the ship. The resulting cooled water would then be returned to the sea.\n\nHow do the first and second laws of thermodynamics relate to this proposed process?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "First law: Satisfied; Second law: Violated"
+      },
+      {
+        "label": "B",
+        "text": "First law: Satisfied; Second law: Satisfied"
+      },
+      {
+        "label": "C",
+        "text": "First law: Violated; Second law: Violated"
+      },
+      {
+        "label": "D",
+        "text": "First law: Violated; Second law: Satisfied"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The first law (conservation of energy) is satisfied because energy is simply being converted from thermal energy to work. However, the second law (Kelvin-Planck statement) is violated because it is impossible to construct a heat engine that operates in a cycle and produces no effect other than the extraction of heat from a single reservoir and the performance of an equivalent amount of work. You need a temperature difference (a cold sink) to reject heat to.",
+    "source_image_path": "B4-Thermodynamics/Nov 2001 HL Q19 A.png"
+  },
+  {
+    "id": "Nov_2002_HL_Q18",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2002,
+      "month": "Nov",
+      "session_label": "Nov 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2002 HL Q18 B.png"
+    },
+    "question_number": 18,
+    "content_markdown": "The solid line on the graph below represents the pressure-volume changes for an ideal gas undergoing an isothermal expansion. The dashed line on the graph shows the pressure-volume changes for an expansion **that is not isothermal**.\n\nIn the expansion that is not isothermal, the internal energy of the gas",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A Pressure-Volume (P-V) graph showing two expansion curves starting from the same initial state. The solid line (isothermal) is higher than the dashed line (non-isothermal) at the final volume.",
+      "labels_to_preserve": [
+        "Pressure",
+        "Volume",
+        "Isothermal expansion",
+        "Expansion that is not isothermal"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "increases."
+      },
+      {
+        "label": "B",
+        "text": "decreases."
+      },
+      {
+        "label": "C",
+        "text": "stays the same."
+      },
+      {
+        "label": "D",
+        "text": "changes but whether it decreases or increases cannot be determined from the graph alone."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "For an ideal gas, internal energy is proportional to temperature ($U \\propto T$). On a P-V diagram, isotherms further from the origin represent higher temperatures. Since the dashed line ends at a point with a lower pressure for the same final volume compared to the isothermal line, the final temperature $T_f$ must be lower than the initial temperature $T_i$ (based on $PV=nRT$). Therefore, the internal energy decreases.",
+    "source_image_path": "B4-Thermodynamics/Nov 2002 HL Q18 B.png"
+  },
+  {
+    "id": "Nov_2003_HL_Q16",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2003,
+      "month": "Nov",
+      "session_label": "Nov 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2003 HL Q16 B.png"
+    },
+    "question_number": 16,
+    "content_markdown": "An engine takes in an amount $E$ of thermal energy and, as a result, does an amount $W$ of useful work. An amount $H$ of thermal energy is ejected. The law of conservation of energy and the efficiency of the engine are given by which of the following?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) with two columns: 'Law of conservation of energy' and 'Efficiency'.",
+      "labels_to_preserve": [
+        "Law of conservation of energy",
+        "Efficiency",
+        "E",
+        "W",
+        "H"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Law of conservation of energy: $E = W + H$; Efficiency: $W$"
+      },
+      {
+        "label": "B",
+        "text": "Law of conservation of energy: $E = W + H$; Efficiency: $\\frac{W}{E}$"
+      },
+      {
+        "label": "C",
+        "text": "Law of conservation of energy: $E + H = W$; Efficiency: $\\frac{W}{H}$"
+      },
+      {
+        "label": "D",
+        "text": "Law of conservation of energy: $E + H = W$; Efficiency: $\\frac{W}{(E - H)}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The law of conservation of energy for a heat engine states that the total energy input ($E$) must equal the total energy output, which consists of useful work ($W$) and wasted heat ($H$), hence $E = W + H$. Efficiency is defined as the ratio of useful work output to the total energy input, which is $\\frac{W}{E}$.",
+    "source_image_path": "B4-Thermodynamics/Nov 2003 HL Q16 B.png"
+  },
+  {
+    "id": "Nov_2003_HL_Q18",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2003,
+      "month": "Nov",
+      "session_label": "Nov 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2003 HL Q18 A.png"
+    },
+    "question_number": 18,
+    "content_markdown": "A sample of an ideal gas is held in an insulated container and it undergoes an adiabatic change. The graph below shows the change in pressure $p$ with change in volume $V$ as the gas changes from X to Y.\n\nWhich of the following describes correctly the work done and the change in the internal energy of the gas?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A pressure-volume (p-V) graph showing a curve from point X to point Y. The volume decreases and the pressure increases. An arrow on the curve points from X to Y.",
+      "labels_to_preserve": [
+        "p",
+        "V",
+        "X",
+        "Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Work done: on the gas; Internal energy: increases"
+      },
+      {
+        "label": "B",
+        "text": "Work done: on the gas; Internal energy: decreases"
+      },
+      {
+        "label": "C",
+        "text": "Work done: by the gas; Internal energy: decreases"
+      },
+      {
+        "label": "D",
+        "text": "Work done: by the gas; Internal energy: increases"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In an adiabatic process, no heat is exchanged ($Q = 0$). According to the first law of thermodynamics, $\\Delta U = Q - W$. Since the gas is being compressed (volume decreases from X to Y), work is done on the gas ($W$ is negative). Therefore, $\\Delta U = 0 - (-W) = +W$, meaning the internal energy must increase.",
+    "source_image_path": "B4-Thermodynamics/Nov 2003 HL Q18 A.png"
+  },
+  {
+    "id": "Nov_2004_HL_Q20",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic cycles",
+    "paper": {
+      "year": 2004,
+      "month": "Nov",
+      "session_label": "Nov 2004",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2004 HL Q20 B.png"
+    },
+    "question_number": 20,
+    "content_markdown": "The graph below shows the variation with volume $V$ of the pressure $p$ of a gas during one cycle of an engine.\n\nDuring which operations, PQ, QR, RS and SP does the gas do external work?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A pressure-volume (p-V) diagram showing a thermodynamic cycle with four stages: PQ (isochoric compression/pressure increase), QR (isochoric pressure increase), RS (expansion), and SP (isochoric pressure decrease). Note: Based on the arrows, PQ is a compression curve, QR is an isochoric pressure increase, RS is an expansion curve, and SP is an isochoric pressure decrease.",
+      "labels_to_preserve": [
+        "p",
+        "V",
+        "P",
+        "Q",
+        "R",
+        "S"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "PQ only"
+      },
+      {
+        "label": "B",
+        "text": "RS only"
+      },
+      {
+        "label": "C",
+        "text": "QR and RS only"
+      },
+      {
+        "label": "D",
+        "text": "PQ and RS only"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In thermodynamics, a gas does external work when it expands (volume increases). Looking at the p-V diagram, work $W = \\int p \\, dV$. For the gas to do work on the surroundings, the change in volume $\\Delta V$ must be positive. In the cycle shown, the process RS involves an increase in volume (moving to the right on the V-axis), whereas PQ involves a decrease in volume (work is done on the gas), and QR/SP are isochoric (no work done).",
+    "source_image_path": "B4-Thermodynamics/Nov 2004 HL Q20 B.png"
+  },
+  {
+    "id": "Nov_2004_HL_Q21",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2004,
+      "month": "Nov",
+      "session_label": "Nov 2004",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2004 HL Q21 D.png"
+    },
+    "question_number": 21,
+    "content_markdown": "A Carnot engine takes in thermal energy at kelvin temperature $H$ and rejects some of this energy at kelvin temperature $L$. Which of the following expressions gives the efficiency of the engine?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{L}{H}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{H}{L} - 1$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{H}{L} + 1$"
+      },
+      {
+        "label": "D",
+        "text": "$1 - \\frac{L}{H}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The efficiency of a Carnot engine is defined by the ratio of work output to heat input. For a reversible cycle, this simplifies to $\\eta = 1 - \\frac{T_{cold}}{T_{hot}}$. In this specific problem, the hot reservoir temperature is $H$ and the cold reservoir temperature is $L$, leading directly to the expression $1 - \\frac{L}{H}$.",
+    "source_image_path": "B4-Thermodynamics/Nov 2004 HL Q21 D.png"
+  },
+  {
+    "id": "Nov_2005_HL_Q19",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2005,
+      "month": "Nov",
+      "session_label": "Nov 2005",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2005 HL Q19 A.png"
+    },
+    "question_number": 19,
+    "content_markdown": "For a system that undergoes a small change of state,\n\n$$\\Delta Q = \\Delta U + \\Delta W$$\n\nwhere\n\n$+\\Delta Q = $ thermal energy transferred to the system\n\n$+\\Delta U = $ increase in internal energy of the system\n\n$+\\Delta W = $ the work done by the system.\n\nIn an adiabatic compression of an ideal gas, which **one** of the following is true in respect of $\\Delta Q$, $\\Delta U$ and $\\Delta W$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the signs (Zero, Positive, Negative) for Delta Q, Delta U, and Delta W across four options A, B, C, and D.",
+      "labels_to_preserve": [
+        "\\Delta Q",
+        "\\Delta U",
+        "\\Delta W"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\Delta Q$: Zero; $\\Delta U$: Positive; $\\Delta W$: Negative"
+      },
+      {
+        "label": "B",
+        "text": "$\\Delta Q$: Zero; $\\Delta U$: Negative; $\\Delta W$: Negative"
+      },
+      {
+        "label": "C",
+        "text": "$\\Delta Q$: Positive; $\\Delta U$: Positive; $\\Delta W$: Positive"
+      },
+      {
+        "label": "D",
+        "text": "$\\Delta Q$: Negative; $\\Delta U$: Zero; $\\Delta W$: Positive"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In an adiabatic process, no heat is exchanged with the surroundings, so $\\Delta Q = 0$. During a compression, work is done *on* the gas, which means the work done *by* the gas is negative ($\\Delta W < 0$). Substituting these into the first law equation $0 = \\Delta U + (\\text{negative value})$ leads to $\\Delta U$ being positive, which corresponds to an increase in temperature.",
+    "source_image_path": "B4-Thermodynamics/Nov 2005 HL Q19 A.png"
+  },
+  {
+    "id": "Nov_2005_HL_Q20",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2005,
+      "month": "Nov",
+      "session_label": "Nov 2005",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2005 HL Q20 C.png"
+    },
+    "question_number": 20,
+    "content_markdown": "Which **one** of the following is a correct statement of the second law of thermodynamics?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "When the state of a system changes its entropy increases."
+      },
+      {
+        "label": "B",
+        "text": "When the state of a system changes its entropy decreases."
+      },
+      {
+        "label": "C",
+        "text": "The total entropy of the universe is increasing with time."
+      },
+      {
+        "label": "D",
+        "text": "The total entropy of the universe is decreasing with time."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The second law of thermodynamics states that for any spontaneous process, the total entropy of an isolated system (like the universe) must increase over time. While the entropy of a specific sub-system can decrease (if work is done or heat is removed), it must be compensated by a larger increase in the entropy of the surroundings.",
+    "source_image_path": "B4-Thermodynamics/Nov 2005 HL Q20 C.png"
+  },
+  {
+    "id": "Nov_2006_HL_Q20",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2006,
+      "month": "Nov",
+      "session_label": "Nov 2006",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2006 HL Q20 B.png"
+    },
+    "question_number": 20,
+    "content_markdown": "A well-insulated container is divided into two equal volumes by a wall. In one half there is an **ideal** gas and the other is a vacuum as shown below.\n\nThe wall is now removed. Which **one** of the following correctly gives the changes, if any, that take place in the internal energy and entropy of the gas?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A two-part diagram showing a container. The left part shows a container divided in half with 'gas' on the left and 'vacuum' on the right. An arrow points to the right part, which shows the same container now fully occupied by 'gas'.",
+      "labels_to_preserve": [
+        "gas",
+        "vacuum"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Internal energy: stays the same; Entropy: stays the same"
+      },
+      {
+        "label": "B",
+        "text": "Internal energy: stays the same; Entropy: increases"
+      },
+      {
+        "label": "C",
+        "text": "Internal energy: decreases; Entropy: stays the same"
+      },
+      {
+        "label": "D",
+        "text": "Internal energy: decreases; Entropy: increases"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "This is a free expansion (Joule expansion). Since the container is well-insulated, $Q = 0$. Since the gas expands into a vacuum, it does no work, so $W = 0$. By the first law of thermodynamics, $\\Delta U = Q - W = 0$, so internal energy stays the same. However, the process is irreversible and the gas occupies a larger volume (more microstates), so the entropy must increase.",
+    "source_image_path": "B4-Thermodynamics/Nov 2006 HL Q20 B.png"
+  },
+  {
+    "id": "Nov_2007_HL_Q17",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic processes",
+    "paper": {
+      "year": 2007,
+      "month": "Nov",
+      "session_label": "Nov 2007",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2007 HL Q17 B.png"
+    },
+    "question_number": 17,
+    "content_markdown": "The work done by an ideal gas as it expands isothermally from a state of volume $V_1$ to a volume $V_2$ is $W$.\n\nThe work done by the gas as it expands adiabatically from the same initial state to a state of volume $V_2$ is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "zero."
+      },
+      {
+        "label": "B",
+        "text": "less than $W$ but not zero."
+      },
+      {
+        "label": "C",
+        "text": "$W$."
+      },
+      {
+        "label": "D",
+        "text": "greater than $W$."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In a $P-V$ diagram, the adiabatic curve is steeper than the isothermal curve. When expanding from the same initial state $(P_1, V_1)$ to the same final volume $V_2$, the pressure of the gas during an adiabatic expansion is always lower than the pressure during an isothermal expansion. Since work done is the area under the $P-V$ curve, the area under the adiabatic curve is less than the area under the isothermal curve.",
+    "source_image_path": "B4-Thermodynamics/Nov 2007 HL Q17 B.png"
+  },
+  {
+    "id": "Nov_2007_HL_Q18",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2007,
+      "month": "Nov",
+      "session_label": "Nov 2007",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2007 HL Q18 A.png"
+    },
+    "question_number": 18,
+    "content_markdown": "The entropy of a system is a measure of the system\u2019s",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the question.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "disorder."
+      },
+      {
+        "label": "B",
+        "text": "mean energy."
+      },
+      {
+        "label": "C",
+        "text": "temperature."
+      },
+      {
+        "label": "D",
+        "text": "total energy."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Entropy is a fundamental concept in thermodynamics that quantifies the degree of disorder or randomness in a system. While more advanced definitions involve the number of microstates available to a system, at the IB level, it is most commonly associated with the qualitative concept of disorder.",
+    "source_image_path": "B4-Thermodynamics/Nov 2007 HL Q18 A.png"
+  },
+  {
+    "id": "Nov_2008_HL_Q19",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic cycles",
+    "paper": {
+      "year": 2008,
+      "month": "Nov",
+      "session_label": "Nov 2008",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2008 HL Q19 B.png"
+    },
+    "question_number": 19,
+    "content_markdown": "The diagram below shows the relation between the pressure and the volume of the gas in an engine for one cycle of operation of the engine.\n\nWork is done by the gas in the engine during",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A pressure-volume (P-V) graph showing a four-stage cycle: Q to R (isobaric expansion), R to S (expansion), S to T (isochoric cooling/pressure drop), and T back to Q (compression).",
+      "labels_to_preserve": [
+        "pressure",
+        "volume",
+        "Q",
+        "R",
+        "S",
+        "T"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$Q \\rightarrow R$ only."
+      },
+      {
+        "label": "B",
+        "text": "$Q \\rightarrow R$ and $R \\rightarrow S$."
+      },
+      {
+        "label": "C",
+        "text": "$S \\rightarrow T$ only."
+      },
+      {
+        "label": "D",
+        "text": "$S \\rightarrow T$ and $Q \\rightarrow R$."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Work is done by a gas when it expands, which corresponds to an increase in volume ($\u0394V > 0$). Looking at the P-V diagram, the volume increases during the processes $Q \\rightarrow R$ and $R \\rightarrow S$. During $S \\rightarrow T$, the volume is constant (no work), and during $T \\rightarrow Q$, the volume decreases (work is done on the gas).",
+    "source_image_path": "B4-Thermodynamics/Nov 2008 HL Q19 B.png"
+  },
+  {
+    "id": "Nov_2008_HL_Q20",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2008,
+      "month": "Nov",
+      "session_label": "Nov 2008",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2008 HL Q20 D.png"
+    },
+    "question_number": 20,
+    "content_markdown": "A Carnot engine is in contact with a reservoir X at kelvin temperature $2T$ and another reservoir at temperature $T$. The temperature of X is increased to $4T$. The efficiency of the engine will",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "decrease by a factor of 2."
+      },
+      {
+        "label": "B",
+        "text": "increase by a factor of 2."
+      },
+      {
+        "label": "C",
+        "text": "decrease by a factor of 1.5."
+      },
+      {
+        "label": "D",
+        "text": "increase by a factor of 1.5."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The efficiency of a Carnot engine is given by $\\eta = 1 - \\frac{T_{cold}}{T_{hot}}$. Initially, $\\eta_1 = 1 - \\frac{T}{2T} = 1 - 0.5 = 0.5$. When the temperature of the hot reservoir X is increased to $4T$, the new efficiency is $\\eta_2 = 1 - \\frac{T}{4T} = 1 - 0.25 = 0.75$. Comparing the two, $\\frac{\\eta_2}{\\eta_1} = \\frac{0.75}{0.5} = 1.5$, so the efficiency increases by a factor of 1.5.",
+    "source_image_path": "B4-Thermodynamics/Nov 2008 HL Q20 D.png"
+  },
+  {
+    "id": "Nov_2009_HL_Q13",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic cycles",
+    "paper": {
+      "year": 2009,
+      "month": "Nov",
+      "session_label": "Nov 2009",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2009 HL Q13 A.png"
+    },
+    "question_number": 13,
+    "content_markdown": "The graph below shows the variation of the pressure $p$ with volume $V$ of an ideal gas during one cycle of an engine.\n\nWhich of the following correctly names the thermodynamic process associated with the parts $Y \\rightarrow Z$ and $Z \\rightarrow X$ of the cycle?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A pressure-volume (p-V) graph showing a triangular cycle with vertices X, Y, and Z. Process X to Y is a curve/diagonal decreasing in pressure and increasing in volume. Process Y to Z is a horizontal line moving to the left (decreasing volume at constant pressure). Process Z to X is a vertical line moving upwards (increasing pressure at constant volume).",
+      "labels_to_preserve": [
+        "p",
+        "V",
+        "X",
+        "Y",
+        "Z"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Y $\\rightarrow$ Z: isobaric; Z $\\rightarrow$ X: isochoric"
+      },
+      {
+        "label": "B",
+        "text": "Y $\\rightarrow$ Z: isobaric; Z $\\rightarrow$ X: isothermal"
+      },
+      {
+        "label": "C",
+        "text": "Y $\\rightarrow$ Z: isochoric; Z $\\rightarrow$ X: isobaric"
+      },
+      {
+        "label": "D",
+        "text": "Y $\\rightarrow$ Z: isochoric; Z $\\rightarrow$ X: isothermal"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "To identify these processes, look at what remains constant on the p-V axes. For Y to Z, the line is horizontal, meaning the pressure $p$ does not change, which is an isobaric process. For Z to X, the line is vertical, meaning the volume $V$ does not change, which is an isochoric (or isovolumetric) process.",
+    "source_image_path": "B4-Thermodynamics/Nov 2009 HL Q13 A.png"
+  },
+  {
+    "id": "Nov_2010_HL_Q10",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic processes",
+    "paper": {
+      "year": 2010,
+      "month": "Nov",
+      "session_label": "Nov 2010",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2010 HL Q10 D.png"
+    },
+    "question_number": 10,
+    "content_markdown": "An ideal gas expands isothermally from a state X to a new state of volume $V$. The work done by the gas is $W$. Which of the following is correct for an adiabatic expansion of the gas from state X to a new state of volume $V$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) with columns for 'Change in internal energy' and 'Work done'.",
+      "labels_to_preserve": [
+        "Change in internal energy",
+        "Work done",
+        "\\Delta U > 0",
+        "\\Delta U < 0",
+        "greater than W",
+        "less than W"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Change in internal energy: $\\Delta U > 0$; Work done: greater than $W$"
+      },
+      {
+        "label": "B",
+        "text": "Change in internal energy: $\\Delta U < 0$; Work done: greater than $W$"
+      },
+      {
+        "label": "C",
+        "text": "Change in internal energy: $\\Delta U > 0$; Work done: less than $W$"
+      },
+      {
+        "label": "D",
+        "text": "Change in internal energy: $\\Delta U < 0$; Work done: less than $W$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In an adiabatic expansion, the gas does work at the expense of its internal energy ($Q=0$, so $\\Delta U = -W_{by}$). Since the gas expands, work is positive, meaning $\\Delta U$ must be negative ($\\Delta U < 0$). Furthermore, on a $P-V$ diagram, an adiabatic curve is steeper than an isothermal curve. Starting from the same point X and expanding to the same final volume $V$, the pressure for the adiabatic process will always be lower than for the isothermal process. Since work is the area under the $P-V$ curve, the adiabatic work done will be less than the isothermal work $W$.",
+    "source_image_path": "B4-Thermodynamics/Nov 2010 HL Q10 D.png"
+  },
+  {
+    "id": "Nov_2011_HL_Q11",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2011,
+      "month": "Nov",
+      "session_label": "Nov 2011",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2011 HL Q11 A.png"
+    },
+    "question_number": 11,
+    "content_markdown": "The entropy of a system is a measure of the system\u2019s",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "total energy only."
+      },
+      {
+        "label": "B",
+        "text": "degree of disorder and total energy."
+      },
+      {
+        "label": "C",
+        "text": "degree of disorder only."
+      },
+      {
+        "label": "D",
+        "text": "degree of disorder and average kinetic energy."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Entropy is a thermodynamic property that quantifies the number of microscopic configurations (microstates) that correspond to a macroscopic state. In the context of IB Physics, it is most commonly defined qualitatively as a measure of the degree of disorder or randomness within a system.",
+    "source_image_path": "B4-Thermodynamics/Nov 2011 HL Q11 A.png"
+  },
+  {
+    "id": "Nov_2012_HL_Q10",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic cycles",
+    "paper": {
+      "year": 2012,
+      "month": "Nov",
+      "session_label": "Nov 2012",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2012 HL Q10 D.png"
+    },
+    "question_number": 10,
+    "content_markdown": "The diagram shows a $P-V$ cycle for a particular gas.\n\nIn which of the following changes is **no** work being done?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A Pressure-Volume (P-V) graph showing a four-stage cycle. Points are labeled 1, 2, 3, and 4. The path from 1 to 2 is a curve (compression), 2 to 3 is a vertical line (isochoric), 3 to 4 is a curve (expansion), and 4 to 1 is a vertical line (isochoric).",
+      "labels_to_preserve": [
+        "P",
+        "V",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$1 \\rightarrow 2$"
+      },
+      {
+        "label": "B",
+        "text": "$1 \\rightarrow 2 \\rightarrow 3$"
+      },
+      {
+        "label": "C",
+        "text": "$1 \\rightarrow 2 \\rightarrow 3 \\rightarrow 4$"
+      },
+      {
+        "label": "D",
+        "text": "$2 \\rightarrow 3$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Work done in a thermodynamic process is given by $W = \\int P dV$. For work to be zero, there must be no change in volume ($dV = 0$). On a $P-V$ diagram, this corresponds to a vertical line (an isochoric process). Looking at the graph, the path from 2 to 3 is a vertical line where the volume remains constant, meaning no work is done during this specific transition.",
+    "source_image_path": "B4-Thermodynamics/Nov 2012 HL Q10 D.png"
+  },
+  {
+    "id": "Nov_2012_HL_Q12",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Entropy",
+    "paper": {
+      "year": 2012,
+      "month": "Nov",
+      "session_label": "Nov 2012",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2012 HL Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "Water in a container freezes. Which of the following correctly describes the change in entropy of the water and its surroundings?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the change in entropy of water and the change in entropy of surroundings for four options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Change in entropy of water",
+        "Change in entropy of surroundings"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Change in entropy of water: decrease; Change in entropy of surroundings: decrease"
+      },
+      {
+        "label": "B",
+        "text": "Change in entropy of water: decrease; Change in entropy of surroundings: increase"
+      },
+      {
+        "label": "C",
+        "text": "Change in entropy of water: increase; Change in entropy of surroundings: decrease"
+      },
+      {
+        "label": "D",
+        "text": "Change in entropy of water: increase; Change in entropy of surroundings: increase"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "When water freezes, it transitions from a liquid to a more ordered solid state, so its entropy decreases. Freezing is an exothermic process, meaning heat is released into the surroundings. This addition of heat increases the thermal motion and disorder of the surroundings, thus increasing the entropy of the surroundings. Note that the total entropy of the universe must increase or stay constant according to the Second Law of Thermodynamics.",
+    "source_image_path": "B4-Thermodynamics/Nov 2012 HL Q12 B.png"
+  },
+  {
+    "id": "Nov_2013_HL_Q8",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamic cycles",
+    "paper": {
+      "year": 2013,
+      "month": "Nov",
+      "session_label": "Nov 2013",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2013 HL Q8 D.png"
+    },
+    "question_number": 8,
+    "content_markdown": "The graph shows the variation of pressure $P$ with volume $V$ of an ideal gas during a thermodynamic cycle.\n\nDuring which stages is work done on the gas and work done by the gas?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A P-V diagram showing a triangular cycle with vertices X, Y, and Z. The process X to Y is an expansion (downward curve/slope), Y to Z is a compression at constant pressure (horizontal line to the left), and Z to X is an isochoric pressure increase (vertical line upwards).",
+      "labels_to_preserve": [
+        "P",
+        "V",
+        "X",
+        "Y",
+        "Z"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Work done on gas: $X \\rightarrow Y$ only; Work done by gas: $Y \\rightarrow Z$ only"
+      },
+      {
+        "label": "B",
+        "text": "Work done on gas: $X \\rightarrow Y$ and $Z \\rightarrow X$; Work done by gas: $Y \\rightarrow Z$ only"
+      },
+      {
+        "label": "C",
+        "text": "Work done on gas: $Y \\rightarrow Z$ only; Work done by gas: $Z \\rightarrow X$ and $X \\rightarrow Y$"
+      },
+      {
+        "label": "D",
+        "text": "Work done on gas: $Y \\rightarrow Z$ only; Work done by gas: $X \\rightarrow Y$ only"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Work is done by the gas when it expands (volume increases), which occurs during the stage $X \\rightarrow Y$. Work is done on the gas when it is compressed (volume decreases), which occurs during the stage $Y \\rightarrow Z$. In the stage $Z \\rightarrow X$, the volume is constant (isochoric), so no work is done.",
+    "source_image_path": "B4-Thermodynamics/Nov 2013 HL Q8 D.png"
+  },
+  {
+    "id": "Nov_2013_HL_Q9",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Entropy",
+    "paper": {
+      "year": 2013,
+      "month": "Nov",
+      "session_label": "Nov 2013",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2013 HL Q9 A.png"
+    },
+    "question_number": 9,
+    "content_markdown": "A piece of ice melts at constant temperature. Which of the following gives the correct change in the entropy of the water molecules and that of the surroundings?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the changes in entropy for water molecules and surroundings for options A, B, C, and D.",
+      "labels_to_preserve": [
+        "entropy of water molecules",
+        "entropy of surroundings"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "entropy of water molecules: increases; entropy of surroundings: decreases"
+      },
+      {
+        "label": "B",
+        "text": "entropy of water molecules: decreases; entropy of surroundings: decreases"
+      },
+      {
+        "label": "C",
+        "text": "entropy of water molecules: increases; entropy of surroundings: increases"
+      },
+      {
+        "label": "D",
+        "text": "entropy of water molecules: decreases; entropy of surroundings: increases"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "When ice melts, it absorbs thermal energy from the surroundings. For the water molecules, the transition from a solid (ordered) to a liquid (disordered) state increases their entropy. For the surroundings, the loss of thermal energy results in a decrease in entropy, as $\\Delta S = \\frac{Q}{T}$ and $Q$ is negative for the surroundings.",
+    "source_image_path": "B4-Thermodynamics/Nov 2013 HL Q9 A.png"
+  },
+  {
+    "id": "Nov_2014_HL_Q35",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2014,
+      "month": "Nov",
+      "session_label": "Nov 2014",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2014 HL Q35 A.png"
+    },
+    "question_number": 35,
+    "content_markdown": "Which of the following is **true** when thermal energy is converted into work in a single process and a cyclical process?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table comparing the conversion of thermal energy into work for a single process and a cyclical process across four options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Single process",
+        "Cyclical process"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Single process: complete conversion of thermal energy into work can occur; Cyclical process: energy must be transferred from the system"
+      },
+      {
+        "label": "B",
+        "text": "Single process: complete conversion of thermal energy into work can never occur; Cyclical process: energy must be transferred from the system"
+      },
+      {
+        "label": "C",
+        "text": "Single process: complete conversion of thermal energy into work can occur; Cyclical process: energy need not be transferred from the system"
+      },
+      {
+        "label": "D",
+        "text": "Single process: complete conversion of thermal energy into work can never occur; Cyclical process: energy need not be transferred from the system"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In a single process (like an isothermal expansion), all heat absorbed can be converted into work as long as the internal energy change is zero. However, the Second Law of Thermodynamics (Kelvin-Planck statement) dictates that for a cyclical process, it is impossible to convert all heat from a single reservoir into work; some energy must always be rejected to a cold reservoir (transferred from the system).",
+    "source_image_path": "B4-Thermodynamics/Nov 2014 HL Q35 A.png"
+  },
+  {
+    "id": "Nov_2014_HL_Q9",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2014,
+      "month": "Nov",
+      "session_label": "Nov 2014",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2014 HL Q9 A.png"
+    },
+    "question_number": 9,
+    "content_markdown": "Which of the following can be deduced from the second law of thermodynamics?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the question.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Thermal energy cannot spontaneously transfer from a low temperature region to a high temperature region."
+      },
+      {
+        "label": "B",
+        "text": "Thermal energy cannot spontaneously transfer from a high temperature region to a low temperature region."
+      },
+      {
+        "label": "C",
+        "text": "The entropy of an isolated system always decreases with time."
+      },
+      {
+        "label": "D",
+        "text": "The entropy of an isolated system is the measure of the internal energy of the system."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The second law of thermodynamics deals with the direction of natural processes. One of its primary formulations (the Clausius statement) explicitly states that heat cannot spontaneously flow from a colder body to a hotter body. While it also relates to entropy, the law states that entropy in an isolated system tends to increase, not decrease, making option C incorrect.",
+    "source_image_path": "B4-Thermodynamics/Nov 2014 HL Q9 A.png"
+  },
+  {
+    "id": "Nov_2015_HL_Q10",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Entropy and the Second Law of Thermodynamics",
+    "paper": {
+      "year": 2015,
+      "month": "Nov",
+      "session_label": "Nov 2015",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2015 HL Q10 D.png"
+    },
+    "question_number": 10,
+    "content_markdown": "A system consists of a refrigerator with its door open operating in a thermally insulated room. What are the change in the entropy of the system and the change in temperature of the room?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four combinations of entropy change of the system and temperature change of the room.",
+      "labels_to_preserve": [
+        "Entropy change of system",
+        "Temperature change of room"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Entropy change of system: decreases; Temperature change of room: decreases"
+      },
+      {
+        "label": "B",
+        "text": "Entropy change of system: decreases; Temperature change of room: increases"
+      },
+      {
+        "label": "C",
+        "text": "Entropy change of system: increases; Temperature change of room: decreases"
+      },
+      {
+        "label": "D",
+        "text": "Entropy change of system: increases; Temperature change of room: increases"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "According to the Second Law of Thermodynamics, the total entropy of an isolated system (the insulated room) must increase in any real process. Furthermore, while the refrigerator moves heat from its interior to its exterior, it also consumes electrical energy to do work. This electrical energy is eventually dissipated as heat within the room. Since the room is thermally insulated, this additional energy causes the temperature of the room to increase.",
+    "source_image_path": "B4-Thermodynamics/Nov 2015 HL Q10 D.png"
+  },
+  {
+    "id": "Nov_2015_HL_Q9",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2015,
+      "month": "Nov",
+      "session_label": "Nov 2015",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2015 HL Q9 A.png"
+    },
+    "question_number": 9,
+    "content_markdown": "The graph shows how the volume of a system varies with pressure during a cycle ABCA.\n\nWhat is the work done in joules during the change AB?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A pressure-volume graph showing a cycle ABCA. The y-axis is pressure in units of $10^5$ Pa and the x-axis is volume in $m^3$. Point A is at $(1, 5)$, point B is at $(4, 5)$, and point C is at $(1, 2)$. Process AB is a horizontal line at constant pressure, BC is a curve, and CA is a vertical line at constant volume.",
+      "labels_to_preserve": [
+        "pressure / 10^5 Pa",
+        "volume / m^3",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$15 \\times 10^5$"
+      },
+      {
+        "label": "B",
+        "text": "$9.0 \\times 10^5$"
+      },
+      {
+        "label": "C",
+        "text": "$4.5 \\times 10^5$"
+      },
+      {
+        "label": "D",
+        "text": "0"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Work done in a thermodynamic process is given by the area under the P-V curve, or $W = P\\Delta V$ for constant pressure processes. For the change AB, the pressure is constant at $5 \\times 10^5$ Pa. The change in volume $\\Delta V$ is $4\\text{ m}^3 - 1\\text{ m}^3 = 3\\text{ m}^3$. Therefore, $W = (5 \\times 10^5 \\text{ Pa}) \\times (3 \\text{ m}^3) = 15 \\times 10^5 \\text{ J}$.",
+    "source_image_path": "B4-Thermodynamics/Nov 2015 HL Q9 A.png"
+  },
+  {
+    "id": "Specimen_2025_HL_Q11",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Thermodynamics",
+    "paper": {
+      "year": 2025,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2025",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2025 HL Q11 A.png"
+    },
+    "question_number": 11,
+    "content_markdown": "A gas undergoes one cycle of a cyclic process.\n\nThe net change in internal energy of the gas is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "zero."
+      },
+      {
+        "label": "B",
+        "text": "positive."
+      },
+      {
+        "label": "C",
+        "text": "negative."
+      },
+      {
+        "label": "D",
+        "text": "determined by the initial temperature of the gas."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Internal energy is a state function, meaning its value depends only on the current state of the system (temperature, pressure, volume). In a cyclic process, the system returns to its exact initial state, so the final internal energy equals the initial internal energy, making the net change $\\Delta U = 0$.",
+    "source_image_path": "B4-Thermodynamics/Specimen Paper 2025 HL Q11 A.png"
+  },
+  {
+    "id": "Specimen_2025_HL_Q12",
+    "topic": "Thermodynamics",
+    "topic_code": "B4",
+    "sub_topic": "Entropy and the Second Law of Thermodynamics",
+    "paper": {
+      "year": 2025,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2025",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2025 HL Q12 D.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A working refrigerator with the door open is placed in a sealed room.\n\nThe entropy of the room",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "is zero."
+      },
+      {
+        "label": "B",
+        "text": "decreases."
+      },
+      {
+        "label": "C",
+        "text": "remains unchanged."
+      },
+      {
+        "label": "D",
+        "text": "increases."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "According to the Second Law of Thermodynamics, the total entropy of an isolated system (the sealed room) must increase over time during any spontaneous process. Since the refrigerator is 'working', it consumes electrical energy and converts it into thermal energy due to inefficiencies and the work done by the compressor. This net addition of heat to the room increases the disorder of the air molecules, thus increasing the entropy.",
+    "source_image_path": "B4-Thermodynamics/Specimen Paper 2025 HL Q12 D.png"
+  }
+]

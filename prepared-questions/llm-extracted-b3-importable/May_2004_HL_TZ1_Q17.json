@@ -1,0 +1,47 @@
+{
+  "id": "May_2004_HL_TZ1_Q17",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ1 Q17 A.png"
+  },
+  "question_number": 17,
+  "content_markdown": "A fixed mass of an ideal gas is heated at constant volume. Which **one** of the following graphs best shows the variation of Celsius temperature $t$ with pressure $p$ of the gas?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs showing pressure p on the y-axis and Celsius temperature t on the x-axis. Graph A shows a linear relationship with a positive y-intercept. Graph B shows a linear relationship passing through the origin. Graph C shows a linear relationship with a positive x-intercept. Graph D shows a curved exponential-like relationship with a positive y-intercept.",
+    "labels_to_preserve": [
+      "p",
+      "t / ^\\circ\\text{C}",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "According to the ideal gas law $pV = nRT$, at constant volume, pressure is directly proportional to absolute temperature $T$ in Kelvin ($p \\propto T$). Since $T = t + 273.15$, the relationship between pressure and Celsius temperature $t$ is $p = \\frac{nR}{V}(t + 273.15)$. This is a linear equation of the form $y = mx + c$ where the y-intercept $c$ is positive (representing the pressure at $0^\\circ\\text{C}$). Therefore, the graph should be a straight line that does not pass through the origin, but intersects the vertical axis at a positive value.",
+  "source_image_path": "B3-Gas-Laws/May 2004 HL TZ1 Q17 A.png"
+}

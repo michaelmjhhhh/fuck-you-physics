@@ -1,0 +1,43 @@
+{
+  "id": "May_2006_HL_TZ1_Q15",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ1 Q15 D.png"
+  },
+  "question_number": 15,
+  "content_markdown": "The internal energy of a solid substance is equal to the",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "average kinetic energy of the molecules."
+    },
+    {
+      "label": "B",
+      "text": "total kinetic energy of the molecules."
+    },
+    {
+      "label": "C",
+      "text": "total potential energy of the molecules."
+    },
+    {
+      "label": "D",
+      "text": "total potential and total kinetic energy of the molecules."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In IB Physics, internal energy is defined as the sum of the random distribution of kinetic and potential energies of the particles (atoms or molecules) that make up a substance. While temperature is proportional to the average kinetic energy, the total internal energy must account for both the motion (kinetic) and the intermolecular forces (potential) of all particles.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2006 HL TZ1 Q15 D.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2010_HL_Q13",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2010,
+    "month": "Nov",
+    "session_label": "Nov 2010",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2010 HL Q13 D.png"
+  },
+  "question_number": 13,
+  "content_markdown": "A particle performs simple harmonic oscillations. Which of the following quantities will be unaffected by a reduction in the amplitude of oscillations?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The total energy"
+    },
+    {
+      "label": "B",
+      "text": "The maximum speed"
+    },
+    {
+      "label": "C",
+      "text": "The maximum acceleration"
+    },
+    {
+      "label": "D",
+      "text": "The period"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In Simple Harmonic Motion (SHM), the period $T$ is independent of the amplitude $x_0$. This is a defining characteristic of isochronous oscillations. Conversely, total energy $E \\propto x_0^2$, maximum speed $v_{max} = \\omega x_0$, and maximum acceleration $a_{max} = \\omega^2 x_0$ all depend directly on the amplitude.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2010 HL Q13 D.png"
+}

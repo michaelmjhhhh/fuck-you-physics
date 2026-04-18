@@ -1,0 +1,47 @@
+{
+  "id": "May_2017_HL_TZ1_Q8",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ1 Q8 A.png"
+  },
+  "question_number": 8,
+  "content_markdown": "A liquid is initially at its freezing point. Energy is removed at a uniform rate from the liquid until it freezes completely.\n\nWhich graph shows how the temperature $T$ of the liquid varies with the energy $Q$ removed from the liquid?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs labeled A, B, C, and D showing Temperature T on the y-axis and Energy removed Q on the x-axis. Graph A shows a horizontal line. Graph B shows a downward sloping straight line. Graph C shows a downward curve. Graph D shows a downward sloping line followed by a horizontal line.",
+    "labels_to_preserve": [
+      "T",
+      "Q",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "When a substance undergoes a phase change (like freezing), the energy removed is used to change the state of the matter (breaking/forming bonds) rather than changing its kinetic energy. Therefore, the temperature remains constant at the freezing point until the phase change is complete. Since the liquid starts at its freezing point, the temperature will remain constant as energy $Q$ is removed until it is entirely solid.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2017 HL TZ1 Q8 A.png"
+}

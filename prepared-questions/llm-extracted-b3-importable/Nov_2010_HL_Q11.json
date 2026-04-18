@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2010_HL_Q11",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2010,
+    "month": "Nov",
+    "session_label": "Nov 2010",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2010 HL Q11 A.png"
+  },
+  "question_number": 11,
+  "content_markdown": "The graph shows the variation with absolute temperature $T$ of the pressure $p$ of a fixed mass of an ideal gas.\n\nWhich of the following is correct concerning the volume and the density of the gas?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph of pressure p versus absolute temperature T showing a straight line passing through the origin (0,0). The line is dashed near the origin and solid as it increases.",
+    "labels_to_preserve": [
+      "p",
+      "T",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Volume: constant; Density: constant"
+    },
+    {
+      "label": "B",
+      "text": "Volume: constant; Density: increasing"
+    },
+    {
+      "label": "C",
+      "text": "Volume: increasing; Density: constant"
+    },
+    {
+      "label": "D",
+      "text": "Volume: increasing; Density: increasing"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "According to the ideal gas law $pV = nRT$, if the graph of $p$ against $T$ is a straight line through the origin, then $p/T$ is constant. This implies that $V$ must be constant. Since the mass of the gas is fixed and density is mass divided by volume, a constant volume means the density must also remain constant.",
+  "source_image_path": "B3-Gas-Laws/Nov 2010 HL Q11 A.png"
+}

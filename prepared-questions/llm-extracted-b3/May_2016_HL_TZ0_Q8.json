@@ -1,0 +1,43 @@
+{
+  "id": "May_2016_HL_TZ0_Q8",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2016,
+    "month": "May",
+    "session_label": "May 2016",
+    "level": "HL",
+    "timezone": "TZ0",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2016 HL TZ0 Q8 A.png"
+  },
+  "question_number": 8,
+  "content_markdown": "Under what conditions of density and pressure is a real gas best described by the equation of state for an ideal gas?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Low density and low pressure"
+    },
+    {
+      "label": "B",
+      "text": "Low density and high pressure"
+    },
+    {
+      "label": "C",
+      "text": "High density and low pressure"
+    },
+    {
+      "label": "D",
+      "text": "High density and high pressure"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "A real gas behaves most like an ideal gas when the molecules are far apart and the intermolecular forces are negligible. This occurs at low density (fewer molecules per unit volume) and low pressure (which corresponds to a large volume for a given amount of gas).",
+  "source_image_path": "B3-Gas-Laws/May 2016 HL TZ0 Q8 A.png"
+}

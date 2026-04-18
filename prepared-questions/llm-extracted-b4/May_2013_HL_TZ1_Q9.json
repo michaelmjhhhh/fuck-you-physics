@@ -1,0 +1,43 @@
+{
+  "id": "May_2013_HL_TZ1_Q9",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "B.4 Thermodynamics",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ1 Q9 C.png"
+  },
+  "question_number": 9,
+  "content_markdown": "Which of the following statements is consistent with the second law of thermodynamics?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Thermal energy can flow by itself from a cold to a hot body."
+    },
+    {
+      "label": "B",
+      "text": "A heat engine can be $100\\%$ efficient."
+    },
+    {
+      "label": "C",
+      "text": "In natural processes, total entropy tends to increase."
+    },
+    {
+      "label": "D",
+      "text": "The entropy in every closed system is constant."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The second law of thermodynamics states that the total entropy of an isolated system can never decrease over time; it can only remain constant or increase. Option C directly reflects the Clausius/Entropy formulation of the law. Option A and B are violations of the law (Clausius and Kelvin-Planck statements respectively), and Option D is incorrect because entropy increases in irreversible processes.",
+  "source_image_path": "B4-Thermodynamics/May 2013 HL TZ1 Q9 C.png"
+}

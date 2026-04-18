@@ -1,0 +1,51 @@
+{
+  "id": "May_2006_HL_TZ2_Q21",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "C.2 Wave model",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ2 Q21 D.png"
+  },
+  "question_number": 21,
+  "content_markdown": "The diagram below shows a transverse wave on a string. The wave is moving from right to left.\n\nIn the position shown, point X has zero displacement and point Y is at a position of maximum displacement. Which **one** of the following gives the subsequent direction of motion of point X and of point Y?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A transverse wave moving to the left. Point X is at the equilibrium position (zero displacement) on a downward slope. Point Y is at a trough (maximum negative displacement). A coordinate system shows upwards, downwards, left, and right.",
+    "labels_to_preserve": [
+      "X",
+      "Y",
+      "direction of wave",
+      "upwards",
+      "downwards",
+      "left",
+      "right"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Point X: left; Point Y: left"
+    },
+    {
+      "label": "B",
+      "text": "Point X: upwards; Point Y: upwards"
+    },
+    {
+      "label": "C",
+      "text": "Point X: downwards; Point Y: left"
+    },
+    {
+      "label": "D",
+      "text": "Point X: downwards; Point Y: upwards"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In a transverse wave, particles move perpendicular to the direction of wave propagation (up and down, not left or right). To find the motion, shift the wave slightly to the left (the direction of travel). For point X, the crest to its right will move into its position, meaning X must move downwards to meet the incoming trough. For point Y, which is currently at a trough, the only possible subsequent motion is upwards back toward the equilibrium position.",
+  "source_image_path": "C2-Wave-Model/May 2006 HL TZ2 Q21 D.png"
+}

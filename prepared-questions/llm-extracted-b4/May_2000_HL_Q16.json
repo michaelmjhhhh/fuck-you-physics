@@ -1,0 +1,43 @@
+{
+  "id": "May_2000_HL_Q16",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic processes",
+  "paper": {
+    "year": 2000,
+    "month": "May",
+    "session_label": "May 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2000 HL Q16 A.png"
+  },
+  "question_number": 16,
+  "content_markdown": "When the volume of a gas increases, it does work. The work done would be greatest for which one of the following processes?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Isobaric."
+    },
+    {
+      "label": "B",
+      "text": "Adiabatic."
+    },
+    {
+      "label": "C",
+      "text": "Isothermal."
+    },
+    {
+      "label": "D",
+      "text": "The work done would be the same for all of the above."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Work done is the area under the curve on a $P-V$ diagram. For a given increase in volume, the isobaric process maintains the highest pressure throughout the expansion, resulting in the largest area under the curve compared to isothermal or adiabatic processes where pressure drops as volume increases.",
+  "source_image_path": "B4-Thermodynamics/May 2000 HL Q16 A.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2013_HL_TZ2_Q16",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ2 Q16 A.png"
+  },
+  "question_number": 16,
+  "content_markdown": "The air in a pipe, of length $l$ and open at both ends, vibrates with a fundamental frequency $f$. What is the fundamental frequency of a pipe of length $1.5l$ and closed at one end?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{f}{3}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{2f}{3}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{3f}{2}$"
+    },
+    {
+      "label": "D",
+      "text": "$3f$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "For a pipe open at both ends, the fundamental frequency is $f = \\frac{v}{2l}$. For a pipe closed at one end, the fundamental frequency is $f' = \\frac{v}{4L}$. Substituting the new length $L = 1.5l$, we get $f' = \\frac{v}{4(1.5l)} = \\frac{v}{6l}$. Comparing this to the original frequency, $f' = \\frac{1}{3} \\left( \\frac{v}{2l} \\right) = \\frac{f}{3}$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2013 HL TZ2 Q16 A.png"
+}

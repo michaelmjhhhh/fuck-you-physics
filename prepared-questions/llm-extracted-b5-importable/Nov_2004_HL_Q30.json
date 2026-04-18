@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2004_HL_Q30",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric circuits",
+  "paper": {
+    "year": 2004,
+    "month": "Nov",
+    "session_label": "Nov 2004",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2004 HL Q30 C.png"
+  },
+  "question_number": 30,
+  "content_markdown": "In the circuits below, the cells each have the same e.m.f. and zero internal resistance. All the resistors have the same resistance.\n\nWhich of the following gives the current through the cells in order of **increasing** magnitude?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Three circuit diagrams labeled Circuit X, Circuit Y, and Circuit Z. Circuit X has two resistors in parallel. Circuit Y has two resistors in series. Circuit Z has one resistor in series with a parallel combination of two resistors.",
+    "labels_to_preserve": [
+      "Circuit X",
+      "Circuit Y",
+      "Circuit Z"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "X, Y, Z"
+    },
+    {
+      "label": "B",
+      "text": "Z, X, Y"
+    },
+    {
+      "label": "C",
+      "text": "Y, Z, X"
+    },
+    {
+      "label": "D",
+      "text": "Y, X, Z"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "To find the current through the cell ($I = \\epsilon / R_{total}$), we need to compare the total resistance of each circuit. Let each resistor have resistance $R$. In Circuit X, the resistors are in parallel, so $R_X = R/2$. In Circuit Y, they are in series, so $R_Y = 2R$. In Circuit Z, one resistor is in series with a parallel pair, so $R_Z = R + R/2 = 1.5R$. Comparing the resistances: $R_X \u003c R_Z \u003c R_Y$. Since current is inversely proportional to resistance, the currents are $I_Y \u003c I_Z \u003c I_X$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2004 HL Q30 C.png"
+}

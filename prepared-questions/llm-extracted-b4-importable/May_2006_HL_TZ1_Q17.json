@@ -1,0 +1,48 @@
+{
+  "id": "May_2006_HL_TZ1_Q17",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2006,
+    "month": "May",
+    "session_label": "May 2006",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2006 HL TZ1 Q17 D.png"
+  },
+  "question_number": 17,
+  "content_markdown": "Which of the following combinations of changes will produce the greatest increase in the theoretical maximum efficiency of a heat engine?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four combinations of changes to the temperature of the cold reservoir and the temperature of the hot reservoir.",
+    "labels_to_preserve": [
+      "Temperature of cold reservoir",
+      "Temperature of hot reservoir",
+      "Increase",
+      "Decrease"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Temperature of cold reservoir: Increase; Temperature of hot reservoir: Decrease"
+    },
+    {
+      "label": "B",
+      "text": "Temperature of cold reservoir: Increase; Temperature of hot reservoir: Increase"
+    },
+    {
+      "label": "C",
+      "text": "Temperature of cold reservoir: Decrease; Temperature of hot reservoir: Decrease"
+    },
+    {
+      "label": "D",
+      "text": "Temperature of cold reservoir: Decrease; Temperature of hot reservoir: Increase"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The theoretical maximum efficiency of a heat engine is given by the Carnot efficiency formula: $\\eta = 1 - \\frac{T_{cold}}{T_{hot}}$. To maximize this value, we need to make the fraction $\\frac{T_{cold}}{T_{hot}}$ as small as possible. This is achieved by decreasing the numerator ($T_{cold}$) and increasing the denominator ($T_{hot}$).",
+  "source_image_path": "B4-Thermodynamics/May 2006 HL TZ1 Q17 D.png"
+}

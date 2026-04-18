@@ -1,0 +1,46 @@
+{
+  "id": "May_2021_HL_TZ1_Q12",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave properties",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ1 Q12 C.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A sound wave has a frequency of $1.0\\text{ kHz}$ and a wavelength of $0.33\\text{ m}$. What is the distance travelled by the wave in $2.0\\text{ ms}$ and the nature of the wave?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options for the distance travelled in 2.0 ms and the nature of the wave.",
+    "labels_to_preserve": [
+      "Distance travelled in 2.0 ms",
+      "Nature of the wave"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Distance: $0.17\\text{ m}$; Nature: longitudinal"
+    },
+    {
+      "label": "B",
+      "text": "Distance: $0.17\\text{ m}$; Nature: transverse"
+    },
+    {
+      "label": "C",
+      "text": "Distance: $0.66\\text{ m}$; Nature: longitudinal"
+    },
+    {
+      "label": "D",
+      "text": "Distance: $0.66\\text{ m}$; Nature: transverse"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "First, calculate the wave speed using $v = f\\lambda = 1000\\text{ Hz} \\times 0.33\\text{ m} = 330\\text{ m s}^{-1}$. Then, find the distance travelled using $d = v \\times t = 330\\text{ m s}^{-1} \\times 0.002\\text{ s} = 0.66\\text{ m}$. Finally, recall that sound waves in air are longitudinal waves, as they consist of compressions and rarefactions parallel to the direction of energy transfer.",
+  "source_image_path": "C2-Wave-Model/May 2021 HL TZ1 Q12 C.png"
+}

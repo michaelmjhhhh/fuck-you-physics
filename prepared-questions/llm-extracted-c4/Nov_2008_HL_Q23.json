@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2008_HL_Q23",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2008,
+    "month": "Nov",
+    "session_label": "Nov 2008",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2008 HL Q23 A.png"
+  },
+  "question_number": 23,
+  "content_markdown": "The fundamental mode of a vibrating string has frequency $f$ and wavelength $\\lambda$. Which of the following gives the correct frequency and wavelength for the fundamental mode of an identical string of half the length and the same tension?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) with columns for Frequency and Wavelength.",
+    "labels_to_preserve": [
+      "Frequency",
+      "Wavelength"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Frequency: $2f$, Wavelength: $\\frac{\\lambda}{2}$"
+    },
+    {
+      "label": "B",
+      "text": "Frequency: $2f$, Wavelength: $2\\lambda$"
+    },
+    {
+      "label": "C",
+      "text": "Frequency: $\\frac{f}{2}$, Wavelength: $2\\lambda$"
+    },
+    {
+      "label": "D",
+      "text": "Frequency: $\\frac{f}{2}$, Wavelength: $\\frac{\\lambda}{2}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "For a string fixed at both ends, the fundamental wavelength is $\\lambda = 2L$. If the length is halved ($L' = L/2$), the new wavelength is $\\lambda' = 2(L/2) = L = \\lambda/2$. Since the tension and string properties are identical, the wave speed $v = \\sqrt{T/\\mu}$ remains constant. Using $v = f\\lambda$, if the wavelength is halved, the frequency must double to keep $v$ constant, so $f' = 2f$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2008 HL Q23 A.png"
+}

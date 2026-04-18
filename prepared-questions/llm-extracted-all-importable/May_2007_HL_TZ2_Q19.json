@@ -1,0 +1,48 @@
+{
+  "id": "May_2007_HL_TZ2_Q19",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2007,
+    "month": "May",
+    "session_label": "May 2007",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2007 HL TZ2 19 A.png"
+  },
+  "question_number": 19,
+  "content_markdown": "A metal block of mass $M$ is heated. The graph shows the variation with thermal energy $H$ supplied to the block of its temperature rise $\\theta$.\n\nThe gradient of the straight-line graph is $n$. The specific heat capacity of the metal is",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph with temperature rise theta on the y-axis and thermal energy H on the x-axis. A straight line passes through the origin with a gradient labeled n.",
+    "labels_to_preserve": [
+      "\\theta",
+      "H",
+      "n",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{Mn}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{n}$"
+    },
+    {
+      "label": "C",
+      "text": "$Mn$"
+    },
+    {
+      "label": "D",
+      "text": "$n$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The relationship between thermal energy $H$, mass $M$, specific heat capacity $c$, and temperature rise $\\theta$ is given by $H = Mc\\theta$. Rearranging for $\\theta$ gives $\\theta = \\frac{1}{Mc} H$. Since the graph plots $\\theta$ against $H$, the gradient $n$ is equal to $\\frac{1}{Mc}$. Solving for $c$ gives $c = \\frac{1}{Mn}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2007 HL TZ2 19 A.png"
+}

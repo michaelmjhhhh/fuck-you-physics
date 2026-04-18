@@ -1,0 +1,43 @@
+{
+  "id": "May_2002_HL_Q18",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2002,
+    "month": "May",
+    "session_label": "May 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2002 HL Q18 B.png"
+  },
+  "question_number": 18,
+  "content_markdown": "A lead bullet is fired into an iron plate, where it deforms and stops. As a result, the temperature of the lead increases by an amount $\\Delta T$. For a lead bullet having **twice** the mass but the same speed of impact, what would be the best estimate of its temperature increase?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{2} \\Delta T$"
+    },
+    {
+      "label": "B",
+      "text": "$\\Delta T$"
+    },
+    {
+      "label": "C",
+      "text": "$\\sqrt{2} \\Delta T$"
+    },
+    {
+      "label": "D",
+      "text": "$2 \\Delta T$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The kinetic energy of the bullet is $E_k = \\frac{1}{2}mv^2$. Assuming all this energy is converted into internal energy of the bullet, we have $Q = mc\\Delta T$. Equating the two gives $\\frac{1}{2}mv^2 = mc\\Delta T$. Notice that the mass $m$ cancels out from both sides, leaving $\\Delta T = \\frac{v^2}{2c}$. Since the speed $v$ and the specific heat capacity $c$ remain the same, the temperature increase $\\Delta T$ is independent of the mass.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2002 HL Q18 B.png"
+}

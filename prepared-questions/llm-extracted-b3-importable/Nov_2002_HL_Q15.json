@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2002_HL_Q15",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2002,
+    "month": "Nov",
+    "session_label": "Nov 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2002 HL Q15 D.png"
+  },
+  "question_number": 15,
+  "content_markdown": "When a gas is compressed at constant temperature, the pressure increases. This is because the molecules of the gas",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "repel each other."
+    },
+    {
+      "label": "B",
+      "text": "are squashed together."
+    },
+    {
+      "label": "C",
+      "text": "hit the walls of the container at a greater average speed."
+    },
+    {
+      "label": "D",
+      "text": "hit the walls of the container more often in a given time."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Pressure in a gas is defined by the rate of change of momentum during collisions with the container walls. Since the temperature is constant, the average kinetic energy (and thus average speed) of the molecules remains the same. However, compressing the gas reduces the volume, increasing the number of molecules per unit volume. This leads to a higher frequency of collisions with the walls, resulting in increased pressure.",
+  "source_image_path": "B3-Gas-Laws/Nov 2002 HL Q15 D.png"
+}

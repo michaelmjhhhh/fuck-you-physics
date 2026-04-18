@@ -1,0 +1,43 @@
+{
+  "id": "May_2021_HL_TZ2_Q8",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ2 Q8 B.png"
+  },
+  "question_number": 8,
+  "content_markdown": "A sample of oxygen gas with a volume of $3.0\\text{ m}^3$ is at $100\\text{ }^\\circ\\text{C}$. The gas is heated so that it expands at a constant pressure to a final volume of $6.0\\text{ m}^3$. What is the final temperature of the gas?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$750\\text{ }^\\circ\\text{C}$"
+    },
+    {
+      "label": "B",
+      "text": "$470\\text{ }^\\circ\\text{C}$"
+    },
+    {
+      "label": "C",
+      "text": "$370\\text{ }^\\circ\\text{C}$"
+    },
+    {
+      "label": "D",
+      "text": "$200\\text{ }^\\circ\\text{C}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "According to Charles's Law for a constant pressure process, $\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$, where temperature must be in Kelvin. First, convert the initial temperature: $T_1 = 100 + 273 = 373\\text{ K}$. Since the volume doubles from $3.0\\text{ m}^3$ to $6.0\\text{ m}^3$, the absolute temperature must also double: $T_2 = 2 \\times 373 = 746\\text{ K}$. Finally, convert back to Celsius: $746 - 273 = 473\\text{ }^\\circ\\text{C}$, which rounds to $470\\text{ }^\\circ\\text{C}$.",
+  "source_image_path": "B3-Gas-Laws/May 2021 HL TZ2 Q8 B.png"
+}

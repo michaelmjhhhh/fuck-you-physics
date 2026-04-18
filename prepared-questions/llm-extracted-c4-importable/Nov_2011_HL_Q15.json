@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2011_HL_Q15",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2011,
+    "month": "Nov",
+    "session_label": "Nov 2011",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2011 HL Q15 C.png"
+  },
+  "question_number": 15,
+  "content_markdown": "A standing wave is established on a string between two fixed points.\n\nWhat is the phase difference in radians between point P and point Q on the string?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a standing wave on a string fixed at both ends. The wave is in its second harmonic (one full wavelength). Point P is at the peak of the first loop, and point Q is at the trough of the second loop.",
+    "labels_to_preserve": [
+      "P",
+      "Q"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "zero"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{\\pi}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\pi$"
+    },
+    {
+      "label": "D",
+      "text": "$2\\pi$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In a standing wave, all points within a single loop (between two adjacent nodes) vibrate in phase with each other. However, points in adjacent loops vibrate in antiphase. Since P is in the first loop and Q is in the second loop, they are moving in opposite directions at any given time, resulting in a phase difference of $\\pi$ radians.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2011 HL Q15 C.png"
+}

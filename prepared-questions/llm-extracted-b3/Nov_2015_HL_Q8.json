@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2015_HL_Q8",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2015,
+    "month": "Nov",
+    "session_label": "Nov 2015",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2015 HL Q8 B.png"
+  },
+  "question_number": 8,
+  "content_markdown": "An ideal gas and a solid of the same substance are at the same temperature. The average kinetic energy of the gas molecules is $E_g$ and the average kinetic energy of the solid molecules is $E_s$. What is the comparison between $E_g$ and $E_s$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$E_g$ is less than $E_s$."
+    },
+    {
+      "label": "B",
+      "text": "$E_g$ equals $E_s$."
+    },
+    {
+      "label": "C",
+      "text": "$E_g$ is greater than $E_s$."
+    },
+    {
+      "label": "D",
+      "text": "The relationship between $E_g$ and $E_s$ cannot be determined."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In thermodynamics, temperature is a direct measure of the average random kinetic energy of the particles in a substance. Since both the ideal gas and the solid are at the same temperature, their particles must have the same average kinetic energy, regardless of the state of matter or the potential energy differences between them.",
+  "source_image_path": "B3-Gas-Laws/Nov 2015 HL Q8 B.png"
+}

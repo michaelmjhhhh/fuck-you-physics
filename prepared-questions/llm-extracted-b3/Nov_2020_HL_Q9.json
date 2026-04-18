@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2020_HL_Q9",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2020,
+    "month": "Nov",
+    "session_label": "Nov 2020",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2020 HL Q9 A.png"
+  },
+  "question_number": 9,
+  "content_markdown": "Two containers X and Y are maintained at the same temperature. X has volume $4\\text{ m}^3$ and Y has volume $6\\text{ m}^3$. They both hold an ideal gas. The pressure in X is $100\\text{ Pa}$ and the pressure in Y is $50\\text{ Pa}$. The containers are then joined by a tube of negligible volume. What is the final pressure in the containers?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "70 Pa"
+    },
+    {
+      "label": "B",
+      "text": "75 Pa"
+    },
+    {
+      "label": "C",
+      "text": "80 Pa"
+    },
+    {
+      "label": "D",
+      "text": "150 Pa"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Since temperature is constant, we can use Boyle's Law or the conservation of the product $PV$ (which is proportional to the number of moles). The total $PV$ before joining is $(100 \\times 4) + (50 \\times 6) = 400 + 300 = 700$. After joining, the total volume is $4 + 6 = 10\\text{ m}^3$. The final pressure $P_f$ is found by $P_f \\times 10 = 700$, which gives $P_f = 70\\text{ Pa}$.",
+  "source_image_path": "B3-Gas-Laws/Nov 2020 HL Q9 A.png"
+}

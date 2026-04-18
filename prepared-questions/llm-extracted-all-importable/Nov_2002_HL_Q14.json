@@ -1,0 +1,49 @@
+{
+  "id": "Nov_2002_HL_Q14",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2002,
+    "month": "Nov",
+    "session_label": "Nov 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2002 HL Q14 D.png"
+  },
+  "question_number": 14,
+  "content_markdown": "When a lump of ice was added to a beaker of warm water, the resulting water temperature was $5\\,^{\\circ}\\text{C}$ less than the initial temperature of the warm water.\n\nIf another identical lump of ice is added to the same beaker, the temperature will",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A sequence diagram showing a lump of ice being added to a beaker of water. The first addition results in a temperature change of 5 degrees Celsius. A second identical lump is then added to the resulting mixture.",
+    "labels_to_preserve": [
+      "Ice",
+      "Water",
+      "Temperature change",
+      "5 °C",
+      "?"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "go down by another $5\\,^{\\circ}\\text{C}$."
+    },
+    {
+      "label": "B",
+      "text": "not go down at all."
+    },
+    {
+      "label": "C",
+      "text": "go down by more than $5\\,^{\\circ}\\text{C}$."
+    },
+    {
+      "label": "D",
+      "text": "go down by less than $5\\,^{\\circ}\\text{C}$."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "As the water cools from the first lump of ice, the temperature difference between the water and the second lump of ice is smaller. Additionally, the mass of the water has increased because the first lump of ice melted into it. Both factors (smaller $\\Delta T$ for the water to lose heat and a larger total mass to cool) mean the second identical lump of ice will cause a smaller temperature drop than the first.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2002 HL Q14 D.png"
+}

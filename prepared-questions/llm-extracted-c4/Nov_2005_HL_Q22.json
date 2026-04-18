@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2005_HL_Q22",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2005,
+    "month": "Nov",
+    "session_label": "Nov 2005",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2005 HL Q22 B.png"
+  },
+  "question_number": 22,
+  "content_markdown": "Two pipes P and Q are of the same length. Pipe P is closed at one end and pipe Q is open at both ends. The fundamental frequency (first harmonic) of the closed pipe P is $220\\text{ Hz}$.\n\nThe best estimate for the fundamental frequency of the open pipe Q is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "880 Hz."
+    },
+    {
+      "label": "B",
+      "text": "440 Hz."
+    },
+    {
+      "label": "C",
+      "text": "110 Hz."
+    },
+    {
+      "label": "D",
+      "text": "55 Hz."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "For a pipe of length $L$ closed at one end, the fundamental frequency is $f_P = \\frac{v}{4L}$. For a pipe of the same length $L$ open at both ends, the fundamental frequency is $f_Q = \\frac{v}{2L}$. Since $f_Q = 2 \\times f_P$, and $f_P = 220\\text{ Hz}$, then $f_Q = 2 \\times 220 = 440\\text{ Hz}$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2005 HL Q22 B.png"
+}

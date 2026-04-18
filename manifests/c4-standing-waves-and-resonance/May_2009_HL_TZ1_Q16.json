@@ -1,0 +1,26 @@
+{
+  "id": "May_2009_HL_TZ1_Q16",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ1 Q16 B.png"
+  },
+  "question_number": 16,
+  "correct_answer": "B",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2009 HL TZ1 Q16 B.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

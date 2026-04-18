@@ -1,0 +1,597 @@
+[
+  {
+    "id": "May_2000_HL_Q10",
+    "topic": "Rigid Body Mechanics",
+    "topic_code": "A4",
+    "sub_topic": "Torque and Equilibrium",
+    "paper": {
+      "year": 2000,
+      "month": "May",
+      "session_label": "May 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2000 HL Q10 C.png"
+    },
+    "question_number": 10,
+    "content_markdown": "A nut on an outdoor piece of gym equipment cannot be turned with a spanner (wrench) because it has rusted \u2013 see **Figure A**. A gym instructor, in trying to loosen the nut, attaches a rope to the spanner as shown in **Figure B**. Assume the instructor pulls with the same force in both cases.\n\nThe torque exerted on the nut in **Figure B** compared to that in **Figure A**",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two diagrams showing a spanner on a nut. Figure A shows a horizontal pull force applied directly to the end of the spanner handle. Figure B shows a rope attached to the end of the spanner handle, with the same horizontal pull force applied to the end of the rope.",
+      "labels_to_preserve": [
+        "pull",
+        "spanner",
+        "nut",
+        "rope",
+        "Figure A",
+        "Figure B"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "is less."
+      },
+      {
+        "label": "B",
+        "text": "is greater."
+      },
+      {
+        "label": "C",
+        "text": "is the same."
+      },
+      {
+        "label": "D",
+        "text": "depends on the length of rope used."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Torque is defined as the product of the force and the perpendicular distance from the line of action of the force to the pivot. In both Figure A and Figure B, the horizontal pull force is applied at the same vertical height relative to the nut. Therefore, the perpendicular distance from the line of action of the force to the center of the nut remains identical, resulting in the same torque regardless of the rope's length.",
+    "source_image_path": "A4-Rigid-Body-Mechanics/May 2000 HL Q10 C.png"
+  },
+  {
+    "id": "May_2000_HL_Q8",
+    "topic": "Rigid Body Mechanics",
+    "topic_code": "A4",
+    "sub_topic": "Rigid Body Mechanics",
+    "paper": {
+      "year": 2000,
+      "month": "May",
+      "session_label": "May 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2000 HL Q8 D.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A satellite is orbiting the earth in a circular orbit. Which one of the following properties of the satellite does **not** remain constant?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Kinetic energy"
+      },
+      {
+        "label": "B",
+        "text": "Gravitational potential energy"
+      },
+      {
+        "label": "C",
+        "text": "Angular momentum"
+      },
+      {
+        "label": "D",
+        "text": "Velocity"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In a circular orbit, the speed, kinetic energy, and gravitational potential energy remain constant because the radius is fixed. Angular momentum is also conserved as the gravitational force acts as a central force (zero torque). However, velocity is a vector; since the direction of motion is constantly changing as the satellite moves around the circle, the velocity is not constant.",
+    "source_image_path": "A4-Rigid-Body-Mechanics/May 2000 HL Q8 D.png"
+  },
+  {
+    "id": "May_2001_HL_Q11",
+    "topic": "Rigid Body Mechanics",
+    "topic_code": "A4",
+    "sub_topic": "Rigid bodies and rotational dynamics",
+    "paper": {
+      "year": 2001,
+      "month": "May",
+      "session_label": "May 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2001 HL Q11 B.png"
+    },
+    "question_number": 11,
+    "content_markdown": "Select the one statement which is **false**. The moment of inertia of a body depends on",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "its mass."
+      },
+      {
+        "label": "B",
+        "text": "its angular velocity."
+      },
+      {
+        "label": "C",
+        "text": "its dimensions."
+      },
+      {
+        "label": "D",
+        "text": "the axis of rotation."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The moment of inertia $I$ is defined by the distribution of mass relative to an axis of rotation, often expressed as $I = \\sum m_i r_i^2$. This means it depends on the total mass (A), the shape/dimensions which determine the distances $r$ (C), and the specific axis chosen (D). However, moment of inertia is a geometric and intrinsic property of the rigid body's mass distribution; it does not change based on how fast the object is spinning ($\u03c9$), making B the false statement.",
+    "source_image_path": "A4-Rigid-Body-Mechanics/May 2001 HL Q11 B.png"
+  },
+  {
+    "id": "May_2001_HL_Q13",
+    "topic": "Rigid Body Mechanics",
+    "topic_code": "A4",
+    "sub_topic": "Torque and Equilibrium",
+    "paper": {
+      "year": 2001,
+      "month": "May",
+      "session_label": "May 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2001 HL Q13 B.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A $60\\text{ kg}$ person riding a bicycle puts all of her weight on each pedal in turn when climbing a hill. The pedals rotate in a circle of radius $20\\text{ cm}$. Estimate the maximum torque that is exerted by the person.",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a bicycle chain wheel with a pedal arm at an angle. The radius of the pedal rotation is labeled as 20 cm.",
+      "labels_to_preserve": [
+        "chain wheel",
+        "20 cm"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$12\\text{ Nm}$"
+      },
+      {
+        "label": "B",
+        "text": "$120\\text{ Nm}$"
+      },
+      {
+        "label": "C",
+        "text": "$1\\,200\\text{ Nm}$"
+      },
+      {
+        "label": "D",
+        "text": "$12\\,000\\text{ Nm}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Maximum torque occurs when the force is applied perpendicular to the lever arm. The force is the person's weight $W = mg \\approx 60 \\times 10 = 600\\text{ N}$. The lever arm (radius) is $0.20\\text{ m}$. Thus, $\\tau = F \\times r = 600 \\times 0.20 = 120\\text{ Nm}$.",
+    "source_image_path": "A4-Rigid-Body-Mechanics/May 2001 HL Q13 B.png"
+  },
+  {
+    "id": "May_2004_HL_TZ1_Q14",
+    "topic": "Rigid Body Mechanics",
+    "topic_code": "A4",
+    "sub_topic": "Rigid Body Mechanics",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ1 Q14 B.png"
+    },
+    "question_number": 14,
+    "content_markdown": "For a body to be in both translational and rotational equilibrium",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "it must not be in contact with any other objects."
+      },
+      {
+        "label": "B",
+        "text": "the net torque and the net force acting on it must be zero."
+      },
+      {
+        "label": "C",
+        "text": "the net torque acting on it must be zero."
+      },
+      {
+        "label": "D",
+        "text": "the net force acting on it must be zero."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Translational equilibrium requires the vector sum of all external forces to be zero ($\\sum \\vec{F} = 0$), ensuring no linear acceleration. Rotational equilibrium requires the vector sum of all external torques to be zero ($\\sum \\vec{\\tau} = 0$), ensuring no angular acceleration. For a body to be in both, both conditions must be satisfied simultaneously.",
+    "source_image_path": "A4-Rigid-Body-Mechanics/May 2004 HL TZ1 Q14 B.png"
+  },
+  {
+    "id": "May_2005_HL_TZ2_Q13",
+    "topic": "Rigid Body Mechanics",
+    "topic_code": "A4",
+    "sub_topic": "Rigid Body Mechanics",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ2 Q13 B.png"
+    },
+    "question_number": 13,
+    "content_markdown": "For a body to be in rotational equilibrium",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the net force acting on the body must be zero."
+      },
+      {
+        "label": "B",
+        "text": "the net torque acting on the body must be zero."
+      },
+      {
+        "label": "C",
+        "text": "both the net force and the net torque acting on the body must be zero."
+      },
+      {
+        "label": "D",
+        "text": "the net force acting on the body must equal the net torque acting on the body."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Rotational equilibrium specifically refers to the state where the angular acceleration is zero, which occurs when the sum of all external torques (net torque) acting on the body is zero. While 'static equilibrium' requires both net force and net torque to be zero, 'rotational equilibrium' focuses solely on the rotational aspect.",
+    "source_image_path": "A4-Rigid-Body-Mechanics/May 2005 HL TZ2 Q13 B.png"
+  },
+  {
+    "id": "May_2007_HL_TZ1_Q16",
+    "topic": "Rigid Body Mechanics",
+    "topic_code": "A4",
+    "sub_topic": "Rigid Body Mechanics",
+    "paper": {
+      "year": 2007,
+      "month": "May",
+      "session_label": "May 2007",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2007 HL TZ1 Q16 D.png"
+    },
+    "question_number": 16,
+    "content_markdown": "A uniform rod PQ of weight $W$ is attached to a vertical wall at end P by a hinge. A force of magnitude $F$ acts on the rod at end Q as shown such that the rod is in equilibrium.\n\nWhich of the following diagrams best shows the correct direction of the reaction force $R$ at the hinge?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a rod PQ hinged at P to a wall, with a horizontal force F acting left at Q and weight W acting downwards from the center.",
+      "labels_to_preserve": [
+        "P",
+        "Q",
+        "F",
+        "W",
+        "R"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "For a rigid body in equilibrium, the sum of forces must be zero. Since force $F$ acts to the left, the reaction force $R$ must have a rightward component to balance it. Since weight $W$ acts downwards, $R$ must have an upward component to balance it. Furthermore, for three non-parallel forces to be in equilibrium, their lines of action must intersect at a single point. Extending the lines of $F$ and $W$ shows they intersect above and to the right of P, meaning $R$ must point towards that intersection point (up and to the right).",
+    "source_image_path": "A4-Rigid-Body-Mechanics/May 2007 HL TZ1 Q16 D.png"
+  },
+  {
+    "id": "Nov_2002_HL_Q13",
+    "topic": "Rigid Body Mechanics",
+    "topic_code": "A4",
+    "sub_topic": "Rigid Body Mechanics",
+    "paper": {
+      "year": 2002,
+      "month": "Nov",
+      "session_label": "Nov 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2002 HL Q13 D.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A solid cylinder of radius $r$ has a moment of inertia $I$, about the axis through XY as shown below.\n\nA cylinder of the same mass, but with a radius $2r$, will have a moment of inertia about the same axis XY equal to",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A solid cylinder with radius r and a central longitudinal axis labeled XY passing through its center.",
+      "labels_to_preserve": [
+        "X",
+        "Y",
+        "r"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{I}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "$I$"
+      },
+      {
+        "label": "C",
+        "text": "$2I$"
+      },
+      {
+        "label": "D",
+        "text": "$4I$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The moment of inertia of a solid cylinder about its central axis is given by $I = \\frac{1}{2}mr^2$. Since the mass $m$ remains constant and the radius is doubled to $2r$, the new moment of inertia $I'$ becomes $\\frac{1}{2}m(2r)^2 = \\frac{1}{2}m(4r^2) = 4(\\frac{1}{2}mr^2) = 4I$.",
+    "source_image_path": "A4-Rigid-Body-Mechanics/Nov 2002 HL Q13 D.png"
+  },
+  {
+    "id": "Nov_2004_HL_Q15",
+    "topic": "Rigid Body Mechanics",
+    "topic_code": "A4",
+    "sub_topic": "Rigid Body Mechanics",
+    "paper": {
+      "year": 2004,
+      "month": "Nov",
+      "session_label": "Nov 2004",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2004 HL Q15 C.png"
+    },
+    "question_number": 15,
+    "content_markdown": "A metal disc is acted upon by a number of forces. The forces are all in the plane of the disc and the weight of the disc is negligible.\n\nIn which of the following situations is the disc in equilibrium?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four diagrams (A, B, C, D) showing a circular disc with various force vectors applied at different points (center, top, bottom, or tangent).",
+      "labels_to_preserve": [
+        "F",
+        "2F",
+        "3F"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "For a rigid body to be in equilibrium, two conditions must be met: the vector sum of all forces must be zero (translational equilibrium, $\\sum \\vec{F} = 0$) and the sum of all torques about any point must be zero (rotational equilibrium, $\\sum \\tau = 0$). In option D, the horizontal components of the two angled forces $F$ cancel the $2F$ force to the left, and their vertical components cancel each other out. Furthermore, the torques produced by the two $F$ forces about the center are equal and opposite, resulting in zero net torque.",
+    "source_image_path": "A4-Rigid-Body-Mechanics/Nov 2004 HL Q15 C.png"
+  },
+  {
+    "id": "Nov_2006_HL_Q15",
+    "topic": "Rigid Body Mechanics",
+    "topic_code": "A4",
+    "sub_topic": "Rigid Body Mechanics",
+    "paper": {
+      "year": 2006,
+      "month": "Nov",
+      "session_label": "Nov 2006",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2006 HL Q15 B.png"
+    },
+    "question_number": 15,
+    "content_markdown": "A rod on a horizontal table is acted upon by three horizontal forces. The magnitude and direction of the forces are indicated in the diagram below.\n\nWhich **one** of the following describes the state of equilibrium of the rod?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal rod with three vertical force vectors applied. On the left end, a force $F$ points downwards. In the middle (distance $d$ from the left), a force $F$ points downwards. On the right end (distance $d$ from the middle), a force $2F$ points upwards.",
+      "labels_to_preserve": [
+        "F",
+        "2F",
+        "d",
+        "View of table from above"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The rod is in translational and rotational equilibrium."
+      },
+      {
+        "label": "B",
+        "text": "The rod is in translational equilibrium only."
+      },
+      {
+        "label": "C",
+        "text": "The rod is in rotational equilibrium only."
+      },
+      {
+        "label": "D",
+        "text": "The rod is neither in translational nor in rotational equilibrium."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "To check translational equilibrium, sum the forces: $\\sum F = 2F (up) - F (down) - F (down) = 0$, so it is in translational equilibrium. To check rotational equilibrium, sum the torques about a point (e.g., the left end): $\\tau = -(F \\times d) + (2F \\times 2d) = -Fd + 4Fd = 3Fd \\neq 0$. Since the net torque is non-zero, it is not in rotational equilibrium.",
+    "source_image_path": "A4-Rigid-Body-Mechanics/Nov 2006 HL Q15 B.png"
+  },
+  {
+    "id": "Nov_2008_HL_Q15",
+    "topic": "Rigid Body Mechanics",
+    "topic_code": "A4",
+    "sub_topic": "Torque and Equilibrium",
+    "paper": {
+      "year": 2008,
+      "month": "Nov",
+      "session_label": "Nov 2008",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2008 HL Q15 A.png"
+    },
+    "question_number": 15,
+    "content_markdown": "The distance between the Earth and the Sun is $d$. The gravitational force of the Sun on the Earth is $F$. Which of the following is the torque exerted on the Earth about an axis through the centre of the Sun?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0"
+      },
+      {
+        "label": "B",
+        "text": "$Fd$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{F}{d}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{F}{d^2}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Torque is defined as the cross product of the position vector and the force vector ($\\tau = r \\times F$). In this case, the gravitational force $F$ is a central force, meaning it acts along the line connecting the centers of the Earth and the Sun. Since the force vector is parallel (or anti-parallel) to the position vector $d$ relative to the Sun's center, the angle between them is $180^\\circ$. Because $\\sin(180^\\circ) = 0$, the resulting torque is zero.",
+    "source_image_path": "A4-Rigid-Body-Mechanics/Nov 2008 HL Q15 A.png"
+  },
+  {
+    "id": "Specimen_2025_HL_Q4",
+    "topic": "Rigid Body Mechanics",
+    "topic_code": "A4",
+    "sub_topic": "Rigid Body Mechanics",
+    "paper": {
+      "year": 2025,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2025",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2025 HL Q4 D.png"
+    },
+    "question_number": 4,
+    "content_markdown": "A disc of mass $M$ and radius $R$ is on a horizontal frictionless table. Two equal and opposite forces, each of magnitude $F$, act on the disc. The moment of inertia of the disc about its axis is $\\frac{1}{2}MR^2$.\n\nWhat is the angular acceleration of the disc?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A plan view of a circular disc with a central axis. Two forces of magnitude F are applied tangentially at opposite ends of a diameter, pointing in opposite directions to create a clockwise torque.",
+      "labels_to_preserve": [
+        "F",
+        "axis",
+        "disc",
+        "plan view"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{F}{MR}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{2F}{MR}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{4F}{MR}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The net torque $\\tau$ is the sum of the torques from both forces. Since both forces act at distance $R$ and tend to rotate the disc in the same direction, $\\tau = F \\cdot R + F \\cdot R = 2FR$. Using Newton's second law for rotation, $\\tau = I\\alpha$, we have $2FR = (\\frac{1}{2}MR^2)\\alpha$. Solving for $\\alpha$ gives $\\alpha = \\frac{4FR}{MR^2} = \\frac{4F}{MR}$.",
+    "source_image_path": "A4-Rigid-Body-Mechanics/Specimen Paper 2025 HL Q4 D.png"
+  },
+  {
+    "id": "Specimen_2025_HL_Q7",
+    "topic": "Rigid Body Mechanics",
+    "topic_code": "A4",
+    "sub_topic": "Rigid Body Mechanics",
+    "paper": {
+      "year": 2025,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2025",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2025 HL Q7 C.png"
+    },
+    "question_number": 7,
+    "content_markdown": "A cylinder of mass $M$ and radius $R$ rotates at constant angular speed $\\omega$ about an axis through its centre. The rotational kinetic energy of the cylinder is $K$.\n\nThe moment of inertia of the cylinder is $\\frac{1}{2}MR^2$.\n\nA second cylinder has mass $2M$, radius $2R$ and rotates with angular speed $2\\omega$.\n\nWhat is the rotational kinetic energy of the second cylinder?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A vertical cylinder rotating about its central longitudinal axis, indicated by a dashed line and a curved arrow showing rotation.",
+      "labels_to_preserve": [
+        "rotation axis"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$8K$"
+      },
+      {
+        "label": "B",
+        "text": "$16K$"
+      },
+      {
+        "label": "C",
+        "text": "$32K$"
+      },
+      {
+        "label": "D",
+        "text": "$64K$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The rotational kinetic energy is given by $K = \\frac{1}{2}I\\omega^2$. For the first cylinder, $K = \\frac{1}{2}(\\frac{1}{2}MR^2)\\omega^2 = \\frac{1}{4}MR^2\\omega^2$. For the second cylinder, the new moment of inertia is $I' = \\frac{1}{2}(2M)(2R)^2 = \\frac{1}{2}(2M)(4R^2) = 4MR^2$. The new angular speed is $2\\omega$. Thus, the new kinetic energy is $K' = \\frac{1}{2}I'(2\\omega)^2 = \\frac{1}{2}(4MR^2)(4\\omega^2) = 8MR^2\\omega^2$. Comparing $K'$ to $K$, we see that $K' = 32 \\times (\\frac{1}{4}MR^2\\omega^2) = 32K$.",
+    "source_image_path": "A4-Rigid-Body-Mechanics/Specimen Paper 2025 HL Q7 C.png"
+  }
+]

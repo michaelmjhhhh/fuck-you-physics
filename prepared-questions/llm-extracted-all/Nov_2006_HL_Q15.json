@@ -1,0 +1,48 @@
+{
+  "id": "Nov_2006_HL_Q15",
+  "topic": "Rigid Body Mechanics",
+  "topic_code": "A4",
+  "sub_topic": "Rigid Body Mechanics",
+  "paper": {
+    "year": 2006,
+    "month": "Nov",
+    "session_label": "Nov 2006",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2006 HL Q15 B.png"
+  },
+  "question_number": 15,
+  "content_markdown": "A rod on a horizontal table is acted upon by three horizontal forces. The magnitude and direction of the forces are indicated in the diagram below.\n\nWhich **one** of the following describes the state of equilibrium of the rod?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A horizontal rod with three vertical force vectors applied. On the left end, a force $F$ points downwards. In the middle (distance $d$ from the left), a force $F$ points downwards. On the right end (distance $d$ from the middle), a force $2F$ points upwards.",
+    "labels_to_preserve": [
+      "F",
+      "2F",
+      "d",
+      "View of table from above"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The rod is in translational and rotational equilibrium."
+    },
+    {
+      "label": "B",
+      "text": "The rod is in translational equilibrium only."
+    },
+    {
+      "label": "C",
+      "text": "The rod is in rotational equilibrium only."
+    },
+    {
+      "label": "D",
+      "text": "The rod is neither in translational nor in rotational equilibrium."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "To check translational equilibrium, sum the forces: $\\sum F = 2F (up) - F (down) - F (down) = 0$, so it is in translational equilibrium. To check rotational equilibrium, sum the torques about a point (e.g., the left end): $\\tau = -(F \\times d) + (2F \\times 2d) = -Fd + 4Fd = 3Fd \\neq 0$. Since the net torque is non-zero, it is not in rotational equilibrium.",
+  "source_image_path": "A4-Rigid-Body-Mechanics/Nov 2006 HL Q15 B.png"
+}

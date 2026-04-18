@@ -1,0 +1,43 @@
+{
+  "id": "May_2015_HL_TZ1_Q37",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ1 Q37 B.png"
+  },
+  "question_number": 37,
+  "content_markdown": "Which could increase the rate of global warming?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Replacing fossil fuel power stations with nuclear reactors"
+    },
+    {
+      "label": "B",
+      "text": "Replacing gas-fired power stations with coal-fired power stations"
+    },
+    {
+      "label": "C",
+      "text": "Using carbon dioxide capture and storage at power stations"
+    },
+    {
+      "label": "D",
+      "text": "Replacing conventional fossil fuel power stations with combined heating and power (CHP) systems"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Global warming is primarily driven by the emission of greenhouse gases like $CO_2$. Coal-fired power stations emit significantly more $CO_2$ per unit of energy produced compared to gas-fired stations. Therefore, switching from gas to coal would increase the concentration of greenhouse gases in the atmosphere, thereby increasing the rate of global warming. The other options (nuclear, carbon capture, and CHP) are all methods intended to reduce net $CO_2$ emissions.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2015 HL TZ1 Q37 B.png"
+}

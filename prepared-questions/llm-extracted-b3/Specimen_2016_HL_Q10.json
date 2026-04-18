@@ -1,0 +1,49 @@
+{
+  "id": "Specimen_2016_HL_Q10",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2016,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2016 HL Q10 A.png"
+  },
+  "question_number": 10,
+  "content_markdown": "Two separate sealed containers hold air at the same temperature. They are connected by a thin tube containing a valve. Initially one container holds $0.2\\text{ m}^3$ of air at a pressure of $50\\text{ kPa}$ and the other container holds $0.3\\text{ m}^3$ of air at a pressure of $20\\text{ kPa}$.\n\nThe valve is slowly opened and the temperature stays constant. What is the final pressure in the containers?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two circular containers connected by a horizontal tube with a valve in the middle. The left container is smaller and labeled with 0.2 m^3 and 50 kPa. The right container is larger and labeled with 0.3 m^3 and 20 kPa.",
+    "labels_to_preserve": [
+      "0.2 m^3",
+      "50 kPa",
+      "valve",
+      "0.3 m^3",
+      "20 kPa"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "32 kPa"
+    },
+    {
+      "label": "B",
+      "text": "35 kPa"
+    },
+    {
+      "label": "C",
+      "text": "38 kPa"
+    },
+    {
+      "label": "D",
+      "text": "70 kPa"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Since temperature is constant, we can use Boyle's Law ($P_1V_1 + P_2V_2 = P_fV_f$). The total initial 'amount' of gas (proportional to $PV$) is $(50 \\times 0.2) + (20 \\times 0.3) = 10 + 6 = 16$. The total final volume is $0.2 + 0.3 = 0.5\\text{ m}^3$. Therefore, the final pressure is $P_f = 16 / 0.5 = 32\\text{ kPa}$.",
+  "source_image_path": "B3-Gas-Laws/Specimen Paper 2016 HL Q10 A.png"
+}

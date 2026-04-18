@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2006_HL_Q20",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2006,
+    "month": "Nov",
+    "session_label": "Nov 2006",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2006 HL Q20 B.png"
+  },
+  "question_number": 20,
+  "content_markdown": "A well-insulated container is divided into two equal volumes by a wall. In one half there is an **ideal** gas and the other is a vacuum as shown below.\n\nThe wall is now removed. Which **one** of the following correctly gives the changes, if any, that take place in the internal energy and entropy of the gas?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A two-part diagram showing a container. The left part shows a container divided in half with 'gas' on the left and 'vacuum' on the right. An arrow points to the right part, which shows the same container now fully occupied by 'gas'.",
+    "labels_to_preserve": [
+      "gas",
+      "vacuum"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Internal energy: stays the same; Entropy: stays the same"
+    },
+    {
+      "label": "B",
+      "text": "Internal energy: stays the same; Entropy: increases"
+    },
+    {
+      "label": "C",
+      "text": "Internal energy: decreases; Entropy: stays the same"
+    },
+    {
+      "label": "D",
+      "text": "Internal energy: decreases; Entropy: increases"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "This is a free expansion (Joule expansion). Since the container is well-insulated, $Q = 0$. Since the gas expands into a vacuum, it does no work, so $W = 0$. By the first law of thermodynamics, $\\Delta U = Q - W = 0$, so internal energy stays the same. However, the process is irreversible and the gas occupies a larger volume (more microstates), so the entropy must increase.",
+  "source_image_path": "B4-Thermodynamics/Nov 2006 HL Q20 B.png"
+}

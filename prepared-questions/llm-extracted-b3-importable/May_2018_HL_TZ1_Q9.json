@@ -1,0 +1,46 @@
+{
+  "id": "May_2018_HL_TZ1_Q9",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ1 Q9 D.png"
+  },
+  "question_number": 9,
+  "content_markdown": "A sealed cylinder of length $l$ and cross-sectional area $A$ contains $N$ molecules of an ideal gas at kelvin temperature $T$.\n\nWhat is the force acting on the area of the cylinder marked $A$ due to the gas?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A horizontal cylinder with length l indicated by a double-headed arrow below it and cross-sectional area A indicated by a label pointing to the right circular face.",
+    "labels_to_preserve": [
+      "l",
+      "A"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{NRT}{l}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{NRT}{lA}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{Nk_BT}{lA}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{Nk_BT}{l}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The force $F$ on the area $A$ is given by $F = P \\times A$. Using the ideal gas law in terms of molecules, $PV = Nk_BT$. Since the volume of the cylinder is $V = A \\times l$, we can substitute this into the equation: $P(Al) = Nk_BT$. Rearranging for pressure gives $P = \\frac{Nk_BT}{Al}$. Finally, substituting $P$ back into the force equation: $F = \\left(\\frac{Nk_BT}{Al}\\right) \\times A = \\frac{Nk_BT}{l}$.",
+  "source_image_path": "B3-Gas-Laws/May 2018 HL TZ1 Q9 D.png"
+}

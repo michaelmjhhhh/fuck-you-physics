@@ -1,0 +1,43 @@
+{
+  "id": "May_2011_HL_TZ1_Q8",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2011,
+    "month": "May",
+    "session_label": "May 2011",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2011 HL TZ1 Q8 B.png"
+  },
+  "question_number": 8,
+  "content_markdown": "Which of the following is equivalent to the principle of energy conservation?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Newton’s first law"
+    },
+    {
+      "label": "B",
+      "text": "The first law of thermodynamics"
+    },
+    {
+      "label": "C",
+      "text": "Newton’s second law"
+    },
+    {
+      "label": "D",
+      "text": "The second law of thermodynamics"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The first law of thermodynamics is a specific application of the law of conservation of energy to thermal systems, stating that the change in internal energy of a system is equal to the heat added to the system minus the work done by the system ($Q = \\Delta U + W$).",
+  "source_image_path": "B4-Thermodynamics/May 2011 HL TZ1 Q8 B.png"
+}

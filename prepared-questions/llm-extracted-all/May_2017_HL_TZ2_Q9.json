@@ -1,0 +1,43 @@
+{
+  "id": "May_2017_HL_TZ2_Q9",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ2 Q9 A.png"
+  },
+  "question_number": 9,
+  "content_markdown": "A sealed container contains a mixture of oxygen and nitrogen gas.\n\nThe ratio $\\frac{\\text{mass of an oxygen molecule}}{\\text{mass of a nitrogen molecule}}$ is $\\frac{8}{7}$.\n\nThe ratio $\\frac{\\text{average kinetic energy of oxygen molecules}}{\\text{average kinetic energy of nitrogen molecules}}$ is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "1."
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{7}{8}$."
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{8}{7}$."
+    },
+    {
+      "label": "D",
+      "text": "dependent on the concentration of each gas."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In a mixture of gases in thermal equilibrium, all gases are at the same temperature. According to the kinetic theory of gases, the average translational kinetic energy of a molecule is directly proportional to the absolute temperature ($E_k = \\frac{3}{2}k_BT$). Since both gases are in the same container at the same temperature, their average kinetic energies must be equal, making the ratio 1.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2017 HL TZ2 Q9 A.png"
+}

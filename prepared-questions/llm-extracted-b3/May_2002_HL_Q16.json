@@ -1,0 +1,45 @@
+{
+  "id": "May_2002_HL_Q16",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2002,
+    "month": "May",
+    "session_label": "May 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2002 HL Q16 C.png"
+  },
+  "question_number": 16,
+  "content_markdown": "A gas is in a vertical cylinder fitted with a piston. Weights are placed on the piston. When the gas is at $27\\,^{\\circ}\\text{C}$ the piston is in equilibrium at height $h$ above the base of the cylinder as shown below.\n\nTo what value should the gas temperature be increased for the piston to be in equilibrium at a height $2h$ above the base?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A vertical cylinder containing gas, with a piston on top supporting three weights. The height of the gas column is labeled as h.",
+    "labels_to_preserve": [
+      "h"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$54\\,^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "B",
+      "text": "$150\\,^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "C",
+      "text": "$327\\,^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "D",
+      "text": "$600\\,^{\\circ}\\text{C}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Since the weights on the piston remain the same, the pressure $P$ is constant. According to Charles's Law ($V \\propto T$), the volume is proportional to the absolute temperature in Kelvin. Doubling the height $h$ to $2h$ doubles the volume $V$. The initial temperature is $27\\,^{\\circ}\\text{C} = 300\\,\\text{K}$. Doubling this gives $600\\,\\text{K}$. Converting back to Celsius: $600 - 273 = 327\\,^{\\circ}\\text{C}$.",
+  "source_image_path": "B3-Gas-Laws/May 2002 HL Q16 C.png"
+}

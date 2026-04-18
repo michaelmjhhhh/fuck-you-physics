@@ -1,0 +1,2283 @@
+[
+  {
+    "id": "May_2009_HL_TZ1_Q35",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ1 Q35 D.png"
+    },
+    "question_number": 35,
+    "content_markdown": "Greenhouse gases",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "reflect infrared radiation but absorb ultraviolet radiation."
+      },
+      {
+        "label": "B",
+        "text": "reflect ultraviolet radiation but absorb infrared radiation."
+      },
+      {
+        "label": "C",
+        "text": "transmit infrared radiation but absorb ultraviolet radiation."
+      },
+      {
+        "label": "D",
+        "text": "transmit ultraviolet radiation but absorb infrared radiation."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The greenhouse effect relies on the fact that greenhouse gases are transparent to incoming short-wave radiation (like visible and UV) from the Sun, allowing it to reach the Earth's surface. However, they are highly effective at absorbing long-wave (infrared) radiation emitted by the Earth's surface, trapping heat in the atmosphere.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2009 HL TZ1 Q35 D.png"
+  },
+  {
+    "id": "May_2009_HL_TZ1_Q36",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ1 Q36 A.png"
+    },
+    "question_number": 36,
+    "content_markdown": "The rate of global warming might be reduced by",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the question.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "replacing the use of coal and oil with natural gas."
+      },
+      {
+        "label": "B",
+        "text": "a reduction in the Earth\u2019s albedo."
+      },
+      {
+        "label": "C",
+        "text": "a reduction in carbon fixation."
+      },
+      {
+        "label": "D",
+        "text": "an increase in deforestation."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Global warming is primarily driven by the emission of greenhouse gases like $CO_2$. Natural gas produces less $CO_2$ per unit of energy released compared to coal and oil, thus potentially reducing the rate of warming. Conversely, reducing albedo (more absorption), reducing carbon fixation (less $CO_2$ removal), or increasing deforestation (less $CO_2$ removal) would all accelerate global warming.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2009 HL TZ1 Q36 A.png"
+  },
+  {
+    "id": "May_2009_HL_TZ2_Q35",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ2 Q35 D.png"
+    },
+    "question_number": 35,
+    "content_markdown": "The average temperature of the surface of the Sun is about 20 times more than the average surface temperature of the Earth. The average power per unit area radiated by the Earth is $P$. The average power per unit area radiated by the Sun is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$20\\,P$"
+      },
+      {
+        "label": "B",
+        "text": "$400\\,P$"
+      },
+      {
+        "label": "C",
+        "text": "$8000\\,P$"
+      },
+      {
+        "label": "D",
+        "text": "$160\\,000\\,P$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "According to the Stefan-Boltzmann law, the power per unit area radiated by a black body is proportional to the fourth power of its absolute temperature ($P \\propto T^4$). If the Sun's temperature is 20 times that of the Earth, the power per unit area radiated by the Sun will be $20^4$ times that of the Earth. Calculating $20^4 = 20 \\times 20 \\times 20 \\times 20 = 160,000$.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2009 HL TZ2 Q35 D.png"
+  },
+  {
+    "id": "May_2009_HL_TZ2_Q36",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ2 Q36 C.png"
+    },
+    "question_number": 36,
+    "content_markdown": "Most climate scientists agree that the enhanced greenhouse effect is due to",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "cyclical changes of the Earth\u2019s orbit."
+      },
+      {
+        "label": "B",
+        "text": "volcanic activity."
+      },
+      {
+        "label": "C",
+        "text": "the burning of fossil fuels."
+      },
+      {
+        "label": "D",
+        "text": "increased solar activity."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The term 'enhanced' greenhouse effect specifically refers to the additional warming caused by human activities (anthropogenic factors) rather than natural cycles. While orbital changes (Milankovitch cycles), volcanoes, and solar activity affect climate naturally, the consensus among climate scientists is that the current rapid increase in global temperatures is primarily driven by the release of greenhouse gases from burning fossil fuels.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2009 HL TZ2 Q36 C.png"
+  },
+  {
+    "id": "May_2009_HL_TZ2_Q37",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ2 Q37 B.png"
+    },
+    "question_number": 37,
+    "content_markdown": "Global warming reduces the ice and snow cover on Earth. Which of the following correctly describes the changes in albedo and rate of energy absorption by Earth?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A-D) with columns for 'Albedo' and 'Rate of energy absorption'.",
+      "labels_to_preserve": [
+        "Albedo",
+        "Rate of energy absorption"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Albedo: increase; Rate of energy absorption: increase"
+      },
+      {
+        "label": "B",
+        "text": "Albedo: decrease; Rate of energy absorption: increase"
+      },
+      {
+        "label": "C",
+        "text": "Albedo: increase; Rate of energy absorption: decrease"
+      },
+      {
+        "label": "D",
+        "text": "Albedo: decrease; Rate of energy absorption: decrease"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Ice and snow have high albedo because they reflect a large portion of incident sunlight. When they melt, they are often replaced by darker surfaces (like ocean water or soil) which have lower albedo. Since albedo is the ratio of reflected to incident power, a decrease in albedo means less energy is reflected and consequently more energy is absorbed by the Earth's surface.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2009 HL TZ2 Q37 B.png"
+  },
+  {
+    "id": "May_2010_HL_TZ1_Q40",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ1 Q40 D.png"
+    },
+    "question_number": 40,
+    "content_markdown": "The albedo for the oceans is lower than that for glaciers. This is because, compared to ice, sea water",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "has a greater density."
+      },
+      {
+        "label": "B",
+        "text": "has a greater specific heat capacity."
+      },
+      {
+        "label": "C",
+        "text": "has a greater coefficient of volume expansion."
+      },
+      {
+        "label": "D",
+        "text": "absorbs a greater amount of radiative power."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Albedo is defined as the ratio of reflected radiation to incident radiation. A lower albedo means that less radiation is reflected and, consequently, more radiation is absorbed. Therefore, sea water (with a lower albedo) absorbs more radiative power than ice/glaciers.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2010 HL TZ1 Q40 D.png"
+  },
+  {
+    "id": "May_2010_HL_TZ2_Q37",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ2 Q37 C.png"
+    },
+    "question_number": 37,
+    "content_markdown": "The diagram shows a simple climate model for Earth. The temperature of the ground is $T_g$ and is assumed to radiate as a black body. The temperature of the atmosphere is $T_a$ and has an emissivity $\\varepsilon$.\n\nIn the model, the intensity radiated from the ground equals the intensity radiated from the atmosphere towards the ground. What is the ratio $\\frac{T_g}{T_a}$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A schematic showing two rectangular boxes labeled 'atmosphere' and 'ground'. An upward arrow points from the ground to the atmosphere, and a downward arrow points from the atmosphere to the ground.",
+      "labels_to_preserve": [
+        "atmosphere",
+        "ground"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\varepsilon^4$"
+      },
+      {
+        "label": "B",
+        "text": "$\\varepsilon$"
+      },
+      {
+        "label": "C",
+        "text": "$\\varepsilon^{\\frac{1}{4}}$"
+      },
+      {
+        "label": "D",
+        "text": "1"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "According to the Stefan-Boltzmann law, the intensity radiated by a black body (the ground) is $I_g = \\sigma T_g^4$. The intensity radiated by a non-black body (the atmosphere) is $I_a = \\varepsilon \\sigma T_a^4$. The problem states these intensities are equal: $\\sigma T_g^4 = \\varepsilon \\sigma T_a^4$. Dividing both sides by $\\sigma$ gives $T_g^4 = \\varepsilon T_a^4$. Taking the fourth root of both sides yields $T_g = \\varepsilon^{\\frac{1}{4}} T_a$, so the ratio $\\frac{T_g}{T_a} = \\varepsilon^{\\frac{1}{4}}$.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2010 HL TZ2 Q37 C.png"
+  },
+  {
+    "id": "May_2011_HL_TZ1_Q36",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ1 Q36 A.png"
+    },
+    "question_number": 36,
+    "content_markdown": "What is the phenomenon that best explains why greenhouse gases absorb infrared radiation?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Resonance"
+      },
+      {
+        "label": "B",
+        "text": "Interference"
+      },
+      {
+        "label": "C",
+        "text": "Refraction"
+      },
+      {
+        "label": "D",
+        "text": "Diffraction"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Greenhouse gas molecules have natural frequencies of vibration that match the frequencies of infrared radiation. When the frequency of the incident IR radiation matches the natural frequency of the molecule, resonance occurs, leading to the absorption of the energy.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2011 HL TZ1 Q36 A.png"
+  },
+  {
+    "id": "May_2011_HL_TZ2_Q37",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ2 Q37 B.png"
+    },
+    "question_number": 37,
+    "content_markdown": "Which of the following describes the role of the atmosphere in the greenhouse effect?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The atmosphere is transparent to all solar radiation."
+      },
+      {
+        "label": "B",
+        "text": "The atmosphere absorbs infrared radiation from the ground."
+      },
+      {
+        "label": "C",
+        "text": "The atmosphere scatters red light more than blue light."
+      },
+      {
+        "label": "D",
+        "text": "Clouds in the atmosphere prevent absorption of infrared radiation."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The greenhouse effect occurs because greenhouse gases in the atmosphere are relatively transparent to incoming short-wave solar radiation but absorb long-wave infrared radiation emitted by the Earth's surface, re-radiating it in all directions and warming the planet.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2011 HL TZ2 Q37 B.png"
+  },
+  {
+    "id": "May_2012_HL_TZ1_Q36",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ1 Q36 D.png"
+    },
+    "question_number": 36,
+    "content_markdown": "A natural process that could cause an increase in global warming is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "an increase in the radius of the Earth\u2019s orbit around the Sun."
+      },
+      {
+        "label": "B",
+        "text": "an increase in the absorption of carbon dioxide by sea water."
+      },
+      {
+        "label": "C",
+        "text": "a drop in mean sea-level."
+      },
+      {
+        "label": "D",
+        "text": "deforestation as a result of natural ecosystem changes."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Global warming is driven by the concentration of greenhouse gases like $CO_2$ in the atmosphere. Deforestation (even if occurring naturally) reduces the number of trees available to perform photosynthesis, which removes $CO_2$ from the atmosphere. Consequently, more $CO_2$ remains in the atmosphere, enhancing the greenhouse effect. Other options like increasing orbital radius would actually decrease the solar intensity reaching Earth, leading to cooling.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2012 HL TZ1 Q36 D.png"
+  },
+  {
+    "id": "May_2012_HL_TZ2_Q36",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ2 Q36 A.png"
+    },
+    "question_number": 36,
+    "content_markdown": "The property of the molecules of greenhouse gases which leads to their ability to absorb infrared radiation is their",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "resonant frequency."
+      },
+      {
+        "label": "B",
+        "text": "speed of rotation."
+      },
+      {
+        "label": "C",
+        "text": "total electric charge."
+      },
+      {
+        "label": "D",
+        "text": "diameter."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Greenhouse gas molecules absorb infrared radiation when the frequency of the incoming photons matches the natural (resonant) frequency of the molecule's vibrational modes. This resonance allows the energy to be transferred from the electromagnetic wave to the molecule's internal kinetic energy.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2012 HL TZ2 Q36 A.png"
+  },
+  {
+    "id": "May_2012_HL_TZ2_Q37",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ2 Q37 C.png"
+    },
+    "question_number": 37,
+    "content_markdown": "Which of the following is the most likely cause of the enhanced greenhouse effect?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Increased volcanic activity"
+      },
+      {
+        "label": "B",
+        "text": "Deforestation"
+      },
+      {
+        "label": "C",
+        "text": "Burning of fossil fuels"
+      },
+      {
+        "label": "D",
+        "text": "Solar flare activity"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The 'enhanced' greenhouse effect refers specifically to the additional warming caused by human activities. While deforestation (B) reduces carbon sinks, the primary driver of the increase in atmospheric greenhouse gas concentrations (specifically $CO_2$) since the industrial revolution is the combustion of fossil fuels (C).",
+    "source_image_path": "B2-Greenhouse-Effect/May 2012 HL TZ2 Q37 C.png"
+  },
+  {
+    "id": "May_2013_HL_TZ1_Q36",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ1 Q36 C.png"
+    },
+    "question_number": 36,
+    "content_markdown": "Carbon dioxide is a greenhouse gas because",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "it absorbs infrared light radiated by the Sun."
+      },
+      {
+        "label": "B",
+        "text": "it absorbs ultraviolet light radiated by the Earth."
+      },
+      {
+        "label": "C",
+        "text": "its natural frequency molecular oscillation lies in the infrared region."
+      },
+      {
+        "label": "D",
+        "text": "its natural frequency molecular oscillation lies in the ultraviolet region."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Greenhouse gases like $CO_2$ have molecular vibrational modes with natural frequencies that match the frequency of infrared radiation. This resonance allows them to absorb the long-wavelength (infrared) radiation emitted by the Earth's surface, rather than the short-wavelength radiation primarily emitted by the Sun.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2013 HL TZ1 Q36 C.png"
+  },
+  {
+    "id": "May_2013_HL_TZ1_Q37",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ1 Q37 A.png"
+    },
+    "question_number": 37,
+    "content_markdown": "Which of the following is most likely to increase the rate of global warming?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Deforestation"
+      },
+      {
+        "label": "B",
+        "text": "Increasing the use of nuclear power stations"
+      },
+      {
+        "label": "C",
+        "text": "Increasing the use of renewable energy sources"
+      },
+      {
+        "label": "D",
+        "text": "Using natural gas instead of coal for electricity generation"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Global warming is primarily driven by the concentration of greenhouse gases like $CO_2$ in the atmosphere. Deforestation increases this rate because trees act as carbon sinks; removing them reduces the amount of $CO_2$ absorbed from the atmosphere and often involves burning or decaying wood which releases stored carbon. Options B, C, and D are all strategies typically used to reduce carbon emissions compared to traditional coal-fired power.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2013 HL TZ1 Q37 A.png"
+  },
+  {
+    "id": "May_2013_HL_TZ2_Q37",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ2 Q37 D.png"
+    },
+    "question_number": 37,
+    "content_markdown": "A student states that the following factors may lead to global warming\n\nI. decreased albedo of the Earth's surface\nII. increase in volcanic activity\nIII. deforestation.\n\nWhich of the above statements are correct?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I and II only"
+      },
+      {
+        "label": "B",
+        "text": "II and III only"
+      },
+      {
+        "label": "C",
+        "text": "I and III only"
+      },
+      {
+        "label": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Decreased albedo (I) means less radiation is reflected and more is absorbed, warming the planet. Deforestation (III) reduces the removal of $CO_2$ from the atmosphere, enhancing the greenhouse effect. While volcanic activity (II) releases some greenhouse gases, its primary short-term effect is actually global cooling due to the release of aerosols that reflect incoming solar radiation.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2013 HL TZ2 Q37 D.png"
+  },
+  {
+    "id": "May_2014_HL_TZ1_Q36",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ1 Q36 A.png"
+    },
+    "question_number": 36,
+    "content_markdown": "The average intensity of the solar radiation incident on a planet is $200\\text{ W m}^{-2}$. The albedo of the planet is $0.6$. The average temperature of the planet is constant.\n\nWhich of the following is a correct statement about the intensity of radiation reflected and radiated by the planet?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) with two columns: 'Intensity reflected by planet' and 'Intensity radiated by planet'.",
+      "labels_to_preserve": [
+        "Intensity reflected by planet",
+        "Intensity radiated by planet"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Intensity reflected: $120\\text{ W m}^{-2}$; Intensity radiated: $80\\text{ W m}^{-2}$"
+      },
+      {
+        "label": "B",
+        "text": "Intensity reflected: $120\\text{ W m}^{-2}$; Intensity radiated: less than $80\\text{ W m}^{-2}$"
+      },
+      {
+        "label": "C",
+        "text": "Intensity reflected: $80\\text{ W m}^{-2}$; Intensity radiated: $120\\text{ W m}^{-2}$"
+      },
+      {
+        "label": "D",
+        "text": "Intensity reflected: $80\\text{ W m}^{-2}$; Intensity radiated: less than $120\\text{ W m}^{-2}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Albedo is the ratio of reflected radiation to incident radiation. With an albedo of $0.6$, the reflected intensity is $0.6 \\times 200 = 120\\text{ W m}^{-2}$. Since the planet's temperature is constant, it must be in thermal equilibrium, meaning the total power in equals the total power out. The absorbed intensity is $200 - 120 = 80\\text{ W m}^{-2}$. To maintain a constant temperature, the planet must radiate away exactly what it absorbs, which is $80\\text{ W m}^{-2}$.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2014 HL TZ1 Q36 A.png"
+  },
+  {
+    "id": "May_2014_HL_TZ1_Q37",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ1 Q37 D.png"
+    },
+    "question_number": 37,
+    "content_markdown": "A body X of emissivity $e$ is at temperature $T_1$. X is inside a box whose walls act as a black body of temperature $T_2$. $T_1$ is greater than $T_2$.\n\nWhat is the net intensity of radiation leaving body X?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A grey circular body labeled X at temperature T1 is centered inside a rectangular box with rounded corners at temperature T2.",
+      "labels_to_preserve": [
+        "X",
+        "T_1",
+        "T_2"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\sigma T_1^4$"
+      },
+      {
+        "label": "B",
+        "text": "$e\\sigma T_1^4$"
+      },
+      {
+        "label": "C",
+        "text": "$e\\sigma T_1^4 - \\sigma T_2^4$"
+      },
+      {
+        "label": "D",
+        "text": "$e\\sigma (T_1^4 - T_2^4)$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The net intensity is the difference between the intensity emitted by body X and the intensity it absorbs from the surroundings. Body X emits intensity $I_{out} = e\\sigma T_1^4$. Since the surrounding box is a black body ($e=1$), it radiates intensity $\\sigma T_2^4$. Body X absorbs a fraction $e$ of the incident radiation (Kirchhoff's Law states absorptivity equals emissivity), so $I_{in} = e\\sigma T_2^4$. The net intensity leaving is $I_{out} - I_{in} = e\\sigma T_1^4 - e\\sigma T_2^4 = e\\sigma(T_1^4 - T_2^4)$.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2014 HL TZ1 Q37 D.png"
+  },
+  {
+    "id": "May_2014_HL_TZ2_Q35",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ2 Q35 D.png"
+    },
+    "question_number": 35,
+    "content_markdown": "A black body has absolute temperature $T$ and surface area $A$. The intensity of the radiation emitted by the body is $I$. Another black body of surface area $2A$ has absolute temperature $2T$. What is the intensity of radiation emitted by this second black body?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$4I$"
+      },
+      {
+        "label": "B",
+        "text": "$8I$"
+      },
+      {
+        "label": "C",
+        "text": "$16I$"
+      },
+      {
+        "label": "D",
+        "text": "$32I$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "According to the Stefan-Boltzmann law, the intensity $I$ (power per unit area) emitted by a black body is proportional to the fourth power of its absolute temperature ($I = \\sigma T^4$). Note that intensity is defined as power per unit area, so it is independent of the surface area $A$. When the temperature doubles from $T$ to $2T$, the new intensity $I'$ becomes $\\sigma (2T)^4 = 16 \\sigma T^4 = 16I$.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2014 HL TZ2 Q35 D.png"
+  },
+  {
+    "id": "May_2014_HL_TZ2_Q37",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ2 Q37 A.png"
+    },
+    "question_number": 37,
+    "content_markdown": "The greenhouse effect can be explained by the fact that the infrared radiation emitted by the surface of Earth",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "is absorbed by the atmosphere and then re-radiated in all directions."
+      },
+      {
+        "label": "B",
+        "text": "raises the temperature of the upper atmosphere."
+      },
+      {
+        "label": "C",
+        "text": "is trapped by the upper atmosphere."
+      },
+      {
+        "label": "D",
+        "text": "is absorbed by the atmosphere and then all of it is re-radiated back to the surface of Earth."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The greenhouse effect occurs because greenhouse gases in the atmosphere absorb long-wavelength infrared radiation emitted from the Earth's surface. These molecules then re-emit that energy in all directions (isotropically), including back towards the surface, which leads to an increase in the average temperature of the Earth. Option D is incorrect because not 'all' of it goes back to the surface; some is radiated out to space.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2014 HL TZ2 Q37 A.png"
+  },
+  {
+    "id": "May_2015_HL_TZ1_Q37",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ1 Q37 B.png"
+    },
+    "question_number": 37,
+    "content_markdown": "Which could increase the rate of global warming?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Replacing fossil fuel power stations with nuclear reactors"
+      },
+      {
+        "label": "B",
+        "text": "Replacing gas-fired power stations with coal-fired power stations"
+      },
+      {
+        "label": "C",
+        "text": "Using carbon dioxide capture and storage at power stations"
+      },
+      {
+        "label": "D",
+        "text": "Replacing conventional fossil fuel power stations with combined heating and power (CHP) systems"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Global warming is primarily driven by the emission of greenhouse gases like $CO_2$. Coal-fired power stations emit significantly more $CO_2$ per unit of energy produced compared to gas-fired stations. Therefore, switching from gas to coal would increase the concentration of greenhouse gases in the atmosphere, thereby increasing the rate of global warming. The other options (nuclear, carbon capture, and CHP) are all methods intended to reduce net $CO_2$ emissions.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2015 HL TZ1 Q37 B.png"
+  },
+  {
+    "id": "May_2015_HL_TZ2_Q35",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ2 Q35 C.png"
+    },
+    "question_number": 35,
+    "content_markdown": "Which of the following lists snow, desert and ocean in increasing order of magnitude of albedo?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A-D) with three columns representing the progression from lowest albedo to highest albedo.",
+      "labels_to_preserve": [
+        "Lowest albedo",
+        "Highest albedo",
+        "snow",
+        "desert",
+        "ocean"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Lowest: snow; Middle: desert; Highest: ocean"
+      },
+      {
+        "label": "B",
+        "text": "Lowest: snow; Middle: ocean; Highest: desert"
+      },
+      {
+        "label": "C",
+        "text": "Lowest: ocean; Middle: desert; Highest: snow"
+      },
+      {
+        "label": "D",
+        "text": "Lowest: desert; Middle: ocean; Highest: snow"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Albedo is the ratio of reflected radiation to incident radiation. Dark surfaces like the ocean absorb most light (low albedo, approx 0.06), while light-colored surfaces like snow reflect most light (high albedo, approx 0.8 to 0.9). Deserts fall in between (approx 0.3).",
+    "source_image_path": "B2-Greenhouse-Effect/May 2015 HL TZ2 Q35 C.png"
+  },
+  {
+    "id": "May_2015_HL_TZ2_Q36",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ2 Q36 B.png"
+    },
+    "question_number": 36,
+    "content_markdown": "The graph shows the variation with wavelength of intensity of radiation emitted by two bodies X and Y. X and Y have the same surface area.\n\nHow do the temperature and the emissivity of X compare with the temperature and the emissivity of Y?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph of intensity versus wavelength lambda showing two blackbody radiation curves. Curve X has a higher peak intensity than curve Y, but both curves peak at the same wavelength.",
+      "labels_to_preserve": [
+        "intensity",
+        "X",
+        "Y",
+        "\\lambda"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Temperature: different; Emissivity: different"
+      },
+      {
+        "label": "B",
+        "text": "Temperature: equal; Emissivity: different"
+      },
+      {
+        "label": "C",
+        "text": "Temperature: different; Emissivity: equal"
+      },
+      {
+        "label": "D",
+        "text": "Temperature: equal; Emissivity: equal"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "According to Wien's displacement law, the wavelength at which the intensity is maximum is inversely proportional to the absolute temperature. Since both curves X and Y peak at the same wavelength, their temperatures must be equal. However, the Stefan-Boltzmann law states that power (and thus intensity) depends on both temperature and emissivity. Since X has a higher intensity than Y at the same temperature and surface area, X must have a higher emissivity than Y, meaning their emissivities are different.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2015 HL TZ2 Q36 B.png"
+  },
+  {
+    "id": "May_2015_HL_TZ2_Q37",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ2 Q37 D.png"
+    },
+    "question_number": 37,
+    "content_markdown": "Methane and carbon dioxide are both greenhouse gases that are believed to cause global warming. The reason for this is that these gases",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "absorb incoming radiation from the Sun."
+      },
+      {
+        "label": "B",
+        "text": "transmit the incoming radiation from the Sun and radiation from the Earth."
+      },
+      {
+        "label": "C",
+        "text": "reflect incoming radiation from the Sun."
+      },
+      {
+        "label": "D",
+        "text": "transmit incoming radiation from the Sun and absorb outgoing radiation from the Earth."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Greenhouse gases are characterized by their ability to allow short-wavelength radiation (visible light) from the Sun to pass through the atmosphere (transmission), while absorbing long-wavelength infrared radiation emitted by the Earth's surface. This trapped energy warms the atmosphere.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2015 HL TZ2 Q37 D.png"
+  },
+  {
+    "id": "May_2017_HL_TZ1_Q25",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ1 Q25 D.png"
+    },
+    "question_number": 25,
+    "content_markdown": "The average albedo of glacier ice is 0.25.\n\nWhat is $\\frac{\\text{power absorbed by glacier ice}}{\\text{power reflected by glacier ice}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.25"
+      },
+      {
+        "label": "B",
+        "text": "0.33"
+      },
+      {
+        "label": "C",
+        "text": "2.5"
+      },
+      {
+        "label": "D",
+        "text": "3.0"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Albedo ($\\alpha$) is defined as the ratio of reflected power to incident power. Here, $\\alpha = 0.25$, meaning 25% of the power is reflected. Since energy is conserved, the remaining 75% (or $1 - 0.25 = 0.75$) must be absorbed. The question asks for the ratio of absorbed power to reflected power, which is $0.75 / 0.25 = 3.0$.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2017 HL TZ1 Q25 D.png"
+  },
+  {
+    "id": "May_2017_HL_TZ2_Q24",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ2 Q24 D.png"
+    },
+    "question_number": 24,
+    "content_markdown": "A room is at a constant temperature of $300\\text{ K}$. A hotplate in the room is at a temperature of $400\\text{ K}$ and loses energy by radiation at a rate of $P$. What is the rate of loss of energy from the hotplate when its temperature is $500\\text{ K}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{4^4}{5^4}P$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{5^4 + 3^4}{4^4 + 3^4}P$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{5^4}{4^4}P$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{5^4 - 3^4}{4^4 - 3^4}P$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The net rate of energy loss by radiation is governed by the Stefan-Boltzmann law, considering both emission and absorption: $P_{net} = e\\sigma A(T^4 - T_{surroundings}^4)$. In the first case, $P \\propto (400^4 - 300^4)$. In the second case, $P' \\propto (500^4 - 300^4)$. By dividing the two expressions and factoring out the common $100^4$ terms, we find $P' = P \\frac{5^4 - 3^4}{4^4 - 3^4}$.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2017 HL TZ2 Q24 D.png"
+  },
+  {
+    "id": "May_2018_HL_TZ1_Q24",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ1 Q24 A.png"
+    },
+    "question_number": 24,
+    "content_markdown": "The dashed line on the graph shows the variation with wavelength of the intensity of solar radiation before passing through the Earth's atmosphere.\n\nThe solid line on the graph shows the variation with wavelength of the intensity of solar radiation after it has passed through the Earth's atmosphere.\n\nWhich feature of the graph helps explain the greenhouse effect?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph showing intensity versus wavelength in micrometers. A dashed line represents solar radiation before the atmosphere, and a solid line represents radiation after passing through the atmosphere. A shaded region labeled 'visible' is shown between approximately 0.4 and 0.75 micrometers. Significant dips in the solid line are visible in the infrared region (wavelengths > 0.75 micrometers).",
+      "labels_to_preserve": [
+        "visible",
+        "wavelength (\u03bcm)",
+        "0",
+        "0.5",
+        "1",
+        "1.5",
+        "2"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Infrared radiation is absorbed at specific wavelengths."
+      },
+      {
+        "label": "B",
+        "text": "There is little absorption at infrared wavelengths."
+      },
+      {
+        "label": "C",
+        "text": "There is substantial absorption at visible wavelengths."
+      },
+      {
+        "label": "D",
+        "text": "There is little absorption at UV wavelengths."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The greenhouse effect is driven by greenhouse gases absorbing specific wavelengths of outgoing long-wave (infrared) radiation. In the provided graph, the solid line (after atmosphere) shows significant 'dips' compared to the dashed line (before atmosphere) in the infrared region (wavelengths greater than 0.75 $\\mu$m), indicating that the atmosphere absorbs radiation at these specific infrared wavelengths.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2018 HL TZ1 Q24 A.png"
+  },
+  {
+    "id": "May_2018_HL_TZ1_Q25",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ1 Q25 A.png"
+    },
+    "question_number": 25,
+    "content_markdown": "The diagram shows a simple climate model for the Earth.\n\nWhat does this model predict for the average albedo of the Earth?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A Sankey-style diagram showing energy flow for Earth's climate model. Incoming solar energy is 100%. Energy is split into absorbed by atmosphere and clouds (19%), absorbed by the surface of the Earth (51%), reflected by the atmosphere (6%), reflected by the clouds (20%), and reflected by the surface of the Earth (4%).",
+      "labels_to_preserve": [
+        "incoming solar energy 100 %",
+        "absorbed by atmosphere and clouds 19 %",
+        "absorbed by the surface of the Earth 51 %",
+        "reflected by the atmosphere 6 %",
+        "reflected by the clouds 20 %",
+        "reflected by the surface of the Earth 4 %"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.30"
+      },
+      {
+        "label": "B",
+        "text": "0.51"
+      },
+      {
+        "label": "C",
+        "text": "0.70"
+      },
+      {
+        "label": "D",
+        "text": "0.81"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Albedo is defined as the ratio of total reflected power to total incident power. From the diagram, the total reflected energy is the sum of energy reflected by the atmosphere (6%), clouds (20%), and the surface (4%). Total reflected = $6\\% + 20\\% + 4\\% = 30\\%$. Since the incident energy is $100\\%$, the albedo is $30/100 = 0.30$.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2018 HL TZ1 Q25 A.png"
+  },
+  {
+    "id": "May_2021_HL_TZ2_Q24",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ2 Q24 B.png"
+    },
+    "question_number": 24,
+    "content_markdown": "What is the main role of carbon dioxide in the greenhouse effect?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "It absorbs incoming radiation from the Sun."
+      },
+      {
+        "label": "B",
+        "text": "It absorbs outgoing radiation from the Earth."
+      },
+      {
+        "label": "C",
+        "text": "It reflects incoming radiation from the Sun."
+      },
+      {
+        "label": "D",
+        "text": "It reflects outgoing radiation from the Earth."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Greenhouse gases like carbon dioxide are transparent to short-wavelength radiation from the Sun but absorb long-wavelength (infrared) radiation emitted by the Earth's surface. This absorption traps energy in the atmosphere, leading to the greenhouse effect.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2021 HL TZ2 Q24 B.png"
+  },
+  {
+    "id": "May_2022_HL_TZ1_Q1",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ1 Q1 D.png"
+    },
+    "question_number": 1,
+    "content_markdown": "The intensity of a wave can be defined as the energy per unit area per unit time. What is the unit of intensity expressed in fundamental SI units?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\text{kg} \\, \\text{m}^{-2} \\, \\text{s}^{-1}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\text{kg} \\, \\text{m}^{2} \\, \\text{s}^{-3}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\text{kg} \\, \\text{s}^{-2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\text{kg} \\, \\text{s}^{-3}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Intensity is defined as $\\frac{\\text{Energy}}{\\text{Area} \\times \\text{Time}}$. In SI units, Energy (Joules) is $\\text{kg} \\, \\text{m}^2 \\, \\text{s}^{-2}$. Dividing this by Area ($\\text{m}^2$) and Time ($\\text{s}$) results in $\\frac{\\text{kg} \\, \\text{m}^2 \\, \\text{s}^{-2}}{\\text{m}^2 \\, \\text{s}}$, which simplifies to $\\text{kg} \\, \\text{s}^{-3}$.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2022 HL TZ1 Q1 D.png"
+  },
+  {
+    "id": "May_2022_HL_TZ1_Q29",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ1 Q29 A.png"
+    },
+    "question_number": 29,
+    "content_markdown": "The diagram shows, for a region on the Earth's surface, the incident, radiated and reflected intensities of the solar radiation.\n\nWhat is the albedo of the region?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing three vertical arrows relative to the surface of the Earth. An arrow pointing down represents incident radiation at 600 W m^-2. Two arrows pointing up represent radiated intensity at 450 W m^-2 and reflected intensity at 150 W m^-2.",
+      "labels_to_preserve": [
+        "incident 600 W m^{-2}",
+        "radiated 450 W m^{-2}",
+        "reflected 150 W m^{-2}",
+        "surface of the Earth"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{3}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{3}{4}$"
+      },
+      {
+        "label": "D",
+        "text": "1"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Albedo is defined as the ratio of the total scattered (reflected) power to the total incident power. In this diagram, the reflected intensity is $150\\text{ W m}^{-2}$ and the incident intensity is $600\\text{ W m}^{-2}$. Therefore, the albedo is $\\frac{150}{600} = \\frac{1}{4}$. Note that 'radiated' intensity refers to the long-wave thermal radiation emitted by the Earth, which is not included in the albedo calculation.",
+    "source_image_path": "B2-Greenhouse-Effect/May 2022 HL TZ1 Q29 A.png"
+  },
+  {
+    "id": "Nov_2009_HL_Q38",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2009,
+      "month": "Nov",
+      "session_label": "Nov 2009",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2009 HL Q38 B.png"
+    },
+    "question_number": 38,
+    "content_markdown": "Which of the following is likely to increase greenhouse gas concentrations in the atmosphere?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Using natural gas instead of coal to generate electrical energy"
+      },
+      {
+        "label": "B",
+        "text": "Incineration of waste to generate electrical energy"
+      },
+      {
+        "label": "C",
+        "text": "Increased use of wind turbines to generate electrical energy"
+      },
+      {
+        "label": "D",
+        "text": "Carbon dioxide capture and storage at the power station"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "To identify which action increases greenhouse gas concentrations, we look for processes that release gases like $CO_2$ or $CH_4$. Incineration (burning) of waste releases carbon dioxide and other greenhouse gases into the atmosphere. In contrast, switching from coal to gas (A) reduces the rate of increase because gas is more efficient/less carbon-intensive, wind turbines (C) are carbon-neutral during operation, and carbon capture (D) actively removes $CO_2$ from the emission stream.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2009 HL Q38 B.png"
+  },
+  {
+    "id": "Nov_2010_HL_Q37",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Energy sources",
+    "paper": {
+      "year": 2010,
+      "month": "Nov",
+      "session_label": "Nov 2010",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2010 HL Q37 A.png"
+    },
+    "question_number": 37,
+    "content_markdown": "Which of the following statements, relating to the production of nuclear power, is correct?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The fuel has high energy density."
+      },
+      {
+        "label": "B",
+        "text": "Supplies of nuclear fuels are unlimited."
+      },
+      {
+        "label": "C",
+        "text": "Greenhouse gas emissions are significant."
+      },
+      {
+        "label": "D",
+        "text": "Waste products are not significant."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Nuclear fuel (like Uranium-235) has an extremely high energy density compared to fossil fuels, meaning a very small mass produces a large amount of energy. While nuclear power has other issues (finite supplies, radioactive waste), it is known for low greenhouse gas emissions and high energy density.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2010 HL Q37 A.png"
+  },
+  {
+    "id": "Nov_2010_HL_Q38",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2010,
+      "month": "Nov",
+      "session_label": "Nov 2010",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2010 HL Q38 C.png"
+    },
+    "question_number": 38,
+    "content_markdown": "The diagram shows an energy balance climate model for a planet.\n\nThe intensities of the reflected and radiated radiation are given in terms of the incident intensity $I$. Which of the following is the albedo of this planet?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "An energy balance diagram showing incoming intensity I, reflected from atmosphere 0.25I, reflected by planet surface 0.15I, and radiated by planet surface 0.60I.",
+      "labels_to_preserve": [
+        "incoming intensity I",
+        "reflected from atmosphere 0.25I",
+        "reflected by planet surface 0.15I",
+        "radiated by planet surface 0.60I",
+        "atmosphere",
+        "planet surface"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.15"
+      },
+      {
+        "label": "B",
+        "text": "0.25"
+      },
+      {
+        "label": "C",
+        "text": "0.40"
+      },
+      {
+        "label": "D",
+        "text": "0.60"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Albedo is defined as the ratio of the total reflected power (or intensity) to the total incident power (or intensity). In this model, radiation is reflected by both the atmosphere ($0.25I$) and the planet surface ($0.15I$). Therefore, the total reflected intensity is $0.25I + 0.15I = 0.40I$. Dividing this by the incident intensity $I$ gives an albedo of 0.40. Note that the 'radiated' component ($0.60I$) is emitted thermal radiation, not reflected radiation, so it is excluded from the albedo calculation.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2010 HL Q38 C.png"
+  },
+  {
+    "id": "Nov_2011_HL_Q36",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2011,
+      "month": "Nov",
+      "session_label": "Nov 2011",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2011 HL Q36 A.png"
+    },
+    "question_number": 36,
+    "content_markdown": "The power emitted as electromagnetic radiation by the Sun is approximately $4 \\times 10^{26} \\text{ W}$. The radius of the orbit of Mars around the Sun is approximately $2 \\times 10^{11} \\text{ m}$. What is the best estimate for the power incident on an area of $1 \\text{ m}^2$ at the radius of Mars' orbit?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$10^3 \\text{ W}$"
+      },
+      {
+        "label": "B",
+        "text": "$10^7 \\text{ W}$"
+      },
+      {
+        "label": "C",
+        "text": "$10^{11} \\text{ W}$"
+      },
+      {
+        "label": "D",
+        "text": "$10^{15} \\text{ W}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "To find the power incident on $1 \\text{ m}^2$ (the intensity), we use the inverse square law: $I = \\frac{P}{4\\pi r^2}$. Substituting the values: $I = \\frac{4 \\times 10^{26}}{4 \\times \\pi \\times (2 \\times 10^{11})^2}$. This simplifies to $\\frac{10^{26}}{\\pi \\times 4 \\times 10^{22}} = \\frac{10^4}{4\\pi}$. Since $4\\pi \\approx 12.5$, the value is roughly $10^4 / 12.5$, which is closest to $10^3 \\text{ W}$.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2011 HL Q36 A.png"
+  },
+  {
+    "id": "Nov_2011_HL_Q37",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2011,
+      "month": "Nov",
+      "session_label": "Nov 2011",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2011 HL Q37 B.png"
+    },
+    "question_number": 37,
+    "content_markdown": "Which of the following is **least** likely to increase the rate of global warming?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Melting of glaciers"
+      },
+      {
+        "label": "B",
+        "text": "Rising of sea-levels"
+      },
+      {
+        "label": "C",
+        "text": "Rising of sea temperature"
+      },
+      {
+        "label": "D",
+        "text": "Deforestation"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "This question tests the understanding of feedback mechanisms in climate change. Melting glaciers (A) reduces albedo, increasing absorption. Rising sea temperatures (C) can release dissolved CO2 and increase water vapor (a greenhouse gas). Deforestation (D) removes carbon sinks. While rising sea levels (B) are a major *consequence* of global warming, they do not significantly drive a positive feedback loop that increases the rate of warming compared to the other options.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2011 HL Q37 B.png"
+  },
+  {
+    "id": "Nov_2012_HL_Q27",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2012,
+      "month": "Nov",
+      "session_label": "Nov 2012",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2012 HL Q27 A.png"
+    },
+    "question_number": 27,
+    "content_markdown": "Which of the following would **not** reduce the effects of the enhanced greenhouse effect?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Replacing natural gas power stations with those using oil"
+      },
+      {
+        "label": "B",
+        "text": "Replacing conventional vehicles with hybrid vehicles"
+      },
+      {
+        "label": "C",
+        "text": "Replacing fossil fuel power stations with those using nuclear fuel"
+      },
+      {
+        "label": "D",
+        "text": "Increasing the use of carbon dioxide capture and storage"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The enhanced greenhouse effect is primarily driven by $CO_2$ emissions. Natural gas is the 'cleanest' fossil fuel in terms of $CO_2$ emitted per unit of energy produced. Switching from natural gas to oil (which has a higher carbon content) would actually increase $CO_2$ emissions, thereby worsening rather than reducing the enhanced greenhouse effect. Options B, C, and D all describe methods that either reduce $CO_2$ production or remove it from the atmosphere.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2012 HL Q27 A.png"
+  },
+  {
+    "id": "Nov_2013_HL_Q34",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2013,
+      "month": "Nov",
+      "session_label": "Nov 2013",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2013 HL Q34 D.png"
+    },
+    "question_number": 34,
+    "content_markdown": "In the production of electric power, an advantage of using photovoltaic cells rather than fossil fuels is that the photovoltaic cells",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "can be effective in any location."
+      },
+      {
+        "label": "B",
+        "text": "can be used continuously."
+      },
+      {
+        "label": "C",
+        "text": "have low initial set-up costs."
+      },
+      {
+        "label": "D",
+        "text": "are more environmentally friendly when in use."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Photovoltaic cells produce electricity without emitting greenhouse gases or pollutants during operation, unlike fossil fuels which release $CO_2$ and other particulates. Options A and B are incorrect because solar energy depends on sunlight (location and time of day), and C is incorrect as PV systems typically have high initial capital costs compared to traditional power plants.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2013 HL Q34 D.png"
+  },
+  {
+    "id": "Nov_2013_HL_Q37",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2013,
+      "month": "Nov",
+      "session_label": "Nov 2013",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2013 HL Q37 A.png"
+    },
+    "question_number": 37,
+    "content_markdown": "Which option is **not** a possible solution to reduce the enhanced greenhouse effect?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Decommission nuclear power plants"
+      },
+      {
+        "label": "B",
+        "text": "Replace the use of coal and oil with natural gas"
+      },
+      {
+        "label": "C",
+        "text": "Use combined heating and power (CHP) systems"
+      },
+      {
+        "label": "D",
+        "text": "Use hybrid motor vehicles"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Nuclear power plants do not emit greenhouse gases during operation. Decommissioning them would likely lead to an increase in fossil fuel usage to meet energy demands, thereby increasing the enhanced greenhouse effect rather than reducing it. Options B, C, and D all represent methods to improve efficiency or switch to lower-carbon alternatives.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2013 HL Q37 A.png"
+  },
+  {
+    "id": "Nov_2014_HL_Q36",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2014,
+      "month": "Nov",
+      "session_label": "Nov 2014",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2014 HL Q36 B.png"
+    },
+    "question_number": 36,
+    "content_markdown": "Changes in the climate are leading to a reduction in ice cover on Earth. Which of the following describes, for Earth, the change in albedo and the change in the rate of energy absorption?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table with two columns: 'Change in albedo' and 'Change in rate of energy absorption'.",
+      "labels_to_preserve": [
+        "Change in albedo",
+        "Change in rate of energy absorption"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Change in albedo: decrease; Change in rate of energy absorption: decrease"
+      },
+      {
+        "label": "B",
+        "text": "Change in albedo: decrease; Change in rate of energy absorption: increase"
+      },
+      {
+        "label": "C",
+        "text": "Change in albedo: increase; Change in rate of energy absorption: increase"
+      },
+      {
+        "label": "D",
+        "text": "Change in albedo: increase; Change in rate of energy absorption: decrease"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Ice has a high albedo because it reflects a large portion of incoming solar radiation. If ice cover reduces, the Earth's surface becomes less reflective, meaning the albedo decreases. Since less energy is being reflected back into space, more energy must be absorbed by the Earth's surface, leading to an increase in the rate of energy absorption.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2014 HL Q36 B.png"
+  },
+  {
+    "id": "Nov_2014_HL_Q37",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2014,
+      "month": "Nov",
+      "session_label": "Nov 2014",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2014 HL Q37 A.png"
+    },
+    "question_number": 37,
+    "content_markdown": "The graph shows the emission spectrum for a black body at absolute temperature $T_1$.\n\nWhich graph shows the emission spectrum for the same black body at an absolute temperature $T_2$ where $T_2 > T_1$? The original graph is shown as a dotted line.",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A black body radiation curve showing relative intensity versus wavelength. The initial curve is labeled T1. Four options show a second curve labeled T2 relative to the dotted T1 curve.",
+      "labels_to_preserve": [
+        "relative intensity",
+        "wavelength",
+        "T_1",
+        "T_2"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "According to Wien's displacement law, as temperature increases, the peak wavelength shifts to the left (shorter wavelengths). According to the Stefan-Boltzmann law, the total power radiated (area under the curve) increases significantly with temperature ($P \\propto T^4$), so the peak intensity must be higher. Only graph A correctly shows both a higher peak and a shift toward shorter wavelengths.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2014 HL Q37 A.png"
+  },
+  {
+    "id": "Nov_2015_HL_Q35",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2015,
+      "month": "Nov",
+      "session_label": "Nov 2015",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2015 HL Q35 D.png"
+    },
+    "question_number": 35,
+    "content_markdown": "It is suggested that the solar power incident at a point on the Earth\u2019s surface depends on\n\nI. daily variations in the Sun\u2019s power output\nII. the location of the point\nIII. the cloud cover at the point.\n\nWhich suggestion(s) is/are correct?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "III only"
+      },
+      {
+        "label": "B",
+        "text": "I and II only"
+      },
+      {
+        "label": "C",
+        "text": "II and III only"
+      },
+      {
+        "label": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The solar power reaching a specific point on Earth is influenced by several factors: (I) The Sun's total power output (solar constant) can vary slightly; (II) The location (latitude) determines the angle of incidence and the thickness of the atmosphere the light must pass through; and (III) Cloud cover reflects and absorbs incoming radiation, significantly affecting the power that actually reaches the surface. Therefore, all three factors are correct.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2015 HL Q35 D.png"
+  },
+  {
+    "id": "Nov_2015_HL_Q37",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2015,
+      "month": "Nov",
+      "session_label": "Nov 2015",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2015 HL Q37 D.png"
+    },
+    "question_number": 37,
+    "content_markdown": "The average surface temperature of Mars is about $200\\text{ K}$. The average surface temperature of Earth is about $300\\text{ K}$. Both can be regarded as black bodies.\n\nWhat is the ratio $\\frac{\\text{energy radiated per second per unit area on Mars}}{\\text{energy radiated per second per unit area on Earth}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.7"
+      },
+      {
+        "label": "B",
+        "text": "0.4"
+      },
+      {
+        "label": "C",
+        "text": "0.3"
+      },
+      {
+        "label": "D",
+        "text": "0.2"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "According to the Stefan-Boltzmann law, the power radiated per unit area (intensity) of a black body is proportional to the fourth power of its absolute temperature ($P/A = \\sigma T^4$). Therefore, the ratio of the energy radiated per second per unit area is $(\\frac{T_{\\text{Mars}}}{T_{\\text{Earth}}})^4 = (\\frac{200}{300})^4 = (\\frac{2}{3})^4 = \\frac{16}{81} \\approx 0.1975$, which rounds to 0.2.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2015 HL Q37 D.png"
+  },
+  {
+    "id": "Nov_2016_HL_Q24",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2016,
+      "month": "Nov",
+      "session_label": "Nov 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2016 HL Q24 B.png"
+    },
+    "question_number": 24,
+    "content_markdown": "The solar constant is the intensity of the Sun's radiation at",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the surface of the Earth."
+      },
+      {
+        "label": "B",
+        "text": "the mean distance from the Sun of the Earth's orbit around the Sun."
+      },
+      {
+        "label": "C",
+        "text": "the surface of the Sun."
+      },
+      {
+        "label": "D",
+        "text": "$10\\text{ km}$ above the surface of the Earth."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The solar constant is defined as the power per unit area (intensity) of solar radiation incident on the upper atmosphere of the Earth. This corresponds to the intensity at the average distance of the Earth's orbit from the Sun, before any atmospheric absorption or scattering occurs.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2016 HL Q24 B.png"
+  },
+  {
+    "id": "Nov_2017_HL_Q25",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2017,
+      "month": "Nov",
+      "session_label": "Nov 2017",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2017 HL Q25 B.png"
+    },
+    "question_number": 25,
+    "content_markdown": "A black body emits radiation with its greatest intensity at a wavelength of $\\lambda_{\\text{max}}$. The surface temperature of the black body doubles without any other change occurring. What is the wavelength at which the greatest intensity of radiation is emitted?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\lambda_{\\text{max}}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{\\lambda_{\\text{max}}}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{\\lambda_{\\text{max}}}{4}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{\\lambda_{\\text{max}}}{16}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "According to Wien's displacement law, the wavelength of maximum intensity $\\lambda_{\\text{max}}$ is inversely proportional to the absolute temperature $T$ of the black body ($\\lambda_{\\text{max}} \\propto \\frac{1}{T}$). If the temperature doubles ($2T$), the new peak wavelength must be half of the original value.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2017 HL Q25 B.png"
+  },
+  {
+    "id": "Nov_2017_HL_Q26",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2017,
+      "month": "Nov",
+      "session_label": "Nov 2017",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2017 HL Q26 A.png"
+    },
+    "question_number": 26,
+    "content_markdown": "The three statements give possible reasons why an average value should be used for the solar constant.\n\nI. The Sun\u2019s output varies during its 11 year cycle.\nII. The Earth is in elliptical orbit around the Sun.\nIII. The plane of the Earth\u2019s spin on its axis is tilted to the plane of its orbit about the Sun.\n\nWhich are the correct reasons for using an average value for the solar constant?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I and II only"
+      },
+      {
+        "label": "B",
+        "text": "I and III only"
+      },
+      {
+        "label": "C",
+        "text": "II and III only"
+      },
+      {
+        "label": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The solar constant is defined as the power per unit area received at the top of the Earth's atmosphere. Statement I is correct because the Sun's total luminosity fluctuates over its solar cycle. Statement II is correct because the distance between the Earth and Sun changes due to the elliptical orbit, affecting the intensity received ($I = P / 4\\pi r^2$). Statement III is incorrect in this context because the tilt of the axis causes seasons (changing how energy is distributed over the surface), but it does not change the total power per unit area incident on a surface perpendicular to the rays at the top of the atmosphere.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2017 HL Q26 A.png"
+  },
+  {
+    "id": "Nov_2018_HL_Q25",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2018,
+      "month": "Nov",
+      "session_label": "Nov 2018",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2018 HL Q25 B.png"
+    },
+    "question_number": 25,
+    "content_markdown": "Light of intensity $I_0$ is incident on a snow-covered area of Earth. In a model of this situation, the albedo of the cloud is $0.30$ and the albedo for the snow surface is $0.80$. What is the intensity of the light at P due to the incident ray $I_0$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A ray of light with intensity I_0 is incident on a snow surface. It reflects off the snow, travels upwards to a cloud, and then reflects off the cloud down to a point P.",
+      "labels_to_preserve": [
+        "I_0",
+        "cloud",
+        "P",
+        "snow"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0.14 I_0$"
+      },
+      {
+        "label": "B",
+        "text": "$0.24 I_0$"
+      },
+      {
+        "label": "C",
+        "text": "$0.50 I_0$"
+      },
+      {
+        "label": "D",
+        "text": "$0.55 I_0$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Albedo is the ratio of reflected intensity to incident intensity. To find the intensity at P, we follow the path of the ray: first, it reflects off the snow (albedo = 0.80), so the intensity becomes $0.80 I_0$. Then, this reflected light hits the cloud and reflects again (albedo = 0.30). The final intensity at P is $0.30 \\times (0.80 I_0) = 0.24 I_0$.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2018 HL Q25 B.png"
+  },
+  {
+    "id": "Nov_2019_HL_Q23",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Energy sources",
+    "paper": {
+      "year": 2019,
+      "month": "Nov",
+      "session_label": "Nov 2019",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2019 HL Q23 B.png"
+    },
+    "question_number": 23,
+    "content_markdown": "What are the units of specific energy and energy density?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table with two columns labeled 'Specific energy' and 'Energy density' and four rows labeled A, B, C, and D.",
+      "labels_to_preserve": [
+        "Specific energy",
+        "Energy density",
+        "J m^{-1}",
+        "J m^{-2}",
+        "J kg^{-1}",
+        "J m^{-3}"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Specific energy: $J\\,m^{-1}$; Energy density: $J\\,m^{-2}$"
+      },
+      {
+        "label": "B",
+        "text": "Specific energy: $J\\,kg^{-1}$; Energy density: $J\\,m^{-3}$"
+      },
+      {
+        "label": "C",
+        "text": "Specific energy: $J\\,kg^{-1}$; Energy density: $J\\,m^{-2}$"
+      },
+      {
+        "label": "D",
+        "text": "Specific energy: $J\\,m^{-1}$; Energy density: $J\\,m^{-3}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Specific energy is defined as the energy per unit mass ($J\\,kg^{-1}$), while energy density is defined as the energy per unit volume ($J\\,m^{-3}$). These definitions are fundamental to comparing the efficiency of different fuel sources in the energy production topic.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2019 HL Q23 B.png"
+  },
+  {
+    "id": "Nov_2019_HL_Q25",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2019,
+      "month": "Nov",
+      "session_label": "Nov 2019",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2019 HL Q25 C.png"
+    },
+    "question_number": 25,
+    "content_markdown": "What is meant by the statement that the average albedo of the Moon is 0.1?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "10% of the radiation incident on the Moon is absorbed by its surface"
+      },
+      {
+        "label": "B",
+        "text": "10% of the radiation emitted by the Moon is absorbed by its atmosphere"
+      },
+      {
+        "label": "C",
+        "text": "10% of the radiation incident on the Moon is reflected by its surface"
+      },
+      {
+        "label": "D",
+        "text": "10% of the radiation emitted by the Moon is at infrared wavelengths"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Albedo is defined as the ratio of the total scattered (reflected) power to the total incident power. Therefore, an albedo of 0.1 means that 10% of the incoming radiation is reflected back into space, while the remaining 90% is absorbed.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2019 HL Q25 C.png"
+  },
+  {
+    "id": "Nov_2020_HL_Q26",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2020,
+      "month": "Nov",
+      "session_label": "Nov 2020",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2020 HL Q26 C.png"
+    },
+    "question_number": 26,
+    "content_markdown": "The average temperature of the surface of a planet is five times greater than the average temperature of the surface of its moon. The emissivities of the planet and the moon are the same. The average intensity radiated by the planet is $I$. What is the average intensity radiated by its moon?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{I}{25}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{I}{125}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{I}{625}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{I}{3125}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "According to the Stefan-Boltzmann law, the intensity $I$ radiated by a black body (or a body with constant emissivity) is proportional to the fourth power of its absolute temperature ($I \\propto T^4$). If the planet's temperature $T_p$ is 5 times that of the moon $T_m$ ($T_p = 5T_m$), then the ratio of their intensities is $I_p / I_m = (T_p / T_m)^4 = 5^4 = 625$. Therefore, the intensity of the moon is $I_m = I / 625$.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2020 HL Q26 C.png"
+  },
+  {
+    "id": "Nov_2021_HL_Q25",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2021,
+      "month": "Nov",
+      "session_label": "Nov 2021",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2021 HL Q25 B.png"
+    },
+    "question_number": 25,
+    "content_markdown": "The diagram shows a simple model of the energy balance in the Earth surface-atmosphere system. The intensities of the radiations are given.\n\nWhat is the average intensity radiated by the atmosphere towards the surface?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A schematic diagram showing energy flow between space, the atmosphere, and the Earth's surface. Arrows indicate incoming radiation (340 W m$^{-2}$), reflected radiation (100 W m$^{-2}$), outgoing radiation (240 W m$^{-2}$), surface absorption (240 W m$^{-2}$), surface radiation (390 W m$^{-2}$), and radiation by the atmosphere towards the surface.",
+      "labels_to_preserve": [
+        "reflected",
+        "incoming",
+        "outgoing",
+        "atmosphere",
+        "surface absorption",
+        "surface radiation",
+        "radiated by atmosphere",
+        "surface",
+        "100 W m^{-2}",
+        "340 W m^{-2}",
+        "240 W m^{-2}",
+        "390 W m^{-2}"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$100\\text{ W m}^{-2}$"
+      },
+      {
+        "label": "B",
+        "text": "$150\\text{ W m}^{-2}$"
+      },
+      {
+        "label": "C",
+        "text": "$240\\text{ W m}^{-2}$"
+      },
+      {
+        "label": "D",
+        "text": "$390\\text{ W m}^{-2}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "To find the intensity radiated by the atmosphere towards the surface, we can look at the energy balance of the atmosphere itself. The energy entering the atmosphere must equal the energy leaving it for a steady state. Alternatively, look at the surface balance: Energy absorbed by surface = (Direct solar absorption) + (Radiation from atmosphere). We know the total surface radiation leaving is $390\\text{ W m}^{-2}$. For the surface to be in equilibrium, the total energy arriving at the surface must also be $390\\text{ W m}^{-2}$. Since $240\\text{ W m}^{-2}$ comes from direct surface absorption of solar radiation, the remaining $390 - 240 = 150\\text{ W m}^{-2}$ must be the radiation coming from the atmosphere.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2021 HL Q25 B.png"
+  },
+  {
+    "id": "Nov_2022_HL_Q26",
+    "topic": "Greenhouse Effect",
+    "topic_code": "B2",
+    "sub_topic": "Greenhouse Effect",
+    "paper": {
+      "year": 2022,
+      "month": "Nov",
+      "session_label": "Nov 2022",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2022 HL Q26 A.png"
+    },
+    "question_number": 26,
+    "content_markdown": "The electromagnetic spectrum radiated by a black body at temperature $T$ shows a peak at wavelength $\\lambda_p$.\n\nWhat is the variation of $\\lambda_p$ with $T$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs showing different relationships between peak wavelength lambda_p on the y-axis and temperature T on the x-axis.",
+      "labels_to_preserve": [
+        "\\lambda_p",
+        "T",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A graph showing an inverse relationship (hyperbola) where $\\lambda_p$ decreases as $T$ increases."
+      },
+      {
+        "label": "B",
+        "text": "A graph showing a linear relationship with a positive gradient and a positive y-intercept."
+      },
+      {
+        "label": "C",
+        "text": "A graph showing a linear relationship with a negative gradient."
+      },
+      {
+        "label": "D",
+        "text": "A graph showing a curve that starts at the origin, rises to a peak, and then decreases (resembling a Planck curve shape)."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "According to Wien's displacement law, the peak wavelength $\\lambda_p$ is inversely proportional to the absolute temperature $T$ of the black body ($\\lambda_p \\propto \\frac{1}{T}$). This relationship is represented by a rectangular hyperbola, which is shown in graph A.",
+    "source_image_path": "B2-Greenhouse-Effect/Nov 2022 HL Q26 A.png"
+  }
+]

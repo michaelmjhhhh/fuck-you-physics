@@ -1,0 +1,43 @@
+{
+  "id": "May_2015_HL_TZ2_Q6",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ2 Q6 D.png"
+  },
+  "question_number": 6,
+  "content_markdown": "Equal masses of water at $80\\,^{\\circ}\\text{C}$ and paraffin at $20\\,^{\\circ}\\text{C}$ are mixed in a container of negligible thermal capacity. The specific heat capacity of water is twice that of paraffin. What is the final temperature of the mixture?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$30\\,^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "B",
+      "text": "$40\\,^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "C",
+      "text": "$50\\,^{\\circ}\\text{C}$"
+    },
+    {
+      "label": "D",
+      "text": "$60\\,^{\\circ}\\text{C}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Using the principle of conservation of energy, the heat lost by the water equals the heat gained by the paraffin: $m \\cdot c_w \\cdot (80 - T_f) = m \\cdot c_p \\cdot (T_f - 20)$. Since $c_w = 2c_p$ and masses $m$ are equal, the equation simplifies to $2(80 - T_f) = T_f - 20$. Solving for $T_f$: $160 - 2T_f = T_f - 20 \\Rightarrow 180 = 3T_f \\Rightarrow T_f = 60\\,^{\\circ}\\text{C}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2015 HL TZ2 Q6 D.png"
+}

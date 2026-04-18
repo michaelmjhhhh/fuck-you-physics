@@ -1,0 +1,43 @@
+{
+  "id": "May_2018_HL_TZ2_Q13",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ2 Q13 B.png"
+  },
+  "question_number": 13,
+  "content_markdown": "A string stretched between two fixed points sounds its second harmonic at frequency $f$.\n\nWhich expression, where $n$ is an integer, gives the frequencies of harmonics that have a node at the centre of the string?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a standing wave on a string fixed at both ends, specifically the second harmonic with two loops and a central node.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{n+1}{2} f$"
+    },
+    {
+      "label": "B",
+      "text": "$nf$"
+    },
+    {
+      "label": "C",
+      "text": "$2nf$"
+    },
+    {
+      "label": "D",
+      "text": "$(2n+1)f$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "For a string fixed at both ends, the second harmonic (frequency $f$) has a node at the center. Any harmonic with a node at the center must have an even number of loops (2, 4, 6...). Since the fundamental frequency is $f_1 = f/2$, the frequencies of these even harmonics are $k \\cdot f_1$ where $k = 2, 4, 6...$. This can be written as $2n \\cdot (f/2) = nf$ for integer $n$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2018 HL TZ2 Q13 B.png"
+}

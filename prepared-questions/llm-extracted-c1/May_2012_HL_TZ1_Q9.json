@@ -1,0 +1,46 @@
+{
+  "id": "May_2012_HL_TZ1_Q9",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2012,
+    "month": "May",
+    "session_label": "May 2012",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2012 HL TZ1 Q9 A.png"
+  },
+  "question_number": 9,
+  "content_markdown": "An object is undergoing simple harmonic motion (SHM) about a fixed point P. The magnitude of its displacement from P is $x$. Which of the following is correct?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) with two columns: 'Magnitude of resultant force' and 'Direction of resultant force'.",
+    "labels_to_preserve": [
+      "P",
+      "x"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Magnitude of resultant force: proportional to $x$; Direction of resultant force: towards P"
+    },
+    {
+      "label": "B",
+      "text": "Magnitude of resultant force: inversely proportional to $x$; Direction of resultant force: towards P"
+    },
+    {
+      "label": "C",
+      "text": "Magnitude of resultant force: proportional to $x$; Direction of resultant force: away from P"
+    },
+    {
+      "label": "D",
+      "text": "Magnitude of resultant force: inversely proportional to $x$; Direction of resultant force: away from P"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "By definition, Simple Harmonic Motion (SHM) requires a restoring force that is directly proportional to the displacement from the equilibrium position ($F = -kx$). The negative sign indicates that the force is always directed towards the equilibrium point (P), acting to 'restore' the object to its center.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2012 HL TZ1 Q9 A.png"
+}

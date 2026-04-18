@@ -1,0 +1,46 @@
+{
+  "id": "May_2010_HL_TZ1_Q10",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ1 Q10 C.png"
+  },
+  "question_number": 10,
+  "content_markdown": "Water at a temperature of $0^{\\circ}\\text{C}$ is kept in a thermally insulated container. A lump of ice, also at $0^{\\circ}\\text{C}$, is placed in the water and completely submerged.\n\nWhich of the following is true in respect of both the net amount of ice that will melt and the change in temperature of the water?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A cross-section of a thermally insulated container containing water and a submerged lump of ice.",
+    "labels_to_preserve": [
+      "ice",
+      "water"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Net amount of ice that melts: all will melt; Change in temperature of water: no change"
+    },
+    {
+      "label": "B",
+      "text": "Net amount of ice that melts: some will melt; Change in temperature of water: decrease"
+    },
+    {
+      "label": "C",
+      "text": "Net amount of ice that melts: none will melt; Change in temperature of water: no change"
+    },
+    {
+      "label": "D",
+      "text": "Net amount of ice that melts: all will melt; Change in temperature of water: decrease"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Thermal energy transfer requires a temperature gradient. Since both the water and the ice are at $0^{\\circ}\\text{C}$, they are in thermal equilibrium. No net energy will be transferred from the water to the ice to provide the latent heat of fusion required for melting, and no energy will be lost by the water to cause a temperature change.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2010 HL TZ1 Q10 C.png"
+}

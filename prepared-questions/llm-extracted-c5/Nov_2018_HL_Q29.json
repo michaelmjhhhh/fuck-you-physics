@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2018_HL_Q29",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2018,
+    "month": "Nov",
+    "session_label": "Nov 2018",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2018 HL Q29 D.png"
+  },
+  "question_number": 29,
+  "content_markdown": "An ambulance siren emits a sound of frequency $1200\\text{ Hz}$. The speed of sound in air is $330\\text{ m s}^{-1}$. The ambulance moves towards a stationary observer at a constant speed of $40\\text{ m s}^{-1}$. What is the frequency heard by the observer?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1200 \\times 330}{370}\\text{ Hz}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1200 \\times 290}{330}\\text{ Hz}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{1200 \\times 370}{330}\\text{ Hz}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{1200 \\times 330}{290}\\text{ Hz}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "For a source moving towards a stationary observer, the observed frequency $f'$ is given by $f' = f \\left( \\frac{v}{v - v_s} \\right)$. Here, the source frequency $f = 1200\\text{ Hz}$, the speed of sound $v = 330\\text{ m s}^{-1}$, and the source speed $v_s = 40\\text{ m s}^{-1}$. Substituting these values gives $f' = 1200 \\left( \\frac{330}{330 - 40} \\right) = \\frac{1200 \\times 330}{290}\\text{ Hz}$.",
+  "source_image_path": "C5-Doppler-Effect/Nov 2018 HL Q29 D.png"
+}

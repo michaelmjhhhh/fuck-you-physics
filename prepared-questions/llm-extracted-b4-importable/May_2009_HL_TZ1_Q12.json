@@ -1,0 +1,46 @@
+{
+  "id": "May_2009_HL_TZ1_Q12",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Entropy and the second law of thermodynamics",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ1 Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "Which of the following correctly describes the entropy changes of the water molecules and the universe when a sample of water freezes?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the entropy changes for water molecules and the universe for four options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Water molecules",
+      "Universe"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Water molecules: increases; Universe: increases"
+    },
+    {
+      "label": "B",
+      "text": "Water molecules: decreases; Universe: increases"
+    },
+    {
+      "label": "C",
+      "text": "Water molecules: increases; Universe: decreases"
+    },
+    {
+      "label": "D",
+      "text": "Water molecules: decreases; Universe: decreases"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "When water freezes, it transitions from a liquid to a more ordered solid state, so the entropy of the water molecules decreases. However, freezing is an exothermic process that releases heat into the surroundings. According to the second law of thermodynamics, the total entropy of the universe must increase for any spontaneous process, meaning the increase in entropy of the surroundings outweighs the decrease in entropy of the water.",
+  "source_image_path": "B4-Thermodynamics/May 2009 HL TZ1 Q12 B.png"
+}

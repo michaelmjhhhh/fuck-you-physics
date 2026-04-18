@@ -1,0 +1,46 @@
+{
+  "id": "May_2017_HL_TZ1_Q17",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ1 Q17 D.png"
+  },
+  "question_number": 17,
+  "content_markdown": "Electrons, each with a charge $e$, move with speed $v$ along a metal wire. The electric current in the wire is $I$.\n\nPlane $P$ is perpendicular to the wire. How many electrons pass through plane $P$ in each second?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A horizontal metal wire with an electron moving to the right. A vertical dashed plane P intersects the wire perpendicularly.",
+    "labels_to_preserve": [
+      "e",
+      "plane P"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{e}{I}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{ve}{I}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{I}{ve}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{I}{e}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Current $I$ is defined as the rate of flow of charge, $I = \\frac{\\Delta Q}{\\Delta t}$. If $n$ electrons pass through the plane in time $\\Delta t$, the total charge is $\\Delta Q = n \\cdot e$. For 'each second', we set $\\Delta t = 1$. Thus, $I = n \\cdot e$, which rearranges to $n = \\frac{I}{e}$. The speed $v$ is a distractor here because the current already accounts for the rate of flow.",
+  "source_image_path": "B5-Current-and-Circuits/May 2017 HL TZ1 Q17 D.png"
+}

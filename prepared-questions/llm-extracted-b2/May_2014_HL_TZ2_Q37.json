@@ -1,0 +1,43 @@
+{
+  "id": "May_2014_HL_TZ2_Q37",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ2 Q37 A.png"
+  },
+  "question_number": 37,
+  "content_markdown": "The greenhouse effect can be explained by the fact that the infrared radiation emitted by the surface of Earth",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "is absorbed by the atmosphere and then re-radiated in all directions."
+    },
+    {
+      "label": "B",
+      "text": "raises the temperature of the upper atmosphere."
+    },
+    {
+      "label": "C",
+      "text": "is trapped by the upper atmosphere."
+    },
+    {
+      "label": "D",
+      "text": "is absorbed by the atmosphere and then all of it is re-radiated back to the surface of Earth."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The greenhouse effect occurs because greenhouse gases in the atmosphere absorb long-wavelength infrared radiation emitted from the Earth's surface. These molecules then re-emit that energy in all directions (isotropically), including back towards the surface, which leads to an increase in the average temperature of the Earth. Option D is incorrect because not 'all' of it goes back to the surface; some is radiated out to space.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2014 HL TZ2 Q37 A.png"
+}

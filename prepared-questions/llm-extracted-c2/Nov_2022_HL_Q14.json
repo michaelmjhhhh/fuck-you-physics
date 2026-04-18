@@ -1,0 +1,58 @@
+{
+  "id": "Nov_2022_HL_Q14",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2022,
+    "month": "Nov",
+    "session_label": "Nov 2022",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2022 HL Q14 A.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A sound wave travels through a gas at a speed of $270\\text{ m s}^{-1}$. The graph shows the variation of the displacement $s$ of the gas particles with distance $d$ from the source.\n\nWhat is the frequency of the wave?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A sinusoidal graph showing displacement s in mm on the y-axis against distance d in m on the x-axis. The wave starts at the origin, reaches a peak at 0.375 m, crosses the x-axis at 0.75 m, reaches a trough at 1.125 m, and completes one full cycle at 1.5 m.",
+    "labels_to_preserve": [
+      "s / mm",
+      "d / m",
+      "0.4",
+      "0.2",
+      "0",
+      "-0.2",
+      "-0.4",
+      "0.5",
+      "1.0",
+      "1.5",
+      "2.0",
+      "2.5",
+      "3.0",
+      "3.5"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "180 Hz"
+    },
+    {
+      "label": "B",
+      "text": "360 Hz"
+    },
+    {
+      "label": "C",
+      "text": "450 Hz"
+    },
+    {
+      "label": "D",
+      "text": "900 Hz"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "From the graph, we can determine the wavelength $\\lambda$ by looking at the distance for one complete cycle. The wave returns to the same phase at $d = 1.5\\text{ m}$, so $\\lambda = 1.5\\text{ m}$. Using the wave equation $v = f\\lambda$, we can solve for frequency: $f = \\frac{v}{\\lambda} = \\frac{270}{1.5} = 180\\text{ Hz}$.",
+  "source_image_path": "C2-Wave-Model/Nov 2022 HL Q14 A.png"
+}

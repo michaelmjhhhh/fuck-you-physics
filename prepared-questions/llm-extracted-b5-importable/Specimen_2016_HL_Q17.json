@@ -1,0 +1,47 @@
+{
+  "id": "Specimen_2016_HL_Q17",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Internal Resistance and Cells",
+  "paper": {
+    "year": 2016,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2016 HL Q17 A.png"
+  },
+  "question_number": 17,
+  "content_markdown": "Two identical cells, each of emf $1.6\\text{ V}$ and internal resistance $2.0\\text{ }\\Omega$, are connected in parallel with a $3.0\\text{ }\\Omega$ resistor.\n\nWhat is the current $I$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing two cells in parallel, each labeled 1.6V, 2.0 Ohms. They are connected to a 3.0 Ohm resistor in a single loop. An ammeter arrow indicates current I flowing through the main branch.",
+    "labels_to_preserve": [
+      "1.6V, 2.0 \\Omega",
+      "3.0 \\Omega",
+      "I"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.4 A"
+    },
+    {
+      "label": "B",
+      "text": "0.6 A"
+    },
+    {
+      "label": "C",
+      "text": "0.8 A"
+    },
+    {
+      "label": "D",
+      "text": "1.6 A"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "When two identical cells are in parallel, the total EMF remains the same as one cell ($1.6\\text{ V}$), but the total internal resistance is halved ($2.0\\text{ }\\Omega / 2 = 1.0\\text{ }\\Omega$). The total resistance in the circuit is the sum of the equivalent internal resistance and the external resistor ($1.0\\text{ }\\Omega + 3.0\\text{ }\\Omega = 4.0\\text{ }\\Omega$). Using Ohm's law, $I = V/R = 1.6\\text{ V} / 4.0\\text{ }\\Omega = 0.4\\text{ A}$.",
+  "source_image_path": "B5-Current-and-Circuits/Specimen Paper 2016 HL Q17 A.png"
+}

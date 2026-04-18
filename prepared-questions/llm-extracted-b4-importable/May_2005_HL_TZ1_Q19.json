@@ -1,0 +1,50 @@
+{
+  "id": "May_2005_HL_TZ1_Q19",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamics",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ1 Q19 B.png"
+  },
+  "question_number": 19,
+  "content_markdown": "The diagram shows the pressure / volume ($p/V$) diagram for one cycle PQRS of an engine.\n\nIn which sections of the cycle is work done **on** the engine?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A p-V diagram showing a thermodynamic cycle with four points: P, Q, R, and S. The cycle moves from P to Q (compression), Q to R (isobaric expansion), R to S (expansion), and S to P (isochoric cooling).",
+    "labels_to_preserve": [
+      "p",
+      "V",
+      "P",
+      "Q",
+      "R",
+      "S"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "SP only"
+    },
+    {
+      "label": "B",
+      "text": "PQ only"
+    },
+    {
+      "label": "C",
+      "text": "SP and PQ only"
+    },
+    {
+      "label": "D",
+      "text": "RS and SP only"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Work is done on a gas (the engine's working fluid) when its volume decreases ($W = -\\int p dV$). Looking at the $p/V$ diagram, the volume decreases only during the transition from P to Q. In the section S to P, the volume is constant, so no work is done. In sections Q to R and R to S, the volume increases, meaning work is done by the engine.",
+  "source_image_path": "B4-Thermodynamics/May 2005 HL TZ1 Q19 B.png"
+}

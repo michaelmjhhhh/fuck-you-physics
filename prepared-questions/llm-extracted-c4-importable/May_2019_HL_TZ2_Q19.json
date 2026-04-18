@@ -1,0 +1,46 @@
+{
+  "id": "May_2019_HL_TZ2_Q19",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ2 Q19 D.png"
+  },
+  "question_number": 19,
+  "content_markdown": "A student blows across the top of a cylinder that contains water. A first-harmonic standing sound wave is produced in the air of the cylinder. More water is then added to the cylinder. The student blows so that a first-harmonic standing wave is produced with a different frequency.\n\nWhat is the nature of the displacement in the air at the water surface and the change in frequency when the water is added?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two diagrams of a cylinder containing water. The first shows a lower water level, and the second shows a higher water level after more water is added.",
+    "labels_to_preserve": [
+      "cylinder",
+      "water surface"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Nature of displacement: antinode; Change in frequency: decrease"
+    },
+    {
+      "label": "B",
+      "text": "Nature of displacement: antinode; Change in frequency: increase"
+    },
+    {
+      "label": "C",
+      "text": "Nature of displacement: node; Change in frequency: decrease"
+    },
+    {
+      "label": "D",
+      "text": "Nature of displacement: node; Change in frequency: increase"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "At a fixed boundary like a water surface, air molecules cannot move, so there must be a displacement node. For a pipe closed at one end, the fundamental frequency is given by $f = \\frac{v}{4L}$. When water is added, the length $L$ of the air column decreases. Since frequency is inversely proportional to length, the frequency must increase.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2019 HL TZ2 Q19 D.png"
+}

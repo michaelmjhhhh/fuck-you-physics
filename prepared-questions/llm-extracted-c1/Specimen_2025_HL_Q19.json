@@ -1,0 +1,43 @@
+{
+  "id": "Specimen_2025_HL_Q19",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2025,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2025",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2025 HL Q19 C.png"
+  },
+  "question_number": 19,
+  "content_markdown": "A particle undergoes simple harmonic motion of period $T$. At time $t = 0$ the particle is at its equilibrium position.\n\nWhat is $t$ when the particle is at its greatest distance from the equilibrium position?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{T}{8}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{T}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{3T}{4}$"
+    },
+    {
+      "label": "D",
+      "text": "$T$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In simple harmonic motion starting from equilibrium ($x=0$ at $t=0$), the displacement follows a sine function $x(t) = A \\sin(\\omega t)$. The particle reaches its greatest distance (amplitude) at $t = \\frac{T}{4}$ and $t = \\frac{3T}{4}$. Among the given options, $\\frac{3T}{4}$ is the only one that corresponds to a point of maximum displacement.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Specimen Paper 2025 HL Q19 C.png"
+}

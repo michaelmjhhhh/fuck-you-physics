@@ -1,0 +1,46 @@
+{
+  "id": "May_2008_HL_TZ2_Q25",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2008,
+    "month": "May",
+    "session_label": "May 2008",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2008 HL TZ2 25 B.png"
+  },
+  "question_number": 25,
+  "content_markdown": "Sound of a constant frequency $f_0$ is being emitted by a sound source. An observer O travels in the direction shown at a speed of $0.1v$ where $v$ is the speed of sound.\n\nWhich of the following gives the relationship between $f_0$ and the frequency $f$ of observed sound?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "An observer O moving horizontally to the right with an arrow indicating velocity. Below and to the right of the observer's path is a stationary sound source represented by a black dot.",
+    "labels_to_preserve": [
+      "observer O",
+      "sound source"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$f = 1.1f_0$"
+    },
+    {
+      "label": "B",
+      "text": "$f_0 \u003c f \u003c 1.1f_0$"
+    },
+    {
+      "label": "C",
+      "text": "$f = 0.9f_0$"
+    },
+    {
+      "label": "D",
+      "text": "$f_0 \u003e f \u003e 0.9f_0$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The observer is moving towards the source, but not directly along the line connecting them. The Doppler shift depends on the component of the observer's velocity relative to the source. Since the observer is moving at an angle, the relative approach speed is less than $0.1v$. Therefore, the frequency shift will be positive (higher frequency) but less than the maximum shift of $1.1f_0$ that would occur if they were moving directly toward each other.",
+  "source_image_path": "C5-Doppler-Effect/May 2008 HL TZ2 25 B.png"
+}

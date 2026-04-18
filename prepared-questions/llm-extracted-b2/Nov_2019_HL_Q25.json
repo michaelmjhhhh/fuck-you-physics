@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2019_HL_Q25",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2019,
+    "month": "Nov",
+    "session_label": "Nov 2019",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2019 HL Q25 C.png"
+  },
+  "question_number": 25,
+  "content_markdown": "What is meant by the statement that the average albedo of the Moon is 0.1?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "10% of the radiation incident on the Moon is absorbed by its surface"
+    },
+    {
+      "label": "B",
+      "text": "10% of the radiation emitted by the Moon is absorbed by its atmosphere"
+    },
+    {
+      "label": "C",
+      "text": "10% of the radiation incident on the Moon is reflected by its surface"
+    },
+    {
+      "label": "D",
+      "text": "10% of the radiation emitted by the Moon is at infrared wavelengths"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Albedo is defined as the ratio of the total scattered (reflected) power to the total incident power. Therefore, an albedo of 0.1 means that 10% of the incoming radiation is reflected back into space, while the remaining 90% is absorbed.",
+  "source_image_path": "B2-Greenhouse-Effect/Nov 2019 HL Q25 C.png"
+}

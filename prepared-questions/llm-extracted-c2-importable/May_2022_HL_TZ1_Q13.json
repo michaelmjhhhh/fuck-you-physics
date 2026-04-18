@@ -1,0 +1,53 @@
+{
+  "id": "May_2022_HL_TZ1_Q13",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ1 Q13 C.png"
+  },
+  "question_number": 13,
+  "content_markdown": "A wave of period $10\\text{ ms}$ travels through a medium. The graph shows the variation of particle displacement with distance for the wave.\n\nWhat is the average speed of a particle in the medium during one cycle?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A displacement-distance graph for a wave. The y-axis is displacement in cm, ranging from -5.0 to 5.0. The x-axis is distance in cm, ranging from 0 to 25.0. The wave starts at a peak of 4.0 cm at distance 0, crosses zero at 5.0, reaches a trough of -4.0 cm at 10.0, crosses zero at 15.0, and reaches a peak of 4.0 cm at 20.0.",
+    "labels_to_preserve": [
+      "displacement / cm",
+      "distance / cm",
+      "5.0",
+      "10.0",
+      "15.0",
+      "20.0",
+      "25.0",
+      "4.0",
+      "-4.0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$4.0\\text{ m s}^{-1}$"
+    },
+    {
+      "label": "B",
+      "text": "$8.0\\text{ m s}^{-1}$"
+    },
+    {
+      "label": "C",
+      "text": "$16\\text{ m s}^{-1}$"
+    },
+    {
+      "label": "D",
+      "text": "$20\\text{ m s}^{-1}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "To find the average speed of a particle, we need the total distance it travels in one cycle divided by the period. From the graph, the amplitude $A$ is $4.0\\text{ cm}$. In one full cycle (one period $T$), a particle moves from equilibrium to maximum positive displacement, back to equilibrium, to maximum negative displacement, and back to equilibrium. This is a total distance of $4A = 4 \\times 4.0\\text{ cm} = 16.0\\text{ cm} = 0.16\\text{ m}$. The period $T$ is $10\\text{ ms} = 0.01\\text{ s}$. Therefore, average speed $v = \\frac{\\text{distance}}{\\text{time}} = \\frac{0.16\\text{ m}}{0.01\\text{ s}} = 16\\text{ m s}^{-1}$.",
+  "source_image_path": "C2-Wave-Model/May 2022 HL TZ1 Q13 C.png"
+}

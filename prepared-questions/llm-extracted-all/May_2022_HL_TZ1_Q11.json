@@ -1,0 +1,51 @@
+{
+  "id": "May_2022_HL_TZ1_Q11",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2022,
+    "month": "May",
+    "session_label": "May 2022",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2022 HL TZ1 Q11 C.png"
+  },
+  "question_number": 11,
+  "content_markdown": "Two blocks, X and Y, are placed in contact with each other. Data for the blocks are provided.\n\n| | Block X | Block Y |\n| :--- | :---: | :---: |\n| Initial temperature / $^\\circ\\text{C}$ | 20 | 80 |\n| Final temperature / $^\\circ\\text{C}$ | 60 | 60 |\n| Specific heat capacity | $2c$ | $c$ |\n\nX has a mass $m$. What is the mass of Y?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table containing thermal data for two blocks X and Y, including initial temperature, final temperature, and specific heat capacity.",
+    "labels_to_preserve": [
+      "Block X",
+      "Block Y",
+      "Initial temperature / °C",
+      "Final temperature / °C",
+      "Specific heat capacity",
+      "2c",
+      "c"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{m}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "$m$"
+    },
+    {
+      "label": "C",
+      "text": "$4m$"
+    },
+    {
+      "label": "D",
+      "text": "$6m$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Energy lost by Y must equal energy gained by X ($Q_X = Q_Y$). Using $Q = mc\\Delta T$: For block X, $Q_X = m \\cdot (2c) \\cdot (60 - 20) = m \\cdot 2c \\cdot 40 = 80mc$. For block Y, $Q_Y = m_Y \\cdot c \\cdot (80 - 60) = m_Y \\cdot c \\cdot 20 = 20m_Yc$. Setting them equal: $80mc = 20m_Yc$, which simplifies to $m_Y = 4m$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2022 HL TZ1 Q11 C.png"
+}

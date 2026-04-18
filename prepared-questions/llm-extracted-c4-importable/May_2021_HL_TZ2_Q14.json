@@ -1,0 +1,46 @@
+{
+  "id": "May_2021_HL_TZ2_Q14",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ2 Q14 A.png"
+  },
+  "question_number": 14,
+  "content_markdown": "The frequency of the first harmonic in a pipe is measured. An adjustment is then made which causes the speed of sound in the pipe to increase. What is true for the frequency and the wavelength of the first harmonic when the speed of sound has increased?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the possible changes in Frequency and Wavelength for options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Frequency",
+      "Wavelength"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Frequency: increase; Wavelength: unchanged"
+    },
+    {
+      "label": "B",
+      "text": "Frequency: unchanged; Wavelength: increase"
+    },
+    {
+      "label": "C",
+      "text": "Frequency: increase; Wavelength: increase"
+    },
+    {
+      "label": "D",
+      "text": "Frequency: unchanged; Wavelength: unchanged"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The wavelength $\\lambda$ of the first harmonic in a pipe is determined solely by the physical length of the pipe (e.g., $\\lambda = 2L$ for an open pipe or $\\lambda = 4L$ for a closed pipe). Since the pipe length hasn't changed, the wavelength remains unchanged. However, the wave speed $v$ is related to frequency $f$ and wavelength by $v = f\\lambda$. If $v$ increases and $\\lambda$ is constant, the frequency $f$ must increase.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2021 HL TZ2 Q14 A.png"
+}

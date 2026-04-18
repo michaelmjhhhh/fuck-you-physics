@@ -1,0 +1,43 @@
+{
+  "id": "May_2008_HL_TZ2_Q19",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Entropy and the second law of thermodynamics",
+  "paper": {
+    "year": 2008,
+    "month": "May",
+    "session_label": "May 2008",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2008 HL TZ2 19 C.png"
+  },
+  "question_number": 19,
+  "content_markdown": "For any natural process, the second law of thermodynamics states that the total entropy of the universe",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "always decreases."
+    },
+    {
+      "label": "B",
+      "text": "usually decreases but may increase."
+    },
+    {
+      "label": "C",
+      "text": "always increases."
+    },
+    {
+      "label": "D",
+      "text": "usually increases but may decrease."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The second law of thermodynamics is a fundamental principle stating that in any spontaneous or 'natural' process, the total entropy of an isolated system (like the universe) must increase over time. While local entropy can decrease (like water freezing), it always comes at the cost of a larger increase in entropy elsewhere in the surroundings.",
+  "source_image_path": "B4-Thermodynamics/May 2008 HL TZ2 19 C.png"
+}

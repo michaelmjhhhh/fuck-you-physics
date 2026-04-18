@@ -1,0 +1,48 @@
+{
+  "id": "May_2001_HL_Q22",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "B.4 Thermodynamics",
+  "paper": {
+    "year": 2001,
+    "month": "May",
+    "session_label": "May 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2001 HL Q22 B.png"
+  },
+  "question_number": 22,
+  "content_markdown": "The $P$-$V$ diagram shows two isotherms for a fixed mass of ideal gas, at temperatures $T_X$ and $T_Y$. Which **one** of the following is correct?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A pressure-volume (P-V) graph showing two hyperbolic curves representing isotherms. The upper curve is labeled T_Y and the lower curve is labeled T_X.",
+    "labels_to_preserve": [
+      "P",
+      "V",
+      "T_X",
+      "T_Y"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$T_X \u003e T_Y$"
+    },
+    {
+      "label": "B",
+      "text": "$T_X \u003c T_Y$"
+    },
+    {
+      "label": "C",
+      "text": "$T_X = T_Y$"
+    },
+    {
+      "label": "D",
+      "text": "Temperatures cannot be compared from a $P$-$V$ diagram alone."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "According to the ideal gas law $PV = nRT$, for a fixed amount of gas, the product $PV$ is directly proportional to the absolute temperature $T$. On a $P$-$V$ diagram, isotherms further from the origin represent higher values of $PV$ and thus higher temperatures. Since the curve for $T_Y$ is consistently above and to the right of the curve for $T_X$, it follows that $T_Y \u003e T_X$.",
+  "source_image_path": "B4-Thermodynamics/May 2001 HL Q22 B.png"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "Nov_2004_HL_Q20",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic cycles",
+  "paper": {
+    "year": 2004,
+    "month": "Nov",
+    "session_label": "Nov 2004",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2004 HL Q20 B.png"
+  },
+  "question_number": 20,
+  "content_markdown": "The graph below shows the variation with volume $V$ of the pressure $p$ of a gas during one cycle of an engine.\n\nDuring which operations, PQ, QR, RS and SP does the gas do external work?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A pressure-volume (p-V) diagram showing a thermodynamic cycle with four stages: PQ (isochoric compression/pressure increase), QR (isochoric pressure increase), RS (expansion), and SP (isochoric pressure decrease). Note: Based on the arrows, PQ is a compression curve, QR is an isochoric pressure increase, RS is an expansion curve, and SP is an isochoric pressure decrease.",
+    "labels_to_preserve": [
+      "p",
+      "V",
+      "P",
+      "Q",
+      "R",
+      "S"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "PQ only"
+    },
+    {
+      "label": "B",
+      "text": "RS only"
+    },
+    {
+      "label": "C",
+      "text": "QR and RS only"
+    },
+    {
+      "label": "D",
+      "text": "PQ and RS only"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In thermodynamics, a gas does external work when it expands (volume increases). Looking at the p-V diagram, work $W = \\int p \\, dV$. For the gas to do work on the surroundings, the change in volume $\\Delta V$ must be positive. In the cycle shown, the process RS involves an increase in volume (moving to the right on the V-axis), whereas PQ involves a decrease in volume (work is done on the gas), and QR/SP are isochoric (no work done).",
+  "source_image_path": "B4-Thermodynamics/Nov 2004 HL Q20 B.png"
+}

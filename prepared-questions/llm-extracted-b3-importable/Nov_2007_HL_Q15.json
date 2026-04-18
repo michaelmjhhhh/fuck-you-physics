@@ -1,0 +1,49 @@
+{
+  "id": "Nov_2007_HL_Q15",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2007,
+    "month": "Nov",
+    "session_label": "Nov 2007",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2007 HL Q15 C.png"
+  },
+  "question_number": 15,
+  "content_markdown": "An ideal gas is kept in a container of fixed volume at a temperature of $30\\,^{\\circ}\\text{C}$ and a pressure of $6.0\\,\\text{atm}$. The gas is heated at constant volume to a temperature of $330\\,^{\\circ}\\text{C}$.\n\nThe new pressure of the gas is about",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Two boxes representing a gas container before and after heating. The first box shows pressure 6.0 atm and temperature 30 degrees Celsius. An arrow points to the second box which shows 'new pressure?' and temperature 330 degrees Celsius.",
+    "labels_to_preserve": [
+      "pressure 6.0 atm",
+      "temperature 30 °C",
+      "gas",
+      "new pressure?",
+      "temperature 330 °C"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$0.60\\,\\text{atm}$"
+    },
+    {
+      "label": "B",
+      "text": "$3.0\\,\\text{atm}$"
+    },
+    {
+      "label": "C",
+      "text": "$12\\,\\text{atm}$"
+    },
+    {
+      "label": "D",
+      "text": "$66\\,\\text{atm}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "For an ideal gas at constant volume, pressure is directly proportional to absolute temperature ($P \\propto T$). First, convert temperatures to Kelvin: $T_1 = 30 + 273 = 303\\,\\text{K}$ and $T_2 = 330 + 273 = 603\\,\\text{K}$. Since the absolute temperature roughly doubles ($603/303 \\approx 2$), the pressure must also roughly double from $6.0\\,\\text{atm}$ to $12\\,\\text{atm}$.",
+  "source_image_path": "B3-Gas-Laws/Nov 2007 HL Q15 C.png"
+}

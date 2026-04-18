@@ -1,0 +1,43 @@
+{
+  "id": "May_2017_HL_TZ2_Q29",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ2 Q29 D.png"
+  },
+  "question_number": 29,
+  "content_markdown": "A train travelling in a straight line emits a sound of constant frequency $f$. An observer at rest very close to the path of the train detects a sound of continuously decreasing frequency. The train is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "approaching the observer at constant speed."
+    },
+    {
+      "label": "B",
+      "text": "approaching the observer at increasing speed."
+    },
+    {
+      "label": "C",
+      "text": "moving away from the observer at constant speed."
+    },
+    {
+      "label": "D",
+      "text": "moving away from the observer at increasing speed."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The Doppler effect formula for a moving source and stationary observer is $f' = f \\left( \\frac{v}{v \\pm v_s} \\right)$. For the observed frequency $f'$ to be continuously decreasing, the denominator must be continuously increasing. If the train is moving away, we use the plus sign ($v + v_s$). As the speed $v_s$ of the train increases, the denominator increases, causing the observed frequency $f'$ to decrease continuously.",
+  "source_image_path": "C5-Doppler-Effect/May 2017 HL TZ2 Q29 D.png"
+}

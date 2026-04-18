@@ -1,0 +1,43 @@
+{
+  "id": "May_2015_HL_TZ1_Q18",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Resistance and Resistivity",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ1 Q18 A.png"
+  },
+  "question_number": 18,
+  "content_markdown": "A wire of uniform circular cross-section is replaced in an electrical circuit. The new wire has the same length and same resistance but half the diameter of the old wire.\n\nWhat is the ratio $\\frac{\\text{resistivity of the new wire}}{\\text{resistivity of the old wire}}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{2}{1}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{4}{1}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Resistance is given by $R = \\rho \\frac{L}{A}$. Since the cross-section is circular, $A = \\pi (\\frac{d}{2})^2$, so $R = \\rho \\frac{4L}{\\pi d^2}$. Rearranging for resistivity, $\\rho = \\frac{R \\pi d^2}{4L}$. If $R$ and $L$ are constant, then $\\rho \\propto d^2$. If the diameter $d$ is halved, the resistivity must be $(\\frac{1}{2})^2 = \\frac{1}{4}$ of the original value to maintain the same resistance.",
+  "source_image_path": "B5-Current-and-Circuits/May 2015 HL TZ1 Q18 A.png"
+}

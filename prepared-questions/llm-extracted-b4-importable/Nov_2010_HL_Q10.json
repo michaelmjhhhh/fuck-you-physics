@@ -1,0 +1,50 @@
+{
+  "id": "Nov_2010_HL_Q10",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic processes",
+  "paper": {
+    "year": 2010,
+    "month": "Nov",
+    "session_label": "Nov 2010",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2010 HL Q10 D.png"
+  },
+  "question_number": 10,
+  "content_markdown": "An ideal gas expands isothermally from a state X to a new state of volume $V$. The work done by the gas is $W$. Which of the following is correct for an adiabatic expansion of the gas from state X to a new state of volume $V$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) with columns for 'Change in internal energy' and 'Work done'.",
+    "labels_to_preserve": [
+      "Change in internal energy",
+      "Work done",
+      "\\Delta U \u003e 0",
+      "\\Delta U \u003c 0",
+      "greater than W",
+      "less than W"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Change in internal energy: $\\Delta U \u003e 0$; Work done: greater than $W$"
+    },
+    {
+      "label": "B",
+      "text": "Change in internal energy: $\\Delta U \u003c 0$; Work done: greater than $W$"
+    },
+    {
+      "label": "C",
+      "text": "Change in internal energy: $\\Delta U \u003e 0$; Work done: less than $W$"
+    },
+    {
+      "label": "D",
+      "text": "Change in internal energy: $\\Delta U \u003c 0$; Work done: less than $W$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In an adiabatic expansion, the gas does work at the expense of its internal energy ($Q=0$, so $\\Delta U = -W_{by}$). Since the gas expands, work is positive, meaning $\\Delta U$ must be negative ($\\Delta U \u003c 0$). Furthermore, on a $P-V$ diagram, an adiabatic curve is steeper than an isothermal curve. Starting from the same point X and expanding to the same final volume $V$, the pressure for the adiabatic process will always be lower than for the isothermal process. Since work is the area under the $P-V$ curve, the adiabatic work done will be less than the isothermal work $W$.",
+  "source_image_path": "B4-Thermodynamics/Nov 2010 HL Q10 D.png"
+}

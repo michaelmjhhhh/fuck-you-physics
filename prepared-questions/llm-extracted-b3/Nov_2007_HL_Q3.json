@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2007_HL_Q3",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2007,
+    "month": "Nov",
+    "session_label": "Nov 2007",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2007 HL Q3 B.png"
+  },
+  "question_number": 3,
+  "content_markdown": "The molar mass of water is $18\\text{ g}$. The approximate number of water molecules in a glass of water is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$10^{22}$"
+    },
+    {
+      "label": "B",
+      "text": "$10^{25}$"
+    },
+    {
+      "label": "C",
+      "text": "$10^{28}$"
+    },
+    {
+      "label": "D",
+      "text": "$10^{31}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "To estimate this, consider a standard glass of water holds about $250\\text{ ml}$, which is approximately $250\\text{ g}$ of water. Since the molar mass is $18\\text{ g/mol}$, the number of moles is roughly $250 / 18 \\approx 14\\text{ moles}$. Multiplying by Avogadro's constant ($6 \\times 10^{23}\\text{ molecules/mol}$) gives $14 \\times 6 \\times 10^{23} \\approx 8.4 \\times 10^{24}$, which is closest to the order of magnitude $10^{25}$.",
+  "source_image_path": "B3-Gas-Laws/Nov 2007 HL Q3 B.png"
+}

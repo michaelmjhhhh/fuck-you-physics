@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2011_HL_Q16",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2011,
+    "month": "Nov",
+    "session_label": "Nov 2011",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2011 HL Q16 A.png"
+  },
+  "question_number": 16,
+  "content_markdown": "A fire engine with its siren sounding approaches and passes a stationary observer. The frequency of the sound emitted by the siren is $f_s$. The frequency of the sound measured by the observer is $f_o$. Which of the following describes the relationship between $f_o$ and $f_s$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the relationship between observed frequency and source frequency for a fire engine approaching and moving away from an observer.",
+    "labels_to_preserve": [
+      "Fire engine approaching observer",
+      "Fire engine moving away from observer"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Approaching: $f_o \u003e f_s$; Moving away: $f_o \u003c f_s$"
+    },
+    {
+      "label": "B",
+      "text": "Approaching: $f_o \u003c f_s$; Moving away: $f_o \u003c f_s$"
+    },
+    {
+      "label": "C",
+      "text": "Approaching: $f_o \u003e f_s$; Moving away: $f_o \u003e f_s$"
+    },
+    {
+      "label": "D",
+      "text": "Approaching: $f_o \u003c f_s$; Moving away: $f_o \u003e f_s$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The Doppler effect states that when a source moves toward an observer, the wavefronts are compressed, leading to a higher observed frequency ($f_o \u003e f_s$). Conversely, when the source moves away, the wavefronts are stretched out, leading to a lower observed frequency ($f_o \u003c f_s$).",
+  "source_image_path": "C5-Doppler-Effect/Nov 2011 HL Q16 A.png"
+}

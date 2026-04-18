@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2011_HL_Q18",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2011,
+    "month": "Nov",
+    "session_label": "Nov 2011",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2011 HL Q18 A.png"
+  },
+  "question_number": 18,
+  "content_markdown": "The equation for the velocity of an object performing simple harmonic motion is $v = v_0 \\sin \\omega t$. Which of the following is a correct alternative form of the equation?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the question.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$v = v_0 \\sin \\left( \\frac{2\\pi}{T} \\right) t$"
+    },
+    {
+      "label": "B",
+      "text": "$v = v_0 \\sin \\left( \\frac{t}{T} \\right)$"
+    },
+    {
+      "label": "C",
+      "text": "$v = v_0 \\sin 2\\pi Tt$"
+    },
+    {
+      "label": "D",
+      "text": "$v = v_0 \\sin \\left( \\frac{T}{2\\pi} \\right) t$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "In simple harmonic motion, the angular frequency $\\omega$ is related to the time period $T$ by the relationship $\\omega = \\frac{2\\pi}{T}$. Substituting this into the original equation $v = v_0 \\sin \\omega t$ gives $v = v_0 \\sin \\left( \\frac{2\\pi}{T} \\right) t$.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/Nov 2011 HL Q18 A.png"
+}

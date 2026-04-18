@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2009_HL_Q11",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2009,
+    "month": "Nov",
+    "session_label": "Nov 2009",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2009 HL Q11 A.png"
+  },
+  "question_number": 11,
+  "content_markdown": "Tanya heats $100\\text{ g}$ of a liquid with an electric heater which has a constant power output of $60\\text{ W}$. After $100\\text{ s}$ the rise in temperature is $40\\text{ K}$. The specific heat capacity of the liquid in $\\text{J\\,kg}^{-1}\\text{K}^{-1}$ is calculated from which of the following?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{60 \\times 100}{0.1 \\times 40}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{60 \\times 0.1}{40}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{0.1 \\times 40}{60}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{60}{40}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "To find the specific heat capacity $c$, we use the formula $Q = mc\\Delta T$, where $Q$ is the energy supplied. Since energy is power multiplied by time ($Q = P \\times t$), we have $P \\times t = mc\\Delta T$. Rearranging for $c$ gives $c = \\frac{P \\times t}{m \\times \\Delta T}$. Substituting the values (converting $100\\text{ g}$ to $0.1\\text{ kg}$), we get $c = \\frac{60 \\times 100}{0.1 \\times 40}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2009 HL Q11 A.png"
+}

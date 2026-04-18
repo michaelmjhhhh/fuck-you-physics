@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ1_Q12",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ1 Q12 A.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A gas is contained in a cylinder by a piston.\n\nThe gas is compressed rapidly by moving the piston in the direction shown. The best explanation for the resulting increase in temperature of the gas is that the molecules of the gas gain kinetic energy",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A horizontal cylinder containing a gas, with a piston being pushed inward to the left by an external force indicated by an arrow.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "from the moving piston."
+    },
+    {
+      "label": "B",
+      "text": "by colliding more frequently with each other."
+    },
+    {
+      "label": "C",
+      "text": "by being pushed closer together."
+    },
+    {
+      "label": "D",
+      "text": "by colliding more frequently with the walls of the cylinder."
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "When a gas molecule collides with a moving piston, it rebounds with a higher speed than it had before the collision (similar to a ball hitting a moving bat). This increase in speed means an increase in kinetic energy, which macroscopically manifests as an increase in temperature. While collision frequency increases, it is the work done by the piston on the molecules that directly increases their individual kinetic energies.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2010 HL TZ1 Q12 A.png"
+}

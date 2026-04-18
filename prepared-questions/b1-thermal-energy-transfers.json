@@ -1,0 +1,4680 @@
+[
+  {
+    "id": "May_2000_HL_Q11",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2000,
+      "month": "May",
+      "session_label": "May 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2000 HL Q11 C.png"
+    },
+    "question_number": 11,
+    "content_markdown": "The temperature of an ideal gas is a measure of the gas molecules'",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "average velocity."
+      },
+      {
+        "label": "B",
+        "text": "maximum velocity."
+      },
+      {
+        "label": "C",
+        "text": "average kinetic energy."
+      },
+      {
+        "label": "D",
+        "text": "total kinetic energy."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "According to the kinetic theory of gases, the absolute temperature $T$ of an ideal gas is directly proportional to the average random kinetic energy of its molecules, expressed by the relation $\\bar{E}_k = \\frac{3}{2}k_B T$. It is not a measure of velocity (which is a vector and averages to zero) or total energy (which depends on the number of moles).",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2000 HL Q11 C.png"
+  },
+  {
+    "id": "May_2000_HL_Q12",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2000,
+      "month": "May",
+      "session_label": "May 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2000 HL Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A vacuum flask (or Dewar flask) is an insulated container useful for storing hot or cold liquids (coffee, tea, liquid nitrogen, *etc.*). In its construction a vacuum is used to minimise energy transfer with the environment.\n\nThe vacuum reduces",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A cross-section diagram of a double-walled flask with a narrow opening at the top. An arrow points to the space between the inner and outer walls.",
+      "labels_to_preserve": [
+        "vacuum between walls"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "radiation, convection and conduction losses."
+      },
+      {
+        "label": "B",
+        "text": "convection and conduction losses."
+      },
+      {
+        "label": "C",
+        "text": "convection losses only."
+      },
+      {
+        "label": "D",
+        "text": "radiation losses only."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Conduction and convection both require a medium (matter) to transfer thermal energy. Conduction relies on particle-to-particle contact, and convection relies on the bulk movement of fluids. By removing the air to create a vacuum, these two pathways are effectively eliminated. Radiation, however, consists of electromagnetic waves and can travel through a vacuum, so it is not reduced by the vacuum itself (it is usually reduced by silvering the walls).",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2000 HL Q12 B.png"
+  },
+  {
+    "id": "May_2000_HL_Q13",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2000,
+      "month": "May",
+      "session_label": "May 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2000 HL Q13 C.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A small object of mass $m$ at $100\\text{ }^\\circ\\text{C}$ is placed into an equal mass of water at $0\\text{ }^\\circ\\text{C}$ in a calorimeter. The specific heat capacity of the object is half that of the water. Assuming there are no energy transfers to the environment or to the calorimeter, the final equilibrium temperature of the object plus water will be",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$67\\text{ }^\\circ\\text{C}$."
+      },
+      {
+        "label": "B",
+        "text": "$50\\text{ }^\\circ\\text{C}$."
+      },
+      {
+        "label": "C",
+        "text": "$33\\text{ }^\\circ\\text{C}$."
+      },
+      {
+        "label": "D",
+        "text": "$25\\text{ }^\\circ\\text{C}$."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "This is a calorimetry problem where energy lost by the hot object equals energy gained by the cold water ($Q_{lost} = Q_{gain}$). Since $m_1 = m_2$ and $c_{object} = 0.5 c_{water}$, the equation becomes $m(0.5c)(100 - T) = m(c)(T - 0)$. Simplifying gives $0.5(100 - T) = T$, which leads to $50 - 0.5T = T$, then $50 = 1.5T$, and finally $T = 33.3\\text{ }^\\circ\\text{C}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2000 HL Q13 C.png"
+  },
+  {
+    "id": "May_2001_HL_Q23",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2001,
+      "month": "May",
+      "session_label": "May 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2001 HL Q23 C.png"
+    },
+    "question_number": 23,
+    "content_markdown": "Let the average translational kinetic energy, at a temperature $T$, of helium (molar mass $4\\text{ g mol}^{-1}$) be $K$. The average translational kinetic energy, at the same temperature, of neon (molar mass $20\\text{ g mol}^{-1}$) would be",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$5K$"
+      },
+      {
+        "label": "B",
+        "text": "$\\sqrt{5}K$"
+      },
+      {
+        "label": "C",
+        "text": "$K$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{1}{5}K$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The average translational kinetic energy of an ideal gas molecule is given by the equation $E_k = \\frac{3}{2}k_B T$. This formula shows that the kinetic energy depends solely on the absolute temperature $T$ and is independent of the mass or identity of the gas molecule. Since both helium and neon are at the same temperature $T$, their average translational kinetic energies must be identical.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2001 HL Q23 C.png"
+  },
+  {
+    "id": "May_2001_HL_Q26",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2001,
+      "month": "May",
+      "session_label": "May 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2001 HL Q26 D.png"
+    },
+    "question_number": 26,
+    "content_markdown": "When two bodies are in contact, the **direction** of thermal energy transfer depends on their",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "surface areas."
+      },
+      {
+        "label": "B",
+        "text": "masses."
+      },
+      {
+        "label": "C",
+        "text": "specific heat capacities."
+      },
+      {
+        "label": "D",
+        "text": "temperatures."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Thermal energy naturally flows from a region of higher temperature to a region of lower temperature until thermal equilibrium is reached. While factors like surface area and mass affect the rate of transfer or the total energy stored, only the temperature difference determines the direction of the net flow.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2001 HL Q26 D.png"
+  },
+  {
+    "id": "May_2001_HL_Q32",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2001,
+      "month": "May",
+      "session_label": "May 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2001 HL Q32 A.png"
+    },
+    "question_number": 32,
+    "content_markdown": "A DC electric motor converts $75\\%$ of the input electrical energy to mechanical energy. The remaining $25\\%$ is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "dissipated as thermal energy."
+      },
+      {
+        "label": "B",
+        "text": "returned to the battery."
+      },
+      {
+        "label": "C",
+        "text": "used to maintain the potential difference of the battery."
+      },
+      {
+        "label": "D",
+        "text": "converted to electrical potential energy."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In any real-world energy conversion process, efficiency is less than 100% because some energy is always lost to the surroundings. In an electric motor, this 'lost' energy is primarily due to resistance in the coils (Joule heating) and friction in the bearings, both of which result in the dissipation of thermal energy.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2001 HL Q32 A.png"
+  },
+  {
+    "id": "May_2002_HL_Q15",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2002,
+      "month": "May",
+      "session_label": "May 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2002 HL Q15 C.png"
+    },
+    "question_number": 15,
+    "content_markdown": "Ice at $0\\,^{\\circ}\\text{C}$ is mixed with water at $0\\,^{\\circ}\\text{C}$. Assume there is no energy exchange with the surroundings. Which of the following is correct?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "All the ice will melt."
+      },
+      {
+        "label": "B",
+        "text": "All the water will freeze."
+      },
+      {
+        "label": "C",
+        "text": "No ice will melt and no water will freeze."
+      },
+      {
+        "label": "D",
+        "text": "What will happen depends on the relative proportions of ice and water."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Since both the ice and the water are at the same temperature ($0\\,^{\\circ}\\text{C}$), they are in thermal equilibrium. For ice to melt or water to freeze, there must be a transfer of thermal energy (latent heat). Because there is no temperature gradient between the two substances and no energy exchange with the surroundings, no net heat transfer occurs, and the phase of the substances remains unchanged.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2002 HL Q15 C.png"
+  },
+  {
+    "id": "May_2002_HL_Q18",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2002,
+      "month": "May",
+      "session_label": "May 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2002 HL Q18 B.png"
+    },
+    "question_number": 18,
+    "content_markdown": "A lead bullet is fired into an iron plate, where it deforms and stops. As a result, the temperature of the lead increases by an amount $\\Delta T$. For a lead bullet having **twice** the mass but the same speed of impact, what would be the best estimate of its temperature increase?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{2} \\Delta T$"
+      },
+      {
+        "label": "B",
+        "text": "$\\Delta T$"
+      },
+      {
+        "label": "C",
+        "text": "$\\sqrt{2} \\Delta T$"
+      },
+      {
+        "label": "D",
+        "text": "$2 \\Delta T$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The kinetic energy of the bullet is $E_k = \\frac{1}{2}mv^2$. Assuming all this energy is converted into internal energy of the bullet, we have $Q = mc\\Delta T$. Equating the two gives $\\frac{1}{2}mv^2 = mc\\Delta T$. Notice that the mass $m$ cancels out from both sides, leaving $\\Delta T = \\frac{v^2}{2c}$. Since the speed $v$ and the specific heat capacity $c$ remain the same, the temperature increase $\\Delta T$ is independent of the mass.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2002 HL Q18 B.png"
+  },
+  {
+    "id": "May_2003_HL_Q11",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2003,
+      "month": "May",
+      "session_label": "May 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2003 HL Q11 B.png"
+    },
+    "question_number": 11,
+    "content_markdown": "The specific latent heat of vaporization of a substance is the quantity of energy required to",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "raise the temperature of a unit mass of a substance by one degree centigrade."
+      },
+      {
+        "label": "B",
+        "text": "convert a unit mass of liquid to vapour at constant temperature and pressure."
+      },
+      {
+        "label": "C",
+        "text": "convert a unit mass of solid to vapour at constant temperature and pressure."
+      },
+      {
+        "label": "D",
+        "text": "convert a unit mass of liquid to vapour at a temperature of $100\\,^{\\circ}\\text{C}$ and a pressure of one atmosphere."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Specific latent heat of vaporization refers specifically to the phase change from liquid to gas (vapor). The term 'specific' implies a unit mass (usually 1 kg), and 'latent' indicates that the energy transfer occurs without a change in temperature. While option D mentions specific conditions, the general definition (Option B) applies to any substance at its boiling point, not just water at standard atmospheric pressure.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2003 HL Q11 B.png"
+  },
+  {
+    "id": "May_2003_HL_Q12",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2003,
+      "month": "May",
+      "session_label": "May 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2003 HL Q12 A.png"
+    },
+    "question_number": 12,
+    "content_markdown": "When a gas in a cylinder is compressed at constant temperature by a piston, the pressure of the gas increases. Consider the following three statements.\n\nI. The rate at which the molecules collide with the piston increases.\nII. The average speed of the molecules increases.\nIII. The molecules collide with each other more often.\n\nWhich statement(s) correctly explain the increase in pressure?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I only"
+      },
+      {
+        "label": "B",
+        "text": "II only"
+      },
+      {
+        "label": "C",
+        "text": "I and II only"
+      },
+      {
+        "label": "D",
+        "text": "I and III only"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Pressure is defined as the force per unit area exerted by gas molecules colliding with the walls of the container (the piston). Since the temperature is constant, the average kinetic energy and thus the average speed of the molecules (Statement II) remains unchanged. When the volume is reduced (compression), the number of molecules per unit volume increases, leading to a higher frequency of collisions with the piston (Statement I), which explains the pressure increase. While Statement III is true (collisions between molecules also increase), it is the collisions with the container walls that define pressure.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2003 HL Q12 A.png"
+  },
+  {
+    "id": "May_2004_HL_TZ1_Q16",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ1 Q16 B.png"
+    },
+    "question_number": 16,
+    "content_markdown": "The specific latent heat of fusion of a substance is defined as the amount of thermal energy required to change the phase of",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the substance at constant temperature."
+      },
+      {
+        "label": "B",
+        "text": "unit mass of the substance to liquid at constant temperature."
+      },
+      {
+        "label": "C",
+        "text": "unit mass of the substance at constant temperature."
+      },
+      {
+        "label": "D",
+        "text": "the substance to gas at constant temperature."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The term 'specific' in physics definitions usually implies 'per unit mass'. Latent heat refers to energy transferred during a phase change where the temperature remains constant. Fusion specifically refers to the transition between solid and liquid phases. Therefore, the definition must include both 'unit mass' and 'constant temperature'.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2004 HL TZ1 Q16 B.png"
+  },
+  {
+    "id": "May_2004_HL_TZ2_Q15",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ2 Q15 C.png"
+    },
+    "question_number": 15,
+    "content_markdown": "Some liquid is contained in a shallow dish that is open to the atmosphere. The rate of evaporation of the liquid does **not** depend on",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the temperature of the liquid."
+      },
+      {
+        "label": "B",
+        "text": "the temperature of the atmosphere."
+      },
+      {
+        "label": "C",
+        "text": "the depth of the liquid."
+      },
+      {
+        "label": "D",
+        "text": "the pressure of the atmosphere."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Evaporation is a surface phenomenon. The rate depends on the surface area, the temperature of the liquid (kinetic energy of particles), the humidity/temperature of the surrounding air, and the atmospheric pressure (which opposes the escape of molecules). However, the total depth of the liquid does not affect how many molecules escape from the surface per unit time.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2004 HL TZ2 Q15 C.png"
+  },
+  {
+    "id": "May_2005_HL_TZ1_Q16",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ1 Q16 C.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Three bodies X, Y and Z are at temperatures $\\theta_{\\text{X}}$, $\\theta_{\\text{Y}}$ and $\\theta_{\\text{Z}}$ respectively. Thermal energy passes freely from Y to X and also from Z to X, as illustrated below.\n\nThe direction of flow of thermal energy, if any, between Y and Z is unknown.\n\nWhat can be deduced about the temperatures $\\theta_{\\text{X}}$, $\\theta_{\\text{Y}}$ and $\\theta_{\\text{Z}}$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing three circles labeled X, Y, and Z. Arrows indicate the flow of thermal energy from Y to X and from Z to X. The temperatures are labeled next to each circle.",
+      "labels_to_preserve": [
+        "X",
+        "Y",
+        "Z",
+        "\\theta_{\\text{X}}",
+        "\\theta_{\\text{Y}}",
+        "\\theta_{\\text{Z}}"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\theta_{\\text{X}} = (\\theta_{\\text{Y}} + \\theta_{\\text{Z}})$"
+      },
+      {
+        "label": "B",
+        "text": "$\\theta_{\\text{Y}} = \\theta_{\\text{Z}}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\theta_{\\text{Y}} > \\theta_{\\text{X}}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\theta_{\\text{X}} > \\theta_{\\text{Z}}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Thermal energy naturally flows from a body at a higher temperature to a body at a lower temperature. Since energy flows from Y to X, it must be that $\\theta_{\\text{Y}} > \\theta_{\\text{X}}$. Similarly, since energy flows from Z to X, it must be that $\\theta_{\\text{Z}} > \\theta_{\\text{X}}$. Option C is the only statement that must be true based on these observations.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2005 HL TZ1 Q16 C.png"
+  },
+  {
+    "id": "May_2005_HL_TZ1_Q17",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ1 Q17 B.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A liquid is evaporating, causing the liquid to cool.\n\nThe temperature of the liquid decreases because",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the number of liquid molecules is decreasing."
+      },
+      {
+        "label": "B",
+        "text": "the mean kinetic energy of the liquid molecules is decreasing."
+      },
+      {
+        "label": "C",
+        "text": "the pressure above the liquid surface is increasing."
+      },
+      {
+        "label": "D",
+        "text": "the rate of evaporation is increasing."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Evaporation occurs when the most energetic molecules escape from the surface of a liquid. Since temperature is a measure of the average (mean) kinetic energy of the molecules remaining in the liquid, the departure of these high-energy molecules results in a lower average kinetic energy for the remaining liquid, thus decreasing its temperature.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2005 HL TZ1 Q17 B.png"
+  },
+  {
+    "id": "May_2005_HL_TZ2_Q14",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ2 Q14 D.png"
+    },
+    "question_number": 14,
+    "content_markdown": "The specific latent heat of vaporisation of a substance is defined as the amount of thermal energy required to",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "change a liquid to vapour at constant pressure."
+      },
+      {
+        "label": "B",
+        "text": "change a liquid to vapour at constant temperature."
+      },
+      {
+        "label": "C",
+        "text": "change unit mass of liquid to vapour at constant pressure."
+      },
+      {
+        "label": "D",
+        "text": "change unit mass of liquid to vapour at constant temperature."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The term 'specific' in physics definitions almost always refers to 'per unit mass'. Latent heat refers to energy transferred during a phase change, which occurs at a constant temperature. Therefore, the definition must include both 'unit mass' and 'constant temperature'.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2005 HL TZ2 Q14 D.png"
+  },
+  {
+    "id": "May_2006_HL_TZ1_Q15",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2006,
+      "month": "May",
+      "session_label": "May 2006",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2006 HL TZ1 Q15 D.png"
+    },
+    "question_number": 15,
+    "content_markdown": "The internal energy of a solid substance is equal to the",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "average kinetic energy of the molecules."
+      },
+      {
+        "label": "B",
+        "text": "total kinetic energy of the molecules."
+      },
+      {
+        "label": "C",
+        "text": "total potential energy of the molecules."
+      },
+      {
+        "label": "D",
+        "text": "total potential and total kinetic energy of the molecules."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In IB Physics, internal energy is defined as the sum of the random distribution of kinetic and potential energies of the particles (atoms or molecules) that make up a substance. While temperature is proportional to the average kinetic energy, the total internal energy must account for both the motion (kinetic) and the intermolecular forces (potential) of all particles.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2006 HL TZ1 Q15 D.png"
+  },
+  {
+    "id": "May_2006_HL_TZ1_Q16",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2006,
+      "month": "May",
+      "session_label": "May 2006",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2006 HL TZ1 Q16 B.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Which of the following correctly shows the changes, if any, in the potential energy and in the kinetic energy of the molecules of a solid as it melts?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table with two columns titled 'Potential energy' and 'Kinetic energy' corresponding to options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Potential energy",
+        "Kinetic energy"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Potential energy: Decreases; Kinetic energy: Increases"
+      },
+      {
+        "label": "B",
+        "text": "Potential energy: Increases; Kinetic energy: Stays the same"
+      },
+      {
+        "label": "C",
+        "text": "Potential energy: Stays the same; Kinetic energy: Decreases"
+      },
+      {
+        "label": "D",
+        "text": "Potential energy: Stays the same; Kinetic energy: Stays the same"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "During a phase change such as melting, the temperature remains constant, which means the average kinetic energy of the molecules does not change. However, energy is being supplied to break the intermolecular bonds, which increases the potential energy of the molecules.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2006 HL TZ1 Q16 B.png"
+  },
+  {
+    "id": "May_2006_HL_TZ2_Q16",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2006,
+      "month": "May",
+      "session_label": "May 2006",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2006 HL TZ2 Q16 D.png"
+    },
+    "question_number": 16,
+    "content_markdown": "The graph below shows the variation with temperature of the volume of a fixed mass of water.\n\nA thermometer is to be designed that measures temperatures in the range between $274\\text{ K}$ and $280\\text{ K}$.\n\nWhich **one** of the following is the main reason why the variation with temperature of the volume of the water is not suitable to use in the thermometer?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph showing volume in cm^3 on the y-axis versus temperature in K on the x-axis. The curve is parabolic, reaching a minimum volume at approximately 277 K.",
+      "labels_to_preserve": [
+        "volume / cm^3",
+        "temperature / K",
+        "2.0000",
+        "2.0001",
+        "2.0002",
+        "2.0003",
+        "2.0004",
+        "274",
+        "275",
+        "276",
+        "277",
+        "278",
+        "279",
+        "280",
+        "281"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Water is a colourless liquid."
+      },
+      {
+        "label": "B",
+        "text": "Water freezes at $273\\text{ K}$."
+      },
+      {
+        "label": "C",
+        "text": "The change in volume is too small over the temperature range."
+      },
+      {
+        "label": "D",
+        "text": "The volume has the same value at more than one temperature."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "A thermometric property must have a unique value for each temperature (it must be monotonic) to be useful. Because water reaches its maximum density (minimum volume) at approximately $4^\\circ\\text{C}$ ($277\\text{ K}$), the same volume corresponds to two different temperatures within the $274\\text{ K}$ to $280\\text{ K}$ range, making it impossible to distinguish between them based on volume alone.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2006 HL TZ2 Q16 D.png"
+  },
+  {
+    "id": "May_2006_HL_TZ2_Q17",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2006,
+      "month": "May",
+      "session_label": "May 2006",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2006 HL TZ2 Q17 B.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A lump of metal is initially at a temperature of $100\\,^{\\circ}\\text{C}$. The metal is heated so that its temperature rises by $\\theta$ degrees, as measured on the Celsius scale. The rise in temperature, as measured on the Kelvin scale is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\theta - 273$."
+      },
+      {
+        "label": "B",
+        "text": "$\\theta$."
+      },
+      {
+        "label": "C",
+        "text": "$\\theta + 273$."
+      },
+      {
+        "label": "D",
+        "text": "$\\theta + 373$."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The key concept here is the difference between absolute temperature and temperature change. While $T/\\text{K} = t/^{\\circ}\\text{C} + 273.15$, the size of one degree Celsius is exactly the same as the size of one Kelvin. Therefore, any change in temperature $\\Delta T$ has the same numerical value on both the Celsius and Kelvin scales.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2006 HL TZ2 Q17 B.png"
+  },
+  {
+    "id": "May_2006_HL_TZ2_Q18",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2006,
+      "month": "May",
+      "session_label": "May 2006",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2006 HL TZ2 Q18 B.png"
+    },
+    "question_number": 18,
+    "content_markdown": "A large mass $M$ of ice of specific latent heat $L$ is at its melting point ($0\\,^{\\circ}\\text{C}$). A small mass $m$ of water at $\\theta\\,^{\\circ}\\text{C}$ is poured on to the block of ice. The specific heat capacity of water is $S$. Which **one** of the following is a correct expression for the mass of ice melted?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{mL}{S\\theta}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{mS\\theta}{L}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{MS\\theta}{L}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{ML}{S\\theta}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The heat lost by the cooling water must equal the heat gained by the melting ice. The water of mass $m$ cools from $\\theta$ to $0\\,^{\\circ}\\text{C}$, releasing energy $Q = mS\\theta$. This energy is used to melt a mass $m_{ice}$ of ice at $0\\,^{\\circ}\\text{C}$, where $Q = m_{ice}L$. Equating the two gives $m_{ice}L = mS\\theta$, so $m_{ice} = \\frac{mS\\theta}{L}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2006 HL TZ2 Q18 B.png"
+  },
+  {
+    "id": "May_2007_HL_TZ1_Q17",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2007,
+      "month": "May",
+      "session_label": "May 2007",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2007 HL TZ1 Q17 A.png"
+    },
+    "question_number": 17,
+    "content_markdown": "Two objects X and Y are made of the same material. Object X is more massive than object Y. Both objects are at the same temperature.\n\nWhich of the following correctly compares the average kinetic energy and also the total energy of the molecules in the objects?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table comparing average kinetic energy and total energy of molecules for objects X and Y across four options A, B, C, and D.",
+      "labels_to_preserve": [
+        "average kinetic energy of the molecules in X and Y",
+        "total energy of the molecules in X and Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Average kinetic energy: same; Total energy: greater in X than in Y"
+      },
+      {
+        "label": "B",
+        "text": "Average kinetic energy: same; Total energy: less in X than in Y"
+      },
+      {
+        "label": "C",
+        "text": "Average kinetic energy: greater in X than in Y; Total energy: same"
+      },
+      {
+        "label": "D",
+        "text": "Average kinetic energy: less in X than in Y; Total energy: same"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Temperature is a measure of the average kinetic energy of the molecules in a substance. Since both objects are at the same temperature, their average kinetic energies must be the same. Total internal energy depends on both the average kinetic energy and the total number of molecules (mass). Since object X is more massive and made of the same material, it contains more molecules, and thus has a higher total energy.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2007 HL TZ1 Q17 A.png"
+  },
+  {
+    "id": "May_2007_HL_TZ1_Q18",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2007,
+      "month": "May",
+      "session_label": "May 2007",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2007 HL TZ1 Q18 C.png"
+    },
+    "question_number": 18,
+    "content_markdown": "An ideal gas is contained in a cylinder by a piston. The volume of the gas is decreased by moving the piston rapidly in the direction shown.\n\nThe average speed of the gas molecules is initially increased because the molecules",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a cylinder containing gas with a piston being pushed to the left. Two arrows indicate the direction of the piston's movement.",
+      "labels_to_preserve": [
+        "gas",
+        "piston moved rapidly in this direction"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "have a smaller volume in which to move."
+      },
+      {
+        "label": "B",
+        "text": "make more collisions in unit time with the cylinder walls and piston."
+      },
+      {
+        "label": "C",
+        "text": "have energy transferred to them as they collide with the moving piston."
+      },
+      {
+        "label": "D",
+        "text": "make more collisions with each other in unit time."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "When a molecule collides elastically with a piston moving towards it, the molecule rebounds with a higher speed relative to the laboratory frame (similar to a ball hitting a moving bat). This kinetic energy transfer from the macroscopic work done on the piston to the microscopic particles is what increases the internal energy and temperature of the gas during rapid compression.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2007 HL TZ1 Q18 C.png"
+  },
+  {
+    "id": "May_2007_HL_TZ2_Q19",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2007,
+      "month": "May",
+      "session_label": "May 2007",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2007 HL TZ2 19 A.png"
+    },
+    "question_number": 19,
+    "content_markdown": "A metal block of mass $M$ is heated. The graph shows the variation with thermal energy $H$ supplied to the block of its temperature rise $\\theta$.\n\nThe gradient of the straight-line graph is $n$. The specific heat capacity of the metal is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph with temperature rise theta on the y-axis and thermal energy H on the x-axis. A straight line passes through the origin with a gradient labeled n.",
+      "labels_to_preserve": [
+        "\\theta",
+        "H",
+        "n",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{Mn}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{n}$"
+      },
+      {
+        "label": "C",
+        "text": "$Mn$"
+      },
+      {
+        "label": "D",
+        "text": "$n$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The relationship between thermal energy $H$, mass $M$, specific heat capacity $c$, and temperature rise $\\theta$ is given by $H = Mc\\theta$. Rearranging for $\\theta$ gives $\\theta = \\frac{1}{Mc} H$. Since the graph plots $\\theta$ against $H$, the gradient $n$ is equal to $\\frac{1}{Mc}$. Solving for $c$ gives $c = \\frac{1}{Mn}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2007 HL TZ2 19 A.png"
+  },
+  {
+    "id": "May_2008_HL_TZ1_Q18",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2008,
+      "month": "May",
+      "session_label": "May 2008",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2008 HL TZ1 18 A.png"
+    },
+    "question_number": 18,
+    "content_markdown": "A hot liquid X has specific heat capacity $S_{\\text{H}}$. It is mixed with an equal mass of a cold liquid Y of specific heat capacity $S_{\\text{C}}$.\n\nThe best estimate of the ratio\n\n$$\\frac{\\text{temperature fall of liquid X}}{\\text{temperature rise of liquid Y}}$$\n\nis",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{S_{\\text{C}}}{S_{\\text{H}}}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{S_{\\text{H}}}{S_{\\text{C}}}$"
+      },
+      {
+        "label": "C",
+        "text": "$2\\frac{S_{\\text{C}}}{S_{\\text{H}}}$"
+      },
+      {
+        "label": "D",
+        "text": "$2\\frac{S_{\\text{H}}}{S_{\\text{C}}}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Assuming no energy is lost to the surroundings, the energy lost by liquid X equals the energy gained by liquid Y ($Q_{\\text{lost}} = Q_{\\text{gain}}$). Using the formula $Q = mc\\Delta T$, we have $m S_{\\text{H}} \\Delta T_{\\text{X}} = m S_{\\text{C}} \\Delta T_{\\text{Y}}$. Since the masses $m$ are equal, they cancel out, leaving $S_{\\text{H}} \\Delta T_{\\text{X}} = S_{\\text{C}} \\Delta T_{\\text{Y}}$. Rearranging for the ratio $\\frac{\\Delta T_{\\text{X}}}{\\Delta T_{\\text{Y}}}$ gives $\\frac{S_{\\text{C}}}{S_{\\text{H}}}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2008 HL TZ1 18 A.png"
+  },
+  {
+    "id": "May_2008_HL_TZ2_Q16",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2008,
+      "month": "May",
+      "session_label": "May 2008",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2008 HL TZ2 16 D.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Gas leaks slowly out of a cylinder of constant volume. The temperature of the gas in the cylinder does not change. Which of the following is constant for the gas molecules in the cylinder?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The number striking unit area of surface in unit time"
+      },
+      {
+        "label": "B",
+        "text": "The number of the collisions between molecules per unit time"
+      },
+      {
+        "label": "C",
+        "text": "The number per unit volume"
+      },
+      {
+        "label": "D",
+        "text": "The average speed"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In the kinetic model of an ideal gas, the average kinetic energy (and thus the average speed) of the molecules is directly proportional to the absolute temperature. Since the temperature remains constant, the average speed of the molecules remains constant. Options A, B, and C all depend on the number density of the gas, which decreases as gas leaks out of the constant volume cylinder.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2008 HL TZ2 16 D.png"
+  },
+  {
+    "id": "May_2008_HL_TZ2_Q18",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2008,
+      "month": "May",
+      "session_label": "May 2008",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2008 HL TZ2 18 C.png"
+    },
+    "question_number": 18,
+    "content_markdown": "A block of metal at a temperature of $90^{\\circ}\\text{C}$ is placed in a beaker of water at a temperature of $0^{\\circ}\\text{C}$. The mass of the metal block and the mass of the water are equal. The final temperature of the water and the metal block is $9^{\\circ}\\text{C}$.\n\nWhich of the following is the best estimate of the ratio\n\n$$\\frac{\\text{specific heat of water}}{\\text{specific heat of metal}}?$$",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{10}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{9}$"
+      },
+      {
+        "label": "C",
+        "text": "9"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Using the principle of conservation of energy, the heat lost by the metal equals the heat gained by the water: $m c_m \\Delta T_m = m c_w \\Delta T_w$. Since the masses are equal, they cancel out. The temperature change for the metal is $90 - 9 = 81^{\\circ}\\text{C}$, and for the water it is $9 - 0 = 9^{\\circ}\\text{C}$. Rearranging the equation to find the ratio $\\frac{c_w}{c_m} = \\frac{\\Delta T_m}{\\Delta T_w} = \\frac{81}{9} = 9$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2008 HL TZ2 18 C.png"
+  },
+  {
+    "id": "May_2009_HL_TZ1_Q10",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ1 Q10 B.png"
+    },
+    "question_number": 10,
+    "content_markdown": "In the kinetic model of an ideal gas, it is assumed that",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the forces between the molecules of the gas and the container are always zero."
+      },
+      {
+        "label": "B",
+        "text": "the intermolecular potential energy of the molecules of the gas is constant."
+      },
+      {
+        "label": "C",
+        "text": "the kinetic energy of a given molecule of the gas is constant."
+      },
+      {
+        "label": "D",
+        "text": "the momentum of a given molecule of the gas is constant."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In the kinetic theory of ideal gases, we assume there are no intermolecular forces between the particles (except during collisions). Since potential energy arises from these forces, the intermolecular potential energy is assumed to be zero (and thus constant) regardless of the separation between molecules. Option A is incorrect because molecules exert forces on the container during collisions to create pressure. Options C and D are incorrect because individual molecules change speed and direction (and thus KE and momentum) during collisions, even if the average values for the whole gas remain steady.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2009 HL TZ1 Q10 B.png"
+  },
+  {
+    "id": "May_2009_HL_TZ1_Q9",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ1 Q9 D.png"
+    },
+    "question_number": 9,
+    "content_markdown": "The ratio\n\n$$\\frac{\\text{thermal capacity of a sample of copper}}{\\text{specific heat capacity of copper}}$$",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present, only text and a mathematical fraction.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "does not have any unit."
+      },
+      {
+        "label": "B",
+        "text": "has unit $\\text{J kg}^{-1} \\text{ K}^{-1}$."
+      },
+      {
+        "label": "C",
+        "text": "has unit $\\text{J kg}^{-1}$."
+      },
+      {
+        "label": "D",
+        "text": "has unit kg."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Thermal capacity ($C$) is defined as $C = mc$, where $m$ is the mass and $c$ is the specific heat capacity. Therefore, the ratio of thermal capacity to specific heat capacity is $\\frac{C}{c} = \\frac{mc}{c} = m$. Since the result of the ratio is mass, the unit must be kilograms (kg).",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2009 HL TZ1 Q9 D.png"
+  },
+  {
+    "id": "May_2009_HL_TZ2_Q9",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ2 Q9 C.png"
+    },
+    "question_number": 9,
+    "content_markdown": "The temperature of an ideal gas is a measure of the molecules' average",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "velocity."
+      },
+      {
+        "label": "B",
+        "text": "momentum."
+      },
+      {
+        "label": "C",
+        "text": "kinetic energy."
+      },
+      {
+        "label": "D",
+        "text": "frequency of collisions."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "According to the kinetic theory of gases, the absolute temperature $T$ of an ideal gas is directly proportional to the average random translational kinetic energy of its molecules, expressed by the relation $\\bar{E}_k = \\frac{3}{2}k_B T$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2009 HL TZ2 Q9 C.png"
+  },
+  {
+    "id": "May_2010_HL_TZ1_Q10",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ1 Q10 C.png"
+    },
+    "question_number": 10,
+    "content_markdown": "Water at a temperature of $0^{\\circ}\\text{C}$ is kept in a thermally insulated container. A lump of ice, also at $0^{\\circ}\\text{C}$, is placed in the water and completely submerged.\n\nWhich of the following is true in respect of both the net amount of ice that will melt and the change in temperature of the water?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A cross-section of a thermally insulated container containing water and a submerged lump of ice.",
+      "labels_to_preserve": [
+        "ice",
+        "water"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Net amount of ice that melts: all will melt; Change in temperature of water: no change"
+      },
+      {
+        "label": "B",
+        "text": "Net amount of ice that melts: some will melt; Change in temperature of water: decrease"
+      },
+      {
+        "label": "C",
+        "text": "Net amount of ice that melts: none will melt; Change in temperature of water: no change"
+      },
+      {
+        "label": "D",
+        "text": "Net amount of ice that melts: all will melt; Change in temperature of water: decrease"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Thermal energy transfer requires a temperature gradient. Since both the water and the ice are at $0^{\\circ}\\text{C}$, they are in thermal equilibrium. No net energy will be transferred from the water to the ice to provide the latent heat of fusion required for melting, and no energy will be lost by the water to cause a temperature change.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2010 HL TZ1 Q10 C.png"
+  },
+  {
+    "id": "May_2010_HL_TZ1_Q11",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ1 Q11 B.png"
+    },
+    "question_number": 11,
+    "content_markdown": "The mole is defined as",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the question.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{12}$ the mass of an atom of the isotope carbon-12."
+      },
+      {
+        "label": "B",
+        "text": "the amount of a substance that contains as many elementary entities as the number of atoms in $12\\text{ g}$ of the isotope carbon-12."
+      },
+      {
+        "label": "C",
+        "text": "the mass of one atom of the isotope carbon-12."
+      },
+      {
+        "label": "D",
+        "text": "the amount of a substance that contains as many nuclei as the number of nuclei in $12\\text{ g}$ of the isotope carbon-12."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The mole is a fundamental SI unit for the amount of substance. Its definition is historically based on the number of atoms found in exactly $12\\text{ g}$ of carbon-12. Option A describes the unified atomic mass unit ($u$), not the mole. Option B correctly identifies that the mole refers to the 'amount of substance' and uses the standard reference of atoms in $12\\text{ g}$ of carbon-12.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2010 HL TZ1 Q11 B.png"
+  },
+  {
+    "id": "May_2010_HL_TZ1_Q12",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ1 Q12 A.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A gas is contained in a cylinder by a piston.\n\nThe gas is compressed rapidly by moving the piston in the direction shown. The best explanation for the resulting increase in temperature of the gas is that the molecules of the gas gain kinetic energy",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal cylinder containing a gas, with a piston being pushed inward to the left by an external force indicated by an arrow.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "from the moving piston."
+      },
+      {
+        "label": "B",
+        "text": "by colliding more frequently with each other."
+      },
+      {
+        "label": "C",
+        "text": "by being pushed closer together."
+      },
+      {
+        "label": "D",
+        "text": "by colliding more frequently with the walls of the cylinder."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "When a gas molecule collides with a moving piston, it rebounds with a higher speed than it had before the collision (similar to a ball hitting a moving bat). This increase in speed means an increase in kinetic energy, which macroscopically manifests as an increase in temperature. While collision frequency increases, it is the work done by the piston on the molecules that directly increases their individual kinetic energies.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2010 HL TZ1 Q12 A.png"
+  },
+  {
+    "id": "May_2010_HL_TZ2_Q7",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ2 Q7 B.png"
+    },
+    "question_number": 7,
+    "content_markdown": "Object P has a mass $m_{\\text{P}}$ and specific heat capacity $c_{\\text{P}}$. Object Q has a mass $m_{\\text{Q}}$ and specific heat capacity $c_{\\text{Q}}$. The temperature of each object increases by the same amount. Which of the following gives the ratio\n\n$$\\frac{\\text{thermal energy transferred to object P}}{\\text{thermal energy transferred to object Q}}?$$",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present, only text and mathematical expressions.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{m_{\\text{P}}c_{\\text{Q}}}{m_{\\text{Q}}c_{\\text{P}}}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{m_{\\text{P}}c_{\\text{P}}}{m_{\\text{Q}}c_{\\text{Q}}}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{m_{\\text{Q}}c_{\\text{Q}}}{m_{\\text{P}}c_{\\text{P}}}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{m_{\\text{Q}}c_{\\text{P}}}{m_{\\text{P}}c_{\\text{Q}}}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The thermal energy transferred to an object is given by the formula $Q = mc\\Delta T$. For object P, $Q_{\\text{P}} = m_{\\text{P}}c_{\\text{P}}\\Delta T$. For object Q, $Q_{\\text{Q}} = m_{\\text{Q}}c_{\\text{Q}}\\Delta T$. Since the temperature increase $\\Delta T$ is the same for both objects, it cancels out when taking the ratio $Q_{\\text{P}}/Q_{\\text{Q}}$, leaving $(m_{\\text{P}}c_{\\text{P}})/(m_{\\text{Q}}c_{\\text{Q}})$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2010 HL TZ2 Q7 B.png"
+  },
+  {
+    "id": "May_2011_HL_TZ1_Q6",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ1 Q6 A.png"
+    },
+    "question_number": 6,
+    "content_markdown": "A solid piece of tungsten melts into liquid without a change in temperature. Which of the following is correct for the molecules in the liquid phase compared with the molecules in the solid phase?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table comparing Kinetic energy and Potential energy for options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Kinetic energy",
+        "Potential energy"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Kinetic energy: same; Potential energy: greater"
+      },
+      {
+        "label": "B",
+        "text": "Kinetic energy: same; Potential energy: same"
+      },
+      {
+        "label": "C",
+        "text": "Kinetic energy: greater; Potential energy: greater"
+      },
+      {
+        "label": "D",
+        "text": "Kinetic energy: greater; Potential energy: same"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Temperature is a measure of the average kinetic energy of the molecules. Since the temperature remains constant during the phase change (melting), the kinetic energy must remain the same. However, energy is being added to break the intermolecular bonds to transition from solid to liquid, which increases the potential energy of the molecules.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2011 HL TZ1 Q6 A.png"
+  },
+  {
+    "id": "May_2011_HL_TZ1_Q7",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ1 Q7 A.png"
+    },
+    "question_number": 7,
+    "content_markdown": "A heater of constant power heats a liquid of mass $m$ and specific heat capacity $c$. The graph below shows how the temperature of the liquid varies with time.\n\nThe gradient of the graph is $k$ and no energy is lost to the surroundings. What is the power of the heater?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A linear graph showing temperature on the y-axis and time on the x-axis. The line starts at a non-zero temperature and has a constant positive gradient.",
+      "labels_to_preserve": [
+        "temperature",
+        "time",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$kmc$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{k}{mc}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{mc}{k}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{1}{kmc}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The power $P$ is the rate of energy transfer, so $P = \\frac{Q}{t}$. Using the specific heat formula $Q = mc\\Delta T$, we can write $P = mc\\frac{\\Delta T}{t}$. Since the gradient of the temperature-time graph is $k = \\frac{\\Delta T}{t}$, substituting this gives $P = mck$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2011 HL TZ1 Q7 A.png"
+  },
+  {
+    "id": "May_2012_HL_TZ2_Q10",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ2 Q10 A.png"
+    },
+    "question_number": 10,
+    "content_markdown": "Which of the following correctly identifies the properties of the molecules of a substance that determine the substance's internal energy?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The total potential energy and random kinetic energy"
+      },
+      {
+        "label": "B",
+        "text": "The random kinetic energy"
+      },
+      {
+        "label": "C",
+        "text": "The total gravitational potential energy and random kinetic energy"
+      },
+      {
+        "label": "D",
+        "text": "The total potential energy"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Internal energy is defined in IB Physics as the sum of the random kinetic energy (associated with temperature) and the total intermolecular potential energy (associated with the phase/state) of the molecules in a substance. Gravitational potential energy is an external property of the system as a whole, not a microscopic property of the molecules that defines internal energy.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2012 HL TZ2 Q10 A.png"
+  },
+  {
+    "id": "May_2012_HL_TZ2_Q9",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ2 Q9 A.png"
+    },
+    "question_number": 9,
+    "content_markdown": "Which of the following changes on its own will increase the rate of evaporation of a liquid at constant temperature?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "An increase in the surface area of the liquid"
+      },
+      {
+        "label": "B",
+        "text": "An increase in the total pressure acting on the liquid"
+      },
+      {
+        "label": "C",
+        "text": "A decrease in the surface area of the liquid"
+      },
+      {
+        "label": "D",
+        "text": "A decrease in the volume of the liquid"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Evaporation occurs at the surface of a liquid. By increasing the surface area, more molecules are exposed to the surface at any given time, increasing the probability that high-energy molecules will escape the liquid phase into the gas phase. Increasing pressure or decreasing surface area would typically decrease the rate of evaporation, while volume itself does not directly affect the rate of evaporation per unit area.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2012 HL TZ2 Q9 A.png"
+  },
+  {
+    "id": "May_2013_HL_TZ1_Q6",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ1 Q6 D.png"
+    },
+    "question_number": 6,
+    "content_markdown": "$4.0\\text{ kg}$ of water at $100^{\\circ}\\text{C}$ is mixed with $1.0\\text{ kg}$ of water at $0^{\\circ}\\text{C}$ in a container insulated from the surroundings. Which of the following is the final temperature of the water?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$20^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "B",
+        "text": "$25^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "C",
+        "text": "$75^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "D",
+        "text": "$80^{\\circ}\\text{C}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Since both substances are water, they have the same specific heat capacity $c$. We can use the principle of conservation of energy: heat lost by hot water = heat gained by cold water. Let $T$ be the final temperature. $m_1 c (100 - T) = m_2 c (T - 0)$. Substituting the masses: $4.0(100 - T) = 1.0(T)$. This simplifies to $400 - 4T = T$, which means $5T = 400$, so $T = 80^{\\circ}\\text{C}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2013 HL TZ1 Q6 D.png"
+  },
+  {
+    "id": "May_2013_HL_TZ1_Q7",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ1 Q7 B.png"
+    },
+    "question_number": 7,
+    "content_markdown": "Which of the following is the temperature of an object related to?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The kinetic energy of the object"
+      },
+      {
+        "label": "B",
+        "text": "The random kinetic energy of the particles in the object"
+      },
+      {
+        "label": "C",
+        "text": "The potential energy of the particles in the object"
+      },
+      {
+        "label": "D",
+        "text": "The sum of the random kinetic energy and potential energy of the particles in the object"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Temperature is a measure of the average random kinetic energy of the particles in a substance. It is important to distinguish between the bulk kinetic energy of the object (moving as a whole) and the microscopic random motion of its constituent particles. Option D describes internal energy, not temperature.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2013 HL TZ1 Q7 B.png"
+  },
+  {
+    "id": "May_2013_HL_TZ2_Q8",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ2 Q8 B.png"
+    },
+    "question_number": 8,
+    "content_markdown": "The temperature of an object is $-153^{\\circ}\\text{C}$. Its temperature is raised to $273^{\\circ}\\text{C}$. What is the temperature change of the object?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$699\\text{ K}$"
+      },
+      {
+        "label": "B",
+        "text": "$426\\text{ K}$"
+      },
+      {
+        "label": "C",
+        "text": "$153\\text{ K}$"
+      },
+      {
+        "label": "D",
+        "text": "$120\\text{ K}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "A temperature change in Celsius is numerically equal to a temperature change in Kelvin. To find the change, subtract the initial temperature from the final temperature: $273 - (-153) = 426$. Therefore, the change is $426^{\\circ}\\text{C}$, which is equivalent to $426\\text{ K}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2013 HL TZ2 Q8 B.png"
+  },
+  {
+    "id": "May_2014_HL_TZ1_Q10",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ1 Q10 D.png"
+    },
+    "question_number": 10,
+    "content_markdown": "A fixed mass of water is heated by an electric heater of unknown power $P$. The following quantities are measured\n\nI. mass of water\nII. increase in water temperature\nIII. time for which water is heated.\n\nIn order to calculate $P$, the specific heat capacity of the water is required. Which are also required?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I and II only"
+      },
+      {
+        "label": "B",
+        "text": "I and III only"
+      },
+      {
+        "label": "C",
+        "text": "II and III only"
+      },
+      {
+        "label": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The power $P$ of the heater is defined as the energy transferred per unit time, $P = \\frac{Q}{t}$. The thermal energy $Q$ required to heat a mass $m$ of water with specific heat capacity $c$ by a temperature change $\\Delta T$ is given by $Q = mc\\Delta T$. Substituting this into the power formula gives $P = \\frac{mc\\Delta T}{t}$. Therefore, to calculate $P$, we need the mass (I), the temperature increase (II), and the time (III), in addition to the specific heat capacity.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2014 HL TZ1 Q10 D.png"
+  },
+  {
+    "id": "May_2014_HL_TZ1_Q11",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ1 Q11 C.png"
+    },
+    "question_number": 11,
+    "content_markdown": "A block of iron of mass $10\\text{ kg}$ and temperature $10^{\\circ}\\text{C}$ is brought into contact with a block of iron of mass $20\\text{ kg}$ and temperature $70^{\\circ}\\text{C}$. No energy transfer takes place except between the two blocks. What will be the final temperature of both blocks?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$30^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "B",
+        "text": "$40^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "C",
+        "text": "$50^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "D",
+        "text": "$60^{\\circ}\\text{C}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Since both blocks are made of the same material (iron), their specific heat capacities $c$ are identical and cancel out in the energy balance equation $m_1 c (T_f - T_1) = m_2 c (T_2 - T_f)$. This simplifies to a weighted average of the temperatures: $T_f = \\frac{m_1 T_1 + m_2 T_2}{m_1 + m_2}$. Plugging in the values: $T_f = \\frac{(10 \\times 10) + (20 \\times 70)}{10 + 20} = \\frac{100 + 1400}{30} = \\frac{1500}{30} = 50^{\\circ}\\text{C}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2014 HL TZ1 Q11 C.png"
+  },
+  {
+    "id": "May_2014_HL_TZ2_Q10",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ2 Q10 D.png"
+    },
+    "question_number": 10,
+    "content_markdown": "The specific latent heat is the energy required to change the phase of",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "one kilogram of a substance."
+      },
+      {
+        "label": "B",
+        "text": "a substance at constant temperature."
+      },
+      {
+        "label": "C",
+        "text": "a liquid at constant temperature."
+      },
+      {
+        "label": "D",
+        "text": "one kilogram of a substance at constant temperature."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Specific latent heat ($L$) is defined by the formula $Q = mL$. The term 'specific' in physics usually refers to 'per unit mass' (1 kg), and 'latent' refers to the energy involved in a phase change which occurs without a change in temperature.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2014 HL TZ2 Q10 D.png"
+  },
+  {
+    "id": "May_2014_HL_TZ2_Q27",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ2 Q27 B.png"
+    },
+    "question_number": 27,
+    "content_markdown": "What is the definition of the unified atomic mass unit?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the question.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The mass of one atom of hydrogen."
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{12}$ of the mass of an atom of carbon-12."
+      },
+      {
+        "label": "C",
+        "text": "The mass of one atom of carbon-12."
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{1}{16}$ of the mass of an atom of oxygen-16."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The unified atomic mass unit ($u$) is defined by international agreement as exactly one-twelfth of the mass of a neutral atom of carbon-12 in its ground state. This provides a standard scale for comparing the relative masses of different isotopes.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2014 HL TZ2 Q27 B.png"
+  },
+  {
+    "id": "May_2014_HL_TZ2_Q9",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ2 Q9 D.png"
+    },
+    "question_number": 9,
+    "content_markdown": "Two objects are in thermal contact. For there to be no net transfer of thermal energy between the objects they must",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "have the same thermal capacity and be at the same temperature."
+      },
+      {
+        "label": "B",
+        "text": "have the same thermal capacity only."
+      },
+      {
+        "label": "C",
+        "text": "have the same mass and be at the same temperature."
+      },
+      {
+        "label": "D",
+        "text": "be at the same temperature only."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Thermal equilibrium is defined by the condition where there is no net flow of heat between two objects in thermal contact. This occurs if and only if the objects are at the same temperature. Properties like mass or thermal capacity determine how much energy is stored or how quickly temperature changes, but they do not determine the direction of heat flow.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2014 HL TZ2 Q9 D.png"
+  },
+  {
+    "id": "May_2015_HL_TZ1_Q6",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ1 Q6 B.png"
+    },
+    "question_number": 6,
+    "content_markdown": "Which of the following is numerically equal to the specific heat capacity of the substance of a solid body?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The thermal energy required to melt the body"
+      },
+      {
+        "label": "B",
+        "text": "The thermal energy required to increase the temperature of unit mass of the body by $1\\text{ K}$"
+      },
+      {
+        "label": "C",
+        "text": "The thermal energy required to increase the temperature of the body by $1\\text{ K}$"
+      },
+      {
+        "label": "D",
+        "text": "The total kinetic and potential energy of all the molecules in the body"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Specific heat capacity ($c$) is defined by the equation $Q = mc\\Delta T$. If we set the mass ($m$) to $1\\text{ kg}$ (unit mass) and the change in temperature ($\\Delta T$) to $1\\text{ K}$, then $Q = c$. Therefore, it is the energy required per unit mass per unit temperature change. Option A refers to latent heat, Option C refers to heat capacity (thermal capacity), and Option D refers to internal energy.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2015 HL TZ1 Q6 B.png"
+  },
+  {
+    "id": "May_2015_HL_TZ2_Q6",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ2 Q6 D.png"
+    },
+    "question_number": 6,
+    "content_markdown": "Equal masses of water at $80\\,^{\\circ}\\text{C}$ and paraffin at $20\\,^{\\circ}\\text{C}$ are mixed in a container of negligible thermal capacity. The specific heat capacity of water is twice that of paraffin. What is the final temperature of the mixture?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$30\\,^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "B",
+        "text": "$40\\,^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "C",
+        "text": "$50\\,^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "D",
+        "text": "$60\\,^{\\circ}\\text{C}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Using the principle of conservation of energy, the heat lost by the water equals the heat gained by the paraffin: $m \\cdot c_w \\cdot (80 - T_f) = m \\cdot c_p \\cdot (T_f - 20)$. Since $c_w = 2c_p$ and masses $m$ are equal, the equation simplifies to $2(80 - T_f) = T_f - 20$. Solving for $T_f$: $160 - 2T_f = T_f - 20 \\Rightarrow 180 = 3T_f \\Rightarrow T_f = 60\\,^{\\circ}\\text{C}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2015 HL TZ2 Q6 D.png"
+  },
+  {
+    "id": "May_2016_HL_TZ0_Q18",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2016,
+      "month": "May",
+      "session_label": "May 2016",
+      "level": "HL",
+      "timezone": "TZ0",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2016 HL TZ0 Q18 D.png"
+    },
+    "question_number": 18,
+    "content_markdown": "A solar panel has surface area $0.40\\text{ m}^2$ and efficiency $50\\%$. The average intensity of radiation reaching the surface of the panel is $0.25\\text{ kW m}^{-2}$. What is the average power output from an array of 10 of these solar panels?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0.5\\text{ W}$"
+      },
+      {
+        "label": "B",
+        "text": "$5\\text{ W}$"
+      },
+      {
+        "label": "C",
+        "text": "$50\\text{ W}$"
+      },
+      {
+        "label": "D",
+        "text": "$500\\text{ W}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "To find the total power output, first calculate the power incident on one panel: $P_{\\text{in}} = \\text{Intensity} \\times \\text{Area} = 250\\text{ W m}^{-2} \\times 0.40\\text{ m}^2 = 100\\text{ W}$. With $50\\%$ efficiency, the power output of one panel is $50\\text{ W}$. For an array of 10 panels, the total power output is $10 \\times 50\\text{ W} = 500\\text{ W}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2016 HL TZ0 Q18 D.png"
+  },
+  {
+    "id": "May_2016_HL_TZ0_Q19",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2016,
+      "month": "May",
+      "session_label": "May 2016",
+      "level": "HL",
+      "timezone": "TZ0",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2016 HL TZ0 Q19 B.png"
+    },
+    "question_number": 19,
+    "content_markdown": "What is the correct order of energy transformations in a coal power station?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "thermal $\\rightarrow$ chemical $\\rightarrow$ kinetic $\\rightarrow$ electrical"
+      },
+      {
+        "label": "B",
+        "text": "chemical $\\rightarrow$ thermal $\\rightarrow$ kinetic $\\rightarrow$ electrical"
+      },
+      {
+        "label": "C",
+        "text": "chemical $\\rightarrow$ kinetic $\\rightarrow$ thermal $\\rightarrow$ electrical"
+      },
+      {
+        "label": "D",
+        "text": "kinetic $\\rightarrow$ chemical $\\rightarrow$ electrical $\\rightarrow$ thermal"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In a coal power station, the process begins with the chemical energy stored in coal. This coal is burned to produce thermal energy (heat), which is used to turn water into steam. The moving steam possesses kinetic energy, which turns a turbine. Finally, the rotating turbine drives a generator to produce electrical energy.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2016 HL TZ0 Q19 B.png"
+  },
+  {
+    "id": "May_2016_HL_TZ0_Q20",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2016,
+      "month": "May",
+      "session_label": "May 2016",
+      "level": "HL",
+      "timezone": "TZ0",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2016 HL TZ0 Q20 D.png"
+    },
+    "question_number": 20,
+    "content_markdown": "A black body of surface $1.0\\text{ m}^2$ emits electromagnetic radiation of peak wavelength $2.90 \\times 10^{-6}\\text{ m}$. Which of the following statements about the body are correct?\n\nI. The temperature of the body is $1000\\text{ K}$.\nII. The energy radiated by the body in one second is $5.7 \\times 10^4\\text{ J}$.\nIII. The body is a perfect absorber of electromagnetic radiation.",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I and II only"
+      },
+      {
+        "label": "B",
+        "text": "I and III only"
+      },
+      {
+        "label": "C",
+        "text": "II and III only"
+      },
+      {
+        "label": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Statement I is correct using Wien's displacement law: $T = \\frac{2.90 \\times 10^{-3}}{\\lambda_{max}} = \\frac{2.90 \\times 10^{-3}}{2.90 \\times 10^{-6}} = 1000\\text{ K}$. Statement II is correct using the Stefan-Boltzmann law: $P = \\sigma A T^4 = (5.67 \\times 10^{-8})(1.0)(1000)^4 = 5.67 \\times 10^4\\text{ W}$, which means $5.67 \\times 10^4\\text{ J}$ in one second. Statement III is correct by the definition of a black body, which is an idealized object that absorbs all incident electromagnetic radiation.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2016 HL TZ0 Q20 D.png"
+  },
+  {
+    "id": "May_2016_HL_TZ0_Q7",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2016,
+      "month": "May",
+      "session_label": "May 2016",
+      "level": "HL",
+      "timezone": "TZ0",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2016 HL TZ0 Q7 B.png"
+    },
+    "question_number": 7,
+    "content_markdown": "A container with $0.60\\text{ kg}$ of a liquid substance is placed on a heater at time $t=0$. The specific latent heat of vaporization of the substance is $200\\text{ kJ kg}^{-1}$. The graph shows the variation of the temperature $T$ of the substance with time $t$.\n\nWhat is the power of the heater?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A temperature-time graph showing a substance being heated. The temperature increases from t=0 to t=10s, remains constant (plateau) from t=10s to t=50s, and then increases again from t=50s to t=60s.",
+      "labels_to_preserve": [
+        "T",
+        "t / s",
+        "0",
+        "10",
+        "20",
+        "30",
+        "40",
+        "50",
+        "60"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "1200 W"
+      },
+      {
+        "label": "B",
+        "text": "3000 W"
+      },
+      {
+        "label": "C",
+        "text": "4800 W"
+      },
+      {
+        "label": "D",
+        "text": "13300 W"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The plateau on the graph represents the phase change (boiling) where the temperature remains constant. This occurs between $t = 10\\text{ s}$ and $t = 50\\text{ s}$, so the duration is $\\Delta t = 40\\text{ s}$. The energy required for vaporization is $Q = mL = 0.60\\text{ kg} \\times 200,000\\text{ J kg}^{-1} = 120,000\\text{ J}$. Since Power $P = \\frac{Q}{\\Delta t}$, we have $P = \\frac{120,000\\text{ J}}{40\\text{ s}} = 3000\\text{ W}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2016 HL TZ0 Q7 B.png"
+  },
+  {
+    "id": "May_2017_HL_TZ1_Q23",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ1 Q23 B.png"
+    },
+    "question_number": 23,
+    "content_markdown": "An object can lose energy through\n\nI. conduction\nII. convection\nIII. radiation\n\nWhat are the principal means for losing energy for a hot rock resting on the surface of the Moon?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I and II only"
+      },
+      {
+        "label": "B",
+        "text": "I and III only"
+      },
+      {
+        "label": "C",
+        "text": "II and III only"
+      },
+      {
+        "label": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The Moon has no atmosphere, which means there is no fluid (gas or liquid) to facilitate convection. Therefore, convection (II) is impossible. However, the rock is in physical contact with the Moon's surface, allowing for conduction (I), and all objects above absolute zero emit thermal radiation (III).",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2017 HL TZ1 Q23 B.png"
+  },
+  {
+    "id": "May_2017_HL_TZ1_Q24",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ1 Q24 D.png"
+    },
+    "question_number": 24,
+    "content_markdown": "Planet X and planet Y both emit radiation as black bodies. Planet X has a surface temperature that is less than the surface temperature of planet Y.\n\nWhat is the graph of the variation of intensity $I$ with wavelength $\\lambda$ for the radiation emitted by planet Y? The graph for planet X is shown dotted.",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four sets of black-body radiation curves showing intensity I versus wavelength lambda. Each graph contains a dotted curve for planet X and a solid curve for planet Y.",
+      "labels_to_preserve": [
+        "I",
+        "\\lambda",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "According to the Stefan-Boltzmann law, a higher temperature results in a higher total intensity (the area under the curve is greater). According to Wien's displacement law, a higher temperature results in a shorter peak wavelength (the peak shifts to the left). Since planet Y is hotter than planet X, its curve must have a higher peak and that peak must occur at a smaller wavelength compared to the dotted curve of planet X.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2017 HL TZ1 Q24 D.png"
+  },
+  {
+    "id": "May_2017_HL_TZ1_Q8",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ1 Q8 A.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A liquid is initially at its freezing point. Energy is removed at a uniform rate from the liquid until it freezes completely.\n\nWhich graph shows how the temperature $T$ of the liquid varies with the energy $Q$ removed from the liquid?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs labeled A, B, C, and D showing Temperature T on the y-axis and Energy removed Q on the x-axis. Graph A shows a horizontal line. Graph B shows a downward sloping straight line. Graph C shows a downward curve. Graph D shows a downward sloping line followed by a horizontal line.",
+      "labels_to_preserve": [
+        "T",
+        "Q",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "When a substance undergoes a phase change (like freezing), the energy removed is used to change the state of the matter (breaking/forming bonds) rather than changing its kinetic energy. Therefore, the temperature remains constant at the freezing point until the phase change is complete. Since the liquid starts at its freezing point, the temperature will remain constant as energy $Q$ is removed until it is entirely solid.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2017 HL TZ1 Q8 A.png"
+  },
+  {
+    "id": "May_2017_HL_TZ2_Q8",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ2 Q8 C.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A mass $m$ of ice at a temperature of $-5\\,^{\\circ}\\text{C}$ is changed into water at a temperature of $50\\,^{\\circ}\\text{C}$.\n\n$$\\begin{aligned} &\\text{Specific heat capacity of ice} &= c_{\\text{i}} \\\\ &\\text{Specific heat capacity of water} &= c_{\\text{w}} \\\\ &\\text{Specific latent heat of fusion of ice} &= L \\end{aligned}$$\n\nWhich expression gives the energy needed for this change to occur?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present, only text and mathematical expressions.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$55\\,m\\,c_{\\text{w}} + m\\,L$"
+      },
+      {
+        "label": "B",
+        "text": "$55\\,m\\,c_{\\text{i}} + 5\\,m\\,L$"
+      },
+      {
+        "label": "C",
+        "text": "$5\\,m\\,c_{\\text{i}} + 50\\,m\\,c_{\\text{w}} + m\\,L$"
+      },
+      {
+        "label": "D",
+        "text": "$5\\,m\\,c_{\\text{i}} + 50\\,m\\,c_{\\text{w}} + 5\\,m\\,L$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "To solve this, we break the process into three stages: 1) Warming the ice from $-5\\,^{\\circ}\\text{C}$ to $0\\,^{\\circ}\\text{C}$ ($Q_1 = m c_{\\text{i}} \\Delta T = m c_{\\text{i}} \\times 5$), 2) Melting the ice at $0\\,^{\\circ}\\text{C}$ ($Q_2 = m L$), and 3) Warming the resulting water from $0\\,^{\\circ}\\text{C}$ to $50\\,^{\\circ}\\text{C}$ ($Q_3 = m c_{\\text{w}} \\Delta T = m c_{\\text{w}} \\times 50$). Summing these gives $5\\,m\\,c_{\\text{i}} + m\\,L + 50\\,m\\,c_{\\text{w}}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2017 HL TZ2 Q8 C.png"
+  },
+  {
+    "id": "May_2017_HL_TZ2_Q9",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ2 Q9 A.png"
+    },
+    "question_number": 9,
+    "content_markdown": "A sealed container contains a mixture of oxygen and nitrogen gas.\n\nThe ratio $\\frac{\\text{mass of an oxygen molecule}}{\\text{mass of a nitrogen molecule}}$ is $\\frac{8}{7}$.\n\nThe ratio $\\frac{\\text{average kinetic energy of oxygen molecules}}{\\text{average kinetic energy of nitrogen molecules}}$ is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "1."
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{7}{8}$."
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{8}{7}$."
+      },
+      {
+        "label": "D",
+        "text": "dependent on the concentration of each gas."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In a mixture of gases in thermal equilibrium, all gases are at the same temperature. According to the kinetic theory of gases, the average translational kinetic energy of a molecule is directly proportional to the absolute temperature ($E_k = \\frac{3}{2}k_BT$). Since both gases are in the same container at the same temperature, their average kinetic energies must be equal, making the ratio 1.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2017 HL TZ2 Q9 A.png"
+  },
+  {
+    "id": "May_2018_HL_TZ1_Q8",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ1 Q8 C.png"
+    },
+    "question_number": 8,
+    "content_markdown": "What are the units of the ratio $$\\frac{\\text{specific heat capacity of copper}}{\\text{specific latent heat of vaporization of copper}}?$$",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present, only text and a mathematical fraction.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "no units"
+      },
+      {
+        "label": "B",
+        "text": "k"
+      },
+      {
+        "label": "C",
+        "text": "k^{-1}"
+      },
+      {
+        "label": "D",
+        "text": "k^{-2}"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Specific heat capacity ($c$) has units of $\\text{J}\\cdot\\text{kg}^{-1}\\cdot\\text{K}^{-1}$. Specific latent heat ($L$) has units of $\\text{J}\\cdot\\text{kg}^{-1}$. When you divide them: $(\\text{J}\\cdot\\text{kg}^{-1}\\cdot\\text{K}^{-1}) / (\\text{J}\\cdot\\text{kg}^{-1})$, the $\\text{J}$ and $\\text{kg}^{-1}$ terms cancel out, leaving only $\\text{K}^{-1}$. Note that the question uses lowercase 'k' which represents Kelvin in this context.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2018 HL TZ1 Q8 C.png"
+  },
+  {
+    "id": "May_2018_HL_TZ2_Q8",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ2 Q8 A.png"
+    },
+    "question_number": 8,
+    "content_markdown": "The graph shows how the temperature of a liquid varies with time when energy is supplied to the liquid at a constant rate $P$. The gradient of the graph is $K$ and the liquid has a specific heat capacity $c$.\n\nWhat is the mass of the liquid?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph with temperature on the y-axis and time on the x-axis. A straight line with a positive gradient starts from a point on the y-axis and increases linearly.",
+      "labels_to_preserve": [
+        "temperature",
+        "time",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{P}{cK}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{PK}{c}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{Pc}{K}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{cK}{P}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The power supplied is $P = \\frac{Q}{t}$. From the specific heat formula $Q = mc\\Delta T$, we can write $P = mc\\frac{\\Delta T}{t}$. Since the gradient of the temperature-time graph is $K = \\frac{\\Delta T}{t}$, the equation becomes $P = mcK$. Rearranging for mass $m$ gives $m = \\frac{P}{cK}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2018 HL TZ2 Q8 A.png"
+  },
+  {
+    "id": "May_2019_HL_TZ1_Q26",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ1 Q26 C.png"
+    },
+    "question_number": 26,
+    "content_markdown": "A beaker containing $1\\text{ kg}$ of water at room temperature is heated on a $400\\text{ W}$ hot plate. The specific heat capacity of water is $4200\\text{ J kg}^{-1}\\text{ K}^{-1}$.\n\nThe temperature of the water increases until it reaches a constant value. It is then removed from the hot plate.\n\nWhat will be the initial rate of change of temperature?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$10\\text{ K s}^{-1}$"
+      },
+      {
+        "label": "B",
+        "text": "$1\\text{ K s}^{-1}$"
+      },
+      {
+        "label": "C",
+        "text": "$0.1\\text{ K s}^{-1}$"
+      },
+      {
+        "label": "D",
+        "text": "$0.01\\text{ K s}^{-1}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "When the water reaches a constant temperature, the rate of energy gain from the hot plate equals the rate of energy loss to the surroundings. At the moment it is removed, the heating power ($400\\text{ W}$) stops, but the cooling rate remains the same as it was at the steady state. Using $P = mc\\frac{\\Delta T}{\\Delta t}$, we have $400 = 1 \\times 4200 \\times \\frac{\\Delta T}{\\Delta t}$. Solving for the rate gives $\\frac{400}{4200} \\approx 0.095\\text{ K s}^{-1}$, which rounds to $0.1\\text{ K s}^{-1}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2019 HL TZ1 Q26 C.png"
+  },
+  {
+    "id": "May_2019_HL_TZ1_Q8",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Phase changes and latent heat",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ1 Q8 D.png"
+    },
+    "question_number": 8,
+    "content_markdown": "Energy is transferred to water in a flask at a rate $P$. The water reaches boiling point and then $P$ is increased. What are the changes to the temperature of the water and to the rate of vaporization of the water after the change?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table with two columns labeled 'Temperature' and 'Rate of vaporization', with four rows (A, B, C, D) showing different combinations of 'increases' and 'stays the same' for each column",
+      "labels_to_preserve": [
+        "Temperature",
+        "Rate of vaporization",
+        "increases",
+        "stays the same",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Temperature: increases, Rate of vaporization: stays the same"
+      },
+      {
+        "label": "B",
+        "text": "Temperature: increases, Rate of vaporization: increases"
+      },
+      {
+        "label": "C",
+        "text": "Temperature: stays the same, Rate of vaporization: stays the same"
+      },
+      {
+        "label": "D",
+        "text": "Temperature: stays the same, Rate of vaporization: increases"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "This question tests understanding of phase change behavior. Once water reaches its boiling point, the temperature remains constant during the phase change from liquid to gas (latent heat of vaporization). However, increasing the power input $P$ means more energy is available per unit time to overcome intermolecular forces, so the rate of vaporization (mass of water turning to steam per second) increases. This is a classic IB Physics concept about the distinction between specific heat capacity (temperature change) and specific latent heat (phase change at constant temperature).",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2019 HL TZ1 Q8 D.png"
+  },
+  {
+    "id": "May_2019_HL_TZ1_Q9",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ1 Q9 B.png"
+    },
+    "question_number": 9,
+    "content_markdown": "An insulated tube is filled with a large number $n$ of lead spheres, each of mass $m$. The tube is inverted $s$ times so that the spheres completely fall through an average distance $L$ each time. The temperature of the spheres is measured before and after the inversions and the resultant change in temperature is $\\Delta T$.\n\nWhat is the specific heat capacity of lead?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A vertical insulated tube containing lead spheres at the bottom. A double-headed arrow indicates the height L of the tube.",
+      "labels_to_preserve": [
+        "L",
+        "tube",
+        "spheres"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{sgL}{nm\\Delta T}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{sgL}{\\Delta T}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{sgL}{n\\Delta T}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{gL}{m\\Delta T}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The total gravitational potential energy lost by all spheres over $s$ inversions is $E_p = s \\cdot (nm) \\cdot gL$. Since the tube is insulated, this energy is converted entirely into internal energy (heat) of the spheres: $Q = (nm) \\cdot c \\cdot \\Delta T$. Equating the two expressions, $s \\cdot nmgL = nmc\\Delta T$. The total mass $nm$ cancels out from both sides, leaving $sgL = c\\Delta T$. Solving for specific heat capacity $c$ gives $c = \\frac{sgL}{\\Delta T}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2019 HL TZ1 Q9 B.png"
+  },
+  {
+    "id": "May_2019_HL_TZ2_Q12",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ2 Q12 D.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A liquid of mass $m$ and specific heat capacity $c$ cools. The rate of change of the temperature of the liquid is $k$. What is the rate at which thermal energy is transferred from the liquid?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{mc}{k}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{k}{mc}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{1}{kmc}$"
+      },
+      {
+        "label": "D",
+        "text": "$kmc$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The thermal energy $Q$ is given by $Q = mc\\Delta T$. To find the rate of energy transfer (power), we differentiate with respect to time: $\\frac{dQ}{dt} = mc\\frac{dT}{dt}$. Since the rate of change of temperature $\\frac{dT}{dt}$ is given as $k$, the rate of energy transfer is simply $mc \\times k$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2019 HL TZ2 Q12 D.png"
+  },
+  {
+    "id": "May_2019_HL_TZ2_Q9",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ2 Q9 C.png"
+    },
+    "question_number": 9,
+    "content_markdown": "A substance changes from the solid phase to the gas phase without becoming a liquid and without a change in temperature.\n\nWhat is true about the internal energy of the substance and the total intermolecular potential energy of the substance when this phase change occurs?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A-D) comparing the change in internal energy of the substance and the change in total intermolecular potential energy of the substance.",
+      "labels_to_preserve": [
+        "Internal energy of the substance",
+        "Total intermolecular potential energy of the substance"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Internal energy: increases; Total intermolecular potential energy: no change"
+      },
+      {
+        "label": "B",
+        "text": "Internal energy: no change; Total intermolecular potential energy: no change"
+      },
+      {
+        "label": "C",
+        "text": "Internal energy: increases; Total intermolecular potential energy: increases"
+      },
+      {
+        "label": "D",
+        "text": "Internal energy: no change; Total intermolecular potential energy: increases"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "During a phase change (sublimation in this case), the temperature remains constant, meaning the average kinetic energy of the molecules does not change. However, energy is required to overcome the intermolecular forces to move molecules further apart (from solid to gas), which increases the total intermolecular potential energy. Since internal energy is the sum of total kinetic and total potential energy, and potential energy increases while kinetic energy stays the same, the internal energy must also increase.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2019 HL TZ2 Q9 C.png"
+  },
+  {
+    "id": "May_2021_HL_TZ1_Q24",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Energy sources",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ1 Q24 B.png"
+    },
+    "question_number": 24,
+    "content_markdown": "Burning one litre of gasoline produces more energy than burning one kilogram of coal, and the density of gasoline is smaller than $1\\text{ g cm}^{-3}$. What can be deduced from this information?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Energy density is greater for gasoline."
+      },
+      {
+        "label": "B",
+        "text": "Specific energy is greater for gasoline."
+      },
+      {
+        "label": "C",
+        "text": "Energy density is greater for coal."
+      },
+      {
+        "label": "D",
+        "text": "Specific energy is greater for coal."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Energy density is defined as energy per unit volume. Since one litre (a unit of volume) of gasoline produces more energy than one kilogram of coal, and we know that one litre of gasoline weighs less than one kilogram (because its density is less than $1\\text{ g cm}^{-3}$ or $1\\text{ kg L}^{-1}$), we can directly conclude that the energy per unit volume (energy density) of gasoline is higher than that of coal. To compare specific energy (energy per unit mass), we would need to know the exact mass of the litre of gasoline, but the energy density comparison is immediate from the volume-based energy production statement.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2021 HL TZ1 Q24 B.png"
+  },
+  {
+    "id": "May_2021_HL_TZ1_Q9",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ1 Q9 D.png"
+    },
+    "question_number": 9,
+    "content_markdown": "When $40\\text{ kJ}$ of energy is transferred to a quantity of a liquid substance, its temperature increases by $20\\text{ K}$. When $600\\text{ kJ}$ of energy is transferred to the same quantity of the liquid at its boiling temperature, it vaporizes completely at constant temperature. What is\n\n$$\\frac{\\text{specific latent heat of vaporization}}{\\text{specific heat capacity of the liquid}}$$\n\nfor this substance?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$15\\text{ K}^{-1}$"
+      },
+      {
+        "label": "B",
+        "text": "$15\\text{ K}$"
+      },
+      {
+        "label": "C",
+        "text": "$300\\text{ K}^{-1}$"
+      },
+      {
+        "label": "D",
+        "text": "$300\\text{ K}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "First, use the specific heat formula $Q = mc\\Delta T$ for the heating phase: $40 = mc(20)$, which gives $mc = 2$. Next, use the latent heat formula $Q = mL$ for the vaporization phase: $600 = mL$. The question asks for the ratio $L/c$. From the first equation, $m = 2/c$. Substitute this into the second equation: $(2/c)L = 600$. Rearranging for $L/c$ gives $L/c = 600/2 = 300$. Since $L$ is in $\\text{J kg}^{-1}$ and $c$ is in $\\text{J kg}^{-1}\\text{ K}^{-1}$, the units of the ratio are $\\text{K}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2021 HL TZ1 Q9 D.png"
+  },
+  {
+    "id": "May_2021_HL_TZ2_Q10",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ2 Q10 D.png"
+    },
+    "question_number": 10,
+    "content_markdown": "A piece of metal at a temperature of $100\\,^{\\circ}\\text{C}$ is dropped into an equal mass of water at a temperature of $15\\,^{\\circ}\\text{C}$ in a container of negligible mass. The specific heat capacity of water is four times that of the metal. What is the final temperature of the mixture?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$83\\,^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "B",
+        "text": "$57\\,^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "C",
+        "text": "$45\\,^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "D",
+        "text": "$32\\,^{\\circ}\\text{C}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Using the principle of conservation of energy, the heat lost by the metal equals the heat gained by the water: $m c_m (100 - T_f) = m c_w (T_f - 15)$. Since the masses are equal and $c_w = 4c_m$, the equation simplifies to $100 - T_f = 4(T_f - 15)$. Solving for $T_f$: $100 - T_f = 4T_f - 60$, which leads to $160 = 5T_f$, so $T_f = 32\\,^{\\circ}\\text{C}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2021 HL TZ2 Q10 D.png"
+  },
+  {
+    "id": "May_2022_HL_TZ1_Q10",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ1 Q10 A.png"
+    },
+    "question_number": 10,
+    "content_markdown": "A driver uses the brakes on a car to descend a hill at constant speed. What is correct about the internal energy of the brake discs?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The internal energy increases."
+      },
+      {
+        "label": "B",
+        "text": "The internal energy decreases."
+      },
+      {
+        "label": "C",
+        "text": "There is no change in the internal energy."
+      },
+      {
+        "label": "D",
+        "text": "The internal energy is zero."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "As the car descends the hill at a constant speed, its gravitational potential energy decreases while its kinetic energy remains constant. This loss in mechanical energy is converted into thermal energy due to the work done by friction between the brake pads and the discs. Consequently, the temperature and the internal energy of the brake discs increase.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2022 HL TZ1 Q10 A.png"
+  },
+  {
+    "id": "May_2022_HL_TZ1_Q11",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ1 Q11 C.png"
+    },
+    "question_number": 11,
+    "content_markdown": "Two blocks, X and Y, are placed in contact with each other. Data for the blocks are provided.\n\n| | Block X | Block Y |\n| :--- | :---: | :---: |\n| Initial temperature / $^\\circ\\text{C}$ | 20 | 80 |\n| Final temperature / $^\\circ\\text{C}$ | 60 | 60 |\n| Specific heat capacity | $2c$ | $c$ |\n\nX has a mass $m$. What is the mass of Y?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table containing thermal data for two blocks X and Y, including initial temperature, final temperature, and specific heat capacity.",
+      "labels_to_preserve": [
+        "Block X",
+        "Block Y",
+        "Initial temperature / \u00b0C",
+        "Final temperature / \u00b0C",
+        "Specific heat capacity",
+        "2c",
+        "c"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{m}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$m$"
+      },
+      {
+        "label": "C",
+        "text": "$4m$"
+      },
+      {
+        "label": "D",
+        "text": "$6m$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Energy lost by Y must equal energy gained by X ($Q_X = Q_Y$). Using $Q = mc\\Delta T$: For block X, $Q_X = m \\cdot (2c) \\cdot (60 - 20) = m \\cdot 2c \\cdot 40 = 80mc$. For block Y, $Q_Y = m_Y \\cdot c \\cdot (80 - 60) = m_Y \\cdot c \\cdot 20 = 20m_Yc$. Setting them equal: $80mc = 20m_Yc$, which simplifies to $m_Y = 4m$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2022 HL TZ1 Q11 C.png"
+  },
+  {
+    "id": "May_2022_HL_TZ2_Q11",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ2 Q11 B.png"
+    },
+    "question_number": 11,
+    "content_markdown": "Water at room temperature is placed in a freezer. The specific heat capacity of water is twice the specific heat capacity of ice. Assume that thermal energy is transferred from the water at a constant rate.\n\nWhich graph shows the variation with time of the temperature of the water?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs (A, B, C, D) showing temperature T against time t. Each graph consists of three segments: a cooling liquid phase, a constant temperature phase change (freezing), and a cooling solid phase. The slopes of the first and third segments vary between the options.",
+      "labels_to_preserve": [
+        "T",
+        "t"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The rate of temperature change is given by $\\frac{\\Delta T}{\\Delta t} = \\frac{P}{mc}$, where $P$ is the constant power (rate of energy transfer). Since the specific heat capacity of water ($c_{water}$) is twice that of ice ($c_{ice}$), the gradient of the cooling curve for water should be half the gradient of the cooling curve for ice. In other words, the temperature of the ice should drop twice as fast as the temperature of the water did. Graph B correctly shows a steeper slope for the ice phase compared to the water phase.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/May 2022 HL TZ2 Q11 B.png"
+  },
+  {
+    "id": "Nov_2000_HL_Q15",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2000,
+      "month": "Nov",
+      "session_label": "Nov 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2000 HL Q15 B.png"
+    },
+    "question_number": 15,
+    "content_markdown": "The diagram shows a section of double glazed window. The panes of glass are separated by an air gap that is of the same thickness as the two panes of glass. The room temperature is greater than the outside temperature and both temperatures are constant.\n\nWhich **one** of the following statements is **true**?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A cross-section of a double-glazed window showing three layers: glass, air, and glass. The left side is labeled 'room' and the right side is labeled 'outside'.",
+      "labels_to_preserve": [
+        "room",
+        "glass",
+        "air",
+        "outside"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "There is no energy transfer from the room to the outside."
+      },
+      {
+        "label": "B",
+        "text": "The rate of energy transfer across the glass is the same as that across the air gap."
+      },
+      {
+        "label": "C",
+        "text": "The rate of energy transfer across the glass is greater than that across the air gap."
+      },
+      {
+        "label": "D",
+        "text": "The rate of energy transfer across the glass is less than that across the air gap."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In a steady-state system where temperatures are constant, the rate of energy transfer (power) must be the same through every layer in series. If the rate were different, energy would accumulate in one of the layers, causing its temperature to change, which contradicts the 'constant temperature' condition.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2000 HL Q15 B.png"
+  },
+  {
+    "id": "Nov_2001_HL_Q15",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2001,
+      "month": "Nov",
+      "session_label": "Nov 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2001 HL Q15 B.png"
+    },
+    "question_number": 15,
+    "content_markdown": "The atomic mass number of helium is 4 while that of neon is 20, and both are monatomic gases. When both gases are at the same temperature, the ratio of the average **speeds** of helium atoms to neon atoms will be",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$1 : 1$"
+      },
+      {
+        "label": "B",
+        "text": "$\\sqrt{5} : 1$"
+      },
+      {
+        "label": "C",
+        "text": "$5 : 1$"
+      },
+      {
+        "label": "D",
+        "text": "$25 : 1$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "At the same temperature, the average kinetic energy of the atoms is the same: $\\frac{1}{2}m_{He}v_{He}^2 = \\frac{1}{2}m_{Ne}v_{Ne}^2$. This implies that the speed $v$ is inversely proportional to the square root of the mass $m$. Therefore, the ratio of speeds is $\\frac{v_{He}}{v_{Ne}} = \\sqrt{\\frac{m_{Ne}}{m_{He}}} = \\sqrt{\\frac{20}{4}} = \\sqrt{5}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2001 HL Q15 B.png"
+  },
+  {
+    "id": "Nov_2001_HL_Q16",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2001,
+      "month": "Nov",
+      "session_label": "Nov 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2001 HL Q16 C.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Equal masses of water and alcohol, initially at different temperatures, are mixed. The specific heat capacity of water is **greater** than that of alcohol. The final temperature of the mixture will be",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "equal to the sum of the two original temperatures."
+      },
+      {
+        "label": "B",
+        "text": "exactly midway between the two original temperatures."
+      },
+      {
+        "label": "C",
+        "text": "closer to the original temperature of the water than of the alcohol."
+      },
+      {
+        "label": "D",
+        "text": "closer to the original temperature of the alcohol than of the water."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Since the masses are equal, the substance with the higher specific heat capacity ($c$) requires more energy to change its temperature by one degree. According to $Q = mc\\Delta T$, for the same energy exchange ($Q$), the substance with the larger $c$ (water) will undergo a smaller temperature change ($\\Delta T$). Therefore, the final equilibrium temperature will be closer to the initial temperature of the water.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2001 HL Q16 C.png"
+  },
+  {
+    "id": "Nov_2001_HL_Q17",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2001,
+      "month": "Nov",
+      "session_label": "Nov 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2001 HL Q17 D.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A lead bullet is fired into an iron plate, where it deforms and stops. As a result, the temperature of the lead increases by an amount $\\Delta T$. For an identical bullet hitting the plate with **twice** the speed, what is the best estimate of the temperature increase?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\Delta T$"
+      },
+      {
+        "label": "B",
+        "text": "$\\sqrt{2} \\Delta T$"
+      },
+      {
+        "label": "C",
+        "text": "$2 \\Delta T$"
+      },
+      {
+        "label": "D",
+        "text": "$4 \\Delta T$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The kinetic energy of the bullet is $E_k = \\frac{1}{2}mv^2$. When the bullet stops, this energy is converted into thermal energy $Q = mc\\Delta T$. Since $E_k \\propto v^2$, doubling the speed ($2v$) results in $2^2 = 4$ times the kinetic energy. Assuming the same fraction of energy is converted to heat in the bullet, the temperature increase will be $4 \\Delta T$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2001 HL Q17 D.png"
+  },
+  {
+    "id": "Nov_2002_HL_Q14",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2002,
+      "month": "Nov",
+      "session_label": "Nov 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2002 HL Q14 D.png"
+    },
+    "question_number": 14,
+    "content_markdown": "When a lump of ice was added to a beaker of warm water, the resulting water temperature was $5\\,^{\\circ}\\text{C}$ less than the initial temperature of the warm water.\n\nIf another identical lump of ice is added to the same beaker, the temperature will",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A sequence diagram showing a lump of ice being added to a beaker of water. The first addition results in a temperature change of 5 degrees Celsius. A second identical lump is then added to the resulting mixture.",
+      "labels_to_preserve": [
+        "Ice",
+        "Water",
+        "Temperature change",
+        "5 \u00b0C",
+        "?"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "go down by another $5\\,^{\\circ}\\text{C}$."
+      },
+      {
+        "label": "B",
+        "text": "not go down at all."
+      },
+      {
+        "label": "C",
+        "text": "go down by more than $5\\,^{\\circ}\\text{C}$."
+      },
+      {
+        "label": "D",
+        "text": "go down by less than $5\\,^{\\circ}\\text{C}$."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "As the water cools from the first lump of ice, the temperature difference between the water and the second lump of ice is smaller. Additionally, the mass of the water has increased because the first lump of ice melted into it. Both factors (smaller $\\Delta T$ for the water to lose heat and a larger total mass to cool) mean the second identical lump of ice will cause a smaller temperature drop than the first.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2002 HL Q14 D.png"
+  },
+  {
+    "id": "Nov_2002_HL_Q16",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2002,
+      "month": "Nov",
+      "session_label": "Nov 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2002 HL Q16 B.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Two molecules have an equilibrium separation $r_0$. Which **one** of the following graphs correctly shows the variation of intermolecular potential energy of the molecules as a function of intermolecular separation?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs (A, B, C, D) showing Potential energy on the y-axis and Intermolecular separation on the x-axis. Each graph marks a specific separation $r_0$.",
+      "labels_to_preserve": [
+        "Potential energy",
+        "Intermolecular separation",
+        "r_0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The intermolecular potential energy graph (Lennard-Jones potential) must show a minimum at the equilibrium separation $r_0$. At this point, the force (which is the negative gradient of the potential energy) is zero. Graph B correctly shows the potential energy reaching its minimum value at $r_0$, with a steep repulsive wall at small separations and an asymptotic approach to zero at large separations.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2002 HL Q16 B.png"
+  },
+  {
+    "id": "Nov_2003_HL_Q15",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2003,
+      "month": "Nov",
+      "session_label": "Nov 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2003 HL Q15 C.png"
+    },
+    "question_number": 15,
+    "content_markdown": "Which two values of temperature are equivalent to the nearest degree when measured on the Kelvin and on the Celsius scales of temperature?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table with two columns labeled 'Kelvin scale' and 'Celsius scale' containing numerical values for four options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Kelvin scale",
+        "Celsius scale"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Kelvin: 40, Celsius: 313"
+      },
+      {
+        "label": "B",
+        "text": "Kelvin: 273, Celsius: 100"
+      },
+      {
+        "label": "C",
+        "text": "Kelvin: 313, Celsius: 40"
+      },
+      {
+        "label": "D",
+        "text": "Kelvin: 373, Celsius: 0"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The relationship between the Kelvin scale ($T$) and the Celsius scale ($t$) is given by $T = t + 273$. To find the equivalent pair, we check which option satisfies this equation. For option C, $40^\\circ\\text{C} + 273 = 313\\text{ K}$, which matches the values provided in the table.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2003 HL Q15 C.png"
+  },
+  {
+    "id": "Nov_2003_HL_Q17",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2003,
+      "month": "Nov",
+      "session_label": "Nov 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2003 HL Q17 C.png"
+    },
+    "question_number": 17,
+    "content_markdown": "Two different objects are in thermal contact with one another. The objects are at different temperatures. The temperatures of the two objects determine",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the process by which thermal energy is transferred."
+      },
+      {
+        "label": "B",
+        "text": "the heat capacity of each object."
+      },
+      {
+        "label": "C",
+        "text": "the direction of transfer of thermal energy between the objects."
+      },
+      {
+        "label": "D",
+        "text": "the amount of internal energy in each object."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "By definition, thermal energy (heat) flows spontaneously from a region of higher temperature to a region of lower temperature. While internal energy and heat capacity are related to temperature, the temperature gradient specifically dictates the direction of the net energy transfer.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2003 HL Q17 C.png"
+  },
+  {
+    "id": "Nov_2003_HL_Q19",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2003,
+      "month": "Nov",
+      "session_label": "Nov 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2003 HL Q19 D.png"
+    },
+    "question_number": 19,
+    "content_markdown": "A substance changes from solid to liquid at its normal melting temperature. What change, if any, occurs in the average kinetic energy and the average potential energy of its molecules?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the changes in average kinetic energy and average potential energy for options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Average kinetic energy",
+        "Average potential energy"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Average kinetic energy: constant; Average potential energy: constant"
+      },
+      {
+        "label": "B",
+        "text": "Average kinetic energy: increases; Average potential energy: constant"
+      },
+      {
+        "label": "C",
+        "text": "Average kinetic energy: increases; Average potential energy: decreases"
+      },
+      {
+        "label": "D",
+        "text": "Average kinetic energy: constant; Average potential energy: increases"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "During a phase change (like melting), the temperature remains constant. Since temperature is a measure of the average kinetic energy of the molecules, the average kinetic energy stays constant. The energy added during melting is used to overcome intermolecular forces, which increases the average potential energy of the molecules.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2003 HL Q19 D.png"
+  },
+  {
+    "id": "Nov_2003_HL_Q20",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2003,
+      "month": "Nov",
+      "session_label": "Nov 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2003 HL Q20 D.png"
+    },
+    "question_number": 20,
+    "content_markdown": "The specific latent heat of vaporization of a substance is greater than its specific latent heat of fusion because",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "boiling takes place at a higher temperature than melting."
+      },
+      {
+        "label": "B",
+        "text": "thermal energy is required to raise the temperature from the melting point to the boiling point."
+      },
+      {
+        "label": "C",
+        "text": "the volume of the substance decreases on freezing but increases when boiling."
+      },
+      {
+        "label": "D",
+        "text": "the increase in potential energy of the molecules is greater on boiling than on melting."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Latent heat is the energy required to change the phase of a substance without changing its temperature. This energy is used to overcome intermolecular forces, thereby increasing the potential energy of the molecules. In vaporization (liquid to gas), the molecules must be completely separated against attractive forces, which requires significantly more work and results in a much larger increase in potential energy compared to fusion (solid to liquid), where molecules only move slightly further apart.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2003 HL Q20 D.png"
+  },
+  {
+    "id": "Nov_2004_HL_Q16",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2004,
+      "month": "Nov",
+      "session_label": "Nov 2004",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2004 HL Q16 C.png"
+    },
+    "question_number": 16,
+    "content_markdown": "A temperature scale is to be constructed using the property $X$ of a substance.\n\nWhich of the following must be a characteristic of the property $X$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The value of the property must be zero at zero kelvin."
+      },
+      {
+        "label": "B",
+        "text": "The property must increase with increase of temperature."
+      },
+      {
+        "label": "C",
+        "text": "The property must have a different value at each temperature to be measured."
+      },
+      {
+        "label": "D",
+        "text": "The value of the property must vary linearly with kelvin temperature."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "To function as a thermometric property, there must be a unique mapping between the property and the temperature. If the property had the same value at two different temperatures, the scale would be ambiguous. While linearity (D) is convenient for simple scales, it is not strictly required as long as the relationship is known and monotonic (different values for different temperatures).",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2004 HL Q16 C.png"
+  },
+  {
+    "id": "Nov_2004_HL_Q17",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2004,
+      "month": "Nov",
+      "session_label": "Nov 2004",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2004 HL Q17 A.png"
+    },
+    "question_number": 17,
+    "content_markdown": "As part of an experiment to determine the latent heat of vaporisation of water, a student boils some water in a beaker using an electric heater as shown below.\n\nThe student notes two sources of error.\n\nError 1: thermal energy is lost from the sides of the beaker\nError 2: as the water is boiling, water splashes out of the beaker\n\nWhich of the following gives the correct effect of these two errors on the calculated value for the specific latent heat?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a beaker filled with water and an electric heater submerged in it. Labels point to the beaker, water, and heater.",
+      "labels_to_preserve": [
+        "beaker",
+        "water",
+        "heater"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Error 1: Increase; Error 2: Decrease"
+      },
+      {
+        "label": "B",
+        "text": "Error 1: Increase; Error 2: No change"
+      },
+      {
+        "label": "C",
+        "text": "Error 1: Decrease; Error 2: Increase"
+      },
+      {
+        "label": "D",
+        "text": "Error 1: Decrease; Error 2: No change"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The specific latent heat is calculated using $L = Q/m$. In Error 1, energy $Q$ is supplied by the heater but lost to the surroundings, meaning the energy used to actually vaporize the water is less than the measured $Q$. This leads to an overestimation (Increase) of $L$. In Error 2, water splashes out, meaning the measured change in mass $m$ is greater than the mass actually vaporized. Since $m$ is in the denominator, an artificially large $m$ leads to an underestimation (Decrease) of the calculated $L$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2004 HL Q17 A.png"
+  },
+  {
+    "id": "Nov_2004_HL_Q19",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2004,
+      "month": "Nov",
+      "session_label": "Nov 2004",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2004 HL Q19 B.png"
+    },
+    "question_number": 19,
+    "content_markdown": "Which of the following is the internal energy of a system?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The total thermal energy gained by the system during melting and boiling."
+      },
+      {
+        "label": "B",
+        "text": "The sum of the potential and the kinetic energies of the particles of the system."
+      },
+      {
+        "label": "C",
+        "text": "The total external work done on the system during melting and boiling."
+      },
+      {
+        "label": "D",
+        "text": "The change in the potential energy of the system that occurs during melting and boiling."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Internal energy is defined as the total microscopic energy of a system. This consists of the sum of the random kinetic energy of the particles (associated with temperature) and the intermolecular potential energy (associated with the phase/state of the substance).",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2004 HL Q19 B.png"
+  },
+  {
+    "id": "Nov_2006_HL_Q16",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2006,
+      "month": "Nov",
+      "session_label": "Nov 2006",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2006 HL Q16 C.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Which **one** of the following correctly describes the changes, if any, of the kinetic energy and the potential energy of the molecules of a liquid as it is boiling?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) with columns for Kinetic energy and Potential energy changes.",
+      "labels_to_preserve": [
+        "Kinetic energy",
+        "Potential energy",
+        "increases",
+        "stays constant"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Kinetic energy: increases; Potential energy: increases"
+      },
+      {
+        "label": "B",
+        "text": "Kinetic energy: increases; Potential energy: stays constant"
+      },
+      {
+        "label": "C",
+        "text": "Kinetic energy: stays constant; Potential energy: increases"
+      },
+      {
+        "label": "D",
+        "text": "Kinetic energy: stays constant; Potential energy: stays constant"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "During a phase change like boiling, the temperature of the substance remains constant. Since temperature is a measure of the average kinetic energy of the molecules, the kinetic energy stays constant. The energy being added is used to overcome intermolecular forces, which increases the potential energy of the molecules as they move further apart to form a gas.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2006 HL Q16 C.png"
+  },
+  {
+    "id": "Nov_2006_HL_Q18",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2006,
+      "month": "Nov",
+      "session_label": "Nov 2006",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2006 HL Q18 C.png"
+    },
+    "question_number": 18,
+    "content_markdown": "A metal ball at a temperature of $200\\,^{\\circ}\\text{C}$ is suspended in an evacuated container. The walls of the container are kept at a **constant** temperature of $100\\,^{\\circ}\\text{C}$.\n\nWhich **one** of the following statements about the temperature of the ball is correct?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a shaded circle representing a metal ball suspended inside a rectangular box representing an evacuated container. Labels indicate the vacuum, the ball at 200 degrees Celsius, and the walls at 100 degrees Celsius.",
+      "labels_to_preserve": [
+        "walls of evacuated container at 100 \u00b0C",
+        "suspended metal ball at 200 \u00b0C",
+        "vacuum"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "It will eventually reach absolute zero."
+      },
+      {
+        "label": "B",
+        "text": "It will remain constant at $200\\,^{\\circ}\\text{C}$."
+      },
+      {
+        "label": "C",
+        "text": "It will eventually become $100\\,^{\\circ}\\text{C}$."
+      },
+      {
+        "label": "D",
+        "text": "It will eventually reach a constant temperature between $200\\,^{\\circ}\\text{C}$ and $100\\,^{\\circ}\\text{C}$."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Even in a vacuum, thermal energy is transferred via radiation. The ball will emit more radiation than it absorbs until it reaches thermal equilibrium with its surroundings. Since the walls are maintained at a constant 100 degrees Celsius, the ball will continue to cool until its temperature matches that of the walls.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2006 HL Q18 C.png"
+  },
+  {
+    "id": "Nov_2007_HL_Q14",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2007,
+      "month": "Nov",
+      "session_label": "Nov 2007",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2007 HL Q14 C.png"
+    },
+    "question_number": 14,
+    "content_markdown": "Two bodies are brought into thermal contact with each other. No thermal energy transfer takes place between the bodies. It may be deduced therefore, that the bodies must have the same",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "specific heat capacity."
+      },
+      {
+        "label": "B",
+        "text": "heat capacity."
+      },
+      {
+        "label": "C",
+        "text": "temperature."
+      },
+      {
+        "label": "D",
+        "text": "internal energy."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Thermal equilibrium is defined by the Zeroth Law of Thermodynamics. If two objects are in thermal contact and no net heat flows between them, they must be at the same temperature. Other properties like internal energy or heat capacity depend on the mass and nature of the substance, but temperature is the sole determinant for the direction of thermal energy transfer.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2007 HL Q14 C.png"
+  },
+  {
+    "id": "Nov_2007_HL_Q16",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2007,
+      "month": "Nov",
+      "session_label": "Nov 2007",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2007 HL Q16 D.png"
+    },
+    "question_number": 16,
+    "content_markdown": "A liquid is heated in a well-insulated container. The power input to the liquid and its specific heat capacity are known.\n\nWhich of the following quantities must be known in order to calculate the rate at which the temperature increases?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The time for which the liquid is heated"
+      },
+      {
+        "label": "B",
+        "text": "The initial temperature of the liquid"
+      },
+      {
+        "label": "C",
+        "text": "The final temperature of the liquid"
+      },
+      {
+        "label": "D",
+        "text": "The mass of the liquid"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The relationship between power $P$, mass $m$, specific heat capacity $c$, and the rate of temperature change $\\frac{\\Delta T}{\\Delta t}$ is given by the formula $P = mc\\frac{\\Delta T}{\\Delta t}$. To solve for the rate $\\frac{\\Delta T}{\\Delta t}$, you need $P$, $c$, and $m$. Since $P$ and $c$ are already known, the mass of the liquid is the missing variable required for the calculation.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2007 HL Q16 D.png"
+  },
+  {
+    "id": "Nov_2008_HL_Q17",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2008,
+      "month": "Nov",
+      "session_label": "Nov 2008",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2008 HL Q17 C.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A lump of ice at $0^{\\circ}\\text{C}$ is placed into water at $0^{\\circ}\\text{C}$. Assuming that no thermal energy is lost to the surroundings, which of the following statements is true regarding the melting of the ice and the temperature change?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A-D) with two columns: 'Melting of ice' and 'Temperature change'.",
+      "labels_to_preserve": [
+        "Melting of ice",
+        "Temperature change"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Melting of ice: some of the ice will melt; Temperature change: the overall temperature of the water will initially fall before going back to $0^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "B",
+        "text": "Melting of ice: some of the ice will melt; Temperature change: the overall temperature of the water will remain the same"
+      },
+      {
+        "label": "C",
+        "text": "Melting of ice: none of the ice will melt; Temperature change: the temperature of the ice and water will remain the same"
+      },
+      {
+        "label": "D",
+        "text": "Melting of ice: none of the ice will melt; Temperature change: the overall temperature of the water will fall"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Thermal energy transfer requires a temperature gradient. Since both the ice and the water are at $0^{\\circ}\\text{C}$, they are in thermal equilibrium. No net heat will flow from the water to the ice, meaning no phase change (melting) will occur and the temperature of the system will remain constant.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2008 HL Q17 C.png"
+  },
+  {
+    "id": "Nov_2009_HL_Q11",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2009,
+      "month": "Nov",
+      "session_label": "Nov 2009",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2009 HL Q11 A.png"
+    },
+    "question_number": 11,
+    "content_markdown": "Tanya heats $100\\text{ g}$ of a liquid with an electric heater which has a constant power output of $60\\text{ W}$. After $100\\text{ s}$ the rise in temperature is $40\\text{ K}$. The specific heat capacity of the liquid in $\\text{J\\,kg}^{-1}\\text{K}^{-1}$ is calculated from which of the following?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{60 \\times 100}{0.1 \\times 40}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{60 \\times 0.1}{40}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{0.1 \\times 40}{60}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{60}{40}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "To find the specific heat capacity $c$, we use the formula $Q = mc\\Delta T$, where $Q$ is the energy supplied. Since energy is power multiplied by time ($Q = P \\times t$), we have $P \\times t = mc\\Delta T$. Rearranging for $c$ gives $c = \\frac{P \\times t}{m \\times \\Delta T}$. Substituting the values (converting $100\\text{ g}$ to $0.1\\text{ kg}$), we get $c = \\frac{60 \\times 100}{0.1 \\times 40}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2009 HL Q11 A.png"
+  },
+  {
+    "id": "Nov_2009_HL_Q36",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2009,
+      "month": "Nov",
+      "session_label": "Nov 2009",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2009 HL Q36 D.png"
+    },
+    "question_number": 36,
+    "content_markdown": "Venus and Earth may be regarded as behaving as black bodies. The mean temperature at the surface of Venus is about $600\\text{ K}$ and at the surface of Earth is about $300\\text{ K}$. Which of the following is the best estimate for the ratio\n\n$$\\frac{\\text{power radiated per unit area on Earth}}{\\text{power radiated per unit area on Venus}}?$$",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present, only text and mathematical expressions.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{4}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{1}{8}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{1}{16}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "According to the Stefan-Boltzmann law, the power radiated per unit area (intensity) of a black body is proportional to the fourth power of its absolute temperature ($P/A = \\sigma T^4$). Given $T_{\\text{Earth}} = 300\\text{ K}$ and $T_{\\text{Venus}} = 600\\text{ K}$, the ratio of temperatures is $1/2$. Therefore, the ratio of power radiated per unit area is $(1/2)^4 = 1/16$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2009 HL Q36 D.png"
+  },
+  {
+    "id": "Nov_2010_HL_Q36",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2010,
+      "month": "Nov",
+      "session_label": "Nov 2010",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2010 HL Q36 D.png"
+    },
+    "question_number": 36,
+    "content_markdown": "The diagram shows the variation with wavelength of the power per unit wavelength $I$ radiated from an area of $1\\text{ m}^2$ of two different bodies.\n\nWhich of the following is a correct comparison of the temperature and of the emissivity of the two bodies?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph showing two blackbody radiation curves. The y-axis is labeled 'I' and the x-axis is labeled 'wavelength'. Both curves start at the origin, rise to a peak, and then decay. The peaks occur at different wavelengths and have slightly different heights.",
+      "labels_to_preserve": [
+        "I",
+        "wavelength",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Temperature: same; Emissivity: same"
+      },
+      {
+        "label": "B",
+        "text": "Temperature: same; Emissivity: different"
+      },
+      {
+        "label": "C",
+        "text": "Temperature: different; Emissivity: same"
+      },
+      {
+        "label": "D",
+        "text": "Temperature: different; Emissivity: different"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "According to Wien's displacement law, the peak wavelength $\\lambda_{\\text{max}}$ is inversely proportional to the absolute temperature $T$. Since the two curves have peaks at different wavelengths, their temperatures must be different. Furthermore, the total power radiated (area under the curve) and the peak intensities differ; since the temperatures are different, the emissivities could also be different to produce these specific curves, but the primary indicator for temperature is the shift in peak wavelength.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2010 HL Q36 D.png"
+  },
+  {
+    "id": "Nov_2010_HL_Q8",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2010,
+      "month": "Nov",
+      "session_label": "Nov 2010",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2010 HL Q8 A.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A system consists of an ice cube placed in a cup of water. The system is thermally insulated from its surroundings. The water is originally at $20^{\\circ}\\text{C}$. Which graph best shows the variation of total internal energy $U$ of the system with time $t$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs showing internal energy U versus time t. Graph A shows a horizontal line. Graph B shows an increasing curve with increasing gradient. Graph C shows a decreasing curve with decreasing gradient. Graph D shows an increasing straight line.",
+      "labels_to_preserve": [
+        "U",
+        "t",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A horizontal line showing constant internal energy over time."
+      },
+      {
+        "label": "B",
+        "text": "A curve showing internal energy increasing at an increasing rate over time."
+      },
+      {
+        "label": "C",
+        "text": "A curve showing internal energy decreasing over time."
+      },
+      {
+        "label": "D",
+        "text": "A straight line showing internal energy increasing at a constant rate over time."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The key phrase is 'thermally insulated from its surroundings'. According to the First Law of Thermodynamics, if no heat enters or leaves the system ($Q=0$) and no work is done on or by the system ($W=0$), the change in internal energy $\\Delta U$ must be zero. Therefore, the total internal energy $U$ remains constant regardless of the phase changes or temperature changes occurring internally between the ice and the water.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2010 HL Q8 A.png"
+  },
+  {
+    "id": "Nov_2010_HL_Q9",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2010,
+      "month": "Nov",
+      "session_label": "Nov 2010",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2010 HL Q9 B.png"
+    },
+    "question_number": 9,
+    "content_markdown": "An ice cube and an iceberg are both at a temperature of $0^{\\circ}\\text{C}$. Which of the following is a correct comparison of the average random kinetic energy and the total kinetic energy of the molecules of the ice cube and the iceberg?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table comparing average random kinetic energy and total kinetic energy for options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Average random kinetic energy",
+        "Total kinetic energy"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Average random kinetic energy: same; Total kinetic energy: same"
+      },
+      {
+        "label": "B",
+        "text": "Average random kinetic energy: same; Total kinetic energy: different"
+      },
+      {
+        "label": "C",
+        "text": "Average random kinetic energy: different; Total kinetic energy: same"
+      },
+      {
+        "label": "D",
+        "text": "Average random kinetic energy: different; Total kinetic energy: different"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Temperature is a measure of the average random kinetic energy of the molecules in a substance. Since both the ice cube and the iceberg are at $0^{\\circ}\\text{C}$, their average random kinetic energies must be the same. However, total kinetic energy depends on the total number of molecules (mass). Because an iceberg has significantly more mass than an ice cube, their total kinetic energies are different.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2010 HL Q9 B.png"
+  },
+  {
+    "id": "Nov_2011_HL_Q9",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2011,
+      "month": "Nov",
+      "session_label": "Nov 2011",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2011 HL Q9 C.png"
+    },
+    "question_number": 9,
+    "content_markdown": "Which of the following is equivalent to a temperature of $350\\text{ K}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$-623^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "B",
+        "text": "$-77^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "C",
+        "text": "$+77^{\\circ}\\text{C}$"
+      },
+      {
+        "label": "D",
+        "text": "$+623^{\\circ}\\text{C}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "To convert from Kelvin ($K$) to Celsius ($^{\\circ}C$), we use the formula $T(^{\\circ}C) = T(K) - 273$. Substituting the given value: $350 - 273 = 77$. Therefore, $350\\text{ K}$ is equivalent to $+77^{\\circ}\\text{C}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2011 HL Q9 C.png"
+  },
+  {
+    "id": "Nov_2015_HL_Q5",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2015,
+      "month": "Nov",
+      "session_label": "Nov 2015",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2015 HL Q5 A.png"
+    },
+    "question_number": 5,
+    "content_markdown": "A heat engine does $300\\text{ J}$ of work during one cycle. In this cycle $900\\text{ J}$ of energy is wasted. What is the efficiency of the engine?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.25"
+      },
+      {
+        "label": "B",
+        "text": "0.33"
+      },
+      {
+        "label": "C",
+        "text": "0.50"
+      },
+      {
+        "label": "D",
+        "text": "0.75"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Efficiency is defined as the ratio of useful work output to the total energy input. The total energy input is the sum of the useful work done ($300\\text{ J}$) and the energy wasted ($900\\text{ J}$), which equals $1200\\text{ J}$. Therefore, efficiency = $300 / 1200 = 0.25$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2015 HL Q5 A.png"
+  },
+  {
+    "id": "Nov_2015_HL_Q7",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2015,
+      "month": "Nov",
+      "session_label": "Nov 2015",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2015 HL Q7 B.png"
+    },
+    "question_number": 7,
+    "content_markdown": "When $1800\\text{ J}$ of energy is supplied to a mass $m$ of liquid in a container, the temperature of the liquid and the container changes by $10\\text{ K}$. When the mass of the liquid is doubled to $2m$, $3000\\text{ J}$ of energy is required to change the temperature of the liquid and container by $10\\text{ K}$. What is the specific heat capacity of the liquid in $\\text{J kg}^{-1}\\text{ K}^{-1}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{60}{m}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{120}{m}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{180}{m}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{240}{m}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Let $C$ be the heat capacity of the container and $c$ be the specific heat capacity of the liquid. For the first case: $1800 = (mc + C) \\times 10$. For the second case: $3000 = (2mc + C) \\times 10$. Dividing by 10 gives $180 = mc + C$ and $300 = 2mc + C$. Subtracting the first equation from the second yields $120 = mc$, so $c = \\frac{120}{m}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2015 HL Q7 B.png"
+  },
+  {
+    "id": "Nov_2016_HL_Q25",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2016,
+      "month": "Nov",
+      "session_label": "Nov 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2016 HL Q25 A.png"
+    },
+    "question_number": 25,
+    "content_markdown": "X and Y are two spherical black-body radiators that emit the same total power. The absolute temperature of X is half that of Y.\n\nWhat is $\\frac{\\text{radius of X}}{\\text{radius of Y}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "8"
+      },
+      {
+        "label": "C",
+        "text": "16"
+      },
+      {
+        "label": "D",
+        "text": "32"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "According to the Stefan-Boltzmann law, the total power emitted by a black body is $P = \\sigma A T^4$. For a sphere, $A = 4\\pi r^2$, so $P \\propto r^2 T^4$. Since both radiators have the same power, $r_X^2 T_X^4 = r_Y^2 T_Y^4$. Rearranging for the ratio of radii gives $\\frac{r_X}{r_Y} = \\sqrt{\\frac{T_Y^4}{T_X^4}} = (\\frac{T_Y}{T_X})^2$. Given $T_X = \\frac{1}{2}T_Y$, the ratio $\\frac{T_Y}{T_X} = 2$. Therefore, $\\frac{r_X}{r_Y} = 2^2 = 4$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2016 HL Q25 A.png"
+  },
+  {
+    "id": "Nov_2016_HL_Q9",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2016,
+      "month": "Nov",
+      "session_label": "Nov 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2016 HL Q9 D.png"
+    },
+    "question_number": 9,
+    "content_markdown": "Energy is supplied at a constant rate to a fixed mass of a material. The material begins as a solid. The graph shows the variation of the temperature of the material with time.\n\nThe specific heat capacities of the solid, liquid and gaseous forms of the material are $c_s$, $c_l$ and $c_g$ respectively. What can be deduced about the values of $c_s$, $c_l$ and $c_g$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A temperature-time graph showing three sloped regions separated by two horizontal plateaus. The first slope (solid) is the steepest, the second slope (liquid) is the least steep, and the third slope (gas) has an intermediate steepness.",
+      "labels_to_preserve": [
+        "temperature",
+        "time"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$c_s > c_g > c_l$"
+      },
+      {
+        "label": "B",
+        "text": "$c_l > c_s > c_g$"
+      },
+      {
+        "label": "C",
+        "text": "$c_l > c_g > c_s$"
+      },
+      {
+        "label": "D",
+        "text": "$c_g > c_s > c_l$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Since energy is supplied at a constant rate ($P = \\frac{Q}{t}$), the power is constant. From the specific heat formula $Q = mc\\Delta T$, we can derive $P = mc\\frac{\\Delta T}{t}$, which means the gradient of the temperature-time graph is $\\frac{\\Delta T}{t} = \\frac{P}{mc}$. Because $P$ and $m$ are constant, the specific heat capacity $c$ is inversely proportional to the gradient of the graph. Looking at the slopes: the liquid phase has the shallowest gradient (highest $c$), the gas phase has a medium gradient, and the solid phase has the steepest gradient (lowest $c$). Therefore, $c_l > c_g > c_s$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2016 HL Q9 D.png"
+  },
+  {
+    "id": "Nov_2017_HL_Q8",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2017,
+      "month": "Nov",
+      "session_label": "Nov 2017",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2017 HL Q8 B.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A $1.0\\text{ kW}$ heater supplies energy to a liquid of mass $0.50\\text{ kg}$. The temperature of the liquid changes by $80\\text{ K}$ in a time of $200\\text{ s}$. The specific heat capacity of the liquid is $4.0\\text{ kJ kg}^{-1}\\text{ K}^{-1}$. What is the average power lost by the liquid?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0"
+      },
+      {
+        "label": "B",
+        "text": "200 W"
+      },
+      {
+        "label": "C",
+        "text": "800 W"
+      },
+      {
+        "label": "D",
+        "text": "1600 W"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "First, calculate the net power used to heat the liquid using $P_{net} = \\frac{mc\\Delta T}{t}$. Here, $P_{net} = \\frac{0.50 \\times 4000 \\times 80}{200} = \\frac{160000}{200} = 800\\text{ W}$. The heater supplies $1000\\text{ W}$ ($1.0\\text{ kW}$), but only $800\\text{ W}$ is actually increasing the liquid's temperature. Therefore, the power lost to the surroundings is $1000\\text{ W} - 800\\text{ W} = 200\\text{ W}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2017 HL Q8 B.png"
+  },
+  {
+    "id": "Nov_2017_HL_Q9",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2017,
+      "month": "Nov",
+      "session_label": "Nov 2017",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2017 HL Q9 B.png"
+    },
+    "question_number": 9,
+    "content_markdown": "The fraction of the internal energy that is due to molecular vibration varies in the different states of matter. What gives the order from highest fraction to lowest fraction of internal energy due to molecular vibration?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "liquid > gas > solid"
+      },
+      {
+        "label": "B",
+        "text": "solid > liquid > gas"
+      },
+      {
+        "label": "C",
+        "text": "solid > gas > liquid"
+      },
+      {
+        "label": "D",
+        "text": "gas > liquid > solid"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In a solid, molecules are held in a fixed lattice and their kinetic energy is almost entirely vibrational. In a liquid, there is more translational and rotational movement, reducing the vibrational fraction. In an ideal gas, the internal energy is entirely translational kinetic energy with no vibrational component considered in the basic model, making it the lowest fraction.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2017 HL Q9 B.png"
+  },
+  {
+    "id": "Nov_2018_HL_Q8",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2018,
+      "month": "Nov",
+      "session_label": "Nov 2018",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2018 HL Q8 C.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A solid substance has just reached its melting point. Thermal energy is supplied to the substance at a constant rate. Which graph shows the variation of the temperature $T$ of the substance with energy $E$ supplied?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs labeled A, B, C, and D showing temperature T on the y-axis and energy E on the x-axis. Each graph shows a different combination of linear segments representing heating and phase changes.",
+      "labels_to_preserve": [
+        "T",
+        "E"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "When a substance reaches its melting point, any additional thermal energy supplied is used to break intermolecular bonds (latent heat) rather than increasing the kinetic energy of the particles. Therefore, the temperature remains constant (a horizontal line on the $T$ vs $E$ graph) until the phase change is complete. Since the substance has 'just reached' its melting point, the graph must start with a horizontal section.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2018 HL Q8 C.png"
+  },
+  {
+    "id": "Nov_2019_HL_Q8",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2019,
+      "month": "Nov",
+      "session_label": "Nov 2019",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2019 HL Q8 A.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A mass $m$ of water is at a temperature of $290\\text{ K}$. The specific heat capacity of water is $c$. Ice, at its melting point, is added to the water to reduce the water temperature to the freezing point. The specific latent heat of fusion for ice is $L$. What is the minimum mass of ice that is required?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{17mc}{L}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{290mc}{L}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{17mL}{c}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{290mL}{c}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "To solve this, we use the principle of conservation of energy: Energy lost by water = Energy gained by ice. The water cools from $290\\text{ K}$ to the freezing point of water ($273\\text{ K}$), so $\\Delta T = 290 - 273 = 17\\text{ K}$. The energy lost by the water is $Q = mc\\Delta T = m \\cdot c \\cdot 17$. The ice is already at its melting point, so it only needs energy to melt: $Q = M_{ice}L$. Equating the two: $17mc = M_{ice}L$, which gives $M_{ice} = \\frac{17mc}{L}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2019 HL Q8 A.png"
+  },
+  {
+    "id": "Nov_2020_HL_Q8",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2020,
+      "month": "Nov",
+      "session_label": "Nov 2020",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2020 HL Q8 B.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A substance in the gas state has a density about 1000 times less than when it is in the liquid state. The diameter of a molecule is $d$. What is the best estimate of the average distance between molecules in the gas state?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$d$"
+      },
+      {
+        "label": "B",
+        "text": "$10d$"
+      },
+      {
+        "label": "C",
+        "text": "$100d$"
+      },
+      {
+        "label": "D",
+        "text": "$1000d$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Density is inversely proportional to volume. If the density of the gas is 1000 times less than the liquid, the volume occupied per molecule in the gas is 1000 times greater than in the liquid. Since volume scales with the cube of the linear distance ($V \\propto r^3$), the average distance between molecules increases by the cube root of the volume factor. The cube root of 1000 is 10, so the distance becomes $10d$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2020 HL Q8 B.png"
+  },
+  {
+    "id": "Nov_2021_HL_Q8",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2021,
+      "month": "Nov",
+      "session_label": "Nov 2021",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2021 HL Q8 B.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A liquid is vaporized to a gas at a constant temperature.\n\nThree quantities of the substance are the\n\nI. total intermolecular potential energy\nII. root mean square speed of the molecules\nIII. average distance between the molecules.\n\nWhich quantities are **greater** for the substance in the gas phase compared to the liquid phase?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I and II only"
+      },
+      {
+        "label": "B",
+        "text": "I and III only"
+      },
+      {
+        "label": "C",
+        "text": "II and III only"
+      },
+      {
+        "label": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "During vaporization at a constant temperature, the average kinetic energy (and thus the root mean square speed) remains constant because temperature is a measure of average kinetic energy. However, energy is added to overcome intermolecular forces, which increases the total intermolecular potential energy (I). Additionally, as a liquid turns into a gas, the molecules move much further apart, increasing the average distance between them (III).",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2021 HL Q8 B.png"
+  },
+  {
+    "id": "Nov_2021_HL_Q9",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2021,
+      "month": "Nov",
+      "session_label": "Nov 2021",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2021 HL Q9 B.png"
+    },
+    "question_number": 9,
+    "content_markdown": "An insulated container of negligible mass contains a mass $2M$ of a liquid. A piece of a metal of mass $M$ is dropped into the liquid. The temperature of the liquid increases by $10\\,^{\\circ}\\text{C}$ and the temperature of the metal decreases by $80\\,^{\\circ}\\text{C}$ in the same time.\n\nWhat is $\\frac{\\text{specific heat capacity of the liquid}}{\\text{specific heat capacity of the metal}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "4"
+      },
+      {
+        "label": "C",
+        "text": "8"
+      },
+      {
+        "label": "D",
+        "text": "16"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Using the principle of conservation of energy, the heat lost by the metal equals the heat gained by the liquid: $Q_{\\text{metal}} = Q_{\\text{liquid}}$. This gives $M \\cdot c_{\\text{metal}} \\cdot \\Delta T_{\\text{metal}} = (2M) \\cdot c_{\\text{liquid}} \\cdot \\Delta T_{\\text{liquid}}$. Substituting the values: $M \\cdot c_{\\text{metal}} \\cdot 80 = 2M \\cdot c_{\\text{liquid}} \\cdot 10$. Simplifying the equation: $80 \\cdot c_{\\text{metal}} = 20 \\cdot c_{\\text{liquid}}$. Therefore, $\\frac{c_{\\text{liquid}}}{c_{\\text{metal}}} = \\frac{80}{20} = 4$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2021 HL Q9 B.png"
+  },
+  {
+    "id": "Nov_2022_HL_Q10",
+    "topic": "Thermal Energy Transfers",
+    "topic_code": "B1",
+    "sub_topic": "Thermal Energy Transfers",
+    "paper": {
+      "year": 2022,
+      "month": "Nov",
+      "session_label": "Nov 2022",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2022 HL Q10 B.png"
+    },
+    "question_number": 10,
+    "content_markdown": "Three samples of the same liquid are mixed in an insulated container. The masses and initial temperatures of the samples are:\n\n| | Mass | Initial temperature / $^\\circ\\text{C}$ |\n| :--- | :---: | :---: |\n| Sample 1 | $2M$ | 60 |\n| Sample 2 | $2M$ | 30 |\n| Sample 3 | $M$ | 0 |\n\nWhat is the equilibrium temperature of the mixture?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the mass and initial temperature for three different samples of the same liquid.",
+      "labels_to_preserve": [
+        "Sample 1",
+        "Sample 2",
+        "Sample 3",
+        "Mass",
+        "Initial temperature/\u00b0C",
+        "2M",
+        "M",
+        "60",
+        "30",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$45^\\circ\\text{C}$"
+      },
+      {
+        "label": "B",
+        "text": "$36^\\circ\\text{C}$"
+      },
+      {
+        "label": "C",
+        "text": "$30^\\circ\\text{C}$"
+      },
+      {
+        "label": "D",
+        "text": "$24^\\circ\\text{C}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Since the samples are of the same liquid, they have the same specific heat capacity $c$. In an insulated container, the total thermal energy is conserved. The final equilibrium temperature $T_f$ is the weighted average of the initial temperatures: $T_f = \\frac{m_1 T_1 + m_2 T_2 + m_3 T_3}{m_1 + m_2 + m_3}$. Substituting the values: $T_f = \\frac{(2M \\times 60) + (2M \\times 30) + (M \\times 0)}{2M + 2M + M} = \\frac{120M + 60M + 0}{5M} = \\frac{180M}{5M} = 36^\\circ\\text{C}$.",
+    "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2022 HL Q10 B.png"
+  }
+]

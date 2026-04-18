@@ -1,0 +1,43 @@
+{
+  "id": "Specimen_2016_HL_Q12",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave characteristics",
+  "paper": {
+    "year": 2016,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2016 HL Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "Which of the following, if any, will be transferred in the direction of propagation of a sound wave as it passes through the air?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Mass only"
+    },
+    {
+      "label": "B",
+      "text": "Energy only"
+    },
+    {
+      "label": "C",
+      "text": "Both mass and energy"
+    },
+    {
+      "label": "D",
+      "text": "Neither mass nor energy"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "A fundamental property of progressive waves is that they transfer energy from one point to another without the net transfer of matter (mass). In a sound wave, air molecules oscillate about a fixed equilibrium position but do not travel with the wave.",
+  "source_image_path": "C2-Wave-Model/Specimen Paper 2016 HL Q12 B.png"
+}

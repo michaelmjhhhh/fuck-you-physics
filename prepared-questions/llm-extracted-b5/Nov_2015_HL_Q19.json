@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2015_HL_Q19",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "B.5 Current and circuits",
+  "paper": {
+    "year": 2015,
+    "month": "Nov",
+    "session_label": "Nov 2015",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2015 HL Q19 C.png"
+  },
+  "question_number": 19,
+  "content_markdown": "A cylindrical resistor of length $l$ is made from a metal of mass $m$. It has a resistance $R$.\n\nTwo resistors, each of length $2l$ and mass $\\frac{m}{2}$, are then created from the same volume of the metal.\n\nWhat is the resistance of the two resistors when connected in parallel?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$R$"
+    },
+    {
+      "label": "B",
+      "text": "$2R$"
+    },
+    {
+      "label": "C",
+      "text": "$4R$"
+    },
+    {
+      "label": "D",
+      "text": "$8R$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "First, determine the resistance of one new resistor. Since mass is halved and length is doubled, and density is constant, the volume of each new resistor is half the original ($V' = V/2$). Since $V = A \\times l$, if $l' = 2l$, then $A'$ must be $A/4$ to satisfy the volume change. Resistance is given by $R = \\rho \\frac{l}{A}$. For the new resistor, $R_{new} = \\rho \\frac{2l}{A/4} = 8 \\rho \\frac{l}{A} = 8R$. When two such resistors ($8R$ each) are connected in parallel, the total resistance is $\\frac{8R}{2} = 4R$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2015 HL Q19 C.png"
+}

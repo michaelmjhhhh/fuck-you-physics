@@ -1,0 +1,48 @@
+{
+  "id": "May_2014_HL_TZ2_Q14",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ2 Q14 D.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A particle executes simple harmonic motion (SHM) with period $T$.\n\nWhich sketch graph correctly shows how the total energy $E$ of the particle varies with time $t$ from $t = 0$ to $t = \\frac{T}{2}$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs labeled A, B, C, and D showing different variations of energy E against time t from 0 to T/2. Graph A shows a single positive sine-like hump. Graph B shows a U-shaped curve starting and ending at a maximum. Graph C shows a full sine wave cycle including negative values. Graph D shows a horizontal straight line at a constant positive value.",
+    "labels_to_preserve": [
+      "E",
+      "t",
+      "0",
+      "T/2"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "In simple harmonic motion, while kinetic energy and potential energy oscillate and exchange values, the total energy (the sum of the two) remains constant over time, assuming no resistive forces are present. Therefore, the graph of total energy $E$ against time $t$ must be a horizontal straight line.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2014 HL TZ2 Q14 D.png"
+}

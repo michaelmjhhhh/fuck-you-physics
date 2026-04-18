@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ2_Q12",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ2 Q12 D.png"
+  },
+  "question_number": 12,
+  "content_markdown": "An organ pipe of length $L$ is open at one end and closed at the other. Which of the following gives the wavelength of the second harmonic standing wave in the pipe?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{L}{2}$"
+    },
+    {
+      "label": "B",
+      "text": "$L$"
+    },
+    {
+      "label": "C",
+      "text": "$4L$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{4L}{3}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "For a pipe closed at one end and open at the other, only odd harmonics exist ($n = 1, 3, 5, ...$). The fundamental (first harmonic) has $L = \\frac{\\lambda}{4}$, so $\\lambda_1 = 4L$. The next possible standing wave is the third harmonic (often referred to as the second harmonic in some contexts of this specific boundary condition problem, or the first overtone), where $L = \\frac{3\\lambda}{4}$. Solving for wavelength gives $\\lambda = \\frac{4L}{3}$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2010 HL TZ2 Q12 D.png"
+}

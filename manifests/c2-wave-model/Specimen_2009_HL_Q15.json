@@ -1,0 +1,26 @@
+{
+  "id": "Specimen_2009_HL_Q15",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "",
+  "paper": {
+    "year": 2009,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2009",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2009 HL Q15 B.png"
+  },
+  "question_number": 15,
+  "correct_answer": "B",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "C2-Wave-Model/Specimen Paper 2009 HL Q15 B.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

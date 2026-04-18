@@ -1,0 +1,43 @@
+{
+  "id": "May_2019_HL_TZ2_Q12",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ2 Q12 D.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A liquid of mass $m$ and specific heat capacity $c$ cools. The rate of change of the temperature of the liquid is $k$. What is the rate at which thermal energy is transferred from the liquid?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{mc}{k}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{k}{mc}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{1}{kmc}$"
+    },
+    {
+      "label": "D",
+      "text": "$kmc$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The thermal energy $Q$ is given by $Q = mc\\Delta T$. To find the rate of energy transfer (power), we differentiate with respect to time: $\\frac{dQ}{dt} = mc\\frac{dT}{dt}$. Since the rate of change of temperature $\\frac{dT}{dt}$ is given as $k$, the rate of energy transfer is simply $mc \\times k$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2019 HL TZ2 Q12 D.png"
+}

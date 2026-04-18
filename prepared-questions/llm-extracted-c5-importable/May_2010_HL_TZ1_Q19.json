@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ1_Q19",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ1 Q19 D.png"
+  },
+  "question_number": 19,
+  "content_markdown": "Which of the following wave phenomena is associated with blood flow measurements?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Polarization"
+    },
+    {
+      "label": "B",
+      "text": "Diffraction"
+    },
+    {
+      "label": "C",
+      "text": "Refraction"
+    },
+    {
+      "label": "D",
+      "text": "Doppler effect"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Blood flow measurements often utilize ultrasound. When ultrasound waves reflect off moving red blood cells, the frequency of the reflected wave shifts relative to the incident wave. This frequency shift is known as the Doppler effect and is used to calculate the velocity of the blood flow.",
+  "source_image_path": "C5-Doppler-Effect/May 2010 HL TZ1 Q19 D.png"
+}

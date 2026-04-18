@@ -1,0 +1,46 @@
+{
+  "id": "May_2012_HL_TZ1_Q10",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Resonance",
+  "paper": {
+    "year": 2012,
+    "month": "May",
+    "session_label": "May 2012",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2012 HL TZ1 Q10 D.png"
+  },
+  "question_number": 10,
+  "content_markdown": "Which of the following gives the conditions for maximum amplitude in forced, but damped, oscillations?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four combinations of driving frequency and damping levels.",
+    "labels_to_preserve": [
+      "Driving frequency",
+      "Damping"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Driving frequency: greater than natural frequency; Damping: as large as possible"
+    },
+    {
+      "label": "B",
+      "text": "Driving frequency: equal to natural frequency; Damping: as large as possible"
+    },
+    {
+      "label": "C",
+      "text": "Driving frequency: greater than natural frequency; Damping: as small as possible"
+    },
+    {
+      "label": "D",
+      "text": "Driving frequency: equal to natural frequency; Damping: as small as possible"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Resonance occurs when the driving frequency is equal (or very close) to the natural frequency of the system, resulting in maximum energy transfer. Additionally, damping removes energy from the system; therefore, to achieve the absolute maximum amplitude, damping should be minimized so that energy is not dissipated as heat.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2012 HL TZ1 Q10 D.png"
+}

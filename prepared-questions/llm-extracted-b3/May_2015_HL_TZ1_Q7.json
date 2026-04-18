@@ -1,0 +1,43 @@
+{
+  "id": "May_2015_HL_TZ1_Q7",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ1 Q7 B.png"
+  },
+  "question_number": 7,
+  "content_markdown": "In the kinetic model of an ideal gas, which of the following is **not** assumed?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The molecules collide elastically."
+    },
+    {
+      "label": "B",
+      "text": "The kinetic energy of a given molecule is constant."
+    },
+    {
+      "label": "C",
+      "text": "The time taken for a molecular collision is much less than the time between collisions."
+    },
+    {
+      "label": "D",
+      "text": "The intermolecular potential energy of the molecules is zero."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The kinetic model assumes that molecules are in constant random motion and exchange energy during collisions. While the total kinetic energy of the gas remains constant at a fixed temperature, the kinetic energy of an individual molecule changes every time it collides with another molecule or the container walls. Therefore, the assumption that a single molecule's kinetic energy is constant is incorrect.",
+  "source_image_path": "B3-Gas-Laws/May 2015 HL TZ1 Q7 B.png"
+}

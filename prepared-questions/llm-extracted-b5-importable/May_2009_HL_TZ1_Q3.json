@@ -1,0 +1,43 @@
+{
+  "id": "May_2009_HL_TZ1_Q3",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Energy transfers and efficiency",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ1 Q3 D.png"
+  },
+  "question_number": 3,
+  "content_markdown": "A lift (elevator) is operated by an electric motor. It moves between the $10^{\\text{th}}$ floor and the $2^{\\text{nd}}$ floor at a constant speed. One main energy transformation during this journey is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "gravitational potential energy $\\rightarrow$ kinetic energy."
+    },
+    {
+      "label": "B",
+      "text": "electrical energy $\\rightarrow$ kinetic energy."
+    },
+    {
+      "label": "C",
+      "text": "kinetic energy $\\rightarrow$ thermal energy."
+    },
+    {
+      "label": "D",
+      "text": "electrical energy $\\rightarrow$ thermal energy."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Since the lift moves at a constant speed, its kinetic energy does not change. As it moves from the 10th floor to the 2nd floor, it loses gravitational potential energy. However, the question asks for a 'main energy transformation' during the journey operated by an electric motor. In real-world motors, electrical energy is converted into work (to move the lift) and a significant portion is dissipated as thermal energy due to resistance and friction. Among the choices, electrical energy to thermal energy represents a valid transformation occurring in the system's components.",
+  "source_image_path": "B5-Current-and-Circuits/May 2009 HL TZ1 Q3 D.png"
+}

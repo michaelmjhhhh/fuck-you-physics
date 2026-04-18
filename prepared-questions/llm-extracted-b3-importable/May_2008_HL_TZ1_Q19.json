@@ -1,0 +1,43 @@
+{
+  "id": "May_2008_HL_TZ1_Q19",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2008,
+    "month": "May",
+    "session_label": "May 2008",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2008 HL TZ1 19 A.png"
+  },
+  "question_number": 19,
+  "content_markdown": "A sample of an ideal gas is contained in a cylinder. The volume of the gas is suddenly decreased. A student makes the following statements to explain the change in pressure of the gas.\n\nI. The average kinetic energy of the gas atoms increases.\nII. The atoms of the gas hit the walls of the cylinder more frequently.\nIII. There are more atoms that are able to collide with the walls of the cylinder.\n\nWhich of these statements is true?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "I and II only"
+    },
+    {
+      "label": "B",
+      "text": "I and III only"
+    },
+    {
+      "label": "C",
+      "text": "II and III only"
+    },
+    {
+      "label": "D",
+      "text": "I, II and III"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "When a gas is 'suddenly' compressed, it is an adiabatic process where work is done on the gas, increasing its internal energy and thus its temperature (Statement I). Because the volume is smaller, the number of collisions per unit area per unit time increases (Statement II). Statement III is incorrect because the total number of atoms remains constant; they aren't 'more able' to collide, they just have less space to move in.",
+  "source_image_path": "B3-Gas-Laws/May 2008 HL TZ1 19 A.png"
+}

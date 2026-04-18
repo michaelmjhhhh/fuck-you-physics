@@ -1,0 +1,43 @@
+{
+  "id": "May_2017_HL_TZ2_Q26",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ2 Q26 C.png"
+  },
+  "question_number": 26,
+  "content_markdown": "A mass oscillates with simple harmonic motion (SHM) of amplitude $x_0$. Its total energy is $16\\text{ J}$.\n\nWhat is the kinetic energy of the mass when its displacement is $\\frac{x_0}{2}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "4 J"
+    },
+    {
+      "label": "B",
+      "text": "8 J"
+    },
+    {
+      "label": "C",
+      "text": "12 J"
+    },
+    {
+      "label": "D",
+      "text": "16 J"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In SHM, total energy $E_T$ is proportional to the square of the amplitude ($E_T \\propto x_0^2$). The potential energy $E_P$ at a displacement $x$ is proportional to the square of that displacement ($E_P \\propto x^2$). When $x = \\frac{x_0}{2}$, the potential energy is $(\\frac{1}{2})^2 = \\frac{1}{4}$ of the total energy. Since $E_T = E_K + E_P$, the kinetic energy $E_K$ must be $1 - \\frac{1}{4} = \\frac{3}{4}$ of the total energy. Therefore, $E_K = \\frac{3}{4} \\times 16\\text{ J} = 12\\text{ J}$.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2017 HL TZ2 Q26 C.png"
+}

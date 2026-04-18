@@ -1,0 +1,47 @@
+{
+  "id": "May_2005_HL_TZ2_Q37",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2005,
+    "month": "May",
+    "session_label": "May 2005",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2005 HL TZ2 Q37 D.png"
+  },
+  "question_number": 37,
+  "content_markdown": "Which of the following graphs best shows how photon energy $E$ varies with the wavelength $\\lambda$ of the light?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs showing the relationship between photon energy E on the y-axis and wavelength lambda on the x-axis. Graph A is a linear increase, Graph B is an exponential/upward curve, Graph C is a linear decrease, and Graph D is a hyperbolic decrease.",
+    "labels_to_preserve": [
+      "E",
+      "\\lambda",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The energy of a photon is given by the equation $E = \\frac{hc}{\\lambda}$. This represents an inverse relationship where $E \\propto \\frac{1}{\\lambda}$. Mathematically, this produces a rectangular hyperbola graph where the energy decreases as the wavelength increases, approaching the axes asymptotically. Graph D correctly illustrates this non-linear inverse relationship.",
+  "source_image_path": "C2-Wave-Model/May 2005 HL TZ2 Q37 D.png"
+}

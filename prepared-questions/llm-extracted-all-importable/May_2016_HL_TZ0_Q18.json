@@ -1,0 +1,43 @@
+{
+  "id": "May_2016_HL_TZ0_Q18",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2016,
+    "month": "May",
+    "session_label": "May 2016",
+    "level": "HL",
+    "timezone": "TZ0",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2016 HL TZ0 Q18 D.png"
+  },
+  "question_number": 18,
+  "content_markdown": "A solar panel has surface area $0.40\\text{ m}^2$ and efficiency $50\\%$. The average intensity of radiation reaching the surface of the panel is $0.25\\text{ kW m}^{-2}$. What is the average power output from an array of 10 of these solar panels?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$0.5\\text{ W}$"
+    },
+    {
+      "label": "B",
+      "text": "$5\\text{ W}$"
+    },
+    {
+      "label": "C",
+      "text": "$50\\text{ W}$"
+    },
+    {
+      "label": "D",
+      "text": "$500\\text{ W}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "To find the total power output, first calculate the power incident on one panel: $P_{\\text{in}} = \\text{Intensity} \\times \\text{Area} = 250\\text{ W m}^{-2} \\times 0.40\\text{ m}^2 = 100\\text{ W}$. With $50\\%$ efficiency, the power output of one panel is $50\\text{ W}$. For an array of 10 panels, the total power output is $10 \\times 50\\text{ W} = 500\\text{ W}$.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2016 HL TZ0 Q18 D.png"
+}

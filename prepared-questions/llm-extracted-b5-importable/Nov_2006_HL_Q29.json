@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2006_HL_Q29",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric circuits",
+  "paper": {
+    "year": 2006,
+    "month": "Nov",
+    "session_label": "Nov 2006",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2006 HL Q29 C.png"
+  },
+  "question_number": 29,
+  "content_markdown": "In the circuit below, the battery has negligible internal resistance. Three identical lamps L, M and N of constant resistance are connected as shown.\n\nThe filament of lamp N breaks. Which **one** of the following shows the subsequent changes to the brightness of lamp L and lamp M?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a battery connected to a parallel combination of lamps L and N, which is then connected in series with lamp M.",
+    "labels_to_preserve": [
+      "L",
+      "M",
+      "N"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Lamp L: stays the same; Lamp M: decreases"
+    },
+    {
+      "label": "B",
+      "text": "Lamp L: increases; Lamp M: stays the same"
+    },
+    {
+      "label": "C",
+      "text": "Lamp L: increases; Lamp M: decreases"
+    },
+    {
+      "label": "D",
+      "text": "Lamp L: decreases; Lamp M: increases"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "When lamp N breaks, the total resistance of the parallel section (initially $R/2$) increases to $R$. This increases the total circuit resistance, causing the total current (which flows through M) to decrease, making M dimmer. However, because the parallel section now has a higher share of the total resistance, the potential difference across lamp L increases, making L brighter.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2006 HL Q29 C.png"
+}

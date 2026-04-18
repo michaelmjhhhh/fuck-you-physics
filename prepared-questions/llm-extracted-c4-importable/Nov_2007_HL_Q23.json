@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2007_HL_Q23",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2007,
+    "month": "Nov",
+    "session_label": "Nov 2007",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2007 HL Q23 A.png"
+  },
+  "question_number": 23,
+  "content_markdown": "The diagram below represents the fundamental (first harmonic) standing wave of sound inside a pipe.\n\nWhich of the following correctly represents the displacement of the air at P and Q?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a pipe closed at one end and open at the other. Inside, the fundamental standing wave envelope is shown with a node at the closed end and an antinode at the open end. Two points, P and Q, are marked inside the pipe, with Q being closer to the open end than P.",
+    "labels_to_preserve": [
+      "P",
+      "Q",
+      "pipe"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "P: short horizontal double-headed arrow; Q: long horizontal double-headed arrow"
+    },
+    {
+      "label": "B",
+      "text": "P: long horizontal double-headed arrow; Q: long horizontal double-headed arrow"
+    },
+    {
+      "label": "C",
+      "text": "P: short vertical double-headed arrow; Q: long vertical double-headed arrow"
+    },
+    {
+      "label": "D",
+      "text": "P: long vertical double-headed arrow; Q: long vertical double-headed arrow"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Sound waves in a pipe are longitudinal, meaning the air molecules oscillate parallel to the direction of wave propagation (horizontally in this diagram). In a standing wave, the amplitude of displacement increases from the node (closed end) to the antinode (open end). Since Q is closer to the open end than P, it will have a larger horizontal displacement amplitude than P.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2007 HL Q23 A.png"
+}

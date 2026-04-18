@@ -1,0 +1,50 @@
+{
+  "id": "May_2019_HL_TZ1_Q14",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ1 Q14 B.png"
+  },
+  "question_number": 14,
+  "content_markdown": "In an experiment to determine the speed of sound in air, a tube that is open at the top is filled with water and a vibrating tuning fork is held over the tube as the water is released through a valve.\n\nAn increase in intensity in the sound is heard for the first time when the air column length is $x$. The next increase is heard when the air column length is $y$.\n\nWhich expressions are approximately correct for the wavelength of the sound?\n\nI. $4x$\n\nII. $4y$\n\nIII. $\\frac{4y}{3}$",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a tuning fork over a vertical tube filled with liquid. The air column length from the top to the liquid surface is marked as x for the first resonance and y for the second resonance. A valve is at the bottom of the tube.",
+    "labels_to_preserve": [
+      "tuning fork",
+      "x",
+      "y",
+      "liquid",
+      "valve",
+      "not to scale"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "I and II"
+    },
+    {
+      "label": "B",
+      "text": "I and III"
+    },
+    {
+      "label": "C",
+      "text": "II and III"
+    },
+    {
+      "label": "D",
+      "text": "I, II and III"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The tube acts as a pipe closed at one end (the water surface). Resonance occurs when the length of the air column is an odd multiple of a quarter wavelength. The first resonance occurs at $L = \\frac{\\lambda}{4}$, so $x \\approx \\frac{\\lambda}{4} \\implies \\lambda \\approx 4x$. The second resonance occurs at $L = \\frac{3\\lambda}{4}$, so $y \\approx \\frac{3\\lambda}{4} \\implies \\lambda \\approx \\frac{4y}{3}$. Therefore, expressions I and III are correct.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2019 HL TZ1 Q14 B.png"
+}

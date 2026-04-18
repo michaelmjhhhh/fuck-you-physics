@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2005_HL_Q29",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Current and Circuits",
+  "paper": {
+    "year": 2005,
+    "month": "Nov",
+    "session_label": "Nov 2005",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2005 HL Q29 B.png"
+  },
+  "question_number": 29,
+  "content_markdown": "In the circuit below, the voltmeter has a resistance $100\\text{ k}\\Omega$. The battery has negligible internal resistance and e.m.f. $6\\text{ V}$.\n\nThe reading on the voltmeter is",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A circuit diagram showing a 6V battery connected to two 100kΩ resistors in series. A voltmeter with 100kΩ resistance is connected in parallel with the second resistor.",
+    "labels_to_preserve": [
+      "6 V",
+      "100 kΩ",
+      "V"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0 V."
+    },
+    {
+      "label": "B",
+      "text": "2 V."
+    },
+    {
+      "label": "C",
+      "text": "3 V."
+    },
+    {
+      "label": "D",
+      "text": "4 V."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The voltmeter is in parallel with the bottom $100\\text{ k}\\Omega$ resistor. Two $100\\text{ k}\\Omega$ resistors in parallel have an equivalent resistance of $50\\text{ k}\\Omega$. Now we have a potential divider with $100\\text{ k}\\Omega$ (top) and $50\\text{ k}\\Omega$ (bottom). The voltage across the bottom part is $V = 6 \\times \\frac{50}{100 + 50} = 6 \\times \\frac{1}{3} = 2\\text{ V}$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2005 HL Q29 B.png"
+}

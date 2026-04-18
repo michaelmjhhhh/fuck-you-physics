@@ -1,0 +1,52 @@
+{
+  "id": "May_2011_HL_TZ1_Q11",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2011,
+    "month": "May",
+    "session_label": "May 2011",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2011 HL TZ1 Q11 C.png"
+  },
+  "question_number": 11,
+  "content_markdown": "A transverse wave travels from left to right. The graph below shows how, at a particular instant of time, the displacement of particles in the medium varies with position. Which arrow represents the direction of the velocity of the particle marked P?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A displacement-position graph for a transverse wave. A particle P is located on the equilibrium line where the wave is rising. Four arrows are drawn from P: A (up), B (right), C (down), and D (left).",
+    "labels_to_preserve": [
+      "displacement",
+      "position",
+      "P",
+      "A",
+      "B",
+      "C",
+      "D",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In a transverse wave moving to the right, you can determine the motion of a particle by shifting the entire wave profile slightly to the right. When the wave moves right, the section of the wave currently to the left of point P will soon arrive at P's position. Since the wave profile to the left of P is below the equilibrium line, particle P must move downwards (direction C) to reach the incoming trough.",
+  "source_image_path": "C2-Wave-Model/May 2011 HL TZ1 Q11 C.png"
+}

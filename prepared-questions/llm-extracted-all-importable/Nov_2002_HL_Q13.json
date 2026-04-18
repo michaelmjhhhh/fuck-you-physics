@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2002_HL_Q13",
+  "topic": "Rigid Body Mechanics",
+  "topic_code": "A4",
+  "sub_topic": "Rigid Body Mechanics",
+  "paper": {
+    "year": 2002,
+    "month": "Nov",
+    "session_label": "Nov 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2002 HL Q13 D.png"
+  },
+  "question_number": 13,
+  "content_markdown": "A solid cylinder of radius $r$ has a moment of inertia $I$, about the axis through XY as shown below.\n\nA cylinder of the same mass, but with a radius $2r$, will have a moment of inertia about the same axis XY equal to",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A solid cylinder with radius r and a central longitudinal axis labeled XY passing through its center.",
+    "labels_to_preserve": [
+      "X",
+      "Y",
+      "r"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{I}{2}$"
+    },
+    {
+      "label": "B",
+      "text": "$I$"
+    },
+    {
+      "label": "C",
+      "text": "$2I$"
+    },
+    {
+      "label": "D",
+      "text": "$4I$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The moment of inertia of a solid cylinder about its central axis is given by $I = \\frac{1}{2}mr^2$. Since the mass $m$ remains constant and the radius is doubled to $2r$, the new moment of inertia $I'$ becomes $\\frac{1}{2}m(2r)^2 = \\frac{1}{2}m(4r^2) = 4(\\frac{1}{2}mr^2) = 4I$.",
+  "source_image_path": "A4-Rigid-Body-Mechanics/Nov 2002 HL Q13 D.png"
+}

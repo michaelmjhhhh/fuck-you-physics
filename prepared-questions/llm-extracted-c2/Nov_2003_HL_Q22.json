@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2003_HL_Q22",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave characteristics",
+  "paper": {
+    "year": 2003,
+    "month": "Nov",
+    "session_label": "Nov 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2003 HL Q22 C.png"
+  },
+  "question_number": 22,
+  "content_markdown": "The speed of a wave is defined as",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the speed at which the particles of the wave vibrate."
+    },
+    {
+      "label": "B",
+      "text": "the speed of the medium through which the wave passes."
+    },
+    {
+      "label": "C",
+      "text": "the speed of transfer of the energy of the wave."
+    },
+    {
+      "label": "D",
+      "text": "the speed at which the vibrations of the wave are produced."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Wave speed refers to the rate at which the wave profile (and thus the energy it carries) travels through a medium. It is distinct from the particle speed (which varies in simple harmonic motion) or the speed of the medium itself (which generally stays in place).",
+  "source_image_path": "C2-Wave-Model/Nov 2003 HL Q22 C.png"
+}

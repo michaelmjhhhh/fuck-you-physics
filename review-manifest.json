@@ -1,0 +1,26 @@
+{
+  "id": "May_2000_HL_Q10",
+  "topic": "Rigid Body Mechanics",
+  "topic_code": "A4",
+  "sub_topic": "",
+  "paper": {
+    "year": 2000,
+    "month": "May",
+    "session_label": "May 2000",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2000 HL Q10 C.png"
+  },
+  "question_number": 10,
+  "correct_answer": "C",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "/Users/michael/fuck-you-ib/A4-Rigid-Body-Mechanics/May 2000 HL Q10 C.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

@@ -1,0 +1,43 @@
+{
+  "id": "May_2015_HL_TZ2_Q7",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ2 Q7 C.png"
+  },
+  "question_number": 7,
+  "content_markdown": "Which of the following is an assumption of the kinetic model of an ideal gas?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the question.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The gas is at high pressure."
+    },
+    {
+      "label": "B",
+      "text": "There are weak forces of attraction between the particles in the gas."
+    },
+    {
+      "label": "C",
+      "text": "The collisions between the particles are elastic."
+    },
+    {
+      "label": "D",
+      "text": "The energy of the particles is proportional to the absolute temperature."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The kinetic theory of gases relies on several key postulates. One of the fundamental assumptions is that collisions between gas particles (and between particles and the container walls) are perfectly elastic, meaning kinetic energy is conserved. While option D is a result of the model (the average kinetic energy is proportional to temperature), it is generally considered a derivation or a property rather than a starting 'assumption' of the model itself. Option B is incorrect because the model assumes zero intermolecular forces, and option A is a condition where real gases deviate from ideal behavior.",
+  "source_image_path": "B3-Gas-Laws/May 2015 HL TZ2 Q7 C.png"
+}

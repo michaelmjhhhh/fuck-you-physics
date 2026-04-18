@@ -1,0 +1,43 @@
+{
+  "id": "May_2015_HL_TZ2_Q13",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ2 Q13 B.png"
+  },
+  "question_number": 13,
+  "content_markdown": "A standing (stationary) sound wave is set up inside a narrow glass tube which has both ends open. The fundamental (first harmonic) frequency of the standing wave is $500\\text{ Hz}$. What is the fundamental frequency of the sound wave if the length of the tube is halved and one end is closed?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$250\\text{ Hz}$"
+    },
+    {
+      "label": "B",
+      "text": "$500\\text{ Hz}$"
+    },
+    {
+      "label": "C",
+      "text": "$1000\\text{ Hz}$"
+    },
+    {
+      "label": "D",
+      "text": "$2000\\text{ Hz}$"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "For an open-open tube of length $L$, the fundamental frequency is $f_1 = \\frac{v}{2L} = 500\\text{ Hz}$. If the length is halved ($L' = \\frac{L}{2}$) and one end is closed, the new fundamental frequency for a closed-open tube is $f'_1 = \\frac{v}{4L'}$. Substituting $L' = \\frac{L}{2}$ gives $f'_1 = \\frac{v}{4(L/2)} = \\frac{v}{2L}$. Since this is the same expression as the original frequency, the frequency remains $500\\text{ Hz}$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/May 2015 HL TZ2 Q13 B.png"
+}

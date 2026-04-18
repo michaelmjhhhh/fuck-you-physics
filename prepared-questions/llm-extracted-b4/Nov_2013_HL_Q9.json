@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2013_HL_Q9",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Entropy",
+  "paper": {
+    "year": 2013,
+    "month": "Nov",
+    "session_label": "Nov 2013",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2013 HL Q9 A.png"
+  },
+  "question_number": 9,
+  "content_markdown": "A piece of ice melts at constant temperature. Which of the following gives the correct change in the entropy of the water molecules and that of the surroundings?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the changes in entropy for water molecules and surroundings for options A, B, C, and D.",
+    "labels_to_preserve": [
+      "entropy of water molecules",
+      "entropy of surroundings"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "entropy of water molecules: increases; entropy of surroundings: decreases"
+    },
+    {
+      "label": "B",
+      "text": "entropy of water molecules: decreases; entropy of surroundings: decreases"
+    },
+    {
+      "label": "C",
+      "text": "entropy of water molecules: increases; entropy of surroundings: increases"
+    },
+    {
+      "label": "D",
+      "text": "entropy of water molecules: decreases; entropy of surroundings: increases"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "When ice melts, it absorbs thermal energy from the surroundings. For the water molecules, the transition from a solid (ordered) to a liquid (disordered) state increases their entropy. For the surroundings, the loss of thermal energy results in a decrease in entropy, as $\\Delta S = \\frac{Q}{T}$ and $Q$ is negative for the surroundings.",
+  "source_image_path": "B4-Thermodynamics/Nov 2013 HL Q9 A.png"
+}

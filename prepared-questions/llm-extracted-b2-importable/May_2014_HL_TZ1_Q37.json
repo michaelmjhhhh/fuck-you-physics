@@ -1,0 +1,47 @@
+{
+  "id": "May_2014_HL_TZ1_Q37",
+  "topic": "Greenhouse Effect",
+  "topic_code": "B2",
+  "sub_topic": "Greenhouse Effect",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ1 Q37 D.png"
+  },
+  "question_number": 37,
+  "content_markdown": "A body X of emissivity $e$ is at temperature $T_1$. X is inside a box whose walls act as a black body of temperature $T_2$. $T_1$ is greater than $T_2$.\n\nWhat is the net intensity of radiation leaving body X?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A grey circular body labeled X at temperature T1 is centered inside a rectangular box with rounded corners at temperature T2.",
+    "labels_to_preserve": [
+      "X",
+      "T_1",
+      "T_2"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\sigma T_1^4$"
+    },
+    {
+      "label": "B",
+      "text": "$e\\sigma T_1^4$"
+    },
+    {
+      "label": "C",
+      "text": "$e\\sigma T_1^4 - \\sigma T_2^4$"
+    },
+    {
+      "label": "D",
+      "text": "$e\\sigma (T_1^4 - T_2^4)$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The net intensity is the difference between the intensity emitted by body X and the intensity it absorbs from the surroundings. Body X emits intensity $I_{out} = e\\sigma T_1^4$. Since the surrounding box is a black body ($e=1$), it radiates intensity $\\sigma T_2^4$. Body X absorbs a fraction $e$ of the incident radiation (Kirchhoff's Law states absorptivity equals emissivity), so $I_{in} = e\\sigma T_2^4$. The net intensity leaving is $I_{out} - I_{in} = e\\sigma T_1^4 - e\\sigma T_2^4 = e\\sigma(T_1^4 - T_2^4)$.",
+  "source_image_path": "B2-Greenhouse-Effect/May 2014 HL TZ1 Q37 D.png"
+}

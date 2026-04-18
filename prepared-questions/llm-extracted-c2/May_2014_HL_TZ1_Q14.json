@@ -1,0 +1,53 @@
+{
+  "id": "May_2014_HL_TZ1_Q14",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave properties",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ1 Q14 C.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A wave of period $5.0\\text{ ms}$ travels through a medium. The graph shows the variation with distance $d$ of the displacement $x$ of points in the medium.\n\nWhat is the average speed of a point in the medium during one full oscillation?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A displacement-distance graph showing a sinusoidal wave. The vertical axis is displacement x in cm, ranging from -2 to 2. The horizontal axis is distance d in m, ranging from 0 to 4. The wave has a peak at d=0, a trough at d=1, a peak at d=2, a trough at d=3, and a peak at d=4.",
+    "labels_to_preserve": [
+      "x / cm",
+      "d / m",
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "-1",
+      "-2"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$0\\text{ m s}^{-1}$"
+    },
+    {
+      "label": "B",
+      "text": "$4.0\\text{ m s}^{-1}$"
+    },
+    {
+      "label": "C",
+      "text": "$16\\text{ m s}^{-1}$"
+    },
+    {
+      "label": "D",
+      "text": "$400\\text{ m s}^{-1}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "To find the average speed of a point in the medium, we look at the total distance traveled by a single particle in one period. From the graph, the amplitude $A$ is $2\\text{ cm}$ ($0.02\\text{ m}$). In one full oscillation, a particle moves from equilibrium to max positive displacement, back to equilibrium, to max negative displacement, and back to equilibrium—a total distance of $4A = 4 \\times 2\\text{ cm} = 8\\text{ cm} = 0.08\\text{ m}$. The time taken for one oscillation is the period $T = 5.0\\text{ ms} = 0.005\\text{ s}$. Average speed is $\\text{distance} / \\text{time} = 0.08\\text{ m} / 0.005\\text{ s} = 16\\text{ m s}^{-1}$.",
+  "source_image_path": "C2-Wave-Model/May 2014 HL TZ1 Q14 C.png"
+}

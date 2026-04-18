@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2005_HL_Q17",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2005,
+    "month": "Nov",
+    "session_label": "Nov 2005",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2005 HL Q17 A.png"
+  },
+  "question_number": 17,
+  "content_markdown": "Two ideal gases X and Y, are contained in a cylinder at constant temperature. The mass of the atoms of X is $m$ and of Y is $4m$.\n\nWhich **one** of the following is the correct value of the ratio\n\n$$\\frac{\\text{average kinetic energy of the atoms of Y}}{\\text{average kinetic energy of the atoms of X}}?$$",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "1"
+    },
+    {
+      "label": "B",
+      "text": "2"
+    },
+    {
+      "label": "C",
+      "text": "4"
+    },
+    {
+      "label": "D",
+      "text": "16"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The average kinetic energy of the particles in an ideal gas is directly proportional to the absolute temperature ($E_k = \\frac{3}{2}k_B T$). Since both gases are in the same cylinder at the same constant temperature, their average kinetic energies must be identical, regardless of the mass of the individual atoms. Therefore, the ratio is 1:1.",
+  "source_image_path": "B3-Gas-Laws/Nov 2005 HL Q17 A.png"
+}

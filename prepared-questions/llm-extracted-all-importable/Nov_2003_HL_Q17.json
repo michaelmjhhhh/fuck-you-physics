@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2003_HL_Q17",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2003,
+    "month": "Nov",
+    "session_label": "Nov 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2003 HL Q17 C.png"
+  },
+  "question_number": 17,
+  "content_markdown": "Two different objects are in thermal contact with one another. The objects are at different temperatures. The temperatures of the two objects determine",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "the process by which thermal energy is transferred."
+    },
+    {
+      "label": "B",
+      "text": "the heat capacity of each object."
+    },
+    {
+      "label": "C",
+      "text": "the direction of transfer of thermal energy between the objects."
+    },
+    {
+      "label": "D",
+      "text": "the amount of internal energy in each object."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "By definition, thermal energy (heat) flows spontaneously from a region of higher temperature to a region of lower temperature. While internal energy and heat capacity are related to temperature, the temperature gradient specifically dictates the direction of the net energy transfer.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2003 HL Q17 C.png"
+}

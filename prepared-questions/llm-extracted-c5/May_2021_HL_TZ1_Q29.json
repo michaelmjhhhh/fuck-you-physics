@@ -1,0 +1,48 @@
+{
+  "id": "May_2021_HL_TZ1_Q29",
+  "topic": "Doppler Effect",
+  "topic_code": "C5",
+  "sub_topic": "Doppler Effect",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ1 Q29 D.png"
+  },
+  "question_number": 29,
+  "content_markdown": "On approaching a stationary observer, a train sounds its horn and decelerates at a constant rate. At time $t$ the train passes by the observer and continues to decelerate at the same rate. Which diagram shows the variation with time of the frequency of the sound measured by the observer?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs (A, B, C, D) showing frequency measured by observer vs time. Each graph has a dashed horizontal line representing the horn's frequency and a vertical transition at time t.",
+    "labels_to_preserve": [
+      "frequency measured by observer",
+      "horn's frequency",
+      "time",
+      "t"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph showing frequency increasing while approaching (above horn frequency) and decreasing while receding (below horn frequency)."
+    },
+    {
+      "label": "B",
+      "text": "Graph showing frequency decreasing while approaching (above horn frequency) and decreasing while receding (below horn frequency)."
+    },
+    {
+      "label": "C",
+      "text": "Graph showing frequency increasing while approaching (above horn frequency) and increasing while receding (below horn frequency)."
+    },
+    {
+      "label": "D",
+      "text": "Graph showing frequency decreasing while approaching (above horn frequency) and increasing while receding (below horn frequency)."
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The Doppler effect formula for a moving source is $f' = f \\frac{v}{v \\mp v_s}$. While approaching, $f' = f \\frac{v}{v - v_s}$. As the train decelerates, $v_s$ decreases, making the denominator $(v - v_s)$ larger, so the observed frequency $f'$ decreases towards the source frequency. After passing at time $t$, the train is receding, so $f' = f \\frac{v}{v + v_s}$. As it continues to decelerate, $v_s$ decreases, making the denominator $(v + v_s)$ smaller, so the observed frequency $f'$ increases towards the source frequency from below.",
+  "source_image_path": "C5-Doppler-Effect/May 2021 HL TZ1 Q29 D.png"
+}

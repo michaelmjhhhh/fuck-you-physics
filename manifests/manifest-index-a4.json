@@ -1,0 +1,122 @@
+{
+  "generated_count": 13,
+  "items": [
+    {
+      "id": "May_2000_HL_Q10",
+      "topic": "Rigid Body Mechanics",
+      "topic_code": "A4",
+      "question_number": 10,
+      "manifest_path": "a4-rigid-body-mechanics/May_2000_HL_Q10.json",
+      "source_image_path": "A4-Rigid-Body-Mechanics/May 2000 HL Q10 C.png",
+      "correct_answer": "C"
+    },
+    {
+      "id": "May_2000_HL_Q8",
+      "topic": "Rigid Body Mechanics",
+      "topic_code": "A4",
+      "question_number": 8,
+      "manifest_path": "a4-rigid-body-mechanics/May_2000_HL_Q8.json",
+      "source_image_path": "A4-Rigid-Body-Mechanics/May 2000 HL Q8 D.png",
+      "correct_answer": "D"
+    },
+    {
+      "id": "May_2001_HL_Q11",
+      "topic": "Rigid Body Mechanics",
+      "topic_code": "A4",
+      "question_number": 11,
+      "manifest_path": "a4-rigid-body-mechanics/May_2001_HL_Q11.json",
+      "source_image_path": "A4-Rigid-Body-Mechanics/May 2001 HL Q11 B.png",
+      "correct_answer": "B"
+    },
+    {
+      "id": "May_2001_HL_Q13",
+      "topic": "Rigid Body Mechanics",
+      "topic_code": "A4",
+      "question_number": 13,
+      "manifest_path": "a4-rigid-body-mechanics/May_2001_HL_Q13.json",
+      "source_image_path": "A4-Rigid-Body-Mechanics/May 2001 HL Q13 B.png",
+      "correct_answer": "B"
+    },
+    {
+      "id": "May_2004_HL_TZ1_Q14",
+      "topic": "Rigid Body Mechanics",
+      "topic_code": "A4",
+      "question_number": 14,
+      "manifest_path": "a4-rigid-body-mechanics/May_2004_HL_TZ1_Q14.json",
+      "source_image_path": "A4-Rigid-Body-Mechanics/May 2004 HL TZ1 Q14 B.png",
+      "correct_answer": "B"
+    },
+    {
+      "id": "May_2005_HL_TZ2_Q13",
+      "topic": "Rigid Body Mechanics",
+      "topic_code": "A4",
+      "question_number": 13,
+      "manifest_path": "a4-rigid-body-mechanics/May_2005_HL_TZ2_Q13.json",
+      "source_image_path": "A4-Rigid-Body-Mechanics/May 2005 HL TZ2 Q13 B.png",
+      "correct_answer": "B"
+    },
+    {
+      "id": "May_2007_HL_TZ1_Q16",
+      "topic": "Rigid Body Mechanics",
+      "topic_code": "A4",
+      "question_number": 16,
+      "manifest_path": "a4-rigid-body-mechanics/May_2007_HL_TZ1_Q16.json",
+      "source_image_path": "A4-Rigid-Body-Mechanics/May 2007 HL TZ1 Q16 D.png",
+      "correct_answer": "D"
+    },
+    {
+      "id": "Nov_2002_HL_Q13",
+      "topic": "Rigid Body Mechanics",
+      "topic_code": "A4",
+      "question_number": 13,
+      "manifest_path": "a4-rigid-body-mechanics/Nov_2002_HL_Q13.json",
+      "source_image_path": "A4-Rigid-Body-Mechanics/Nov 2002 HL Q13 D.png",
+      "correct_answer": "D"
+    },
+    {
+      "id": "Nov_2004_HL_Q15",
+      "topic": "Rigid Body Mechanics",
+      "topic_code": "A4",
+      "question_number": 15,
+      "manifest_path": "a4-rigid-body-mechanics/Nov_2004_HL_Q15.json",
+      "source_image_path": "A4-Rigid-Body-Mechanics/Nov 2004 HL Q15 C.png",
+      "correct_answer": "C"
+    },
+    {
+      "id": "Nov_2006_HL_Q15",
+      "topic": "Rigid Body Mechanics",
+      "topic_code": "A4",
+      "question_number": 15,
+      "manifest_path": "a4-rigid-body-mechanics/Nov_2006_HL_Q15.json",
+      "source_image_path": "A4-Rigid-Body-Mechanics/Nov 2006 HL Q15 B.png",
+      "correct_answer": "B"
+    },
+    {
+      "id": "Nov_2008_HL_Q15",
+      "topic": "Rigid Body Mechanics",
+      "topic_code": "A4",
+      "question_number": 15,
+      "manifest_path": "a4-rigid-body-mechanics/Nov_2008_HL_Q15.json",
+      "source_image_path": "A4-Rigid-Body-Mechanics/Nov 2008 HL Q15 A.png",
+      "correct_answer": "A"
+    },
+    {
+      "id": "Specimen_2025_HL_Q4",
+      "topic": "Rigid Body Mechanics",
+      "topic_code": "A4",
+      "question_number": 4,
+      "manifest_path": "a4-rigid-body-mechanics/Specimen_2025_HL_Q4.json",
+      "source_image_path": "A4-Rigid-Body-Mechanics/Specimen Paper 2025 HL Q4 D.png",
+      "correct_answer": "D"
+    },
+    {
+      "id": "Specimen_2025_HL_Q7",
+      "topic": "Rigid Body Mechanics",
+      "topic_code": "A4",
+      "question_number": 7,
+      "manifest_path": "a4-rigid-body-mechanics/Specimen_2025_HL_Q7.json",
+      "source_image_path": "A4-Rigid-Body-Mechanics/Specimen Paper 2025 HL Q7 C.png",
+      "correct_answer": "C"
+    }
+  ]
+}

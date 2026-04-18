@@ -1,0 +1,43 @@
+{
+  "id": "May_2004_HL_TZ2_Q20",
+  "topic": "Thermodynamics",
+  "topic_code": "B4",
+  "sub_topic": "Thermodynamic processes",
+  "paper": {
+    "year": 2004,
+    "month": "May",
+    "session_label": "May 2004",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2004 HL TZ2 Q20 C.png"
+  },
+  "question_number": 20,
+  "content_markdown": "A gas expands rapidly. The process is approximately",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "isobaric."
+    },
+    {
+      "label": "B",
+      "text": "isothermal."
+    },
+    {
+      "label": "C",
+      "text": "adiabatic."
+    },
+    {
+      "label": "D",
+      "text": "isovolumetric."
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "When a gas expands very rapidly, there is insufficient time for thermal energy to be exchanged between the gas and its surroundings ($Q \\approx 0$). By definition, a process where no heat is transferred is called an adiabatic process.",
+  "source_image_path": "B4-Thermodynamics/May 2004 HL TZ2 Q20 C.png"
+}

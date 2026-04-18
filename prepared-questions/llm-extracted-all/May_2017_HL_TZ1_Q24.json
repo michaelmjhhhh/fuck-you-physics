@@ -1,0 +1,47 @@
+{
+  "id": "May_2017_HL_TZ1_Q24",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2017,
+    "month": "May",
+    "session_label": "May 2017",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2017 HL TZ1 Q24 D.png"
+  },
+  "question_number": 24,
+  "content_markdown": "Planet X and planet Y both emit radiation as black bodies. Planet X has a surface temperature that is less than the surface temperature of planet Y.\n\nWhat is the graph of the variation of intensity $I$ with wavelength $\\lambda$ for the radiation emitted by planet Y? The graph for planet X is shown dotted.",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four sets of black-body radiation curves showing intensity I versus wavelength lambda. Each graph contains a dotted curve for planet X and a solid curve for planet Y.",
+    "labels_to_preserve": [
+      "I",
+      "\\lambda",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "According to the Stefan-Boltzmann law, a higher temperature results in a higher total intensity (the area under the curve is greater). According to Wien's displacement law, a higher temperature results in a shorter peak wavelength (the peak shifts to the left). Since planet Y is hotter than planet X, its curve must have a higher peak and that peak must occur at a smaller wavelength compared to the dotted curve of planet X.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2017 HL TZ1 Q24 D.png"
+}

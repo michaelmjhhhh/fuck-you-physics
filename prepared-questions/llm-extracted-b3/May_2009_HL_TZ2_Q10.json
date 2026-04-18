@@ -1,0 +1,43 @@
+{
+  "id": "May_2009_HL_TZ2_Q10",
+  "topic": "Gas Laws",
+  "topic_code": "B3",
+  "sub_topic": "Gas Laws",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ2 Q10 B.png"
+  },
+  "question_number": 10,
+  "content_markdown": "For an ideal gas of constant mass the pressure is always proportional to",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "density and volume."
+    },
+    {
+      "label": "B",
+      "text": "density and temperature."
+    },
+    {
+      "label": "C",
+      "text": "volume and temperature."
+    },
+    {
+      "label": "D",
+      "text": "volume only."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "From the ideal gas law $PV = nRT$, we can write $P = \\frac{nRT}{V}$. Since $n = \\frac{m}{M}$, then $P = \\frac{mRT}{MV}$. Given that density $\\rho = \\frac{m}{V}$, we can substitute to get $P = \\frac{\\rho RT}{M}$. For a constant mass of a specific gas, $R$ and $M$ are constants, therefore $P \\propto \\rho T$.",
+  "source_image_path": "B3-Gas-Laws/May 2009 HL TZ2 Q10 B.png"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "May_2019_HL_TZ2_Q16",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ2 Q16 A.png"
+  },
+  "question_number": 16,
+  "content_markdown": "An object at the end of a spring oscillates vertically with simple harmonic motion (shm). The graph shows the variation with time $t$ of the displacement $x$ of the object.\n\nWhat is the velocity of the object?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A displacement-time graph for SHM. The vertical axis is displacement x, ranging from -2A to 2A. The horizontal axis is time t, marked with 0, 2T, and 4T. The curve starts at x = -2A at t = 0, reaches x = 2A at t = T, and returns to x = -2A at t = 2T.",
+    "labels_to_preserve": [
+      "x",
+      "t",
+      "2A",
+      "A",
+      "0",
+      "-A",
+      "-2A",
+      "2T",
+      "4T"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$-\\frac{2\\pi A}{T} \\sin\\left(\\frac{\\pi t}{T}\\right)$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{2\\pi A}{T} \\sin\\left(\\frac{\\pi t}{T}\\right)$"
+    },
+    {
+      "label": "C",
+      "text": "$-\\frac{2\\pi A}{T} \\cos\\left(\\frac{\\pi t}{T}\\right)$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{2\\pi A}{T} \\cos\\left(\\frac{\\pi t}{T}\\right)$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "From the graph, the displacement follows a negative cosine function: $x = -2A \\cos(\\omega t)$. The period of the oscillation is $2T$, so the angular frequency is $\\omega = \\frac{2\\pi}{\\text{period}} = \\frac{2\\pi}{2T} = \\frac{\\pi}{T}$. Thus, $x = -2A \\cos\\left(\\frac{\\pi t}{T}\\right)$. To find the velocity, we differentiate displacement with respect to time: $v = \\frac{dx}{dt} = -2A \\cdot \\left(-\\frac{\\pi}{T}\\right) \\sin\\left(\\frac{\\pi t}{T}\\right) = \\frac{2\\pi A}{T} \\sin\\left(\\frac{\\pi t}{T}\\right)$.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2019 HL TZ2 Q16 A.png"
+}

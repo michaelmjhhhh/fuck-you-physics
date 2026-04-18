@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2003_HL_Q19",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2003,
+    "month": "Nov",
+    "session_label": "Nov 2003",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2003 HL Q19 D.png"
+  },
+  "question_number": 19,
+  "content_markdown": "A substance changes from solid to liquid at its normal melting temperature. What change, if any, occurs in the average kinetic energy and the average potential energy of its molecules?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the changes in average kinetic energy and average potential energy for options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Average kinetic energy",
+      "Average potential energy"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Average kinetic energy: constant; Average potential energy: constant"
+    },
+    {
+      "label": "B",
+      "text": "Average kinetic energy: increases; Average potential energy: constant"
+    },
+    {
+      "label": "C",
+      "text": "Average kinetic energy: increases; Average potential energy: decreases"
+    },
+    {
+      "label": "D",
+      "text": "Average kinetic energy: constant; Average potential energy: increases"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "During a phase change (like melting), the temperature remains constant. Since temperature is a measure of the average kinetic energy of the molecules, the average kinetic energy stays constant. The energy added during melting is used to overcome intermolecular forces, which increases the average potential energy of the molecules.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/Nov 2003 HL Q19 D.png"
+}

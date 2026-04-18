@@ -1,0 +1,3020 @@
+[
+  {
+    "id": "May_2000_HL_Q21",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2000,
+      "month": "May",
+      "session_label": "May 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2000 HL Q21 B.png"
+    },
+    "question_number": 21,
+    "content_markdown": "For an organ pipe of length $L$, the fundamental frequency is proportional to",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$L$."
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{L}$."
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{1}{\\sqrt{L}}$."
+      },
+      {
+        "label": "D",
+        "text": "$\\sqrt{L}$."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The fundamental frequency $f$ of a standing wave in a pipe is given by $f = \\frac{v}{\\lambda}$. For an organ pipe, the wavelength $\\lambda$ of the fundamental mode is directly proportional to the length $L$ of the pipe (e.g., $\\lambda = 2L$ for an open pipe or $\\lambda = 4L$ for a closed pipe). Therefore, $f \\propto \\frac{1}{L}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2000 HL Q21 B.png"
+  },
+  {
+    "id": "May_2000_HL_Q22",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2000,
+      "month": "May",
+      "session_label": "May 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2000 HL Q22 A.png"
+    },
+    "question_number": 22,
+    "content_markdown": "Two travelling waves, $y_1 = A \\sin(\\omega t - kx)$ and $y_2 = A \\sin(\\omega t + kx)$ are superposed on the same string. The distance between adjacent nodes of the resulting standing wave is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{\\pi}{k}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{vt}{2\\pi}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{\\pi}{2k}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{2\\pi}{k}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The distance between adjacent nodes in a standing wave is half a wavelength ($\\lambda/2$). Given the wave number $k = \\frac{2\\pi}{\\lambda}$, we can rearrange this to find $\\lambda = \\frac{2\\pi}{k}$. Therefore, the distance between adjacent nodes is $\\frac{1}{2} \\times \\frac{2\\pi}{k} = \\frac{\\pi}{k}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2000 HL Q22 A.png"
+  },
+  {
+    "id": "May_2001_HL_Q17",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2001,
+      "month": "May",
+      "session_label": "May 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2001 HL Q17 C.png"
+    },
+    "question_number": 17,
+    "content_markdown": "Two pipes have the same length. Pipe X is open at both ends while pipe Y is closed at one end. What is the ratio of the fundamental frequency in pipe X to that in pipe Y?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "1"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "For a pipe of length $L$ open at both ends (Pipe X), the fundamental wavelength is $\\lambda_X = 2L$, so the frequency is $f_X = \\frac{v}{2L}$. For a pipe closed at one end (Pipe Y), the fundamental wavelength is $\\lambda_Y = 4L$, so the frequency is $f_Y = \\frac{v}{4L}$. The ratio $\\frac{f_X}{f_Y} = \\frac{v/2L}{v/4L} = \\frac{4}{2} = 2$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2001 HL Q17 C.png"
+  },
+  {
+    "id": "May_2004_HL_TZ1_Q20",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ1 Q20 A.png"
+    },
+    "question_number": 20,
+    "content_markdown": "A pipe, open at both ends, has a length $L$. The speed of sound in the air in the pipe is $v$. The frequency of vibration of the fundamental (first harmonic) standing wave that can be set up in the pipe is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{v}{2L}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{L}{2v}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{4v}{L}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{L}{4v}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "For a pipe open at both ends, the fundamental frequency occurs when the length of the pipe $L$ is equal to half a wavelength ($\\lambda/2$). Since $v = f\\lambda$, we can substitute $\\lambda = 2L$ into the wave equation to get $v = f(2L)$, which rearranges to $f = \\frac{v}{2L}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2004 HL TZ1 Q20 A.png"
+  },
+  {
+    "id": "May_2004_HL_TZ2_Q23",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2004,
+      "month": "May",
+      "session_label": "May 2004",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2004 HL TZ2 Q23 A.png"
+    },
+    "question_number": 23,
+    "content_markdown": "Standing waves in an open pipe come about as a result of",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "reflection and superposition."
+      },
+      {
+        "label": "B",
+        "text": "reflection and diffraction."
+      },
+      {
+        "label": "C",
+        "text": "superposition and diffraction."
+      },
+      {
+        "label": "D",
+        "text": "reflection and refraction."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Standing waves are formed when two waves of the same frequency and amplitude traveling in opposite directions interfere. In a pipe, this occurs because the sound wave reflects off the ends (even open ends, due to the change in impedance) and then undergoes superposition with the incident wave.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2004 HL TZ2 Q23 A.png"
+  },
+  {
+    "id": "May_2005_HL_TZ1_Q23",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ1 Q23 B.png"
+    },
+    "question_number": 23,
+    "content_markdown": "A string is stretched between two fixed points. The string is plucked at its centre and is seen to vibrate with frequency $f$ as shown below.\n\nWhich **one** of the following expressions gives the frequencies of other possible modes of vibration that have an antinode at the centre? The number $n$ in each expression is an integer.",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A standing wave on a string fixed at both ends, showing the fundamental mode (first harmonic) with a single loop and a double-headed arrow at the center indicating displacement.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$nf$"
+      },
+      {
+        "label": "B",
+        "text": "$(2n-1)f$"
+      },
+      {
+        "label": "C",
+        "text": "$(n-1)f$"
+      },
+      {
+        "label": "D",
+        "text": "$(n+1)f$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "For a string fixed at both ends, the possible frequencies are $f_m = m f_1$, where $m = 1, 2, 3, ...$. The fundamental mode ($m=1$) has an antinode at the center. Even harmonics ($m=2, 4, ...$) have a node at the center. Odd harmonics ($m=1, 3, 5, ...$) have an antinode at the center. The expression $(2n-1)f$ generates only odd integers ($1, 3, 5, ...$) for integer values of $n$, ensuring an antinode remains at the center.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2005 HL TZ1 Q23 B.png"
+  },
+  {
+    "id": "May_2005_HL_TZ2_Q20",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves",
+    "paper": {
+      "year": 2005,
+      "month": "May",
+      "session_label": "May 2005",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2005 HL TZ2 Q20 B.png"
+    },
+    "question_number": 20,
+    "content_markdown": "For a standing wave, all the particles between two successive nodes have the same",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "amplitude only."
+      },
+      {
+        "label": "B",
+        "text": "frequency only."
+      },
+      {
+        "label": "C",
+        "text": "amplitude and frequency."
+      },
+      {
+        "label": "D",
+        "text": "frequency and energy."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In a standing wave, all particles within a single loop (between two adjacent nodes) vibrate in phase with the same frequency. However, the amplitude varies from zero at the nodes to a maximum at the antinode. Since energy is proportional to the square of the amplitude, the energy also varies across the loop.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2005 HL TZ2 Q20 B.png"
+  },
+  {
+    "id": "May_2006_HL_TZ1_Q21",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "C.4 Standing Waves and Resonance",
+    "paper": {
+      "year": 2006,
+      "month": "May",
+      "session_label": "May 2006",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2006 HL TZ1 Q21 D.png"
+    },
+    "question_number": 21,
+    "content_markdown": "A bat approaches an insect of wing span length $d$. The bat emits a sound wave. The bat detects the insect if the sound is reflected from the insect.\n\nThe insect will **not** be located if",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a bat emitting incident sound waves (solid arcs) towards an insect with wing span d. Reflected waves (dashed arcs) are shown returning from the insect to the bat.",
+      "labels_to_preserve": [
+        "d",
+        "reflected waves",
+        "incident waves"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the insect\u2019s speed is less than the speed of the sound wave."
+      },
+      {
+        "label": "B",
+        "text": "the insect\u2019s wing beat frequency is greater than the frequency of the sound wave."
+      },
+      {
+        "label": "C",
+        "text": "the length $d$ is much greater than the wavelength of the sound wave."
+      },
+      {
+        "label": "D",
+        "text": "the length $d$ is much smaller than the wavelength of the sound wave."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "For a wave to reflect significantly off an object (and thus be detected), the object's size must be comparable to or larger than the wavelength. If the wavelength is much larger than the object ($d \\ll \\lambda$), the wave will diffract around the object rather than reflecting back to the source, making the object 'invisible' to the bat's sonar.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2006 HL TZ1 Q21 D.png"
+  },
+  {
+    "id": "May_2006_HL_TZ2_Q23",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2006,
+      "month": "May",
+      "session_label": "May 2006",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2006 HL TZ2 Q23 D.png"
+    },
+    "question_number": 23,
+    "content_markdown": "A tube is filled with water and a vibrating tuning fork is held above its open end.\n\nThe tap at the base of the tube is opened. As the water runs out, the sound is loudest when the water level is a distance $x$ below the top of the tube. A second loud sound is heard when the water level is a distance $y$ below the top. Which **one** of the following is a correct expression for the wavelength $\\lambda$ of the sound produced by the tuning fork?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A vertical tube with a tuning fork at the top. Water is being drained from a tap at the bottom. Two water levels are marked: the first at distance x from the top, and the second at distance y from the top.",
+      "labels_to_preserve": [
+        "tuning fork",
+        "x",
+        "y",
+        "water",
+        "tap"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\lambda = y$"
+      },
+      {
+        "label": "B",
+        "text": "$\\lambda = 2x$"
+      },
+      {
+        "label": "C",
+        "text": "$\\lambda = y - x$"
+      },
+      {
+        "label": "D",
+        "text": "$\\lambda = 2(y - x)$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In a tube closed at one end (the water surface), resonance occurs when the length of the air column corresponds to an odd multiple of quarter-wavelengths. The first resonance occurs at $x \\approx \\frac{\\lambda}{4}$ and the second at $y \\approx \\frac{3\\lambda}{4}$. The distance between two successive resonances in such a tube is exactly half a wavelength ($\\frac{\\lambda}{2}$). Therefore, $y - x = \\frac{\\lambda}{2}$, which rearranges to $\\lambda = 2(y - x)$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2006 HL TZ2 Q23 D.png"
+  },
+  {
+    "id": "May_2007_HL_TZ2_Q23",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2007,
+      "month": "May",
+      "session_label": "May 2007",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2007 HL TZ2 23 C.png"
+    },
+    "question_number": 23,
+    "content_markdown": "A vibrating tuning fork is held above the top of a tube that is filled with water. The water gradually runs out of the tube until a maximum loudness of sound is heard.\n\nWhich of the following best shows the standing wave pattern set up in the tube at this position?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four diagrams showing a vertical tube with water at the bottom and a standing wave envelope in the air column above. The water level is controlled by a tap at the bottom.",
+      "labels_to_preserve": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In a tube closed at one end (the water surface) and open at the other, resonance occurs when there is a displacement node at the closed end and a displacement antinode at the open end. Diagram C correctly shows an antinode (maximum amplitude) at the top opening and a node (zero amplitude) at the water surface.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2007 HL TZ2 23 C.png"
+  },
+  {
+    "id": "May_2008_HL_TZ1_Q23",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2008,
+      "month": "May",
+      "session_label": "May 2008",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2008 HL TZ1 23 D.png"
+    },
+    "question_number": 23,
+    "content_markdown": "Which statement is true for standing (stationary) waves?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "All points in the wave vibrate in phase."
+      },
+      {
+        "label": "B",
+        "text": "There is no energy in a standing wave."
+      },
+      {
+        "label": "C",
+        "text": "The wavelength of the wave is the distance between adjacent nodes."
+      },
+      {
+        "label": "D",
+        "text": "Neighbouring points in the wave have different amplitudes of vibration."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In a standing wave, the amplitude varies from zero at the nodes to a maximum at the antinodes. Therefore, adjacent (neighbouring) points along the medium will generally have different amplitudes of vibration. Option A is incorrect because points in adjacent loops are $180^\\circ$ out of phase. Option B is incorrect because standing waves store energy, even if they don't transfer it. Option C is incorrect because the distance between adjacent nodes is half a wavelength ($\\lambda/2$).",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2008 HL TZ1 23 D.png"
+  },
+  {
+    "id": "May_2008_HL_TZ2_Q23",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2008,
+      "month": "May",
+      "session_label": "May 2008",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2008 HL TZ2 23 A.png"
+    },
+    "question_number": 23,
+    "content_markdown": "The diagrams below show two standing wave patterns that are set up in a stretched string fixed at both ends. The frequency of pattern 1 is $f_1$ and that of pattern 2 is $f_2$.\n\nThe ratio $\\frac{f_1}{f_2}$ is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two standing wave patterns on a string. Pattern 1 shows the fundamental mode (first harmonic) with one loop. Pattern 2 shows the third harmonic with three loops.",
+      "labels_to_preserve": [
+        "pattern 1",
+        "frequency $f_1$",
+        "pattern 2",
+        "frequency $f_2$"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{3}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{2}{3}$"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "6"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "For a string fixed at both ends, the frequency of the $n$-th harmonic is given by $f_n = n f_1$. Pattern 1 is the fundamental frequency ($n=1$), so $f_1$ is the first harmonic. Pattern 2 shows three loops, which corresponds to the third harmonic ($n=3$), so $f_2 = 3f_1$. Therefore, the ratio $\\frac{f_1}{f_2} = \\frac{f_1}{3f_1} = \\frac{1}{3}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2008 HL TZ2 23 A.png"
+  },
+  {
+    "id": "May_2009_HL_TZ1_Q16",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ1 Q16 B.png"
+    },
+    "question_number": 16,
+    "content_markdown": "The wavelength of a standing (stationary) wave is equal to",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the distance between adjacent nodes."
+      },
+      {
+        "label": "B",
+        "text": "twice the distance between adjacent nodes."
+      },
+      {
+        "label": "C",
+        "text": "half the distance between adjacent nodes."
+      },
+      {
+        "label": "D",
+        "text": "the distance between a node and an adjacent antinode."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In a standing wave, the distance between two consecutive nodes (or two consecutive antinodes) is exactly half a wavelength ($\\lambda/2$). Therefore, a full wavelength ($\\lambda$) is equal to twice the distance between adjacent nodes.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2009 HL TZ1 Q16 B.png"
+  },
+  {
+    "id": "May_2009_HL_TZ2_Q15",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ2 Q15 A.png"
+    },
+    "question_number": 15,
+    "content_markdown": "Which of the following statements is true for a standing wave on a string?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "No energy is transferred along the string."
+      },
+      {
+        "label": "B",
+        "text": "The maximum kinetic energy of each segment of the string is proportional to the amplitude of the segment."
+      },
+      {
+        "label": "C",
+        "text": "Each segment of the string oscillates with different phase and frequency."
+      },
+      {
+        "label": "D",
+        "text": "The amplitude along the string varies with time."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Standing waves are formed by the superposition of two waves of the same frequency and amplitude traveling in opposite directions. Because these waves carry equal energy in opposite directions, the net energy transfer (power) across any point is zero. Regarding the other options: kinetic energy is proportional to the square of the amplitude ($E_k \\propto A^2$), all points between nodes oscillate in phase with the same frequency, and the amplitude of a specific point is a fixed property of its position, not a time-varying one.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2009 HL TZ2 Q15 A.png"
+  },
+  {
+    "id": "May_2010_HL_TZ1_Q16",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Resonance",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ1 Q16 C.png"
+    },
+    "question_number": 16,
+    "content_markdown": "A force that varies sinusoidally is applied to a system that is lightly damped. Which of the following must be true of the force for resonance to occur?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "It must always be in anti-phase with the oscillations of the system."
+      },
+      {
+        "label": "B",
+        "text": "Its direction must always be in the direction of motion of the oscillations of the system."
+      },
+      {
+        "label": "C",
+        "text": "Its frequency must be equal to the frequency of oscillation of the system."
+      },
+      {
+        "label": "D",
+        "text": "Its amplitude must be equal to the amplitude of oscillation of the system."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Resonance occurs when the frequency of the periodic driving force matches the natural frequency of the system, leading to a maximum transfer of energy and a large amplitude of oscillation.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2010 HL TZ1 Q16 C.png"
+  },
+  {
+    "id": "May_2010_HL_TZ1_Q18",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ1 Q18 C.png"
+    },
+    "question_number": 18,
+    "content_markdown": "The fundamental (first harmonic) frequency of the note emitted by an organ pipe closed at one end is $f$. What is the fundamental frequency of the note emitted by an organ pipe of the same length that is open at both ends?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{f}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{f}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$2f$"
+      },
+      {
+        "label": "D",
+        "text": "$4f$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "For a pipe closed at one end, the fundamental wavelength is $\\lambda_1 = 4L$, so $f = v/4L$. For a pipe open at both ends, the fundamental wavelength is $\\lambda_2 = 2L$, so $f' = v/2L$. Comparing the two, $f' = 2(v/4L) = 2f$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2010 HL TZ1 Q18 C.png"
+  },
+  {
+    "id": "May_2010_HL_TZ2_Q11",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Damping and Resonance",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ2 Q11 D.png"
+    },
+    "question_number": 11,
+    "content_markdown": "The shock absorbers of a car, in good working condition, ensure that the vertical oscillations of the car are",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "undamped."
+      },
+      {
+        "label": "B",
+        "text": "lightly damped."
+      },
+      {
+        "label": "C",
+        "text": "moderately damped."
+      },
+      {
+        "label": "D",
+        "text": "critically damped."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Shock absorbers are designed to return the car to its equilibrium position as quickly as possible without further oscillation. This specific condition is known as critical damping. If it were underdamped (lightly or moderately), the car would continue to bounce, which is unsafe and uncomfortable.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2010 HL TZ2 Q11 D.png"
+  },
+  {
+    "id": "May_2010_HL_TZ2_Q12",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ2 Q12 D.png"
+    },
+    "question_number": 12,
+    "content_markdown": "An organ pipe of length $L$ is open at one end and closed at the other. Which of the following gives the wavelength of the second harmonic standing wave in the pipe?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{L}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "$L$"
+      },
+      {
+        "label": "C",
+        "text": "$4L$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{4L}{3}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "For a pipe closed at one end and open at the other, only odd harmonics exist ($n = 1, 3, 5, ...$). The fundamental (first harmonic) has $L = \\frac{\\lambda}{4}$, so $\\lambda_1 = 4L$. The next possible standing wave is the third harmonic (often referred to as the second harmonic in some contexts of this specific boundary condition problem, or the first overtone), where $L = \\frac{3\\lambda}{4}$. Solving for wavelength gives $\\lambda = \\frac{4L}{3}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2010 HL TZ2 Q12 D.png"
+  },
+  {
+    "id": "May_2011_HL_TZ1_Q13",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ1 Q13 D.png"
+    },
+    "question_number": 13,
+    "content_markdown": "The fundamental (first harmonic) frequency for a particular organ pipe is $330\\text{ Hz}$. The pipe is closed at one end but open at the other. What is the frequency of its next highest harmonic?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$110\\text{ Hz}$"
+      },
+      {
+        "label": "B",
+        "text": "$165\\text{ Hz}$"
+      },
+      {
+        "label": "C",
+        "text": "$660\\text{ Hz}$"
+      },
+      {
+        "label": "D",
+        "text": "$990\\text{ Hz}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "For a pipe closed at one end and open at the other, only odd harmonics are present ($f_n = n f_1$ where $n = 1, 3, 5, \\dots$). The fundamental frequency is $f_1 = 330\\text{ Hz}$. The next highest harmonic is the third harmonic ($n=3$), so the frequency is $3 \\times 330\\text{ Hz} = 990\\text{ Hz}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2011 HL TZ1 Q13 D.png"
+  },
+  {
+    "id": "May_2011_HL_TZ2_Q15",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ2 Q15 D.png"
+    },
+    "question_number": 15,
+    "content_markdown": "A string vibrates with fundamental frequency $f$. The wavelength of the sound produced in air is $\\lambda$. Which of the following correctly gives the frequency of vibration of the fourth harmonic of the string and the wavelength of the sound in air?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) with columns for Frequency and Wavelength.",
+      "labels_to_preserve": [
+        "Frequency",
+        "Wavelength"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Frequency: $\\frac{f}{2}$, Wavelength: $\\frac{\\lambda}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "Frequency: $4f$, Wavelength: $4\\lambda$"
+      },
+      {
+        "label": "C",
+        "text": "Frequency: $\\frac{f}{2}$, Wavelength: $4\\lambda$"
+      },
+      {
+        "label": "D",
+        "text": "Frequency: $4f$, Wavelength: $\\frac{\\lambda}{4}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The $n^{th}$ harmonic frequency is given by $f_n = n \\times f_1$. For the fourth harmonic, the frequency is $4f$. Since the speed of sound in air $v$ is constant ($v = f \\lambda$), if the frequency increases by a factor of 4, the wavelength must decrease by a factor of 4 to keep the product constant. Thus, the new wavelength is $\\frac{\\lambda}{4}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2011 HL TZ2 Q15 D.png"
+  },
+  {
+    "id": "May_2012_HL_TZ1_Q10",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Resonance",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ1 Q10 D.png"
+    },
+    "question_number": 10,
+    "content_markdown": "Which of the following gives the conditions for maximum amplitude in forced, but damped, oscillations?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four combinations of driving frequency and damping levels.",
+      "labels_to_preserve": [
+        "Driving frequency",
+        "Damping"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Driving frequency: greater than natural frequency; Damping: as large as possible"
+      },
+      {
+        "label": "B",
+        "text": "Driving frequency: equal to natural frequency; Damping: as large as possible"
+      },
+      {
+        "label": "C",
+        "text": "Driving frequency: greater than natural frequency; Damping: as small as possible"
+      },
+      {
+        "label": "D",
+        "text": "Driving frequency: equal to natural frequency; Damping: as small as possible"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Resonance occurs when the driving frequency is equal (or very close) to the natural frequency of the system, resulting in maximum energy transfer. Additionally, damping removes energy from the system; therefore, to achieve the absolute maximum amplitude, damping should be minimized so that energy is not dissipated as heat.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2012 HL TZ1 Q10 D.png"
+  },
+  {
+    "id": "May_2012_HL_TZ1_Q12",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ1 Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A transverse standing wave is established on a string. Consider the following phase differences.\n\nI. $0^\\circ$\n\nII. $90^\\circ$\n\nIII. $180^\\circ$\n\nWhich of the following gives all the possible phase differences between the oscillations of any two particles in the standing wave?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I only"
+      },
+      {
+        "label": "B",
+        "text": "I and III only"
+      },
+      {
+        "label": "C",
+        "text": "II and III only"
+      },
+      {
+        "label": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In a standing wave, all particles between two adjacent nodes oscillate in phase with each other (phase difference of $0^\\circ$). Particles in adjacent loops oscillate in anti-phase (phase difference of $180^\\circ$ or $\\pi$ radians). Unlike traveling waves, where phase difference varies continuously with distance, standing wave particles can only be in phase or exactly out of phase.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2012 HL TZ1 Q12 B.png"
+  },
+  {
+    "id": "May_2013_HL_TZ1_Q13",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ1 Q13 D.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A standing wave of frequency $f$ is established in air in a pipe open at one end, as shown.\n\nWhich of the following is the frequency of the next highest harmonic?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a pipe closed at the left end and open at the right end. Inside, a standing wave envelope is drawn representing the fundamental mode (first harmonic), with a node at the closed end and an antinode at the open end.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{f}{3}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{f}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$2f$"
+      },
+      {
+        "label": "D",
+        "text": "$3f$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "For a pipe open at one end (closed at the other), the boundary conditions require a node at the closed end and an antinode at the open end. The diagram shows the fundamental mode ($n=1$), where the length of the pipe $L = \\frac{\\lambda}{4}$. The harmonics for such a system only exist for odd integers ($n = 1, 3, 5, ...$). Therefore, the next highest harmonic is the third harmonic ($n=3$), which has a frequency $3f$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2013 HL TZ1 Q13 D.png"
+  },
+  {
+    "id": "May_2013_HL_TZ2_Q12",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Resonance and Damping",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ2 Q12 D.png"
+    },
+    "question_number": 12,
+    "content_markdown": "Two oscillators X and Y are undergoing forced oscillations each at a frequency close to the natural frequency of each oscillator. The graph shows the variation of amplitude with forcing frequency for each oscillator.\n\nWhich of the following correctly identifies the system that has the greater amount of damping and the greater natural frequency of oscillation?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph showing two resonance curves for oscillators X and Y. The y-axis is labeled 'amplitude' and the x-axis is labeled 'forcing frequency'. Curve X has a higher peak amplitude and a narrower width than curve Y. The peak of curve X occurs at a lower frequency than the peak of curve Y.",
+      "labels_to_preserve": [
+        "amplitude",
+        "forcing frequency",
+        "X",
+        "Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Greater amount of damping: X; Greater natural frequency: X"
+      },
+      {
+        "label": "B",
+        "text": "Greater amount of damping: X; Greater natural frequency: Y"
+      },
+      {
+        "label": "C",
+        "text": "Greater amount of damping: Y; Greater natural frequency: X"
+      },
+      {
+        "label": "D",
+        "text": "Greater amount of damping: Y; Greater natural frequency: Y"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Damping reduces the peak amplitude and broadens the resonance curve; since Y has a lower, flatter peak than X, Y is more heavily damped. The natural frequency corresponds to the frequency at the peak of the curve; since the peak of Y is further to the right on the horizontal axis than the peak of X, Y has a greater natural frequency.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2013 HL TZ2 Q12 D.png"
+  },
+  {
+    "id": "May_2013_HL_TZ2_Q16",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ2 Q16 A.png"
+    },
+    "question_number": 16,
+    "content_markdown": "The air in a pipe, of length $l$ and open at both ends, vibrates with a fundamental frequency $f$. What is the fundamental frequency of a pipe of length $1.5l$ and closed at one end?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{f}{3}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{2f}{3}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{3f}{2}$"
+      },
+      {
+        "label": "D",
+        "text": "$3f$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "For a pipe open at both ends, the fundamental frequency is $f = \\frac{v}{2l}$. For a pipe closed at one end, the fundamental frequency is $f' = \\frac{v}{4L}$. Substituting the new length $L = 1.5l$, we get $f' = \\frac{v}{4(1.5l)} = \\frac{v}{6l}$. Comparing this to the original frequency, $f' = \\frac{1}{3} \\left( \\frac{v}{2l} \\right) = \\frac{f}{3}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2013 HL TZ2 Q16 A.png"
+  },
+  {
+    "id": "May_2014_HL_TZ1_Q17",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ1 Q17 A.png"
+    },
+    "question_number": 17,
+    "content_markdown": "The diagram shows the fundamental (first harmonic) of a standing (stationary) sound wave in a pipe open at one end.\n\nAt any instant, all the molecules of air in the pipe oscillate with the same",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal pipe closed at the left end and open at the right end. Inside, a standing wave envelope is shown with a node at the closed end and an antinode at the open end, representing the fundamental frequency.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "phase."
+      },
+      {
+        "label": "B",
+        "text": "amplitude."
+      },
+      {
+        "label": "C",
+        "text": "velocity."
+      },
+      {
+        "label": "D",
+        "text": "acceleration."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In a standing wave between two adjacent nodes (or a node and an antinode in the fundamental mode), all particles oscillate in phase. While their amplitudes vary from zero at the node to a maximum at the antinode, they all reach their maximum displacement, zero velocity, and maximum acceleration at the same time.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2014 HL TZ1 Q17 A.png"
+  },
+  {
+    "id": "May_2014_HL_TZ2_Q16",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ2 Q16 B.png"
+    },
+    "question_number": 16,
+    "content_markdown": "The lowest frequency emitted by an organ pipe that is open at both ends is $f$. What is the lowest frequency emitted by an organ pipe of the same length that is closed at one end?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{f}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{f}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$2f$"
+      },
+      {
+        "label": "D",
+        "text": "$4f$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "For an open-open pipe of length $L$, the fundamental wavelength is $\\lambda_{open} = 2L$, so $f = \\frac{v}{2L}$. For an open-closed pipe of the same length $L$, the fundamental wavelength is $\\lambda_{closed} = 4L$. Therefore, the new frequency is $f' = \\frac{v}{4L} = \\frac{1}{2} \\left( \\frac{v}{2L} \\right) = \\frac{f}{2}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2014 HL TZ2 Q16 B.png"
+  },
+  {
+    "id": "May_2015_HL_TZ1_Q10",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Forced oscillations and resonance",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ1 Q10 B.png"
+    },
+    "question_number": 10,
+    "content_markdown": "A periodic driving force of frequency $f$ acts on a system which undergoes forced oscillations of amplitude $A$. The graph below shows the variation with $f$ of $A$. The maximum amplitude $A_0$ of the oscillations occurs at frequency $f_0$.\n\nThe damping of the system is now increased.\n\nWhich describes the change in $f_0$ and the change in $A_0$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A resonance curve showing amplitude A on the y-axis and driving frequency f on the x-axis. The peak occurs at frequency f0 with a maximum amplitude A0.",
+      "labels_to_preserve": [
+        "A",
+        "A_0",
+        "f",
+        "f_0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$f_0$: decrease; $A_0$: increase"
+      },
+      {
+        "label": "B",
+        "text": "$f_0$: decrease; $A_0$: decrease"
+      },
+      {
+        "label": "C",
+        "text": "$f_0$: increase; $A_0$: increase"
+      },
+      {
+        "label": "D",
+        "text": "$f_0$: increase; $A_0$: decrease"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "When damping is increased in a forced oscillation system, two main things happen to the resonance curve: 1) The peak becomes broader and the maximum amplitude $A_0$ decreases because more energy is dissipated per cycle. 2) The resonant frequency $f_0$ shifts slightly to the left (decreases) as the damping force opposes the motion and effectively slows the response of the system.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2015 HL TZ1 Q10 B.png"
+  },
+  {
+    "id": "May_2015_HL_TZ1_Q13",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ1 Q13 B.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A standing (stationary) wave is set up on a stretched string. The diagram below shows the string at three different instants of time. P, Q and R are three points on the string.\n\nWhich of the following gives two points on the string that are in phase and two points on the string that are one wavelength apart?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A standing wave diagram showing three loops. Point P is at the center of the first loop, point Q is at the center of the second loop, and point R is at the center of the third loop. The string is shown in its maximum positive displacement, maximum negative displacement, and equilibrium positions.",
+      "labels_to_preserve": [
+        "P",
+        "Q",
+        "R"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "In phase: P and Q; One wavelength apart: P and R"
+      },
+      {
+        "label": "B",
+        "text": "In phase: P and R; One wavelength apart: P and R"
+      },
+      {
+        "label": "C",
+        "text": "In phase: P and Q; One wavelength apart: P and Q"
+      },
+      {
+        "label": "D",
+        "text": "In phase: P and R; One wavelength apart: P and Q"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In a standing wave, all points within a single loop (between two adjacent nodes) are in phase with each other, while points in adjacent loops are $180^\\circ$ out of phase. Therefore, P and R (separated by two loops) are in phase, while P and Q (separated by one loop) are out of phase. One wavelength $\\lambda$ in a standing wave corresponds to the length of two loops; thus, the distance from the center of the first loop (P) to the center of the third loop (R) is exactly one wavelength.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2015 HL TZ1 Q13 B.png"
+  },
+  {
+    "id": "May_2015_HL_TZ2_Q13",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ2 Q13 B.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A standing (stationary) sound wave is set up inside a narrow glass tube which has both ends open. The fundamental (first harmonic) frequency of the standing wave is $500\\text{ Hz}$. What is the fundamental frequency of the sound wave if the length of the tube is halved and one end is closed?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$250\\text{ Hz}$"
+      },
+      {
+        "label": "B",
+        "text": "$500\\text{ Hz}$"
+      },
+      {
+        "label": "C",
+        "text": "$1000\\text{ Hz}$"
+      },
+      {
+        "label": "D",
+        "text": "$2000\\text{ Hz}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "For an open-open tube of length $L$, the fundamental frequency is $f_1 = \\frac{v}{2L} = 500\\text{ Hz}$. If the length is halved ($L' = \\frac{L}{2}$) and one end is closed, the new fundamental frequency for a closed-open tube is $f'_1 = \\frac{v}{4L'}$. Substituting $L' = \\frac{L}{2}$ gives $f'_1 = \\frac{v}{4(L/2)} = \\frac{v}{2L}$. Since this is the same expression as the original frequency, the frequency remains $500\\text{ Hz}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2015 HL TZ2 Q13 B.png"
+  },
+  {
+    "id": "May_2016_HL_TZ0_Q10",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2016,
+      "month": "May",
+      "session_label": "May 2016",
+      "level": "HL",
+      "timezone": "TZ0",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2016 HL TZ0 Q10 D.png"
+    },
+    "question_number": 10,
+    "content_markdown": "A pipe of length $L$ has two open ends. Another pipe of length $L'$ has one open end and one closed end.\n\nThe frequency of the first harmonic of both pipes is the same. What is $\\frac{L'}{L}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{3}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "1"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{1}{2}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "For a pipe open at both ends, the fundamental frequency is $f = \\frac{v}{2L}$. For a pipe closed at one end, the fundamental frequency is $f' = \\frac{v}{4L'}$. Setting $f = f'$ gives $\\frac{v}{2L} = \\frac{v}{4L'}$, which simplifies to $2L = 4L'$, or $\\frac{L'}{L} = \\frac{2}{4} = \\frac{1}{2}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2016 HL TZ0 Q10 D.png"
+  },
+  {
+    "id": "May_2017_HL_TZ1_Q15",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ1 Q15 D.png"
+    },
+    "question_number": 15,
+    "content_markdown": "Water is draining from a vertical tube that was initially full. A vibrating tuning fork is held near the top of the tube. For two positions of the water surface only, the sound is at its maximum loudness.\n\nThe distance between the two positions of maximum loudness is $x$.\n\nWhat is the wavelength of the sound emitted by the tuning fork?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a tuning fork above a vertical tube containing water. Two dashed lines indicate positions of maximum loudness, with the distance between them labeled as x.",
+      "labels_to_preserve": [
+        "tuning fork",
+        "positions of maximum loudness",
+        "tube",
+        "water",
+        "x"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{x}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "$x$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{3x}{2}$"
+      },
+      {
+        "label": "D",
+        "text": "$2x$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In a tube closed at one end (the water surface), resonance occurs when there is an antinode at the open end and a node at the water surface. The distance between two consecutive resonance positions (nodes) corresponds to half a wavelength ($\\frac{\\lambda}{2}$). Since the distance between these two positions is given as $x$, we have $x = \\frac{\\lambda}{2}$, which means $\\lambda = 2x$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2017 HL TZ1 Q15 D.png"
+  },
+  {
+    "id": "May_2017_HL_TZ2_Q14",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ2 Q14 C.png"
+    },
+    "question_number": 14,
+    "content_markdown": "The frequency of the first harmonic standing wave in a pipe that is open at both ends is $200\\text{ Hz}$. What is the frequency of the first harmonic in a pipe of the same length that is open at one end and closed at the other?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "50 Hz"
+      },
+      {
+        "label": "B",
+        "text": "75 Hz"
+      },
+      {
+        "label": "C",
+        "text": "100 Hz"
+      },
+      {
+        "label": "D",
+        "text": "400 Hz"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "For a pipe open at both ends, the fundamental frequency is $f_{open} = \\frac{v}{2L} = 200\\text{ Hz}$. For a pipe of the same length $L$ closed at one end, the fundamental frequency is $f_{closed} = \\frac{v}{4L}$. Since $f_{closed} = \\frac{1}{2} f_{open}$, the new frequency is $100\\text{ Hz}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2017 HL TZ2 Q14 C.png"
+  },
+  {
+    "id": "May_2018_HL_TZ1_Q11",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ1 Q11 D.png"
+    },
+    "question_number": 11,
+    "content_markdown": "A first-harmonic standing wave is formed on a vertical string of length $3.0\\text{ m}$ using a vibration generator. The boundary conditions for this string are that it is fixed at one boundary and free at the other boundary.\n\nThe generator vibrates at a frequency of $300\\text{ Hz}$.\n\nWhat is the speed of the wave on the string?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a vibration generator attached to a vertical string of length 3.0m. The generator is labeled with a frequency of 300 Hz. The string hangs downwards from the generator.",
+      "labels_to_preserve": [
+        "vibration generator, frequency = 300 Hz",
+        "3.0 m",
+        "diagram not to scale"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0.90\\text{ km s}^{-1}$"
+      },
+      {
+        "label": "B",
+        "text": "$1.2\\text{ km s}^{-1}$"
+      },
+      {
+        "label": "C",
+        "text": "$1.8\\text{ km s}^{-1}$"
+      },
+      {
+        "label": "D",
+        "text": "$3.6\\text{ km s}^{-1}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "For a standing wave fixed at one end and free at the other, the first harmonic (fundamental frequency) occurs when the length of the string $L$ is equal to one-quarter of the wavelength, $\\lambda/4$. Therefore, $\\lambda = 4L = 4 \\times 3.0\\text{ m} = 12.0\\text{ m}$. Using the wave equation $v = f\\lambda$, we get $v = 300\\text{ Hz} \\times 12.0\\text{ m} = 3600\\text{ m s}^{-1}$, which is $3.6\\text{ km s}^{-1}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2018 HL TZ1 Q11 D.png"
+  },
+  {
+    "id": "May_2018_HL_TZ2_Q13",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ2 Q13 B.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A string stretched between two fixed points sounds its second harmonic at frequency $f$.\n\nWhich expression, where $n$ is an integer, gives the frequencies of harmonics that have a node at the centre of the string?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a standing wave on a string fixed at both ends, specifically the second harmonic with two loops and a central node.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{n+1}{2} f$"
+      },
+      {
+        "label": "B",
+        "text": "$nf$"
+      },
+      {
+        "label": "C",
+        "text": "$2nf$"
+      },
+      {
+        "label": "D",
+        "text": "$(2n+1)f$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "For a string fixed at both ends, the second harmonic (frequency $f$) has a node at the center. Any harmonic with a node at the center must have an even number of loops (2, 4, 6...). Since the fundamental frequency is $f_1 = f/2$, the frequencies of these even harmonics are $k \\cdot f_1$ where $k = 2, 4, 6...$. This can be written as $2n \\cdot (f/2) = nf$ for integer $n$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2018 HL TZ2 Q13 B.png"
+  },
+  {
+    "id": "May_2019_HL_TZ1_Q14",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ1 Q14 B.png"
+    },
+    "question_number": 14,
+    "content_markdown": "In an experiment to determine the speed of sound in air, a tube that is open at the top is filled with water and a vibrating tuning fork is held over the tube as the water is released through a valve.\n\nAn increase in intensity in the sound is heard for the first time when the air column length is $x$. The next increase is heard when the air column length is $y$.\n\nWhich expressions are approximately correct for the wavelength of the sound?\n\nI. $4x$\n\nII. $4y$\n\nIII. $\\frac{4y}{3}$",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a tuning fork over a vertical tube filled with liquid. The air column length from the top to the liquid surface is marked as x for the first resonance and y for the second resonance. A valve is at the bottom of the tube.",
+      "labels_to_preserve": [
+        "tuning fork",
+        "x",
+        "y",
+        "liquid",
+        "valve",
+        "not to scale"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I and II"
+      },
+      {
+        "label": "B",
+        "text": "I and III"
+      },
+      {
+        "label": "C",
+        "text": "II and III"
+      },
+      {
+        "label": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The tube acts as a pipe closed at one end (the water surface). Resonance occurs when the length of the air column is an odd multiple of a quarter wavelength. The first resonance occurs at $L = \\frac{\\lambda}{4}$, so $x \\approx \\frac{\\lambda}{4} \\implies \\lambda \\approx 4x$. The second resonance occurs at $L = \\frac{3\\lambda}{4}$, so $y \\approx \\frac{3\\lambda}{4} \\implies \\lambda \\approx \\frac{4y}{3}$. Therefore, expressions I and III are correct.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2019 HL TZ1 Q14 B.png"
+  },
+  {
+    "id": "May_2019_HL_TZ2_Q19",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ2 Q19 D.png"
+    },
+    "question_number": 19,
+    "content_markdown": "A student blows across the top of a cylinder that contains water. A first-harmonic standing sound wave is produced in the air of the cylinder. More water is then added to the cylinder. The student blows so that a first-harmonic standing wave is produced with a different frequency.\n\nWhat is the nature of the displacement in the air at the water surface and the change in frequency when the water is added?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two diagrams of a cylinder containing water. The first shows a lower water level, and the second shows a higher water level after more water is added.",
+      "labels_to_preserve": [
+        "cylinder",
+        "water surface"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Nature of displacement: antinode; Change in frequency: decrease"
+      },
+      {
+        "label": "B",
+        "text": "Nature of displacement: antinode; Change in frequency: increase"
+      },
+      {
+        "label": "C",
+        "text": "Nature of displacement: node; Change in frequency: decrease"
+      },
+      {
+        "label": "D",
+        "text": "Nature of displacement: node; Change in frequency: increase"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "At a fixed boundary like a water surface, air molecules cannot move, so there must be a displacement node. For a pipe closed at one end, the fundamental frequency is given by $f = \\frac{v}{4L}$. When water is added, the length $L$ of the air column decreases. Since frequency is inversely proportional to length, the frequency must increase.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2019 HL TZ2 Q19 D.png"
+  },
+  {
+    "id": "May_2019_HL_TZ2_Q20",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ2 Q20 C.png"
+    },
+    "question_number": 20,
+    "content_markdown": "A third-harmonic standing wave of wavelength $0.80\\text{ m}$ is set up on a string fixed at both ends. Two points on the wave are separated by a distance of $0.60\\text{ m}$. What is a possible phase difference between the two points on the wave?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{\\pi}{4}\\text{ rad}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{\\pi}{2}\\text{ rad}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\pi\\text{ rad}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{3\\pi}{2}\\text{ rad}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In a standing wave, all points between two adjacent nodes vibrate in phase (phase difference = 0), and points in adjacent loops vibrate in antiphase (phase difference = $\\pi$). Since the wavelength is $0.80\\text{ m}$, the distance between nodes is $\\lambda/2 = 0.40\\text{ m}$. A distance of $0.60\\text{ m}$ is greater than the distance between nodes but less than a full wavelength, meaning the two points must be in different loops. Specifically, for a third harmonic, they could be in the first and second loops or the first and third loops. If they are in adjacent loops, the phase difference is $\\pi$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2019 HL TZ2 Q20 C.png"
+  },
+  {
+    "id": "May_2021_HL_TZ1_Q14",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ1 Q14 C.png"
+    },
+    "question_number": 14,
+    "content_markdown": "A metal rod of length $45\\text{ cm}$ is clamped at its mid point. The speed of sound in the metal rod is $1500\\text{ m s}^{-1}$ and the speed of sound in air is $300\\text{ m s}^{-1}$. The metal rod vibrates at its first harmonic. What is the wavelength in air of the sound wave produced by the metal rod?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$4.5\\text{ cm}$"
+      },
+      {
+        "label": "B",
+        "text": "$9.0\\text{ cm}$"
+      },
+      {
+        "label": "C",
+        "text": "$18\\text{ cm}$"
+      },
+      {
+        "label": "D",
+        "text": "$90\\text{ cm}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "First, determine the wavelength in the rod. A rod clamped at the center has a node at the center and antinodes at the ends for the first harmonic, meaning the length $L = \\lambda_{rod} / 2$. Thus, $\\lambda_{rod} = 2 \\times 45\\text{ cm} = 90\\text{ cm}$. Next, find the frequency using the speed in the rod: $f = v_{rod} / \\lambda_{rod} = 1500 / 0.9$. Since the frequency remains constant when the wave transfers to air, the wavelength in air is $\\lambda_{air} = v_{air} / f = 300 / (1500 / 0.9) = 0.9 \\times (300 / 1500) = 0.9 \\times 0.2 = 0.18\\text{ m}$, which is $18\\text{ cm}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2021 HL TZ1 Q14 C.png"
+  },
+  {
+    "id": "May_2021_HL_TZ2_Q14",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ2 Q14 A.png"
+    },
+    "question_number": 14,
+    "content_markdown": "The frequency of the first harmonic in a pipe is measured. An adjustment is then made which causes the speed of sound in the pipe to increase. What is true for the frequency and the wavelength of the first harmonic when the speed of sound has increased?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the possible changes in Frequency and Wavelength for options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Frequency",
+        "Wavelength"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Frequency: increase; Wavelength: unchanged"
+      },
+      {
+        "label": "B",
+        "text": "Frequency: unchanged; Wavelength: increase"
+      },
+      {
+        "label": "C",
+        "text": "Frequency: increase; Wavelength: increase"
+      },
+      {
+        "label": "D",
+        "text": "Frequency: unchanged; Wavelength: unchanged"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The wavelength $\\lambda$ of the first harmonic in a pipe is determined solely by the physical length of the pipe (e.g., $\\lambda = 2L$ for an open pipe or $\\lambda = 4L$ for a closed pipe). Since the pipe length hasn't changed, the wavelength remains unchanged. However, the wave speed $v$ is related to frequency $f$ and wavelength by $v = f\\lambda$. If $v$ increases and $\\lambda$ is constant, the frequency $f$ must increase.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2021 HL TZ2 Q14 A.png"
+  },
+  {
+    "id": "May_2022_HL_TZ1_Q17",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ1 Q17 A.png"
+    },
+    "question_number": 17,
+    "content_markdown": "A standing wave is formed on a string. P and Q are adjacent antinodes on the wave. Three statements are made by a student:\n\nI. The distance between P and Q is half a wavelength.\nII. P and Q have a phase difference of $\\pi$ rad.\nIII. Energy is transferred between P and Q.\n\nWhich statements are correct?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I and II only"
+      },
+      {
+        "label": "B",
+        "text": "I and III only"
+      },
+      {
+        "label": "C",
+        "text": "II and III only"
+      },
+      {
+        "label": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Statement I is correct because the distance between consecutive antinodes is $\\lambda/2$. Statement II is correct because adjacent antinodes are separated by a node; points on opposite sides of a node move in opposite directions, meaning they are $180^\\circ$ or $\\pi$ radians out of phase. Statement III is incorrect because standing waves do not transfer energy; energy is stored within the system.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/May 2022 HL TZ1 Q17 A.png"
+  },
+  {
+    "id": "Nov_2000_HL_Q21",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2000,
+      "month": "Nov",
+      "session_label": "Nov 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2000 HL Q21 B.png"
+    },
+    "question_number": 21,
+    "content_markdown": "The frequency of the fundamental note produced by an organ pipe that is open at both ends is $300\\text{ Hz}$. The frequency of the next harmonic is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$400\\text{ Hz}$."
+      },
+      {
+        "label": "B",
+        "text": "$600\\text{ Hz}$."
+      },
+      {
+        "label": "C",
+        "text": "$800\\text{ Hz}$."
+      },
+      {
+        "label": "D",
+        "text": "$900\\text{ Hz}$."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "For an organ pipe open at both ends, the harmonics are integer multiples of the fundamental frequency ($f_n = n \\cdot f_1$). The fundamental frequency is $f_1 = 300\\text{ Hz}$. The next harmonic (the second harmonic) is $n = 2$, so $f_2 = 2 \\times 300\\text{ Hz} = 600\\text{ Hz}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2000 HL Q21 B.png"
+  },
+  {
+    "id": "Nov_2000_HL_Q23",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2000,
+      "month": "Nov",
+      "session_label": "Nov 2000",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2000 HL Q23 A.png"
+    },
+    "question_number": 23,
+    "content_markdown": "In the diagram a vibrator attached to a string under tension sets up a standing wave. The string vibrates in the mode shown.\n\nIf the frequency of the vibrator is kept constant by what factor must the tension be changed in order that the next standing wave mode (harmonic) is produced?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a vibrator connected to a string fixed at the other end. The string is vibrating in its fundamental mode (first harmonic), forming a single loop.",
+      "labels_to_preserve": [
+        "Vibrator"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$1/4$"
+      },
+      {
+        "label": "B",
+        "text": "$1/2$"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The frequency of a standing wave on a string is given by $f = \\frac{n}{2L}\\sqrt{\\frac{T}{\\mu}}$. The diagram shows the first harmonic ($n=1$). To reach the next harmonic ($n=2$) while keeping frequency $f$ and length $L$ constant, the term $n\\sqrt{T}$ must remain constant. Therefore, $1\\sqrt{T_1} = 2\\sqrt{T_2}$. Squaring both sides gives $T_1 = 4T_2$, which means the new tension $T_2$ must be $1/4$ of the original tension.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2000 HL Q23 A.png"
+  },
+  {
+    "id": "Nov_2001_HL_Q23",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2001,
+      "month": "Nov",
+      "session_label": "Nov 2001",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2001 HL Q23 D.png"
+    },
+    "question_number": 23,
+    "content_markdown": "An organ pipe of length $L$ is open at one end and closed at the other. The fundamental (lowest frequency) standing sound wave is set up in the pipe.\n\nWhat is the wavelength of the fundamental, in terms of the length $L$ of the pipe? Ignore any end correction.",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal organ pipe with the left end open and the right end closed. A double-headed arrow below the pipe indicates the length is L.",
+      "labels_to_preserve": [
+        "L"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{L}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{L}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$2L$"
+      },
+      {
+        "label": "D",
+        "text": "$4L$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "For a pipe closed at one end and open at the other, the fundamental mode consists of a node at the closed end and an antinode at the open end. This distance represents one-quarter of a full wavelength. Therefore, $L = \\frac{\\lambda}{4}$, which means $\\lambda = 4L$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2001 HL Q23 D.png"
+  },
+  {
+    "id": "Nov_2002_HL_Q21",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2002,
+      "month": "Nov",
+      "session_label": "Nov 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2002 HL Q21 C.png"
+    },
+    "question_number": 21,
+    "content_markdown": "An organ pipe is closed at one end and open at the other as shown below.\n\nWhich **one** of the following diagrams correctly shows the positions of the displacement nodes and antinodes when the **fundamental** standing wave is formed in the tube?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A vertical organ pipe open at the top and closed at the bottom. Four options A, B, C, and D show different arrangements of nodes and antinodes within the pipe.",
+      "labels_to_preserve": [
+        "Node",
+        "Antinode"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Diagram showing Node at the top, Antinode in the middle, and Node at the bottom."
+      },
+      {
+        "label": "B",
+        "text": "Diagram showing Antinode at the top, Node in the middle, and Antinode at the bottom."
+      },
+      {
+        "label": "C",
+        "text": "Diagram showing Antinode at the top and Node at the bottom."
+      },
+      {
+        "label": "D",
+        "text": "Diagram showing Node at the top and Antinode at the bottom."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In a pipe closed at one end and open at the other, the boundary conditions for displacement are fixed: the closed end must be a displacement node (where air cannot move) and the open end must be a displacement antinode (where air can move most freely). For the fundamental frequency (the simplest mode), there are no intermediate nodes or antinodes, resulting in a single antinode at the open top and a single node at the closed bottom.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2002 HL Q21 C.png"
+  },
+  {
+    "id": "Nov_2004_HL_Q23",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves",
+    "paper": {
+      "year": 2004,
+      "month": "Nov",
+      "session_label": "Nov 2004",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2004 HL Q23 D.png"
+    },
+    "question_number": 23,
+    "content_markdown": "A loudspeaker emits sound of frequency $f$. The sound waves are reflected from a wall. The arrangement is shown below.\n\nWhen a microphone is moved along the line SW, minimum loudness of sound is detected at points P, Q and R. There are no other minima between these points. The separation of the minima is $d$.\n\nThe speed of the sound wave is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a loudspeaker S emitting sound towards a wall W. Points P, Q, and R are marked on the line SW between the speaker and the wall. The distance between P and Q is d, and the distance between Q and R is d.",
+      "labels_to_preserve": [
+        "S",
+        "P",
+        "Q",
+        "R",
+        "W",
+        "d",
+        "loudspeaker",
+        "wall"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{2} fd$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{f}{d}$"
+      },
+      {
+        "label": "C",
+        "text": "$fd$"
+      },
+      {
+        "label": "D",
+        "text": "$2fd$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The interference between the incident and reflected waves creates a standing wave pattern. In a standing wave, the distance between consecutive nodes (minima) is equal to half a wavelength ($\\lambda/2$). Given that the distance between minima is $d$, we have $d = \\lambda/2$, which means $\\lambda = 2d$. Using the wave equation $v = f\\lambda$, we substitute the wavelength to get $v = f(2d) = 2fd$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2004 HL Q23 D.png"
+  },
+  {
+    "id": "Nov_2005_HL_Q21",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2005,
+      "month": "Nov",
+      "session_label": "Nov 2005",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2005 HL Q21 B.png"
+    },
+    "question_number": 21,
+    "content_markdown": "Which **one** of the following is correct for transfer of energy along a standing wave and for amplitude of vibration of the standing wave?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table with two columns: 'Transfer of energy along a standing wave' and 'Amplitude of vibration of the standing wave'.",
+      "labels_to_preserve": [
+        "Transfer of energy along a standing wave",
+        "Amplitude of vibration of the standing wave"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Transfer of energy: None; Amplitude: Constant amplitude"
+      },
+      {
+        "label": "B",
+        "text": "Transfer of energy: None; Amplitude: Variable amplitude"
+      },
+      {
+        "label": "C",
+        "text": "Transfer of energy: Energy is transferred; Amplitude: Constant amplitude"
+      },
+      {
+        "label": "D",
+        "text": "Transfer of energy: Energy is transferred; Amplitude: Variable amplitude"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Standing waves are formed by the superposition of two counter-propagating waves. Because the energy flows in opposite directions, the net energy transfer along the wave is zero. Unlike traveling waves where every point has the same amplitude, standing waves have a profile where amplitude varies from zero at nodes to a maximum at antinodes.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2005 HL Q21 B.png"
+  },
+  {
+    "id": "Nov_2005_HL_Q22",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2005,
+      "month": "Nov",
+      "session_label": "Nov 2005",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2005 HL Q22 B.png"
+    },
+    "question_number": 22,
+    "content_markdown": "Two pipes P and Q are of the same length. Pipe P is closed at one end and pipe Q is open at both ends. The fundamental frequency (first harmonic) of the closed pipe P is $220\\text{ Hz}$.\n\nThe best estimate for the fundamental frequency of the open pipe Q is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "880 Hz."
+      },
+      {
+        "label": "B",
+        "text": "440 Hz."
+      },
+      {
+        "label": "C",
+        "text": "110 Hz."
+      },
+      {
+        "label": "D",
+        "text": "55 Hz."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "For a pipe of length $L$ closed at one end, the fundamental frequency is $f_P = \\frac{v}{4L}$. For a pipe of the same length $L$ open at both ends, the fundamental frequency is $f_Q = \\frac{v}{2L}$. Since $f_Q = 2 \\times f_P$, and $f_P = 220\\text{ Hz}$, then $f_Q = 2 \\times 220 = 440\\text{ Hz}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2005 HL Q22 B.png"
+  },
+  {
+    "id": "Nov_2006_HL_Q25",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2006,
+      "month": "Nov",
+      "session_label": "Nov 2006",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2006 HL Q25 A.png"
+    },
+    "question_number": 25,
+    "content_markdown": "A source of sound is placed near the open end of a cylindrical tube that lies on a horizontal table. The tube has some powder sprinkled along its length. The powder collects in piles along the length of the tube as shown below.\n\nThe distance between two consecutive piles of powder is $d$ and the speed of sound in the tube is $v$. The frequency of the source is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a source of sound at the open end of a horizontal tube. Inside the tube, powder has formed into several small piles. The distance between the peaks of two adjacent piles is labeled as d.",
+      "labels_to_preserve": [
+        "source of sound",
+        "d"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{v}{2d}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{v}{d}$"
+      },
+      {
+        "label": "C",
+        "text": "$dv$"
+      },
+      {
+        "label": "D",
+        "text": "$2dv$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In a standing wave, powder collects at the nodes (where there is no air displacement). The distance between two consecutive nodes is equal to half a wavelength ($\\frac{\\lambda}{2}$). Therefore, $d = \\frac{\\lambda}{2}$, which means $\\lambda = 2d$. Using the wave equation $v = f\\lambda$, we can solve for frequency: $f = \\frac{v}{\\lambda} = \\frac{v}{2d}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2006 HL Q25 A.png"
+  },
+  {
+    "id": "Nov_2007_HL_Q19",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2007,
+      "month": "Nov",
+      "session_label": "Nov 2007",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2007 HL Q19 B.png"
+    },
+    "question_number": 19,
+    "content_markdown": "A string with both ends fixed is made to vibrate in the second harmonic mode as shown by the dashed lines in the diagram below.\n\n$$\\text{Diagram showing a standing wave with two loops. Point P is in the first loop and point Q is in the second loop.}$$\n\nThe solid line shows a photograph of the string at a particular instant of time. Two points on the string have been marked P and Q.\n\nWhich of the following correctly compares both the period of vibration of P and Q and the average speed of P and Q?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A standing wave on a string fixed at both ends, vibrating in its second harmonic (two loops). Point P is located in the first loop, and point Q is located in the second loop. A solid line represents the instantaneous position of the string, while dashed lines represent the envelope of the vibration.",
+      "labels_to_preserve": [
+        "P",
+        "Q"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Period: same; Average speed: same"
+      },
+      {
+        "label": "B",
+        "text": "Period: same; Average speed: different"
+      },
+      {
+        "label": "C",
+        "text": "Period: different; Average speed: same"
+      },
+      {
+        "label": "D",
+        "text": "Period: different; Average speed: different"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In a standing wave, all points on the string (except nodes) vibrate with the same frequency and therefore the same period. However, the amplitude of vibration varies depending on the position along the string. Since average speed over a cycle is proportional to amplitude ($v_{avg} = \\frac{4A}{T}$), and points P and Q are at different distances from the nodes/antinodes, they have different amplitudes and thus different average speeds.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2007 HL Q19 B.png"
+  },
+  {
+    "id": "Nov_2007_HL_Q23",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2007,
+      "month": "Nov",
+      "session_label": "Nov 2007",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2007 HL Q23 A.png"
+    },
+    "question_number": 23,
+    "content_markdown": "The diagram below represents the fundamental (first harmonic) standing wave of sound inside a pipe.\n\nWhich of the following correctly represents the displacement of the air at P and Q?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a pipe closed at one end and open at the other. Inside, the fundamental standing wave envelope is shown with a node at the closed end and an antinode at the open end. Two points, P and Q, are marked inside the pipe, with Q being closer to the open end than P.",
+      "labels_to_preserve": [
+        "P",
+        "Q",
+        "pipe"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "P: short horizontal double-headed arrow; Q: long horizontal double-headed arrow"
+      },
+      {
+        "label": "B",
+        "text": "P: long horizontal double-headed arrow; Q: long horizontal double-headed arrow"
+      },
+      {
+        "label": "C",
+        "text": "P: short vertical double-headed arrow; Q: long vertical double-headed arrow"
+      },
+      {
+        "label": "D",
+        "text": "P: long vertical double-headed arrow; Q: long vertical double-headed arrow"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Sound waves in a pipe are longitudinal, meaning the air molecules oscillate parallel to the direction of wave propagation (horizontally in this diagram). In a standing wave, the amplitude of displacement increases from the node (closed end) to the antinode (open end). Since Q is closer to the open end than P, it will have a larger horizontal displacement amplitude than P.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2007 HL Q23 A.png"
+  },
+  {
+    "id": "Nov_2008_HL_Q23",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2008,
+      "month": "Nov",
+      "session_label": "Nov 2008",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2008 HL Q23 A.png"
+    },
+    "question_number": 23,
+    "content_markdown": "The fundamental mode of a vibrating string has frequency $f$ and wavelength $\\lambda$. Which of the following gives the correct frequency and wavelength for the fundamental mode of an identical string of half the length and the same tension?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) with columns for Frequency and Wavelength.",
+      "labels_to_preserve": [
+        "Frequency",
+        "Wavelength"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Frequency: $2f$, Wavelength: $\\frac{\\lambda}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "Frequency: $2f$, Wavelength: $2\\lambda$"
+      },
+      {
+        "label": "C",
+        "text": "Frequency: $\\frac{f}{2}$, Wavelength: $2\\lambda$"
+      },
+      {
+        "label": "D",
+        "text": "Frequency: $\\frac{f}{2}$, Wavelength: $\\frac{\\lambda}{2}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "For a string fixed at both ends, the fundamental wavelength is $\\lambda = 2L$. If the length is halved ($L' = L/2$), the new wavelength is $\\lambda' = 2(L/2) = L = \\lambda/2$. Since the tension and string properties are identical, the wave speed $v = \\sqrt{T/\\mu}$ remains constant. Using $v = f\\lambda$, if the wavelength is halved, the frequency must double to keep $v$ constant, so $f' = 2f$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2008 HL Q23 A.png"
+  },
+  {
+    "id": "Nov_2010_HL_Q15",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2010,
+      "month": "Nov",
+      "session_label": "Nov 2010",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2010 HL Q15 A.png"
+    },
+    "question_number": 15,
+    "content_markdown": "A standing wave is established in air in a pipe with one closed and one open end.\n\nThe air molecules near X are",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal pipe with a closed left end and an open right end. Inside, a standing wave envelope is shown with a displacement node at the closed end, an antinode in the middle, a node at point X, and an antinode at the open end.",
+      "labels_to_preserve": [
+        "X"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "always at the centre of a compression."
+      },
+      {
+        "label": "B",
+        "text": "always at the centre of a rarefaction."
+      },
+      {
+        "label": "C",
+        "text": "sometimes at the centre of a compression and sometimes at the centre of a rarefaction."
+      },
+      {
+        "label": "D",
+        "text": "never at the centre of a compression or a rarefaction."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In a longitudinal standing wave, a displacement node (like point X) corresponds to a pressure antinode. This means the pressure at X oscillates between maximum (compression) and minimum (rarefaction) over time. Therefore, the molecules at X are sometimes at the center of a compression and sometimes at the center of a rarefaction as the wave oscillates.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2010 HL Q15 A.png"
+  },
+  {
+    "id": "Nov_2011_HL_Q15",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2011,
+      "month": "Nov",
+      "session_label": "Nov 2011",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2011 HL Q15 C.png"
+    },
+    "question_number": 15,
+    "content_markdown": "A standing wave is established on a string between two fixed points.\n\nWhat is the phase difference in radians between point P and point Q on the string?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a standing wave on a string fixed at both ends. The wave is in its second harmonic (one full wavelength). Point P is at the peak of the first loop, and point Q is at the trough of the second loop.",
+      "labels_to_preserve": [
+        "P",
+        "Q"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "zero"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{\\pi}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\pi$"
+      },
+      {
+        "label": "D",
+        "text": "$2\\pi$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In a standing wave, all points within a single loop (between two adjacent nodes) vibrate in phase with each other. However, points in adjacent loops vibrate in antiphase. Since P is in the first loop and Q is in the second loop, they are moving in opposite directions at any given time, resulting in a phase difference of $\\pi$ radians.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2011 HL Q15 C.png"
+  },
+  {
+    "id": "Nov_2012_HL_Q16",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2012,
+      "month": "Nov",
+      "session_label": "Nov 2012",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2012 HL Q16 B.png"
+    },
+    "question_number": 16,
+    "content_markdown": "P and Q are two points on a standing wave. R and S are two points on a progressive (travelling) wave.\n\nWhich of the following gives the relationship between the amplitudes of each pair of points?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two wave diagrams. The first shows a standing wave with two loops (nodes and antinodes) and points P and Q located at different positions within the same loop. The second shows a progressive wave with points R and S located at different horizontal positions along the wave profile.",
+      "labels_to_preserve": [
+        "P",
+        "Q",
+        "R",
+        "S",
+        "Standing wave",
+        "Progressive (travelling) wave"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Points P and Q: same amplitude; Points R and S: same amplitude"
+      },
+      {
+        "label": "B",
+        "text": "Points P and Q: different amplitude; Points R and S: same amplitude"
+      },
+      {
+        "label": "C",
+        "text": "Points P and Q: same amplitude; Points R and S: different amplitude"
+      },
+      {
+        "label": "D",
+        "text": "Points P and Q: different amplitude; Points R and S: different amplitude"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In a standing wave, the amplitude varies depending on the position (distance from a node), so points P and Q at different positions have different amplitudes. In a progressive wave, every point on the wave eventually reaches the same maximum displacement (amplitude) as the wave travels through them, so R and S have the same amplitude.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2012 HL Q16 B.png"
+  },
+  {
+    "id": "Nov_2013_HL_Q11",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Damping and Resonance",
+    "paper": {
+      "year": 2013,
+      "month": "Nov",
+      "session_label": "Nov 2013",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2013 HL Q11 A.png"
+    },
+    "question_number": 11,
+    "content_markdown": "Which graph of displacement $x$ against time $t$ represents the motion of a critically damped body?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs showing displacement x versus time t. Graph A shows a rapid return to equilibrium without oscillation. Graph B shows a slow return to equilibrium. Graph C shows undamped oscillation. Graph D shows underdamped oscillation with decreasing amplitude.",
+      "labels_to_preserve": [
+        "x",
+        "t",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Critical damping is defined as the condition where the system returns to equilibrium in the shortest possible time without oscillating. Graph A shows this rapid return to zero displacement. Graph B represents overdamping (slower return), Graph C represents undamped motion, and Graph D represents underdamping (oscillations with decaying amplitude).",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2013 HL Q11 A.png"
+  },
+  {
+    "id": "Nov_2013_HL_Q13",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2013,
+      "month": "Nov",
+      "session_label": "Nov 2013",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2013 HL Q13 C.png"
+    },
+    "question_number": 13,
+    "content_markdown": "The diagrams show four different organ pipes drawn to scale. Standing waves in the fundamental (first harmonic) mode are set up inside each pipe. Which pipe produces a fundamental note with the lowest frequency?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four organ pipes of varying lengths and boundary conditions: A is short and open at both ends; B is short and closed at one end; C is long and closed at one end; D is long and open at both ends.",
+      "labels_to_preserve": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Frequency is given by $f = \\frac{v}{\\lambda}$. To find the lowest frequency, we need the longest wavelength $\\lambda$. For an open pipe of length $L$, the fundamental wavelength is $\\lambda = 2L$. For a closed pipe (one end closed), the fundamental wavelength is $\\lambda = 4L$. Comparing the options: Pipe C is a long pipe and is closed at one end, meaning its wavelength is four times its physical length ($4L_{long}$). Pipe D is the same length but open at both ends, so its wavelength is only $2L_{long}$. Since $4L_{long} > 2L_{long}$ and $4L_{long}$ is clearly greater than the wavelengths for the shorter pipes A and B, pipe C produces the longest wavelength and thus the lowest frequency.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2013 HL Q13 C.png"
+  },
+  {
+    "id": "Nov_2014_HL_Q11",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2014,
+      "month": "Nov",
+      "session_label": "Nov 2014",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2014 HL Q11 B.png"
+    },
+    "question_number": 11,
+    "content_markdown": "The natural frequency of vibration of a system",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "is the frequency at which it oscillates when it is driven by another system."
+      },
+      {
+        "label": "B",
+        "text": "is the frequency at which it oscillates when it is **not** driven by another system."
+      },
+      {
+        "label": "C",
+        "text": "depends on the damping in the system."
+      },
+      {
+        "label": "D",
+        "text": "depends on the amplitude of the oscillation of the system."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Natural frequency is defined as the frequency at which a system oscillates when it is allowed to vibrate freely after an initial disturbance, without any external periodic force (driving force) acting upon it. While damping can affect the 'damped natural frequency', the fundamental definition of natural frequency refers to the free oscillation of the system.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2014 HL Q11 B.png"
+  },
+  {
+    "id": "Nov_2014_HL_Q13",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves",
+    "paper": {
+      "year": 2014,
+      "month": "Nov",
+      "session_label": "Nov 2014",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2014 HL Q13 B.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A string is made to vibrate at its third harmonic. The diagram shows two points P and Q at a particular instant in time.\n\nWhich of the following compares the period of vibration of P and Q and the average speed of P and Q?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A standing wave on a string showing three loops (third harmonic). Point P is located near the peak of the first loop, and point Q is located at the trough of the second loop.",
+      "labels_to_preserve": [
+        "P",
+        "Q"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Period: same; Average speed: same"
+      },
+      {
+        "label": "B",
+        "text": "Period: same; Average speed: different"
+      },
+      {
+        "label": "C",
+        "text": "Period: different; Average speed: same"
+      },
+      {
+        "label": "D",
+        "text": "Period: different; Average speed: different"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In a standing wave, all points on the string (except nodes) vibrate with the same frequency and therefore the same period. However, the amplitude of vibration varies depending on the position along the string. Since average speed over a cycle is proportional to amplitude ($v_{avg} = \\frac{4A}{T}$), and P and Q are at different distances from their respective nodes/antinodes (Q is at an antinode while P is not), their average speeds are different.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2014 HL Q13 B.png"
+  },
+  {
+    "id": "Nov_2015_HL_Q13",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves",
+    "paper": {
+      "year": 2015,
+      "month": "Nov",
+      "session_label": "Nov 2015",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2015 HL Q13 C.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A standing (stationary) wave is set up on a string at a particular frequency as shown.\n\nHow many nodes will be on the string if the frequency is doubled but nothing else is changed?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A standing wave on a string fixed at both ends showing three loops (the third harmonic).",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "label": "B",
+        "text": "3"
+      },
+      {
+        "label": "C",
+        "text": "7"
+      },
+      {
+        "label": "D",
+        "text": "8"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The initial diagram shows the 3rd harmonic ($n=3$), which has 4 nodes (including the ends). Since $v = f\\lambda$ and the wave speed $v$ is constant, doubling the frequency $f$ halves the wavelength $\\lambda$. This means the number of loops doubles from 3 to 6. A standing wave with 6 loops (the 6th harmonic) has $n+1$ nodes, which is $6+1=7$ nodes.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2015 HL Q13 C.png"
+  },
+  {
+    "id": "Nov_2017_HL_Q14",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2017,
+      "month": "Nov",
+      "session_label": "Nov 2017",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2017 HL Q14 A.png"
+    },
+    "question_number": 14,
+    "content_markdown": "The diagram shows a second harmonic standing wave on a string fixed at both ends.\n\nWhat is the phase difference, in rad, between the particle at X and the particle at Y?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A standing wave with two loops (second harmonic) between two fixed walls. Points X and Y are both located on the first loop of the wave.",
+      "labels_to_preserve": [
+        "X",
+        "Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{\\pi}{4}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{\\pi}{2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{3\\pi}{4}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "In a standing wave, all particles within the same loop (between two adjacent nodes) vibrate in phase with each other. Since both points X and Y are located within the first loop of the second harmonic, their phase difference is zero.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2017 HL Q14 A.png"
+  },
+  {
+    "id": "Nov_2019_HL_Q14",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves",
+    "paper": {
+      "year": 2019,
+      "month": "Nov",
+      "session_label": "Nov 2019",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2019 HL Q14 B.png"
+    },
+    "question_number": 14,
+    "content_markdown": "A pipe of length $0.6\\text{ m}$ is filled with a gas and closed at one end. The speed of sound in the gas is $300\\text{ m s}^{-1}$. What are the frequencies of the first two harmonics in the tube?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$125\\text{ Hz}$ and $250\\text{ Hz}$"
+      },
+      {
+        "label": "B",
+        "text": "$125\\text{ Hz}$ and $375\\text{ Hz}$"
+      },
+      {
+        "label": "C",
+        "text": "$250\\text{ Hz}$ and $500\\text{ Hz}$"
+      },
+      {
+        "label": "D",
+        "text": "$250\\text{ Hz}$ and $750\\text{ Hz}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "For a pipe closed at one end, the fundamental frequency (first harmonic) is $f_1 = \\frac{v}{4L}$. Substituting the values: $f_1 = \\frac{300}{4 \\times 0.6} = \\frac{300}{2.4} = 125\\text{ Hz}$. In a closed pipe, only odd harmonics exist ($f_1, 3f_1, 5f_1, \\dots$). Therefore, the second harmonic (the next available frequency) is $3f_1 = 3 \\times 125 = 375\\text{ Hz}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2019 HL Q14 B.png"
+  },
+  {
+    "id": "Nov_2020_HL_Q13",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2020,
+      "month": "Nov",
+      "session_label": "Nov 2020",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2020 HL Q13 C.png"
+    },
+    "question_number": 13,
+    "content_markdown": "The air in a pipe, open at both ends, vibrates in the second harmonic mode.\n\nWhat is the phase difference between the motion of a particle at P and the motion of a particle at Q?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal pipe open at both ends. Point P is located near the left end, and point Q is located near the center of the pipe.",
+      "labels_to_preserve": [
+        "P",
+        "Q"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{\\pi}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\pi$"
+      },
+      {
+        "label": "D",
+        "text": "$2\\pi$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In the second harmonic of an open pipe, there is a node at the center of the pipe. Points on opposite sides of a node in a standing wave vibrate in antiphase. Since P is in the first half of the pipe and Q is in the second half (separated by the central node), the phase difference between them is $\\pi$ radians.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2020 HL Q13 C.png"
+  },
+  {
+    "id": "Nov_2021_HL_Q14",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2021,
+      "month": "Nov",
+      "session_label": "Nov 2021",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2021 HL Q14 D.png"
+    },
+    "question_number": 14,
+    "content_markdown": "A string is fixed at both ends. P and Q are two particles on the string.\n\nThe first harmonic standing wave is formed in the string. What is correct about the motion of P and Q?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A horizontal line representing a string fixed at both ends with two points, P and Q, marked on it. P is closer to the center and Q is further to the right.",
+      "labels_to_preserve": [
+        "P",
+        "Q"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "P is a node and Q is an antinode."
+      },
+      {
+        "label": "B",
+        "text": "P is an antinode and Q is a node."
+      },
+      {
+        "label": "C",
+        "text": "P and Q oscillate with the same amplitude."
+      },
+      {
+        "label": "D",
+        "text": "P and Q oscillate with the same frequency."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In a standing wave, all particles (except nodes) oscillate with the same frequency, which is the frequency of the driving source or the natural frequency of the mode. However, the amplitude varies depending on the position along the string (nodes have zero amplitude, antinodes have maximum). In the first harmonic of a string fixed at both ends, the only nodes are at the ends, so P and Q must oscillate with the same frequency but different amplitudes.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2021 HL Q14 D.png"
+  },
+  {
+    "id": "Specimen_2016_HL_Q14",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves",
+    "paper": {
+      "year": 2016,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2016 HL Q14 C.png"
+    },
+    "question_number": 14,
+    "content_markdown": "A standing wave is produced by the superposition of two travelling waves. Which statement is **not** correct?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The travelling waves must have the same frequency."
+      },
+      {
+        "label": "B",
+        "text": "The travelling waves must have equal but opposite velocities."
+      },
+      {
+        "label": "C",
+        "text": "In the standing wave, all the oscillating particles have the same amplitude."
+      },
+      {
+        "label": "D",
+        "text": "In the standing wave, particles between adjacent nodes vibrate in phase."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "A standing wave is formed by the interference of two waves of the same frequency and amplitude traveling in opposite directions. Unlike a travelling wave where every particle has the same amplitude, a standing wave has nodes (zero amplitude) and antinodes (maximum amplitude), meaning the amplitude varies depending on the position along the wave. Therefore, statement C is incorrect.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Specimen Paper 2016 HL Q14 C.png"
+  },
+  {
+    "id": "Specimen_2025_HL_Q20",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Standing Waves and Resonance",
+    "paper": {
+      "year": 2025,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2025",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2025 HL Q20 C.png"
+    },
+    "question_number": 20,
+    "content_markdown": "Diagram 1 shows the variation with position of the displacement of a standing wave formed on a string.\n\nDiagram 2 shows the variation with position of the displacement of a travelling wave moving to the right along a string.\n\nPoints P, Q, R and S are points on the string.\n\nWhat is the phase difference between P and Q and the phase difference between R and S?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two graphs showing displacement vs position. Diagram 1 is a standing wave with points P and Q located in the same loop (between the same two nodes). Diagram 2 is a travelling wave with points R and S separated by a horizontal distance of one-quarter of a wavelength.",
+      "labels_to_preserve": [
+        "Diagram 1",
+        "Diagram 2",
+        "displacement",
+        "position",
+        "P",
+        "Q",
+        "R",
+        "S"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Phase difference between P and Q: 0; Phase difference between R and S: 0"
+      },
+      {
+        "label": "B",
+        "text": "Phase difference between P and Q: $\\frac{\\pi}{2}$; Phase difference between R and S: 0"
+      },
+      {
+        "label": "C",
+        "text": "Phase difference between P and Q: 0; Phase difference between R and S: $\\frac{\\pi}{2}$"
+      },
+      {
+        "label": "D",
+        "text": "Phase difference between P and Q: $\\frac{\\pi}{2}$; Phase difference between R and S: $\\frac{\\pi}{2}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "In a standing wave, all points between two adjacent nodes vibrate in phase, so the phase difference between P and Q is 0. In a travelling wave, the phase difference $\\phi$ is given by $\\phi = \\frac{2\\pi x}{\\lambda}$. Since R and S are separated by a distance of $\\frac{\\lambda}{4}$ (two grid units where a full wavelength is eight units), the phase difference is $\\frac{2\\pi (\\lambda/4)}{\\lambda} = \\frac{\\pi}{2}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Specimen Paper 2025 HL Q20 C.png"
+  },
+  {
+    "id": "Specimen_2025_HL_Q21",
+    "topic": "Standing Waves and Resonance",
+    "topic_code": "C4",
+    "sub_topic": "Simple Harmonic Motion and Resonance",
+    "paper": {
+      "year": 2025,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2025",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2025 HL Q21 B.png"
+    },
+    "question_number": 21,
+    "content_markdown": "A mass of $0.25\\text{ kg}$ hangs from a spring of spring constant $4.0\\text{ N m}^{-1}$.\n\nWhat is the natural frequency of oscillation for this system?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0.50\\text{ Hz}$"
+      },
+      {
+        "label": "B",
+        "text": "$0.64\\text{ Hz}$"
+      },
+      {
+        "label": "C",
+        "text": "$1.6\\text{ Hz}$"
+      },
+      {
+        "label": "D",
+        "text": "$2.0\\text{ Hz}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The natural frequency $f$ of a mass-spring system is given by $f = \\frac{1}{2\\pi}\\sqrt{\\frac{k}{m}}$. Substituting the given values: $f = \\frac{1}{2\\pi}\\sqrt{\\frac{4.0}{0.25}} = \\frac{1}{2\\pi}\\sqrt{16} = \\frac{4}{2\\pi} = \\frac{2}{\\pi}$. Since $\\pi \\approx 3.14$, $f \\approx \\frac{2}{3.14} \\approx 0.636\\text{ Hz}$, which rounds to $0.64\\text{ Hz}$.",
+    "source_image_path": "C4-Standing-Waves-and-Resonance/Specimen Paper 2025 HL Q21 B.png"
+  }
+]

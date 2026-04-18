@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2014_HL_Q11",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2014,
+    "month": "Nov",
+    "session_label": "Nov 2014",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2014 HL Q11 B.png"
+  },
+  "question_number": 11,
+  "content_markdown": "The natural frequency of vibration of a system",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "is the frequency at which it oscillates when it is driven by another system."
+    },
+    {
+      "label": "B",
+      "text": "is the frequency at which it oscillates when it is **not** driven by another system."
+    },
+    {
+      "label": "C",
+      "text": "depends on the damping in the system."
+    },
+    {
+      "label": "D",
+      "text": "depends on the amplitude of the oscillation of the system."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Natural frequency is defined as the frequency at which a system oscillates when it is allowed to vibrate freely after an initial disturbance, without any external periodic force (driving force) acting upon it. While damping can affect the 'damped natural frequency', the fundamental definition of natural frequency refers to the free oscillation of the system.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2014 HL Q11 B.png"
+}

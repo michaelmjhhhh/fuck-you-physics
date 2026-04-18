@@ -1,0 +1,26 @@
+{
+  "id": "May_2002_HL_Q8",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "",
+  "paper": {
+    "year": 2002,
+    "month": "May",
+    "session_label": "May 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2002 HL Q8 B.png"
+  },
+  "question_number": 8,
+  "correct_answer": "B",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2002 HL Q8 B.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

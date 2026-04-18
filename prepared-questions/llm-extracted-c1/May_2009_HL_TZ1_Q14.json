@@ -1,0 +1,48 @@
+{
+  "id": "May_2009_HL_TZ1_Q14",
+  "topic": "Simple Harmonic Motion",
+  "topic_code": "C1",
+  "sub_topic": "Simple Harmonic Motion",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ1 Q14 A.png"
+  },
+  "question_number": 14,
+  "content_markdown": "A mass on the end of a horizontal spring is displaced from its equilibrium position by a distance $A$ and released. Its subsequent oscillations have total energy $E$ and time period $T$.\n\nAn identical mass is attached to an identical spring. The maximum displacement is $2A$. Assuming this spring obeys Hooke's law, which of the following gives the correct time period and total energy?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A horizontal spring-mass system on a friction-free surface. The mass is shown at equilibrium with a dashed line and an arrow indicating displacement A.",
+    "labels_to_preserve": [
+      "Spring",
+      "Mass",
+      "Friction free surface",
+      "A"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "New time period: $T$; New energy: $4E$"
+    },
+    {
+      "label": "B",
+      "text": "New time period: $T$; New energy: $2E$"
+    },
+    {
+      "label": "C",
+      "text": "New time period: $\\sqrt{2}T$; New energy: $4E$"
+    },
+    {
+      "label": "D",
+      "text": "New time period: $\\sqrt{2}T$; New energy: $2E$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "For a mass-spring system, the time period $T = 2\\pi\\sqrt{\\frac{m}{k}}$ is independent of the amplitude, so the period remains $T$. The total energy in SHM is proportional to the square of the amplitude ($E = \\frac{1}{2}kA^2$). If the amplitude doubles to $2A$, the energy increases by a factor of $2^2 = 4$, resulting in $4E$.",
+  "source_image_path": "C1-Simple-Harmonic-Motion/May 2009 HL TZ1 Q14 A.png"
+}

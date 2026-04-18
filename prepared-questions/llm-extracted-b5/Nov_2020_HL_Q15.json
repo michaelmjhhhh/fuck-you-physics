@@ -1,0 +1,55 @@
+{
+  "id": "Nov_2020_HL_Q15",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Kirchhoff's Laws",
+  "paper": {
+    "year": 2020,
+    "month": "Nov",
+    "session_label": "Nov 2020",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2020 HL Q15 D.png"
+  },
+  "question_number": 15,
+  "content_markdown": "A cell of electromotive force (emf) $E$ and zero internal resistance is in the circuit shown.\n\nWhat is correct for loop WXYUW?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A bridge circuit connected to a cell. The loop WXYUW starts at W, goes through a resistor R to X, then through another resistor R to Y, then through the cell back to W via U. Current I1 flows from W to Z through 2R. Current I2 flows from W to X through R. Current I3 flows from X to Z through R.",
+    "labels_to_preserve": [
+      "U",
+      "W",
+      "X",
+      "Y",
+      "Z",
+      "E",
+      "R",
+      "2R",
+      "I_1",
+      "I_2",
+      "I_3"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$E = 3I_1R - I_3R$"
+    },
+    {
+      "label": "B",
+      "text": "$E = I_3R - I_2R$"
+    },
+    {
+      "label": "C",
+      "text": "$E = I_3R$"
+    },
+    {
+      "label": "D",
+      "text": "$E = 2I_2R - I_3R$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "To solve this, apply Kirchhoff's Voltage Law (KVL) to the specific loop WXYUW. Starting at W and moving to X, we follow current $I_2$ through resistor $R$, giving a potential drop of $I_2R$. From X to Y, we need the current in that branch. By Kirchhoff's Current Law at junction X, the current entering is $I_2$ and the current leaving towards Z is $I_3$, so the current from X to Y must be $(I_2 - I_3)$. The potential drop from X to Y is $(I_2 - I_3)R$. Completing the loop through the cell from Y to W (via U) adds the emf $E$ back. Thus, $E = I_2R + (I_2 - I_3)R$, which simplifies to $E = 2I_2R - I_3R$.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2020 HL Q15 D.png"
+}

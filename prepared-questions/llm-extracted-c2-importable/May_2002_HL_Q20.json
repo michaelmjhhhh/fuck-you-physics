@@ -1,0 +1,48 @@
+{
+  "id": "May_2002_HL_Q20",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave interference",
+  "paper": {
+    "year": 2002,
+    "month": "May",
+    "session_label": "May 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2002 HL Q20 C.png"
+  },
+  "question_number": 20,
+  "content_markdown": "Two identical sources dipping in phase into water in a ripple tank generate the wave pattern shown below.\n\nAlong which of the labelled lines is the difference in path length from the two sources equal to **two** wavelengths?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A ripple tank interference pattern showing two point sources and several radial lines labelled A, B, C, and D. The central dashed line represents the zero-order maximum. Line A is the first nodal line, line B is the first-order maximum, line C is the second nodal line, and line D is the second-order maximum.",
+    "labels_to_preserve": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In an interference pattern from two in-phase sources, constructive interference (maxima) occurs when the path difference is an integer multiple of the wavelength ($n\\lambda$). The central line is $n=0$. The first line of constructive interference (maxima) to the side is $n=1$ (line B), and the second line of constructive interference is $n=2$ (line D). Lines A and C represent destructive interference (nodal lines) where the path difference is $(n + 1/2)\\lambda$.",
+  "source_image_path": "C2-Wave-Model/May 2002 HL Q20 C.png"
+}

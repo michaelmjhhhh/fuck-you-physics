@@ -1,0 +1,45 @@
+{
+  "id": "Nov_2001_HL_Q23",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Standing Waves and Resonance",
+  "paper": {
+    "year": 2001,
+    "month": "Nov",
+    "session_label": "Nov 2001",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2001 HL Q23 D.png"
+  },
+  "question_number": 23,
+  "content_markdown": "An organ pipe of length $L$ is open at one end and closed at the other. The fundamental (lowest frequency) standing sound wave is set up in the pipe.\n\nWhat is the wavelength of the fundamental, in terms of the length $L$ of the pipe? Ignore any end correction.",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A horizontal organ pipe with the left end open and the right end closed. A double-headed arrow below the pipe indicates the length is L.",
+    "labels_to_preserve": [
+      "L"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{L}{4}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{L}{2}$"
+    },
+    {
+      "label": "C",
+      "text": "$2L$"
+    },
+    {
+      "label": "D",
+      "text": "$4L$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "For a pipe closed at one end and open at the other, the fundamental mode consists of a node at the closed end and an antinode at the open end. This distance represents one-quarter of a full wavelength. Therefore, $L = \\frac{\\lambda}{4}$, which means $\\lambda = 4L$.",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2001 HL Q23 D.png"
+}

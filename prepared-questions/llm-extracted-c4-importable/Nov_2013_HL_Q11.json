@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2013_HL_Q11",
+  "topic": "Standing Waves and Resonance",
+  "topic_code": "C4",
+  "sub_topic": "Damping and Resonance",
+  "paper": {
+    "year": 2013,
+    "month": "Nov",
+    "session_label": "Nov 2013",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2013 HL Q11 A.png"
+  },
+  "question_number": 11,
+  "content_markdown": "Which graph of displacement $x$ against time $t$ represents the motion of a critically damped body?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs showing displacement x versus time t. Graph A shows a rapid return to equilibrium without oscillation. Graph B shows a slow return to equilibrium. Graph C shows undamped oscillation. Graph D shows underdamped oscillation with decreasing amplitude.",
+    "labels_to_preserve": [
+      "x",
+      "t",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Critical damping is defined as the condition where the system returns to equilibrium in the shortest possible time without oscillating. Graph A shows this rapid return to zero displacement. Graph B represents overdamping (slower return), Graph C represents undamped motion, and Graph D represents underdamping (oscillations with decaying amplitude).",
+  "source_image_path": "C4-Standing-Waves-and-Resonance/Nov 2013 HL Q11 A.png"
+}

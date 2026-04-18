@@ -1,0 +1,43 @@
+{
+  "id": "May_2012_HL_TZ2_Q10",
+  "topic": "Thermal Energy Transfers",
+  "topic_code": "B1",
+  "sub_topic": "Thermal Energy Transfers",
+  "paper": {
+    "year": 2012,
+    "month": "May",
+    "session_label": "May 2012",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2012 HL TZ2 Q10 A.png"
+  },
+  "question_number": 10,
+  "content_markdown": "Which of the following correctly identifies the properties of the molecules of a substance that determine the substance's internal energy?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The total potential energy and random kinetic energy"
+    },
+    {
+      "label": "B",
+      "text": "The random kinetic energy"
+    },
+    {
+      "label": "C",
+      "text": "The total gravitational potential energy and random kinetic energy"
+    },
+    {
+      "label": "D",
+      "text": "The total potential energy"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Internal energy is defined in IB Physics as the sum of the random kinetic energy (associated with temperature) and the total intermolecular potential energy (associated with the phase/state) of the molecules in a substance. Gravitational potential energy is an external property of the system as a whole, not a microscopic property of the molecules that defines internal energy.",
+  "source_image_path": "B1-Thermal-Energy-Transfers/May 2012 HL TZ2 Q10 A.png"
+}

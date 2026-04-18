@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2009_HL_Q18",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2009,
+    "month": "Nov",
+    "session_label": "Nov 2009",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2009 HL Q18 C.png"
+  },
+  "question_number": 18,
+  "content_markdown": "Which of the following is a correct comparison between standing waves and travelling waves?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table comparing properties of standing waves and travelling waves across four options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Standing waves",
+      "Travelling waves"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Standing waves: wave amplitude is constant at all points along the wave; Travelling waves: wave amplitude depends upon the position along the wave"
+    },
+    {
+      "label": "B",
+      "text": "Standing waves: energy is always transferred; Travelling waves: energy is not transferred"
+    },
+    {
+      "label": "C",
+      "text": "Standing waves: the wavelength is twice the distance between consecutive nodes; Travelling waves: the wavelength is the distance between consecutive crests"
+    },
+    {
+      "label": "D",
+      "text": "Standing waves: phase varies continuously along the wave; Travelling waves: phase is constant between consecutive crests"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "In a standing wave, the distance between two adjacent nodes is half a wavelength ($\\lambda/2$), so the full wavelength is indeed twice that distance. For a travelling wave, the wavelength is defined as the distance between two consecutive points in phase, such as two consecutive crests. The other options are incorrect because standing waves do not transfer energy and have varying amplitudes (nodes/antinodes), while travelling waves have constant amplitude (ignoring damping) and continuously varying phase.",
+  "source_image_path": "C2-Wave-Model/Nov 2009 HL Q18 C.png"
+}

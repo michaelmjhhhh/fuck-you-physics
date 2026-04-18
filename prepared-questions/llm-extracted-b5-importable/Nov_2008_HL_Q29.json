@@ -1,0 +1,47 @@
+{
+  "id": "Nov_2008_HL_Q29",
+  "topic": "Current and Circuits",
+  "topic_code": "B5",
+  "sub_topic": "Electric circuits",
+  "paper": {
+    "year": 2008,
+    "month": "Nov",
+    "session_label": "Nov 2008",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2008 HL Q29 A.png"
+  },
+  "question_number": 29,
+  "content_markdown": "The graph shows the variation with the current $I$ in a filament lamp of the potential difference $V$.\n\nWhich of the following is correct regarding the resistance of the filament and its temperature as the current is increasing in the filament?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph of potential difference V on the y-axis against current I on the x-axis. The curve starts at the origin and curves upwards with an increasing gradient.",
+    "labels_to_preserve": [
+      "V",
+      "I",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Resistance: equals $\\frac{V}{I}$ at any point; Temperature: increasing"
+    },
+    {
+      "label": "B",
+      "text": "Resistance: equals $\\frac{V}{I}$ at any point; Temperature: constant"
+    },
+    {
+      "label": "C",
+      "text": "Resistance: equals gradient of graph; Temperature: increasing"
+    },
+    {
+      "label": "D",
+      "text": "Resistance: equals gradient of graph; Temperature: constant"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Resistance is defined as the ratio of potential difference to current ($R = V/I$) at a specific point, not the gradient of the $V-I$ graph (which is the differential resistance). For a filament lamp, as current increases, the filament heats up due to collisions between electrons and lattice ions, causing the temperature to increase and the resistance to rise, which is why the graph curves upwards.",
+  "source_image_path": "B5-Current-and-Circuits/Nov 2008 HL Q29 A.png"
+}

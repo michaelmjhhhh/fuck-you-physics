@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2006_HL_Q21",
+  "topic": "Wave Model",
+  "topic_code": "C2",
+  "sub_topic": "Wave Model",
+  "paper": {
+    "year": 2006,
+    "month": "Nov",
+    "session_label": "Nov 2006",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2006 HL Q21 C.png"
+  },
+  "question_number": 21,
+  "content_markdown": "A string is held horizontally with one end attached to a fixed support. Two pulses are created at the free end of the string. The pulses are moving towards the fixed support as shown in the diagram below.\n\nWhich **one** of the following diagrams is a possible subsequent picture of the string?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A horizontal string with two pulses: a crest followed by a trough, moving to the right towards a vertical fixed support.",
+    "labels_to_preserve": [
+      "string",
+      "fixed support"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "When a wave pulse reflects from a fixed support, it undergoes a phase change of $\\pi$ radians (180 degrees), meaning a crest reflects as a trough and a trough reflects as a crest. In the initial diagram, the trough is leading and the crest is following. After the trough hits the wall, it reflects as a crest moving to the left. Meanwhile, the original crest is still moving to the right. Depending on the timing, these two can superpose. Option C shows a moment where the reflected trough (now a crest) and the incoming crest overlap to create a larger crest via constructive interference.",
+  "source_image_path": "C2-Wave-Model/Nov 2006 HL Q21 C.png"
+}
