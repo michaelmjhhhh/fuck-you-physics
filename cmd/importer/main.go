@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"time"
 
 	"fuck-you-ib/importer"
 )
@@ -24,6 +25,8 @@ func main() {
 	llmModel := flag.String("llm-model", "", "model name, e.g. kimi-k2.5")
 	llmImport := flag.Bool("llm-import", false, "import successfully extracted question json files into sqlite")
 	llmLimit := flag.Int("llm-limit", 0, "optional limit for number of manifest items to process (0 means all)")
+	llmWorkers := flag.Int("llm-workers", 4, "number of concurrent workers for llm extraction")
+	llmRequestTimeoutSeconds := flag.Int("llm-request-timeout-seconds", 60, "per-request timeout for llm api calls in seconds")
 	flag.Parse()
 
 	if *llmManifestIndex != "" || *llmManifestRoot != "" || *llmSourceRoot != "" || *llmOutputDir != "" || *llmAPIBase != "" || *llmModel != "" || *llmImport {
@@ -36,6 +39,8 @@ func main() {
 			APIKey:            *llmAPIKey,
 			Model:             *llmModel,
 			Limit:             *llmLimit,
+			Workers:           *llmWorkers,
+			RequestTimeout:    time.Duration(*llmRequestTimeoutSeconds) * time.Second,
 			ImportToSQLite:    *llmImport,
 			DBPath:            *dbPath,
 			SchemaPath:        *schemaPath,

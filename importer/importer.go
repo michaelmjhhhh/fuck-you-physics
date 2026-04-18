@@ -17,6 +17,8 @@ import (
 	"sort"
 	"strconv"
 	"strings"
+	"sync"
+	"time"
 )
 
 var sourceFilenamePattern = regexp.MustCompile(`^(May|Nov) (\d{4}) (HL|SL)(?: (TZ\d))? (?:Q)?(\d+) ([A-D])\.png$|^(Specimen Paper) (\d{4}) (HL|SL) (?:Q)?(\d+) ([A-D])\.png$`)
@@ -107,6 +109,8 @@ type LLMExtractionConfig struct {
 	APIKey            string
 	Model             string
 	Limit             int
+	Workers           int
+	RequestTimeout    time.Duration
 	ImportToSQLite    bool
 	DBPath            string
 	SchemaPath        string
@@ -118,6 +122,14 @@ type LLMExtractionResult struct {
 	Rejected  int
 	Imported  int
 	Errors    []string
+}
+
+type llmItemResult struct {
+	itemID    string
+	question  QuestionFile
+	outPath   string
+	rejected  bool
+	errorText string
 }
 
 type llmExtractionPayload struct {
@@ -376,6 +388,12 @@ func RunLLMExtraction(cfg LLMExtractionConfig) (LLMExtractionResult, error) {
 	if strings.TrimSpace(cfg.Model) == "" {
 		return LLMExtractionResult{}, fmt.Errorf("llm extraction requires Model")
 	}
+	if cfg.Workers <= 0 {
+		cfg.Workers = 4
+	}
+	if cfg.RequestTimeout <= 0 {
+		cfg.RequestTimeout = 60 * time.Second
+	}
 	if cfg.ImportToSQLite {
 		if strings.TrimSpace(cfg.DBPath) == "" || strings.TrimSpace(cfg.SchemaPath) == "" {
 			return LLMExtractionResult{}, fmt.Errorf("llm extraction import requires DBPath and SchemaPath")
@@ -411,74 +429,54 @@ func RunLLMExtraction(cfg LLMExtractionConfig) (LLMExtractionResult, error) {
 		schemaSQL = string(schemaRaw)
 	}
 
-	result := LLMExtractionResult{Errors: []string{}}
+	result := LLMExtractionResult{Errors: []string{}, Processed: len(items)}
+	jobsCh := make(chan ManifestIndexEntry)
+	resultsCh := make(chan llmItemResult)
 
-	for _, item := range items {
-		result.Processed++
+	var wg sync.WaitGroup
+	for i := 0; i < cfg.Workers; i++ {
+		wg.Add(1)
+		go func() {
+			defer wg.Done()
+			for item := range jobsCh {
+				resultsCh <- processManifestItem(cfg, item)
+			}
+		}()
+	}
 
-		manifestPath := filepath.Join(cfg.ManifestRoot, filepath.FromSlash(item.ManifestPath))
-		manifestRaw, err := os.ReadFile(manifestPath)
+	go func() {
+		for _, item := range items {
+			jobsCh <- item
+		}
+		close(jobsCh)
+		wg.Wait()
+		close(resultsCh)
+	}()
+
+	for itemResult := range resultsCh {
+		if itemResult.rejected {
+			result.Rejected++
+			result.Errors = append(result.Errors, itemResult.errorText)
+			continue
+		}
+
+		encoded, err := json.MarshalIndent(itemResult.question, "", "  ")
 		if err != nil {
 			result.Rejected++
-			result.Errors = append(result.Errors, fmt.Sprintf("%s: read manifest failed: %v", item.ID, err))
+			result.Errors = append(result.Errors, fmt.Sprintf("%s: marshal output failed: %v", itemResult.itemID, err))
 			continue
 		}
-
-		var job ExtractionJob
-		if err := json.Unmarshal(manifestRaw, &job); err != nil {
+		if err := os.WriteFile(itemResult.outPath, encoded, 0o644); err != nil {
 			result.Rejected++
-			result.Errors = append(result.Errors, fmt.Sprintf("%s: parse manifest failed: %v", item.ID, err))
-			continue
-		}
-
-		q, err := extractQuestionWithLLM(cfg, job)
-		if err != nil {
-			result.Rejected++
-			result.Errors = append(result.Errors, fmt.Sprintf("%s: llm extraction failed: %v", item.ID, err))
-			continue
-		}
-
-		if strings.TrimSpace(q.ContentMarkdown) == "" {
-			result.Rejected++
-			result.Errors = append(result.Errors, fmt.Sprintf("%s: content_markdown is empty", item.ID))
-			continue
-		}
-		if strings.TrimSpace(q.VibeExplanation) == "" {
-			result.Rejected++
-			result.Errors = append(result.Errors, fmt.Sprintf("%s: vibe_explanation is empty", item.ID))
-			continue
-		}
-
-		meta, err := ParseSourceFilename(q.Paper.SourceFilename)
-		if err != nil {
-			result.Rejected++
-			result.Errors = append(result.Errors, fmt.Sprintf("%s: invalid source filename metadata: %v", item.ID, err))
-			continue
-		}
-		if err := validateQuestionFile(q, meta, manifestPath); err != nil {
-			result.Rejected++
-			result.Errors = append(result.Errors, fmt.Sprintf("%s: validation failed: %v", item.ID, err))
-			continue
-		}
-
-		outPath := filepath.Join(cfg.OutputDir, q.ID+".json")
-		encoded, err := json.MarshalIndent(q, "", "  ")
-		if err != nil {
-			result.Rejected++
-			result.Errors = append(result.Errors, fmt.Sprintf("%s: marshal output failed: %v", item.ID, err))
-			continue
-		}
-		if err := os.WriteFile(outPath, encoded, 0o644); err != nil {
-			result.Rejected++
-			result.Errors = append(result.Errors, fmt.Sprintf("%s: write output failed: %v", item.ID, err))
+			result.Errors = append(result.Errors, fmt.Sprintf("%s: write output failed: %v", itemResult.itemID, err))
 			continue
 		}
 		result.Succeeded++
 
 		if cfg.ImportToSQLite {
-			if err := importJSONFileWithSchema(cfg.DBPath, schemaSQL, outPath); err != nil {
+			if err := importJSONFileWithSchema(cfg.DBPath, schemaSQL, itemResult.outPath); err != nil {
 				result.Rejected++
-				result.Errors = append(result.Errors, fmt.Sprintf("%s: sqlite import failed: %v", item.ID, err))
+				result.Errors = append(result.Errors, fmt.Sprintf("%s: sqlite import failed: %v", itemResult.itemID, err))
 				continue
 			}
 			result.Imported++
@@ -491,6 +489,42 @@ func RunLLMExtraction(cfg LLMExtractionConfig) (LLMExtractionResult, error) {
 	}
 
 	return result, nil
+}
+
+func processManifestItem(cfg LLMExtractionConfig, item ManifestIndexEntry) llmItemResult {
+	manifestPath := filepath.Join(cfg.ManifestRoot, filepath.FromSlash(item.ManifestPath))
+	manifestRaw, err := os.ReadFile(manifestPath)
+	if err != nil {
+		return llmItemResult{itemID: item.ID, rejected: true, errorText: fmt.Sprintf("%s: read manifest failed: %v", item.ID, err)}
+	}
+
+	var job ExtractionJob
+	if err := json.Unmarshal(manifestRaw, &job); err != nil {
+		return llmItemResult{itemID: item.ID, rejected: true, errorText: fmt.Sprintf("%s: parse manifest failed: %v", item.ID, err)}
+	}
+
+	q, err := extractQuestionWithLLM(cfg, job)
+	if err != nil {
+		return llmItemResult{itemID: item.ID, rejected: true, errorText: fmt.Sprintf("%s: llm extraction failed: %v", item.ID, err)}
+	}
+
+	if strings.TrimSpace(q.ContentMarkdown) == "" {
+		return llmItemResult{itemID: item.ID, rejected: true, errorText: fmt.Sprintf("%s: content_markdown is empty", item.ID)}
+	}
+	if strings.TrimSpace(q.VibeExplanation) == "" {
+		return llmItemResult{itemID: item.ID, rejected: true, errorText: fmt.Sprintf("%s: vibe_explanation is empty", item.ID)}
+	}
+
+	meta, err := ParseSourceFilename(q.Paper.SourceFilename)
+	if err != nil {
+		return llmItemResult{itemID: item.ID, rejected: true, errorText: fmt.Sprintf("%s: invalid source filename metadata: %v", item.ID, err)}
+	}
+	if err := validateQuestionFile(q, meta, manifestPath); err != nil {
+		return llmItemResult{itemID: item.ID, rejected: true, errorText: fmt.Sprintf("%s: validation failed: %v", item.ID, err)}
+	}
+
+	outPath := filepath.Join(cfg.OutputDir, q.ID+".json")
+	return llmItemResult{itemID: item.ID, question: q, outPath: outPath}
 }
 
 func importJSONFileWithSchema(dbPath, schemaSQL, jsonPath string) error {
@@ -588,25 +622,9 @@ func extractQuestionWithLLM(cfg LLMExtractionConfig, job ExtractionJob) (Questio
 		return QuestionFile{}, fmt.Errorf("marshal llm request: %w", err)
 	}
 
-	httpReq, err := http.NewRequestWithContext(context.Background(), http.MethodPost, endpoint, bytes.NewReader(bodyRaw))
+	respRaw, err := doLLMRequestWithRetry(cfg, endpoint, bodyRaw)
 	if err != nil {
-		return QuestionFile{}, fmt.Errorf("build llm request: %w", err)
-	}
-	httpReq.Header.Set("Authorization", "Bearer "+cfg.APIKey)
-	httpReq.Header.Set("Content-Type", "application/json")
-
-	httpResp, err := http.DefaultClient.Do(httpReq)
-	if err != nil {
-		return QuestionFile{}, fmt.Errorf("llm request failed: %w", err)
-	}
-	defer httpResp.Body.Close()
-
-	respRaw, err := io.ReadAll(httpResp.Body)
-	if err != nil {
-		return QuestionFile{}, fmt.Errorf("read llm response: %w", err)
-	}
-	if httpResp.StatusCode < 200 || httpResp.StatusCode > 299 {
-		return QuestionFile{}, fmt.Errorf("llm api status %d: %s", httpResp.StatusCode, strings.TrimSpace(string(respRaw)))
+		return QuestionFile{}, err
 	}
 
 	var parsed llmChatResponse
@@ -672,6 +690,67 @@ func extractQuestionWithLLM(cfg LLMExtractionConfig, job ExtractionJob) (Questio
 	}
 
 	return q, nil
+}
+
+func doLLMRequestWithRetry(cfg LLMExtractionConfig, endpoint string, bodyRaw []byte) ([]byte, error) {
+	const maxAttempts = 3
+	backoff := 500 * time.Millisecond
+	client := &http.Client{}
+
+	for attempt := 1; attempt <= maxAttempts; attempt++ {
+		ctx, cancel := context.WithTimeout(context.Background(), cfg.RequestTimeout)
+		httpReq, err := http.NewRequestWithContext(ctx, http.MethodPost, endpoint, bytes.NewReader(bodyRaw))
+		if err != nil {
+			cancel()
+			return nil, fmt.Errorf("build llm request: %w", err)
+		}
+		httpReq.Header.Set("Authorization", "Bearer "+cfg.APIKey)
+		httpReq.Header.Set("Content-Type", "application/json")
+
+		httpResp, err := client.Do(httpReq)
+		if err != nil {
+			cancel()
+			if attempt == maxAttempts {
+				return nil, fmt.Errorf("llm request failed: %w", err)
+			}
+			time.Sleep(backoff)
+			backoff *= 2
+			continue
+		}
+
+		respRaw, readErr := io.ReadAll(httpResp.Body)
+		httpResp.Body.Close()
+		cancel()
+		if readErr != nil {
+			if attempt == maxAttempts {
+				return nil, fmt.Errorf("read llm response: %w", readErr)
+			}
+			time.Sleep(backoff)
+			backoff *= 2
+			continue
+		}
+
+		if httpResp.StatusCode >= 200 && httpResp.StatusCode <= 299 {
+			return respRaw, nil
+		}
+
+		if isTransientStatus(httpResp.StatusCode) && attempt < maxAttempts {
+			time.Sleep(backoff)
+			backoff *= 2
+			continue
+		}
+
+		return nil, fmt.Errorf("llm api status %d: %s", httpResp.StatusCode, strings.TrimSpace(string(respRaw)))
+	}
+
+	return nil, fmt.Errorf("llm request failed after retries")
+}
+
+func isTransientStatus(code int) bool {
+	if code == http.StatusTooManyRequests {
+		return true
+	}
+	return code >= 500 && code <= 599
 }
 
 func buildChatCompletionsEndpoint(base string) (string, error) {
