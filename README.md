@@ -1,3 +1,3 @@
-A more elegant way to do real IB Physics past paper questions, deployed on vercel, view the link
+# A more elegant way to do real IB Physics past paper questions
 
-[![Deploy with Vercel](https://vercel.com/button)](https://fuck-you-physics.vercel.app/)
+[![Link to the web](https://vercel.com/button)](https://fuck-you-physics.vercel.app/)
