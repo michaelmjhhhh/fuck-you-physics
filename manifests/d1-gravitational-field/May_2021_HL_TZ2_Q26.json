@@ -1,0 +1,26 @@
+{
+  "id": "May_2021_HL_TZ2_Q26",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ2 Q26 C.png"
+  },
+  "question_number": 26,
+  "correct_answer": "C",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "",
+    "labels_to_preserve": []
+  },
+  "source_image_path": "D1-Gravitational-Field/May 2021 HL TZ2 Q26 C.png",
+  "options": [],
+  "content_markdown": "",
+  "vibe_explanation": ""
+}

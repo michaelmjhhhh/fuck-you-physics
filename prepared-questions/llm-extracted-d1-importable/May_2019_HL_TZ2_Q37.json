@@ -1,0 +1,43 @@
+{
+  "id": "May_2019_HL_TZ2_Q37",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Energy balance",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ2 Q37 D.png"
+  },
+  "question_number": 37,
+  "content_markdown": "The orbital radius of the Earth around the Sun is 1.5 times that of Venus. What is the intensity of solar radiation at the orbital radius of Venus?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$0.6 \\text{ kW m}^{-2}$"
+    },
+    {
+      "label": "B",
+      "text": "$0.9 \\text{ kW m}^{-2}$"
+    },
+    {
+      "label": "C",
+      "text": "$2 \\text{ kW m}^{-2}$"
+    },
+    {
+      "label": "D",
+      "text": "$3 \\text{ kW m}^{-2}$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Intensity $I$ follows the inverse square law $I \\propto \\frac{1}{r^2}$. The solar constant at Earth's distance is approximately $1.36 \\text{ kW m}^{-2}$ (often rounded to $1.4$ in IB problems). Since $r_{\\text{Earth}} = 1.5 \\times r_{\\text{Venus}}$, then $I_{\\text{Venus}} = I_{\\text{Earth}} \\times (\\frac{r_{\\text{Earth}}}{r_{\\text{Venus}}})^2 = I_{\\text{Earth}} \\times (1.5)^2 = 1.36 \\times 2.25 \\approx 3 \\text{ kW m}^{-2}$.",
+  "source_image_path": "D1-Gravitational-Field/May 2019 HL TZ2 Q37 D.png"
+}

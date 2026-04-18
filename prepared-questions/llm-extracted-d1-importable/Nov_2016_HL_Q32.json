@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2016_HL_Q32",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2016,
+    "month": "Nov",
+    "session_label": "Nov 2016",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2016 HL Q32 A.png"
+  },
+  "question_number": 32,
+  "content_markdown": "A satellite of mass $1500\\text{ kg}$ is in the Earth's gravitational field. It moves from a point where the gravitational potential is $-30\\text{ MJ kg}^{-1}$ to a point where the gravitational potential is $-20\\text{ MJ kg}^{-1}$.\n\nWhat is the direction of movement of the satellite and the change in its gravitational potential energy?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A-D) with two columns: 'Direction of movement of satellite' and 'Change in gravitational potential energy / GJ'.",
+    "labels_to_preserve": [
+      "Direction of movement of satellite",
+      "Change in gravitational potential energy / GJ"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Direction: away from Earth; Change in GPE / GJ: 15"
+    },
+    {
+      "label": "B",
+      "text": "Direction: away from Earth; Change in GPE / GJ: 75"
+    },
+    {
+      "label": "C",
+      "text": "Direction: towards Earth; Change in GPE / GJ: 15"
+    },
+    {
+      "label": "D",
+      "text": "Direction: towards Earth; Change in GPE / GJ: 75"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "First, determine the direction: gravitational potential increases (becomes less negative) as you move further away from the Earth, so moving from $-30\\text{ MJ kg}^{-1}$ to $-20\\text{ MJ kg}^{-1}$ is moving away. Second, calculate the change in energy: $\\Delta E_p = m \\Delta V = 1500\\text{ kg} \\times (-20 - (-30))\\text{ MJ kg}^{-1} = 1500 \\times 10\\text{ MJ} = 15000\\text{ MJ}$. Since $1\\text{ GJ} = 1000\\text{ MJ}$, the change is $15\\text{ GJ}$.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2016 HL Q32 A.png"
+}

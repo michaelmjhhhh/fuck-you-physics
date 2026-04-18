@@ -1,0 +1,43 @@
+{
+  "id": "May_2021_HL_TZ2_Q30",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ2 Q30 A.png"
+  },
+  "question_number": 30,
+  "content_markdown": "An object of mass $m$ released from rest near the surface of a planet has an initial acceleration $z$. What is the gravitational field strength near the surface of the planet?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$z$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{z}{m}$"
+    },
+    {
+      "label": "C",
+      "text": "$mz$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{m}{z}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "By definition, the gravitational field strength $g$ is the force per unit mass ($g = F/m$). According to Newton's Second Law, $F = ma$. For an object in free fall near a planet's surface, the only force acting on it is gravity, so $F = mz$. Substituting this into the field strength formula gives $g = \\frac{mz}{m} = z$. Thus, the magnitude of the gravitational field strength is numerically equal to the acceleration of free fall.",
+  "source_image_path": "D1-Gravitational-Field/May 2021 HL TZ2 Q30 A.png"
+}

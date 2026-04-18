@@ -1,0 +1,47 @@
+{
+  "id": "May_2013_HL_TZ1_Q24",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2013,
+    "month": "May",
+    "session_label": "May 2013",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2013 HL TZ1 Q24 D.png"
+  },
+  "question_number": 24,
+  "content_markdown": "A satellite is moved from a low orbit to a higher orbit. Which of the following accurately describes the energy of the satellite?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table with four rows (A, B, C, D) and three columns labeled 'Total energy', 'Gravitational potential energy', and 'Kinetic energy'.",
+    "labels_to_preserve": [
+      "Total energy",
+      "Gravitational potential energy",
+      "Kinetic energy"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Total energy: stays the same; Gravitational potential energy: decreases; Kinetic energy: increases"
+    },
+    {
+      "label": "B",
+      "text": "Total energy: stays the same; Gravitational potential energy: increases; Kinetic energy: decreases"
+    },
+    {
+      "label": "C",
+      "text": "Total energy: increases; Gravitational potential energy: decreases; Kinetic energy: increases"
+    },
+    {
+      "label": "D",
+      "text": "Total energy: increases; Gravitational potential energy: increases; Kinetic energy: decreases"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "Moving to a higher orbit requires work to be done against the gravitational field, so the total energy $E_{tot} = -\\frac{GMm}{2r}$ increases (becomes less negative). Gravitational potential energy $E_p = -\\frac{GMm}{r}$ also increases (becomes less negative). However, orbital speed $v = \\sqrt{\\frac{GM}{r}}$ decreases as radius $r$ increases, so the kinetic energy $E_k = \\frac{GMm}{2r}$ decreases.",
+  "source_image_path": "D1-Gravitational-Field/May 2013 HL TZ1 Q24 D.png"
+}

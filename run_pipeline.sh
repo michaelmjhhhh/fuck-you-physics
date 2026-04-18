@@ -4,7 +4,7 @@ set -euo pipefail
 ROOT_DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$ROOT_DIR"
 
-TOPIC="${1:-all}"            # a4 | b1 | b2 | b3 | b4 | b5 | c1 | c2 | c4 | c5 | all
+TOPIC="${1:-all}"            # a4 | b1 | b2 | b3 | b4 | b5 | c1 | c2 | c4 | c5 | d1 | all
 MODEL="${2:-Gemini-3-flash-preview}"
 API_BASE="${3:-https://api.siliconrouter.com/v1}"
 IMPORT_FLAG="${4:-import}"    # import | noimport
@@ -29,8 +29,8 @@ OUT_DIR="./prepared-questions/llm-extracted-${TOPIC}"
 IMPORT_DIR="./prepared-questions/llm-extracted-${TOPIC}-importable"
 RETRY_MAX="${RETRY_MAX:-3}"
 
-if [[ "$TOPIC" != "a4" && "$TOPIC" != "b1" && "$TOPIC" != "b2" && "$TOPIC" != "b3" && "$TOPIC" != "b4" && "$TOPIC" != "b5" && "$TOPIC" != "c1" && "$TOPIC" != "c2" && "$TOPIC" != "c4" && "$TOPIC" != "c5" && "$TOPIC" != "all" ]]; then
-  echo "invalid topic: $TOPIC (expected a4|b1|b2|b3|b4|b5|c1|c2|c4|c5|all)"
+if [[ "$TOPIC" != "a4" && "$TOPIC" != "b1" && "$TOPIC" != "b2" && "$TOPIC" != "b3" && "$TOPIC" != "b4" && "$TOPIC" != "b5" && "$TOPIC" != "c1" && "$TOPIC" != "c2" && "$TOPIC" != "c4" && "$TOPIC" != "c5" && "$TOPIC" != "d1" && "$TOPIC" != "all" ]]; then
+  echo "invalid topic: $TOPIC (expected a4|b1|b2|b3|b4|b5|c1|c2|c4|c5|d1|all)"
   exit 1
 fi
 
@@ -65,6 +65,8 @@ elif topic=="c4":
     items=[x for x in d["items"] if x.get("topic_code")=="C4"]
 elif topic=="c5":
     items=[x for x in d["items"] if x.get("topic_code")=="C5"]
+elif topic=="d1":
+    items=[x for x in d["items"] if x.get("topic_code")=="D1"]
 else:
     raise SystemExit("unsupported topic")
 d["items"]=items
@@ -341,6 +343,24 @@ if files:
         json.dump(data,open(out,"w"),indent=2)
         print(f"replaced {out} with {len(data)} C5 questions")
 ' "$OUT_DIR" "./prepared-questions/c5-doppler-effect.json"
+fi
+
+if [[ "$TOPIC" == "d1" || "$TOPIC" == "all" ]]; then
+  python3 -c '
+import glob,json,sys
+src=sys.argv[1]
+out=sys.argv[2]
+files=[p for p in sorted(glob.glob(src+"/*.json")) if not p.endswith("llm-extraction-report.json")]
+if files:
+    data=[]
+    for p in files:
+        obj=json.load(open(p))
+        if obj.get("topic_code")=="D1":
+            data.append(obj)
+    if data:
+        json.dump(data,open(out,"w"),indent=2)
+        print(f"replaced {out} with {len(data)} D1 questions")
+' "$OUT_DIR" "./prepared-questions/d1-gravitational-field.json"
 fi
 
 python3 -c '

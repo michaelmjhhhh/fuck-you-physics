@@ -1,0 +1,43 @@
+{
+  "id": "May_2015_HL_TZ1_Q25",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2015,
+    "month": "May",
+    "session_label": "May 2015",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2015 HL TZ1 Q25 C.png"
+  },
+  "question_number": 25,
+  "content_markdown": "Two isolated spherical planets have the same gravitational potential at their surfaces. Which ratio must also be the same for the two planets?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{\\text{radius}^3}{\\text{mass}}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{\\text{radius}^2}{\\text{mass}}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{\\text{radius}}{\\text{mass}}$"
+    },
+    {
+      "label": "D",
+      "text": "radius"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The gravitational potential $V$ at the surface of a planet is given by $V = -\\frac{GM}{R}$. If two planets have the same potential, then $\\frac{GM_1}{R_1} = \\frac{GM_2}{R_2}$, which simplifies to $\\frac{M_1}{R_1} = \\frac{M_2}{R_2}$. This implies the ratio $\\frac{M}{R}$ is constant, and therefore its reciprocal $\\frac{R}{M}$ (radius/mass) must also be the same for both planets.",
+  "source_image_path": "D1-Gravitational-Field/May 2015 HL TZ1 Q25 C.png"
+}

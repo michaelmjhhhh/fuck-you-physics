@@ -1,0 +1,51 @@
+{
+  "id": "Specimen_2025_HL_Q30",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2025,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2025",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2025 HL Q30 C.png"
+  },
+  "question_number": 30,
+  "content_markdown": "A spherical planet has a radius $R_0$.\n\nThe graph shows the variation of the gravitational potential due to the planet with distance $r$ from the centre of the planet.\n\nWhat is the escape speed from the surface of the planet?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph showing gravitational potential in units of $10^6 \\text{ J kg}^{-1}$ on the y-axis against distance $r$ in terms of $R_0$ on the x-axis. The curve starts at $r = R_0$ with a potential of $-5 \\times 10^6 \\text{ J kg}^{-1}$ and increases towards zero as $r$ increases.",
+    "labels_to_preserve": [
+      "gravitational potential / \\times 10^6 J kg^{-1}",
+      "r",
+      "R_0",
+      "2R_0",
+      "3R_0",
+      "4R_0",
+      "5R_0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$1.6 \\times 10^3 \\text{ ms}^{-1}$"
+    },
+    {
+      "label": "B",
+      "text": "$2.2 \\times 10^3 \\text{ ms}^{-1}$"
+    },
+    {
+      "label": "C",
+      "text": "$3.2 \\times 10^3 \\text{ ms}^{-1}$"
+    },
+    {
+      "label": "D",
+      "text": "$4.5 \\times 10^3 \\text{ ms}^{-1}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The escape speed $v_e$ is calculated using the formula $v_e = \\sqrt{-2V}$, where $V$ is the gravitational potential at the surface. From the graph, at $r = R_0$, the potential $V = -5 \\times 10^6 \\text{ J kg}^{-1}$. Plugging this in: $v_e = \\sqrt{-2 \\times (-5 \\times 10^6)} = \\sqrt{10 \\times 10^6} = \\sqrt{10^7} \\approx 3.16 \\times 10^3 \\text{ ms}^{-1}$, which rounds to $3.2 \\times 10^3 \\text{ ms}^{-1}$.",
+  "source_image_path": "D1-Gravitational-Field/Specimen Paper 2025 HL Q30 C.png"
+}

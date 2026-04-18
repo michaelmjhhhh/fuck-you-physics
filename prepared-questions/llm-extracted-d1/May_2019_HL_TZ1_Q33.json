@@ -1,0 +1,43 @@
+{
+  "id": "May_2019_HL_TZ1_Q33",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational potential and escape velocity",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ1 Q33 C.png"
+  },
+  "question_number": 33,
+  "content_markdown": "The escape velocity for an object at the surface of the Earth is $v_{\\text{esc}}$. The diameter of the Moon is 4 times smaller than that of the Earth and the mass of the Moon is 81 times smaller than that of the Earth. What is the escape velocity of the object on the Moon?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{2}{81} v_{\\text{esc}}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{4}{81} v_{\\text{esc}}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{2}{9} v_{\\text{esc}}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{4}{9} v_{\\text{esc}}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Escape velocity is given by the formula $v = \\sqrt{\\frac{2GM}{R}}$. If the diameter is 4 times smaller, the radius $R$ is also 4 times smaller ($R_M = \\frac{1}{4}R_E$). If the mass $M$ is 81 times smaller ($M_M = \\frac{1}{81}M_E$), we substitute these into the ratio: $v_M = \\sqrt{\\frac{M_M}{R_M}} \\cdot v_E = \\sqrt{\\frac{1/81}{1/4}} \\cdot v_{\\text{esc}} = \\sqrt{\\frac{4}{81}} \\cdot v_{\\text{esc}} = \\frac{2}{9} v_{\\text{esc}}$.",
+  "source_image_path": "D1-Gravitational-Field/May 2019 HL TZ1 Q33 C.png"
+}

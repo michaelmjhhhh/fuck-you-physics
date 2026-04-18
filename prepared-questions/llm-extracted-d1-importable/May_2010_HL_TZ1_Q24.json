@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ1_Q24",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ1 Q24 A.png"
+  },
+  "question_number": 24,
+  "content_markdown": "The weight of an object of mass $1\\text{ kg}$ at the surface of Mars is about $4\\text{ N}$. The radius of Mars is about half the radius of Earth. Which of the following is the best estimate of the ratio below?\n\n$$\\frac{\\text{mass of Mars}}{\\text{mass of Earth}}$$",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram present, only text and a mathematical fraction.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "0.1"
+    },
+    {
+      "label": "B",
+      "text": "0.2"
+    },
+    {
+      "label": "C",
+      "text": "5"
+    },
+    {
+      "label": "D",
+      "text": "10"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Weight is $W = mg = G \\frac{Mm}{r^2}$. For a $1\\text{ kg}$ mass, $g = G \\frac{M}{r^2}$. On Earth, $g_E \\approx 10\\text{ m s}^{-2}$. On Mars, $g_M = 4\\text{ m s}^{-2}$. Using the ratio $\\frac{g_M}{g_E} = \\frac{M_M}{M_E} \\cdot (\\frac{r_E}{r_M})^2$, we substitute the knowns: $\\frac{4}{10} = \\frac{M_M}{M_E} \\cdot (2)^2$. This simplifies to $0.4 = \\frac{M_M}{M_E} \\cdot 4$, so the ratio is $0.1$.",
+  "source_image_path": "D1-Gravitational-Field/May 2010 HL TZ1 Q24 A.png"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "May_2016_HL_TZ0_Q28",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2016,
+    "month": "May",
+    "session_label": "May 2016",
+    "level": "HL",
+    "timezone": "TZ0",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2016 HL TZ0 Q28 B.png"
+  },
+  "question_number": 28,
+  "content_markdown": "A satellite orbits a planet. Which graph shows how the kinetic energy $E_{\\text{K}}$, the potential energy $E_{\\text{P}}$ and the total energy $E$ of the satellite vary with distance $x$ from the centre of the planet?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four sets of axes showing energy vs distance x. Each graph contains three curves labeled E_K, E_P, and E. The curves are hyperbolic in nature, some positive and some negative relative to the x-axis.",
+    "labels_to_preserve": [
+      "energy",
+      "x",
+      "0",
+      "E_K",
+      "E_P",
+      "E"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Graph A: $E_{\\text{P}}$ is positive, $E_{\\text{K}}$ and $E$ are negative."
+    },
+    {
+      "label": "B",
+      "text": "Graph B: $E_{\\text{K}}$ is positive, $E$ and $E_{\\text{P}}$ are negative, with $E$ being less negative than $E_{\\text{P}}$."
+    },
+    {
+      "label": "C",
+      "text": "Graph C: $E$ is positive, $E_{\\text{K}}$ and $E_{\\text{P}}$ are negative."
+    },
+    {
+      "label": "D",
+      "text": "Graph D: $E_{\\text{K}}$ is positive, $E_{\\text{P}}$ and $E$ are negative, with $E_{\\text{P}}$ being less negative than $E$."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "In a gravitational orbit, kinetic energy $E_{\\text{K}} = \\frac{GMm}{2x}$ is always positive. Gravitational potential energy $E_{\\text{P}} = -\\frac{GMm}{x}$ is always negative. The total energy $E = E_{\\text{K}} + E_{\\text{P}} = -\\frac{GMm}{2x}$ is also negative. Since $E_{\\text{P}}$ is twice as negative as $E$ for any given $x$, the $E_{\\text{P}}$ curve must be below the $E$ curve.",
+  "source_image_path": "D1-Gravitational-Field/May 2016 HL TZ0 Q28 B.png"
+}

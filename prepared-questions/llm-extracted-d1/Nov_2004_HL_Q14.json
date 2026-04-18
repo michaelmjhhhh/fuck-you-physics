@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2004_HL_Q14",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2004,
+    "month": "Nov",
+    "session_label": "Nov 2004",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2004 HL Q14 A.png"
+  },
+  "question_number": 14,
+  "content_markdown": "Which of the following expressions correctly relates the radius $R$ of the circular orbit of a planet round a star to the period $T$ of the orbit?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$R^3 \\propto T^2$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{1}{R^3} \\propto T^2$"
+    },
+    {
+      "label": "C",
+      "text": "$R^2 \\propto T^3$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{1}{R^2} \\propto T^3$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "This is Kepler's Third Law. By equating the gravitational force $\\frac{GMm}{R^2}$ to the centripetal force $m\\omega^2R$ (where $\\omega = \\frac{2\\pi}{T}$), we find that $\\frac{GM}{R^2} = \\frac{4\\pi^2R}{T^2}$. Rearranging this gives $T^2 = \\left(\\frac{4\\pi^2}{GM}\\right)R^3$, which shows that the square of the period is proportional to the cube of the orbital radius.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2004 HL Q14 A.png"
+}

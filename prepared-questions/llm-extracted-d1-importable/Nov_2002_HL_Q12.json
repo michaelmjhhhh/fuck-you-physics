@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2002_HL_Q12",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2002,
+    "month": "Nov",
+    "session_label": "Nov 2002",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2002 HL Q12 B.png"
+  },
+  "question_number": 12,
+  "content_markdown": "A satellite orbits the Earth as shown below.\n\n![](diagram.png)\n\nIn the table below, which row gives the correct sign for the satellite's potential and kinetic energies?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A diagram showing a satellite in a circular orbit around the Earth. An arrow indicates the direction of motion along the dashed orbital path.",
+    "labels_to_preserve": [
+      "satellite",
+      "Earth"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Potential energy: Positive; Kinetic energy: Positive"
+    },
+    {
+      "label": "B",
+      "text": "Potential energy: Negative; Kinetic energy: Positive"
+    },
+    {
+      "label": "C",
+      "text": "Potential energy: Positive; Kinetic energy: Negative"
+    },
+    {
+      "label": "D",
+      "text": "Potential energy: Negative; Kinetic energy: Negative"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Gravitational potential energy $E_p = -\\frac{GMm}{r}$ is defined as zero at infinity, so it is always negative for bound systems. Kinetic energy $E_k = \\frac{1}{2}mv^2$ is always positive because mass and the square of velocity are both positive quantities.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2002 HL Q12 B.png"
+}

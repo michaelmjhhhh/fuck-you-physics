@@ -1,0 +1,46 @@
+{
+  "id": "May_2019_HL_TZ2_Q10",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ2 Q10 B.png"
+  },
+  "question_number": 10,
+  "content_markdown": "Satellite X is in orbit around the Earth. An identical satellite Y is in a higher orbit. What is correct for the total energy and the kinetic energy of the satellite Y compared with satellite X?\n\n| | Total energy of satellite Y | Kinetic energy of satellite Y |\n| :--- | :--- | :--- |\n| A. | larger | larger |\n| B. | smaller | larger |\n| C. | larger | smaller |\n| D. | smaller | smaller |",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing four options (A, B, C, D) comparing the total energy and kinetic energy of satellite Y relative to satellite X.",
+    "labels_to_preserve": [
+      "Total energy of satellite X",
+      "Kinetic energy of satellite X"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Total energy: larger; Kinetic energy: larger"
+    },
+    {
+      "label": "B",
+      "text": "Total energy: smaller; Kinetic energy: larger"
+    },
+    {
+      "label": "C",
+      "text": "Total energy: larger; Kinetic energy: smaller"
+    },
+    {
+      "label": "D",
+      "text": "Total energy: smaller; Kinetic energy: smaller"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "For a satellite in a circular orbit, the total energy is $E_{total} = -\\frac{GMm}{2r}$ and the kinetic energy is $E_k = \\frac{GMm}{2r}$. As the orbital radius $r$ increases for satellite Y, the total energy becomes less negative (meaning it increases/is larger), while the kinetic energy decreases (meaning it is smaller) because the orbital speed $v = \\sqrt{\\frac{GM}{r}}$ is lower at higher altitudes.",
+  "source_image_path": "D1-Gravitational-Field/May 2019 HL TZ2 Q10 B.png"
+}

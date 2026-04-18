@@ -1,0 +1,49 @@
+{
+  "id": "May_2014_HL_TZ2_Q7",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2014,
+    "month": "May",
+    "session_label": "May 2014",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2014 HL TZ2 Q7 B.png"
+  },
+  "question_number": 7,
+  "content_markdown": "The sketch graph shows how the gravitational potential $V$ of a planet varies with distance $r$ from the centre of the planet of radius $R_0$.\n\nThe magnitude of the gravitational field strength at the point $r = R$ equals the",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A graph of gravitational potential V against distance r. The curve starts at r = R_0 with a negative value and increases towards zero as r increases. A specific point r = R is marked on the horizontal axis.",
+    "labels_to_preserve": [
+      "V",
+      "r",
+      "0",
+      "R_0",
+      "R"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "area between the graph and the $r$-axis between $r = R$ and $r = R_0$."
+    },
+    {
+      "label": "B",
+      "text": "gradient of the graph at $r = R$."
+    },
+    {
+      "label": "C",
+      "text": "inverse of the gradient of the graph at $r = R$."
+    },
+    {
+      "label": "D",
+      "text": "value of $V$ at $r = R$ divided by $R^2$."
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The relationship between gravitational field strength $g$ and gravitational potential $V$ is given by $g = -\\frac{\\Delta V}{\\Delta r}$. In calculus terms, $g = -\\frac{dV}{dr}$. Therefore, the magnitude of the field strength is equal to the gradient (slope) of the potential-distance graph at that specific point.",
+  "source_image_path": "D1-Gravitational-Field/May 2014 HL TZ2 Q7 B.png"
+}

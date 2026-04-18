@@ -1,0 +1,43 @@
+{
+  "id": "May_2021_HL_TZ2_Q26",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ2 Q26 C.png"
+  },
+  "question_number": 26,
+  "content_markdown": "A mass–spring system oscillates vertically with a period of $T$ at the surface of the Earth. The gravitational field strength at the surface of Mars is $0.3g$. What is the period of the same mass–spring system on the surface of Mars?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$0.09T$"
+    },
+    {
+      "label": "B",
+      "text": "$0.3T$"
+    },
+    {
+      "label": "C",
+      "text": "$T$"
+    },
+    {
+      "label": "D",
+      "text": "$3T$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The period of a mass-spring system is given by the formula $T = 2\\pi\\sqrt{\\frac{m}{k}}$. Notice that this formula depends only on the mass $m$ and the spring constant $k$. It does not depend on the local gravitational field strength $g$. Therefore, moving the system from Earth to Mars will not change the period of oscillation.",
+  "source_image_path": "D1-Gravitational-Field/May 2021 HL TZ2 Q26 C.png"
+}

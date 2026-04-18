@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2017_HL_Q32",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2017,
+    "month": "Nov",
+    "session_label": "Nov 2017",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2017 HL Q32 C.png"
+  },
+  "question_number": 32,
+  "content_markdown": "A spacecraft moves towards the Earth under the influence of the gravitational field of the Earth. The three quantities that depend on the distance $r$ of the spacecraft from the centre of the Earth are the\n\nI. gravitational potential energy of the spacecraft\nII. gravitational field strength acting on the spacecraft\nIII. gravitational force acting on the spacecraft.\n\nWhich of the quantities are proportional to $\\frac{1}{r^2}$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "I and II only"
+    },
+    {
+      "label": "B",
+      "text": "I and III only"
+    },
+    {
+      "label": "C",
+      "text": "II and III only"
+    },
+    {
+      "label": "D",
+      "text": "I, II and III"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Gravitational potential energy ($E_p = -\\frac{GMm}{r}$) is proportional to $\\frac{1}{r}$. Gravitational field strength ($g = \\frac{GM}{r^2}$) and gravitational force ($F = \\frac{GMm}{r^2}$) both follow the inverse-square law, meaning they are proportional to $\\frac{1}{r^2}$. Therefore, only II and III satisfy the condition.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2017 HL Q32 C.png"
+}

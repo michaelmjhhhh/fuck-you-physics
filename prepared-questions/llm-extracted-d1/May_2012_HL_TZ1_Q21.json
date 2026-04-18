@@ -1,0 +1,43 @@
+{
+  "id": "May_2012_HL_TZ1_Q21",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Potential",
+  "paper": {
+    "year": 2012,
+    "month": "May",
+    "session_label": "May 2012",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2012 HL TZ1 Q21 C.png"
+  },
+  "question_number": 21,
+  "content_markdown": "At the surface of a planet of radius $r$, the gravitational potential is $-6.4 \\times 10^7 \\text{ Jkg}^{-1}$. The gravitational potential at a height of $r$ above the surface is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$-12.8 \\times 10^7 \\text{ Jkg}^{-1}$"
+    },
+    {
+      "label": "B",
+      "text": "$-6.4 \\times 10^7 \\text{ Jkg}^{-1}$"
+    },
+    {
+      "label": "C",
+      "text": "$-3.2 \\times 10^7 \\text{ Jkg}^{-1}$"
+    },
+    {
+      "label": "D",
+      "text": "$-1.6 \\times 10^7 \\text{ Jkg}^{-1}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "Gravitational potential $V$ is inversely proportional to the distance from the center of the planet, $V = -\\frac{GM}{R}$. At the surface, the distance is $r$. At a height $r$ above the surface, the total distance from the center is $r + r = 2r$. Since the distance doubles, the potential is halved: $\\frac{1}{2} \\times (-6.4 \\times 10^7) = -3.2 \\times 10^7 \\text{ Jkg}^{-1}$.",
+  "source_image_path": "D1-Gravitational-Field/May 2012 HL TZ1 Q21 C.png"
+}

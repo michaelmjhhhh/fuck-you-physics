@@ -1,0 +1,50 @@
+{
+  "id": "Nov_2013_HL_Q22",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2013,
+    "month": "Nov",
+    "session_label": "Nov 2013",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2013 HL Q22 A.png"
+  },
+  "question_number": 22,
+  "content_markdown": "A satellite is in orbit about Earth at a distance $r$ from the centre of Earth. The gravitational potential energy of the satellite is $E_P$ and its kinetic energy is $E_K$. The radius of Earth is $R_E$. Which graph shows how both $E_P$ and $E_K$ vary with $r$?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four graphs (A, B, C, D) showing energy E on the y-axis and distance r on the x-axis. The graphs show curves for kinetic energy Ek and potential energy Ep starting from the radius of Earth Re. Ep is shown as negative and Ek as positive in most options.",
+    "labels_to_preserve": [
+      "E",
+      "r",
+      "R_E",
+      "E_K",
+      "E_P",
+      "0"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Gravitational potential energy $E_P = -\\frac{GMm}{r}$ is always negative and increases (becomes less negative) as $r$ increases. Kinetic energy for a circular orbit is $E_K = \\frac{GMm}{2r}$, which is always positive and decreases as $r$ increases. Additionally, the magnitude of $E_P$ is twice that of $E_K$ ($|E_P| = 2E_K$). The graph must also start at $r = R_E$ because the satellite cannot be inside the Earth.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2013 HL Q22 A.png"
+}

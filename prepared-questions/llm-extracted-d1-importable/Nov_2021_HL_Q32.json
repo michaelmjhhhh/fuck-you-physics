@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2021_HL_Q32",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational potential and energy",
+  "paper": {
+    "year": 2021,
+    "month": "Nov",
+    "session_label": "Nov 2021",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2021 HL Q32 C.png"
+  },
+  "question_number": 32,
+  "content_markdown": "A satellite of mass $m$ orbits a planet of mass $M$ in a circular orbit of radius $r$. What is the work that must be done on the satellite to increase its orbital radius to $2r$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{GMm}{r}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{GMm}{2r}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{GMm}{4r}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{GMm}{8r}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The total energy of a satellite in a circular orbit is given by $E = -\\frac{GMm}{2r}$. The work done is the change in total energy: $W = E_{final} - E_{initial}$. Substituting the radii, we get $W = -\\frac{GMm}{2(2r)} - (-\\frac{GMm}{2r}) = -\\frac{GMm}{4r} + \\frac{GMm}{2r} = \\frac{GMm}{4r}$.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2021 HL Q32 C.png"
+}

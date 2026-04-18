@@ -1,0 +1,46 @@
+{
+  "id": "May_2011_HL_TZ2_Q8",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2011,
+    "month": "May",
+    "session_label": "May 2011",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2011 HL TZ2 Q8 A.png"
+  },
+  "question_number": 8,
+  "content_markdown": "A spacecraft is in orbit at a distance $r$ from the centre of the Earth. The engine of the spacecraft is fired and it moves to a new orbit of radius $2r$. Which of the following describes the variations in kinetic energy and total energy of the spacecraft?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the variations in Kinetic energy and Total energy for four options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Kinetic energy",
+      "Total energy"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy: decrease; Total energy: increase"
+    },
+    {
+      "label": "B",
+      "text": "Kinetic energy: decrease; Total energy: decrease"
+    },
+    {
+      "label": "C",
+      "text": "Kinetic energy: increase; Total energy: increase"
+    },
+    {
+      "label": "D",
+      "text": "Kinetic energy: increase; Total energy: decrease"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "For a circular orbit, kinetic energy $E_k = \\frac{GMm}{2r}$ and total energy $E_{tot} = -\\frac{GMm}{2r}$. As the radius $r$ increases to $2r$, the kinetic energy decreases because it is inversely proportional to $r$. The total energy becomes less negative (closer to zero), which represents an increase in energy, consistent with the fact that work must be done by the engines to move to a higher orbit.",
+  "source_image_path": "D1-Gravitational-Field/May 2011 HL TZ2 Q8 A.png"
+}

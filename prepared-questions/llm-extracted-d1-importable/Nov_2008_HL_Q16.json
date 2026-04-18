@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2008_HL_Q16",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational potential and escape velocity",
+  "paper": {
+    "year": 2008,
+    "month": "Nov",
+    "session_label": "Nov 2008",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2008 HL Q16 C.png"
+  },
+  "question_number": 16,
+  "content_markdown": "Two spherical planets X and Y are of uniform density and have equal mass. The radius of X is twice that of Y. The minimum kinetic energy needed by a body to escape from the surface of planet X is $K_{\\text{X}}$. Which of the following is the minimum kinetic energy needed by the same body to escape from the surface of planet Y?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$0.25 K_{\\text{X}}$"
+    },
+    {
+      "label": "B",
+      "text": "$0.5 K_{\\text{X}}$"
+    },
+    {
+      "label": "C",
+      "text": "$2 K_{\\text{X}}$"
+    },
+    {
+      "label": "D",
+      "text": "$4 K_{\\text{X}}$"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "The minimum kinetic energy required to escape a planet's surface is equal to the magnitude of the gravitational potential energy at the surface: $K = \\frac{GMm}{R}$. Since both planets have the same mass $M$ and the body has the same mass $m$, the kinetic energy is inversely proportional to the radius ($K \\propto \\frac{1}{R}$). Given that $R_{\\text{X}} = 2R_{\\text{Y}}$, it follows that $R_{\\text{Y}} = 0.5R_{\\text{X}}$. Therefore, $K_{\\text{Y}}$ must be twice $K_{\\text{X}}$ because the radius is halved.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2008 HL Q16 C.png"
+}

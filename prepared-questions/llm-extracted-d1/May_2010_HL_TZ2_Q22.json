@@ -1,0 +1,43 @@
+{
+  "id": "May_2010_HL_TZ2_Q22",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2010,
+    "month": "May",
+    "session_label": "May 2010",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2010 HL TZ2 Q22 B.png"
+  },
+  "question_number": 22,
+  "content_markdown": "Which of the following is true about the gravitational potential $V$ due to a point mass at a distance $r$ from the point mass?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$V \\propto \\frac{1}{r}$ and always positive"
+    },
+    {
+      "label": "B",
+      "text": "$V \\propto \\frac{1}{r}$ and always negative"
+    },
+    {
+      "label": "C",
+      "text": "$V \\propto \\frac{1}{r^2}$ and always positive"
+    },
+    {
+      "label": "D",
+      "text": "$V \\propto \\frac{1}{r^2}$ and always negative"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "The gravitational potential $V$ at a distance $r$ from a point mass $M$ is defined by the formula $V = -\\frac{GM}{r}$. This shows that $V$ is inversely proportional to the distance ($V \\propto \\frac{1}{r}$) and, because gravity is an attractive force and potential is defined as zero at infinity, the value is always negative.",
+  "source_image_path": "D1-Gravitational-Field/May 2010 HL TZ2 Q22 B.png"
+}

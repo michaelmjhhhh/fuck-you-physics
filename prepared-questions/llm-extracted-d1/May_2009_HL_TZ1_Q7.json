@@ -1,0 +1,43 @@
+{
+  "id": "May_2009_HL_TZ1_Q7",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational potential energy and escape speed",
+  "paper": {
+    "year": 2009,
+    "month": "May",
+    "session_label": "May 2009",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2009 HL TZ1 Q7 A.png"
+  },
+  "question_number": 7,
+  "content_markdown": "The mass of a planet is $M$ and its radius is $R$. In order for a body of mass $m$ to escape the gravitational attraction of the planet, its kinetic energy at the surface of the planet must be at least",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{GMm}{R}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{GMm}{R^2}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\frac{GM}{R}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\frac{GM}{R^2}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "To escape a gravitational field, the total energy of the body must be at least zero. At the surface, the gravitational potential energy is $E_p = -\\frac{GMm}{R}$. For the total energy ($E_k + E_p$) to be $\\ge 0$, the kinetic energy $E_k$ must be at least $\\frac{GMm}{R}$.",
+  "source_image_path": "D1-Gravitational-Field/May 2009 HL TZ1 Q7 A.png"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "Specimen_2009_HL_Q8",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational potential and field strength",
+  "paper": {
+    "year": 2009,
+    "month": "Specimen",
+    "session_label": "Specimen Paper 2009",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Specimen Paper 2009 HL Q8 B.png"
+  },
+  "question_number": 8,
+  "content_markdown": "Which of the following diagrams best represents the gravitational equipotential surfaces due to two equal spherical masses?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "Four diagrams labeled A, B, C, and D showing field lines or equipotential surfaces around two equal masses. A shows field lines connecting the masses. B shows concentric closed loops surrounding both masses. C shows concentric circles around each mass with vertical lines in between. D shows field lines diverging away from the center between the masses.",
+    "labels_to_preserve": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "A"
+    },
+    {
+      "label": "B",
+      "text": "B"
+    },
+    {
+      "label": "C",
+      "text": "C"
+    },
+    {
+      "label": "D",
+      "text": "D"
+    }
+  ],
+  "correct_answer": "B",
+  "vibe_explanation": "Equipotential surfaces must be perpendicular to gravitational field lines. For two equal masses, the surfaces close to each mass are nearly spherical. As you move further away, the surfaces encompass both masses, forming a 'peanut' shape and eventually becoming more circular at large distances. Diagram B correctly shows these continuous, closed scalar potential contours.",
+  "source_image_path": "D1-Gravitational-Field/Specimen Paper 2009 HL Q8 B.png"
+}

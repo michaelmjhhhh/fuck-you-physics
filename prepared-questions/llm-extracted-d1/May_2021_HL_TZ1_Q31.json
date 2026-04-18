@@ -1,0 +1,43 @@
+{
+  "id": "May_2021_HL_TZ1_Q31",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2021,
+    "month": "May",
+    "session_label": "May 2021",
+    "level": "HL",
+    "timezone": "TZ1",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2021 HL TZ1 Q31 A.png"
+  },
+  "question_number": 31,
+  "content_markdown": "Which is a correct unit for gravitational potential?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\text{m}^2 \\text{s}^{-2}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\text{J} \\text{kg}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\text{m} \\text{s}^{-2}$"
+    },
+    {
+      "label": "D",
+      "text": "$\\text{N} \\text{m}^{-1} \\text{kg}^{-1}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "Gravitational potential ($V$) is defined as the work done per unit mass ($V = W/m$). Therefore, its standard unit is $\\text{J} \\text{kg}^{-1}$. Since $1 \\text{ J} = 1 \\text{ N m} = 1 \\text{ kg m}^2 \\text{s}^{-2}$, dividing by $\\text{kg}$ leaves us with $\\text{m}^2 \\text{s}^{-2}$.",
+  "source_image_path": "D1-Gravitational-Field/May 2021 HL TZ1 Q31 A.png"
+}

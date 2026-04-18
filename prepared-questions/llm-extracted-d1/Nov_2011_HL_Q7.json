@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2011_HL_Q7",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational potential and escape speed",
+  "paper": {
+    "year": 2011,
+    "month": "Nov",
+    "session_label": "Nov 2011",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2011 HL Q7 A.png"
+  },
+  "question_number": 7,
+  "content_markdown": "The escape speed of a rocket from the surface of Earth depends on the universal gravitational constant $G$. Other factors that may affect the escape speed are the\n\nI. mass of Earth\nII. radius of Earth\nIII. mass of the rocket.\n\nWhich of the above factors is/are correct?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "I and II only"
+    },
+    {
+      "label": "B",
+      "text": "I and III only"
+    },
+    {
+      "label": "C",
+      "text": "II only"
+    },
+    {
+      "label": "D",
+      "text": "III only"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "The escape speed $v_{esc}$ is derived by setting the total energy (kinetic + gravitational potential) to zero: $\\frac{1}{2}mv^2 - \\frac{GMm}{R} = 0$. Solving for $v$ gives $v_{esc} = \\sqrt{\\frac{2GM}{R}}$. Notice that the mass of the rocket ($m$) cancels out, meaning the escape speed depends only on the mass of the planet ($M$) and the radius of the planet ($R$).",
+  "source_image_path": "D1-Gravitational-Field/Nov 2011 HL Q7 A.png"
+}

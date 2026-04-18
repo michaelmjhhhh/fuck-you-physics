@@ -1,0 +1,4227 @@
+[
+  {
+    "id": "May_2009_HL_TZ1_Q7",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational potential energy and escape speed",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ1 Q7 A.png"
+    },
+    "question_number": 7,
+    "content_markdown": "The mass of a planet is $M$ and its radius is $R$. In order for a body of mass $m$ to escape the gravitational attraction of the planet, its kinetic energy at the surface of the planet must be at least",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{GMm}{R}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{GMm}{R^2}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{GM}{R}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{GM}{R^2}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "To escape a gravitational field, the total energy of the body must be at least zero. At the surface, the gravitational potential energy is $E_p = -\\frac{GMm}{R}$. For the total energy ($E_k + E_p$) to be $\\ge 0$, the kinetic energy $E_k$ must be at least $\\frac{GMm}{R}$.",
+    "source_image_path": "D1-Gravitational-Field/May 2009 HL TZ1 Q7 A.png"
+  },
+  {
+    "id": "May_2009_HL_TZ2_Q8",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational potential and field strength",
+    "paper": {
+      "year": 2009,
+      "month": "May",
+      "session_label": "May 2009",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2009 HL TZ2 Q8 B.png"
+    },
+    "question_number": 8,
+    "content_markdown": "The diagram below represents equipotential lines of a gravitational field.\n\nWhich of the following is the direction and strength of the field at point P?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A grid showing three curved equipotential lines labeled -10 J/kg, -20 J/kg, and -30 J/kg. A scale bar indicates 2 meters. Point P is located on the -20 J/kg line.",
+      "labels_to_preserve": [
+        "2 m",
+        "P",
+        "-10 Jkg^{-1}",
+        "-20 Jkg^{-1}",
+        "-30 Jkg^{-1}"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Direction: $\\leftarrow$, Strength: $5.0 \\text{ Nkg}^{-1}$"
+      },
+      {
+        "label": "B",
+        "text": "Direction: $\\rightarrow$, Strength: $5.0 \\text{ Nkg}^{-1}$"
+      },
+      {
+        "label": "C",
+        "text": "Direction: $\\leftarrow$, Strength: $13 \\text{ Nkg}^{-1}$"
+      },
+      {
+        "label": "D",
+        "text": "Direction: $\\rightarrow$, Strength: $13 \\text{ Nkg}^{-1}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "To find the field strength $g$, we use the relationship $g = -\\frac{\\Delta V}{\\Delta r}$. Looking at the grid, the distance between the $-10\\text{ Jkg}^{-1}$ and $-30\\text{ Jkg}^{-1}$ lines is 4 units on the grid. Since 2 units equals $2\\text{ m}$, the distance $\\Delta r$ is $4\\text{ m}$. The change in potential $\\Delta V$ is $20\\text{ Jkg}^{-1}$. Thus, $g = \\frac{20}{4} = 5.0\\text{ Nkg}^{-1}$. The direction of the gravitational field is always from higher potential to lower potential (towards the more negative values), which in this diagram is to the right ($\\rightarrow$).",
+    "source_image_path": "D1-Gravitational-Field/May 2009 HL TZ2 Q8 B.png"
+  },
+  {
+    "id": "May_2010_HL_TZ1_Q24",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ1 Q24 A.png"
+    },
+    "question_number": 24,
+    "content_markdown": "The weight of an object of mass $1\\text{ kg}$ at the surface of Mars is about $4\\text{ N}$. The radius of Mars is about half the radius of Earth. Which of the following is the best estimate of the ratio below?\n\n$$\\frac{\\text{mass of Mars}}{\\text{mass of Earth}}$$",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present, only text and a mathematical fraction.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.1"
+      },
+      {
+        "label": "B",
+        "text": "0.2"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Weight is $W = mg = G \\frac{Mm}{r^2}$. For a $1\\text{ kg}$ mass, $g = G \\frac{M}{r^2}$. On Earth, $g_E \\approx 10\\text{ m s}^{-2}$. On Mars, $g_M = 4\\text{ m s}^{-2}$. Using the ratio $\\frac{g_M}{g_E} = \\frac{M_M}{M_E} \\cdot (\\frac{r_E}{r_M})^2$, we substitute the knowns: $\\frac{4}{10} = \\frac{M_M}{M_E} \\cdot (2)^2$. This simplifies to $0.4 = \\frac{M_M}{M_E} \\cdot 4$, so the ratio is $0.1$.",
+    "source_image_path": "D1-Gravitational-Field/May 2010 HL TZ1 Q24 A.png"
+  },
+  {
+    "id": "May_2010_HL_TZ1_Q8",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational potential",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ1 Q8 A.png"
+    },
+    "question_number": 8,
+    "content_markdown": "Gravitational potential at a point is defined as the work done",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "per unit mass in moving a small mass from infinity to the point."
+      },
+      {
+        "label": "B",
+        "text": "in moving a unit mass from infinity to the point."
+      },
+      {
+        "label": "C",
+        "text": "in moving a small mass from infinity to the point."
+      },
+      {
+        "label": "D",
+        "text": "per unit mass in moving a unit mass from infinity to the point."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Gravitational potential ($V$) is defined as the work done per unit mass ($W/m$) in bringing a small test mass from infinity to a point in the gravitational field. Option A correctly identifies the 'per unit mass' requirement while specifying that the mass being moved is a small test mass to avoid disturbing the field source.",
+    "source_image_path": "D1-Gravitational-Field/May 2010 HL TZ1 Q8 A.png"
+  },
+  {
+    "id": "May_2010_HL_TZ1_Q9",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ1 Q9 A.png"
+    },
+    "question_number": 9,
+    "content_markdown": "The escape speed from the surface of a planet depends on",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "both the radius and the mass of the planet."
+      },
+      {
+        "label": "B",
+        "text": "only the radius of the planet."
+      },
+      {
+        "label": "C",
+        "text": "only the mass of the planet."
+      },
+      {
+        "label": "D",
+        "text": "only the gravitational field strength at the surface of the planet."
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The escape speed $v_{esc}$ is derived by setting the total energy (kinetic + gravitational potential) to zero at infinity: $\\frac{1}{2}mv^2 - \\frac{GMm}{R} = 0$. Solving for $v$ gives $v_{esc} = \\sqrt{\\frac{2GM}{R}}$. This formula shows that the escape speed depends on both the mass $M$ and the radius $R$ of the planet.",
+    "source_image_path": "D1-Gravitational-Field/May 2010 HL TZ1 Q9 A.png"
+  },
+  {
+    "id": "May_2010_HL_TZ2_Q21",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ2 Q21 B.png"
+    },
+    "question_number": 21,
+    "content_markdown": "Which of the following is true about gravitational field lines?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "They are always tangential to equipotential surfaces."
+      },
+      {
+        "label": "B",
+        "text": "They are always perpendicular to equipotential surfaces."
+      },
+      {
+        "label": "C",
+        "text": "They can be both tangential or perpendicular to equipotential surfaces."
+      },
+      {
+        "label": "D",
+        "text": "They can have any angle to the equipotential surfaces."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Gravitational field lines represent the direction of the force on a mass, while equipotential surfaces represent regions of constant potential energy. Since no work is done when moving a mass along an equipotential surface, the force (and thus the field line) must have no component along the surface. This means the field lines must always be perpendicular to the equipotential surfaces.",
+    "source_image_path": "D1-Gravitational-Field/May 2010 HL TZ2 Q21 B.png"
+  },
+  {
+    "id": "May_2010_HL_TZ2_Q22",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ2 Q22 B.png"
+    },
+    "question_number": 22,
+    "content_markdown": "Which of the following is true about the gravitational potential $V$ due to a point mass at a distance $r$ from the point mass?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$V \\propto \\frac{1}{r}$ and always positive"
+      },
+      {
+        "label": "B",
+        "text": "$V \\propto \\frac{1}{r}$ and always negative"
+      },
+      {
+        "label": "C",
+        "text": "$V \\propto \\frac{1}{r^2}$ and always positive"
+      },
+      {
+        "label": "D",
+        "text": "$V \\propto \\frac{1}{r^2}$ and always negative"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The gravitational potential $V$ at a distance $r$ from a point mass $M$ is defined by the formula $V = -\\frac{GM}{r}$. This shows that $V$ is inversely proportional to the distance ($V \\propto \\frac{1}{r}$) and, because gravity is an attractive force and potential is defined as zero at infinity, the value is always negative.",
+    "source_image_path": "D1-Gravitational-Field/May 2010 HL TZ2 Q22 B.png"
+  },
+  {
+    "id": "May_2010_HL_TZ2_Q23",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2010,
+      "month": "May",
+      "session_label": "May 2010",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2010 HL TZ2 Q23 B.png"
+    },
+    "question_number": 23,
+    "content_markdown": "An astronaut in orbit around Earth is said to be \"weightless\". This is due to the fact that the",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "gravitational force on the astronaut is zero."
+      },
+      {
+        "label": "B",
+        "text": "astronaut and the spacecraft experience the same acceleration."
+      },
+      {
+        "label": "C",
+        "text": "astronaut and the spacecraft experience the same gravitational force."
+      },
+      {
+        "label": "D",
+        "text": "gravitational field at the position of the spacecraft is zero."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Weightlessness in orbit is a result of free-fall. Both the astronaut and the spacecraft are accelerating toward the center of the Earth at the same rate (the local gravitational acceleration $g$). Because they have the same acceleration, there is no normal contact force between the astronaut and the spacecraft walls/floor, which creates the sensation of weightlessness.",
+    "source_image_path": "D1-Gravitational-Field/May 2010 HL TZ2 Q23 B.png"
+  },
+  {
+    "id": "May_2011_HL_TZ1_Q25",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ1 Q25 C.png"
+    },
+    "question_number": 25,
+    "content_markdown": "Which of the following graphs represents how the total energy $E$ of an orbiting satellite varies with orbital radius $r$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs showing the relationship between total energy E and orbital radius r. Graph A shows a positive decreasing curve. Graph B shows a positive increasing curve. Graph C shows a negative increasing curve (approaching zero from below). Graph D shows a negative decreasing curve.",
+      "labels_to_preserve": [
+        "E",
+        "r",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The total energy $E$ of a satellite in a circular orbit is given by $E = -\\frac{GMm}{2r}$. This means the total energy is always negative and proportional to $-\\frac{1}{r}$. As the radius $r$ increases, the value of $E$ becomes less negative (increases towards zero). Graph C correctly depicts a negative value that increases and approaches the r-axis as $r$ increases.",
+    "source_image_path": "D1-Gravitational-Field/May 2011 HL TZ1 Q25 C.png"
+  },
+  {
+    "id": "May_2011_HL_TZ2_Q7",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational potential",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ2 Q7 C.png"
+    },
+    "question_number": 7,
+    "content_markdown": "A spacecraft moves from point X to point Y in the gravitational field of Earth. At point X, the gravitational potential is $-14 \\text{ MJ kg}^{-1}$. At point Y, the gravitational potential is $-2 \\text{ MJ kg}^{-1}$. Which of the following describes the direction of the motion of the spacecraft relative to Earth and the change in gravitational potential?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A-D) with columns for 'Direction of Motion' and 'Change in gravitational potential'.",
+      "labels_to_preserve": [
+        "Direction of Motion",
+        "Change in gravitational potential"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Direction: towards Earth; Change: $+12 \\text{ MJ kg}^{-1}$"
+      },
+      {
+        "label": "B",
+        "text": "Direction: towards Earth; Change: $-12 \\text{ MJ kg}^{-1}$"
+      },
+      {
+        "label": "C",
+        "text": "Direction: away from Earth; Change: $+12 \\text{ MJ kg}^{-1}$"
+      },
+      {
+        "label": "D",
+        "text": "Direction: away from Earth; Change: $-12 \\text{ MJ kg}^{-1}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The change in potential is calculated as $V_{final} - V_{initial} = (-2) - (-14) = +12 \\text{ MJ kg}^{-1}$. Since gravitational potential increases (becomes less negative) as you move further away from a mass, the spacecraft must be moving away from Earth.",
+    "source_image_path": "D1-Gravitational-Field/May 2011 HL TZ2 Q7 C.png"
+  },
+  {
+    "id": "May_2011_HL_TZ2_Q8",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2011,
+      "month": "May",
+      "session_label": "May 2011",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2011 HL TZ2 Q8 A.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A spacecraft is in orbit at a distance $r$ from the centre of the Earth. The engine of the spacecraft is fired and it moves to a new orbit of radius $2r$. Which of the following describes the variations in kinetic energy and total energy of the spacecraft?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the variations in Kinetic energy and Total energy for four options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Kinetic energy",
+        "Total energy"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Kinetic energy: decrease; Total energy: increase"
+      },
+      {
+        "label": "B",
+        "text": "Kinetic energy: decrease; Total energy: decrease"
+      },
+      {
+        "label": "C",
+        "text": "Kinetic energy: increase; Total energy: increase"
+      },
+      {
+        "label": "D",
+        "text": "Kinetic energy: increase; Total energy: decrease"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "For a circular orbit, kinetic energy $E_k = \\frac{GMm}{2r}$ and total energy $E_{tot} = -\\frac{GMm}{2r}$. As the radius $r$ increases to $2r$, the kinetic energy decreases because it is inversely proportional to $r$. The total energy becomes less negative (closer to zero), which represents an increase in energy, consistent with the fact that work must be done by the engines to move to a higher orbit.",
+    "source_image_path": "D1-Gravitational-Field/May 2011 HL TZ2 Q8 A.png"
+  },
+  {
+    "id": "May_2012_HL_TZ1_Q18",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ1 Q18 C.png"
+    },
+    "question_number": 18,
+    "content_markdown": "A mass at point $X$ gives rise to a gravitational field strength $g$ at point $P$ as shown below.\n\nAn identical mass is placed at point $Y$ as shown below.\n\nThe resultant gravitational field strength at $P$ is now",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two diagrams showing point masses and a point P. In the first, mass X is to the left of P. In the second, mass X is to the left of P and an identical mass Y is to the right of P, further away from P than X is.",
+      "labels_to_preserve": [
+        "X",
+        "P",
+        "Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "greater than $2g$."
+      },
+      {
+        "label": "B",
+        "text": "between $2g$ and $g$."
+      },
+      {
+        "label": "C",
+        "text": "between $g$ and zero."
+      },
+      {
+        "label": "D",
+        "text": "zero."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Gravitational field strength is a vector quantity directed towards the mass. Initially, the field at $P$ is $g$ directed towards $X$ (to the left). When the second mass is placed at $Y$, it creates a field at $P$ directed towards $Y$ (to the right). Since $Y$ is further from $P$ than $X$ is, its field strength $g_Y$ is less than $g$. The resultant field is the vector sum: $g - g_Y$. Since $0 < g_Y < g$, the magnitude of the resultant field must be between $g$ and zero.",
+    "source_image_path": "D1-Gravitational-Field/May 2012 HL TZ1 Q18 C.png"
+  },
+  {
+    "id": "May_2012_HL_TZ1_Q21",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Potential",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ1 Q21 C.png"
+    },
+    "question_number": 21,
+    "content_markdown": "At the surface of a planet of radius $r$, the gravitational potential is $-6.4 \\times 10^7 \\text{ Jkg}^{-1}$. The gravitational potential at a height of $r$ above the surface is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$-12.8 \\times 10^7 \\text{ Jkg}^{-1}$"
+      },
+      {
+        "label": "B",
+        "text": "$-6.4 \\times 10^7 \\text{ Jkg}^{-1}$"
+      },
+      {
+        "label": "C",
+        "text": "$-3.2 \\times 10^7 \\text{ Jkg}^{-1}$"
+      },
+      {
+        "label": "D",
+        "text": "$-1.6 \\times 10^7 \\text{ Jkg}^{-1}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Gravitational potential $V$ is inversely proportional to the distance from the center of the planet, $V = -\\frac{GM}{R}$. At the surface, the distance is $r$. At a height $r$ above the surface, the total distance from the center is $r + r = 2r$. Since the distance doubles, the potential is halved: $\\frac{1}{2} \\times (-6.4 \\times 10^7) = -3.2 \\times 10^7 \\text{ Jkg}^{-1}$.",
+    "source_image_path": "D1-Gravitational-Field/May 2012 HL TZ1 Q21 C.png"
+  },
+  {
+    "id": "May_2012_HL_TZ1_Q22",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ1 Q22 D.png"
+    },
+    "question_number": 22,
+    "content_markdown": "An astronaut of mass $60\\text{ kg}$ is on board the International Space Station, which is in low orbit around the Earth. The gravitational force of attraction between the Earth and astronaut is approximately",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "zero."
+      },
+      {
+        "label": "B",
+        "text": "$6\\text{ N}$."
+      },
+      {
+        "label": "C",
+        "text": "$60\\text{ N}$."
+      },
+      {
+        "label": "D",
+        "text": "$600\\text{ N}$."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "In low Earth orbit, the gravitational field strength is only slightly less than at the surface (about $90\\%$ of $g$). Therefore, the weight $W = mg$ is approximately $60\\text{ kg} \\times 10\\text{ m s}^{-2} = 600\\text{ N}$. The astronaut feels weightless because they are in free fall, but the gravitational force is very much present.",
+    "source_image_path": "D1-Gravitational-Field/May 2012 HL TZ1 Q22 D.png"
+  },
+  {
+    "id": "May_2012_HL_TZ2_Q8",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2012,
+      "month": "May",
+      "session_label": "May 2012",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2012 HL TZ2 Q8 D.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A satellite in close-Earth orbit moves to an orbit further from the Earth's surface. Which of the following concerning the speed of the satellite and its gravitational potential energy in the new orbit is correct?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the relationship between the speed of the satellite and its gravitational potential energy for four options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Speed of the satellite",
+        "Gravitational potential energy"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Speed of the satellite: increases; Gravitational potential energy: decreases"
+      },
+      {
+        "label": "B",
+        "text": "Speed of the satellite: increases; Gravitational potential energy: increases"
+      },
+      {
+        "label": "C",
+        "text": "Speed of the satellite: decreases; Gravitational potential energy: decreases"
+      },
+      {
+        "label": "D",
+        "text": "Speed of the satellite: decreases; Gravitational potential energy: increases"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "As the orbital radius $r$ increases, the orbital speed $v = \\sqrt{\\frac{GM}{r}}$ decreases because the gravitational pull is weaker. Simultaneously, the gravitational potential energy $E_p = -\\frac{GMm}{r}$ becomes less negative (closer to zero), which means it increases.",
+    "source_image_path": "D1-Gravitational-Field/May 2012 HL TZ2 Q8 D.png"
+  },
+  {
+    "id": "May_2013_HL_TZ1_Q23",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ1 Q23 C.png"
+    },
+    "question_number": 23,
+    "content_markdown": "$M$ is a spherical mass situated far away from any other masses. Which of the following represents gravitational equipotential surfaces having constant potential difference between them?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four diagrams showing a central mass M with dashed lines representing potential surfaces or field lines. A shows radial lines. B shows concentric circles with equal spacing. C shows concentric circles where the spacing increases as distance from M increases. D shows concentric circles where the spacing decreases as distance from M increases.",
+      "labels_to_preserve": [
+        "M",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The gravitational potential $V$ around a point mass is given by $V = -\\frac{GM}{r}$. The change in potential $\\Delta V$ is related to the field strength $g$ and the distance $\\Delta r$ by $g = -\\frac{\\Delta V}{\\Delta r}$. Since the gravitational field strength $g$ decreases as distance $r$ increases ($g \\propto \\frac{1}{r^2}$), the distance between equipotential surfaces $\\Delta r$ must increase as we move further from the mass to maintain a constant potential difference $\\Delta V$. Therefore, the circles should get further apart as they move outward.",
+    "source_image_path": "D1-Gravitational-Field/May 2013 HL TZ1 Q23 C.png"
+  },
+  {
+    "id": "May_2013_HL_TZ1_Q24",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ1 Q24 D.png"
+    },
+    "question_number": 24,
+    "content_markdown": "A satellite is moved from a low orbit to a higher orbit. Which of the following accurately describes the energy of the satellite?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table with four rows (A, B, C, D) and three columns labeled 'Total energy', 'Gravitational potential energy', and 'Kinetic energy'.",
+      "labels_to_preserve": [
+        "Total energy",
+        "Gravitational potential energy",
+        "Kinetic energy"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Total energy: stays the same; Gravitational potential energy: decreases; Kinetic energy: increases"
+      },
+      {
+        "label": "B",
+        "text": "Total energy: stays the same; Gravitational potential energy: increases; Kinetic energy: decreases"
+      },
+      {
+        "label": "C",
+        "text": "Total energy: increases; Gravitational potential energy: decreases; Kinetic energy: increases"
+      },
+      {
+        "label": "D",
+        "text": "Total energy: increases; Gravitational potential energy: increases; Kinetic energy: decreases"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Moving to a higher orbit requires work to be done against the gravitational field, so the total energy $E_{tot} = -\\frac{GMm}{2r}$ increases (becomes less negative). Gravitational potential energy $E_p = -\\frac{GMm}{r}$ also increases (becomes less negative). However, orbital speed $v = \\sqrt{\\frac{GM}{r}}$ decreases as radius $r$ increases, so the kinetic energy $E_k = \\frac{GMm}{2r}$ decreases.",
+    "source_image_path": "D1-Gravitational-Field/May 2013 HL TZ1 Q24 D.png"
+  },
+  {
+    "id": "May_2013_HL_TZ2_Q22",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2013,
+      "month": "May",
+      "session_label": "May 2013",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2013 HL TZ2 Q22 B.png"
+    },
+    "question_number": 22,
+    "content_markdown": "The magnitude of the gravitational field strength at the surface of a planet of mass $M$ and radius $R$ is $g$. What is the magnitude of the gravitational field strength at the surface of a planet of mass $2M$ and radius $2R$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{g}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{g}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "$g$"
+      },
+      {
+        "label": "D",
+        "text": "$2g$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The gravitational field strength at the surface is given by $g = \\frac{GM}{R^2}$. For the new planet, the field strength $g'$ is $\\frac{G(2M)}{(2R)^2} = \\frac{2GM}{4R^2} = \\frac{1}{2} \\frac{GM}{R^2} = \\frac{g}{2}$.",
+    "source_image_path": "D1-Gravitational-Field/May 2013 HL TZ2 Q22 B.png"
+  },
+  {
+    "id": "May_2014_HL_TZ1_Q9",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational potential and escape speed",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ1 Q9 B.png"
+    },
+    "question_number": 9,
+    "content_markdown": "The magnitude of the potential at the surface of a planet is $V$. What is the escape speed from the surface of the planet?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\sqrt{V}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\sqrt{2V}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\sqrt{VR}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\sqrt{2VR}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The gravitational potential $V$ at the surface of a planet is defined as $V = \\frac{GM}{R}$ (taking the magnitude as requested). To escape the gravitational field, an object of mass $m$ must have a kinetic energy $\\frac{1}{2}mv_{esc}^2$ equal to the work required to move it to infinity, which is $m V$. Setting $\\frac{1}{2}mv_{esc}^2 = mV$ and solving for $v_{esc}$ gives $v_{esc} = \\sqrt{2V}$.",
+    "source_image_path": "D1-Gravitational-Field/May 2014 HL TZ1 Q9 B.png"
+  },
+  {
+    "id": "May_2014_HL_TZ2_Q22",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ2 Q22 C.png"
+    },
+    "question_number": 22,
+    "content_markdown": "The gravitational field strength at a point X in a gravitational field is defined as the force",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "per unit mass on a mass placed at X."
+      },
+      {
+        "label": "B",
+        "text": "on a mass placed at X."
+      },
+      {
+        "label": "C",
+        "text": "per unit mass on a small point mass placed at X."
+      },
+      {
+        "label": "D",
+        "text": "on a small point mass placed at X."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Gravitational field strength $g$ is defined as the gravitational force per unit mass ($g = F/m$). In IB Physics, the formal definition specifically refers to a 'small point mass' to ensure that the test mass itself does not significantly alter the gravitational field it is measuring.",
+    "source_image_path": "D1-Gravitational-Field/May 2014 HL TZ2 Q22 C.png"
+  },
+  {
+    "id": "May_2014_HL_TZ2_Q7",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2014,
+      "month": "May",
+      "session_label": "May 2014",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2014 HL TZ2 Q7 B.png"
+    },
+    "question_number": 7,
+    "content_markdown": "The sketch graph shows how the gravitational potential $V$ of a planet varies with distance $r$ from the centre of the planet of radius $R_0$.\n\nThe magnitude of the gravitational field strength at the point $r = R$ equals the",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph of gravitational potential V against distance r. The curve starts at r = R_0 with a negative value and increases towards zero as r increases. A specific point r = R is marked on the horizontal axis.",
+      "labels_to_preserve": [
+        "V",
+        "r",
+        "0",
+        "R_0",
+        "R"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "area between the graph and the $r$-axis between $r = R$ and $r = R_0$."
+      },
+      {
+        "label": "B",
+        "text": "gradient of the graph at $r = R$."
+      },
+      {
+        "label": "C",
+        "text": "inverse of the gradient of the graph at $r = R$."
+      },
+      {
+        "label": "D",
+        "text": "value of $V$ at $r = R$ divided by $R^2$."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The relationship between gravitational field strength $g$ and gravitational potential $V$ is given by $g = -\\frac{\\Delta V}{\\Delta r}$. In calculus terms, $g = -\\frac{dV}{dr}$. Therefore, the magnitude of the field strength is equal to the gradient (slope) of the potential-distance graph at that specific point.",
+    "source_image_path": "D1-Gravitational-Field/May 2014 HL TZ2 Q7 B.png"
+  },
+  {
+    "id": "May_2015_HL_TZ1_Q22",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ1 Q22 D.png"
+    },
+    "question_number": 22,
+    "content_markdown": "Which single condition enables Newton\u2019s universal law of gravitation to be used to predict the force between the Earth and the Sun?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The Earth and the Sun both have a very large radius."
+      },
+      {
+        "label": "B",
+        "text": "The distance between the Earth and the Sun is approximately constant."
+      },
+      {
+        "label": "C",
+        "text": "The Earth and the Sun both have a very large mass."
+      },
+      {
+        "label": "D",
+        "text": "The Earth and the Sun behave as point masses."
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Newton's universal law of gravitation, $F = G \\frac{m_1 m_2}{r^2}$, is strictly defined for point masses. While the Earth and Sun are large, their separation distance is so vast compared to their radii that they can be modeled as point masses, or alternatively, they are spherically symmetric masses which behave as point masses from an external perspective.",
+    "source_image_path": "D1-Gravitational-Field/May 2015 HL TZ1 Q22 D.png"
+  },
+  {
+    "id": "May_2015_HL_TZ1_Q25",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ1 Q25 C.png"
+    },
+    "question_number": 25,
+    "content_markdown": "Two isolated spherical planets have the same gravitational potential at their surfaces. Which ratio must also be the same for the two planets?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{\\text{radius}^3}{\\text{mass}}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{\\text{radius}^2}{\\text{mass}}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{\\text{radius}}{\\text{mass}}$"
+      },
+      {
+        "label": "D",
+        "text": "radius"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The gravitational potential $V$ at the surface of a planet is given by $V = -\\frac{GM}{R}$. If two planets have the same potential, then $\\frac{GM_1}{R_1} = \\frac{GM_2}{R_2}$, which simplifies to $\\frac{M_1}{R_1} = \\frac{M_2}{R_2}$. This implies the ratio $\\frac{M}{R}$ is constant, and therefore its reciprocal $\\frac{R}{M}$ (radius/mass) must also be the same for both planets.",
+    "source_image_path": "D1-Gravitational-Field/May 2015 HL TZ1 Q25 C.png"
+  },
+  {
+    "id": "May_2015_HL_TZ2_Q24",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2015,
+      "month": "May",
+      "session_label": "May 2015",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2015 HL TZ2 Q24 B.png"
+    },
+    "question_number": 24,
+    "content_markdown": "Two spherical objects of mass $M$ are held a small distance apart. The radius of each object is $r$.\n\nPoint P is the midpoint between the objects and is a distance $R$ from the surface of each object. What is the gravitational potential at point P?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two spheres of radius r separated by a distance. Point P is exactly in the middle, at a distance R from the surface of each sphere.",
+      "labels_to_preserve": [
+        "r",
+        "R",
+        "P"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$-\\frac{GM}{(r + R)^2}$"
+      },
+      {
+        "label": "B",
+        "text": "$-2\\frac{GM}{r + R}$"
+      },
+      {
+        "label": "C",
+        "text": "$-\\frac{GM}{r + R}$"
+      },
+      {
+        "label": "D",
+        "text": "0"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Gravitational potential is a scalar quantity, so we sum the potentials from each mass. The distance from the center of each sphere to point P is the radius $r$ plus the distance $R$ from the surface. The potential from one mass is $V = -\\frac{GM}{r+R}$. Since there are two identical masses at the same distance, the total potential is $2 \\times (-\\frac{GM}{r+R})$.",
+    "source_image_path": "D1-Gravitational-Field/May 2015 HL TZ2 Q24 B.png"
+  },
+  {
+    "id": "May_2016_HL_TZ0_Q28",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2016,
+      "month": "May",
+      "session_label": "May 2016",
+      "level": "HL",
+      "timezone": "TZ0",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2016 HL TZ0 Q28 B.png"
+    },
+    "question_number": 28,
+    "content_markdown": "A satellite orbits a planet. Which graph shows how the kinetic energy $E_{\\text{K}}$, the potential energy $E_{\\text{P}}$ and the total energy $E$ of the satellite vary with distance $x$ from the centre of the planet?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four sets of axes showing energy vs distance x. Each graph contains three curves labeled E_K, E_P, and E. The curves are hyperbolic in nature, some positive and some negative relative to the x-axis.",
+      "labels_to_preserve": [
+        "energy",
+        "x",
+        "0",
+        "E_K",
+        "E_P",
+        "E"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Graph A: $E_{\\text{P}}$ is positive, $E_{\\text{K}}$ and $E$ are negative."
+      },
+      {
+        "label": "B",
+        "text": "Graph B: $E_{\\text{K}}$ is positive, $E$ and $E_{\\text{P}}$ are negative, with $E$ being less negative than $E_{\\text{P}}$."
+      },
+      {
+        "label": "C",
+        "text": "Graph C: $E$ is positive, $E_{\\text{K}}$ and $E_{\\text{P}}$ are negative."
+      },
+      {
+        "label": "D",
+        "text": "Graph D: $E_{\\text{K}}$ is positive, $E_{\\text{P}}$ and $E$ are negative, with $E_{\\text{P}}$ being less negative than $E$."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In a gravitational orbit, kinetic energy $E_{\\text{K}} = \\frac{GMm}{2x}$ is always positive. Gravitational potential energy $E_{\\text{P}} = -\\frac{GMm}{x}$ is always negative. The total energy $E = E_{\\text{K}} + E_{\\text{P}} = -\\frac{GMm}{2x}$ is also negative. Since $E_{\\text{P}}$ is twice as negative as $E$ for any given $x$, the $E_{\\text{P}}$ curve must be below the $E$ curve.",
+    "source_image_path": "D1-Gravitational-Field/May 2016 HL TZ0 Q28 B.png"
+  },
+  {
+    "id": "May_2017_HL_TZ1_Q30",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ1 Q30 C.png"
+    },
+    "question_number": 30,
+    "content_markdown": "A satellite at the surface of the Earth has a weight $W$ and gravitational potential energy $E_p$. The satellite is then placed in a circular orbit with a radius twice that of the Earth.\n\nWhat is the weight of the satellite and the gravitational potential energy of the satellite when placed in orbit?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) for the values of Weight and Gravitational potential energy.",
+      "labels_to_preserve": [
+        "Weight",
+        "Gravitational potential energy"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Weight: $0.25 W$; Gravitational potential energy: $0.25 E_p$"
+      },
+      {
+        "label": "B",
+        "text": "Weight: $0.5 W$; Gravitational potential energy: $0.25 E_p$"
+      },
+      {
+        "label": "C",
+        "text": "Weight: $0.25 W$; Gravitational potential energy: $0.5 E_p$"
+      },
+      {
+        "label": "D",
+        "text": "Weight: $0.5 W$; Gravitational potential energy: $0.5 E_p$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Weight (gravitational force) follows an inverse-square law $F \\propto \\frac{1}{r^2}$, so doubling the radius from $R$ to $2R$ reduces weight to $\\frac{1}{2^2} = 0.25W$. Gravitational potential energy follows an inverse relationship $E_p \\propto -\\frac{1}{r}$, so doubling the radius reduces the magnitude to $\\frac{1}{2} = 0.5E_p$.",
+    "source_image_path": "D1-Gravitational-Field/May 2017 HL TZ1 Q30 C.png"
+  },
+  {
+    "id": "May_2017_HL_TZ2_Q19",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ2 Q19 A.png"
+    },
+    "question_number": 19,
+    "content_markdown": "The centre of the Earth is separated from the centre of the Moon by a distance $D$. Point P lies on a line joining the centre of the Earth and the centre of the Moon, a distance $X$ from the centre of the Earth. The gravitational field strength at P is zero.\n\nWhat is the ratio $\\frac{\\text{mass of the Moon}}{\\text{mass of the Earth}}$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing the Earth and the Moon separated by distance D. Point P is located between them at a distance X from the Earth's centre.",
+      "labels_to_preserve": [
+        "Earth",
+        "Moon",
+        "P",
+        "X",
+        "D"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{(D - X)^2}{X^2}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{(D - X)}{X}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{X^2}{(D - X)^2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{X}{D - X}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "At point P, the gravitational field strength from the Earth ($g_E = \\frac{GM_E}{X^2}$) must equal the gravitational field strength from the Moon ($g_M = \\frac{GM_M}{(D-X)^2}$) because the net field is zero. Setting $\\frac{GM_E}{X^2} = \\frac{GM_M}{(D-X)^2}$ and rearranging for the ratio $\\frac{M_M}{M_E}$ gives $\\frac{(D-X)^2}{X^2}$.",
+    "source_image_path": "D1-Gravitational-Field/May 2017 HL TZ2 Q19 A.png"
+  },
+  {
+    "id": "May_2017_HL_TZ2_Q31",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ2 Q31 B.png"
+    },
+    "question_number": 31,
+    "content_markdown": "The graph shows the variation of the gravitational potential $V$ with distance $r$ from the centre of a uniform spherical planet. The radius of the planet is $R$. The shaded area is $S$.\n\nWhat is the work done by the gravitational force as a point mass $m$ is moved from the surface of the planet to a distance $6R$ from the centre?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph of gravitational potential V against distance r. The curve starts at (R, V1) and increases towards (6R, V2). The area between the curve and the r-axis from R to 6R is shaded and labeled S.",
+      "labels_to_preserve": [
+        "V",
+        "r",
+        "R",
+        "6R",
+        "V_1",
+        "V_2",
+        "S"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$m(V_2 - V_1)$"
+      },
+      {
+        "label": "B",
+        "text": "$m(V_1 - V_2)$"
+      },
+      {
+        "label": "C",
+        "text": "$mS$"
+      },
+      {
+        "label": "D",
+        "text": "$S$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Work done by a force is defined as $W = -\\Delta E_p$ for conservative fields when considering the work done *by* the field. The change in gravitational potential energy is $\\Delta E_p = m\\Delta V = m(V_2 - V_1)$. Since the mass is moving away from the planet (against the attractive force), the gravitational force does negative work. Therefore, Work $= -(m(V_2 - V_1)) = m(V_1 - V_2)$. Note that the area $S$ under a $V-r$ graph does not represent work or energy in this context.",
+    "source_image_path": "D1-Gravitational-Field/May 2017 HL TZ2 Q31 B.png"
+  },
+  {
+    "id": "May_2017_HL_TZ2_Q32",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2017,
+      "month": "May",
+      "session_label": "May 2017",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2017 HL TZ2 Q32 C.png"
+    },
+    "question_number": 32,
+    "content_markdown": "Four uniform planets have masses and radii as shown. Which planet has the smallest escape speed?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four circles representing planets with different sizes and labels for mass and radius.",
+      "labels_to_preserve": [
+        "M",
+        "R",
+        "2M",
+        "2R"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Mass $M$, Radius $R$"
+      },
+      {
+        "label": "B",
+        "text": "Mass $2M$, Radius $R$"
+      },
+      {
+        "label": "C",
+        "text": "Mass $M$, Radius $2R$"
+      },
+      {
+        "label": "D",
+        "text": "Mass $2M$, Radius $2R$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The escape speed $v_e$ from a planet is given by the formula $v_e = \\sqrt{\\frac{2GM}{R}}$. To find the smallest escape speed, we look for the smallest ratio of $\\frac{M}{R}$. Comparing the options: A is $1/1$, B is $2/1$, C is $1/2$, and D is $2/2 = 1$. Option C yields the lowest value, hence the smallest escape speed.",
+    "source_image_path": "D1-Gravitational-Field/May 2017 HL TZ2 Q32 C.png"
+  },
+  {
+    "id": "May_2018_HL_TZ1_Q31",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ1 Q31 D.png"
+    },
+    "question_number": 31,
+    "content_markdown": "The diagram shows 5 gravitational equipotential lines. The gravitational potential on each line is indicated. A point mass $m$ is placed on the middle line and is then released. Values given in $\\text{MJ\\,kg}^{-1}$.\n\nWhich is correct about the direction of motion and the acceleration of the point mass?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Five vertical parallel lines representing equipotentials with values -10, -8, -6, -4, and -2. A point mass m is located on the -6 line. The spacing between lines increases from left to right.",
+      "labels_to_preserve": [
+        "m",
+        "-10",
+        "-8",
+        "-6",
+        "-4",
+        "-2"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Direction: to the right; Acceleration: decreasing"
+      },
+      {
+        "label": "B",
+        "text": "Direction: to the right; Acceleration: increasing"
+      },
+      {
+        "label": "C",
+        "text": "Direction: to the left; Acceleration: decreasing"
+      },
+      {
+        "label": "D",
+        "text": "Direction: to the left; Acceleration: increasing"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Masses naturally move towards regions of lower gravitational potential (more negative values), which is to the left in this diagram. The gravitational field strength $g$ is proportional to the gradient of the potential ($g = -\\Delta V / \\Delta r$). Since the equipotential lines become more widely spaced as the mass moves to the left (from -6 to -8 to -10), the potential gradient is decreasing, meaning the field strength and thus the acceleration are decreasing.",
+    "source_image_path": "D1-Gravitational-Field/May 2018 HL TZ1 Q31 D.png"
+  },
+  {
+    "id": "May_2018_HL_TZ2_Q28",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ2 Q28 C.png"
+    },
+    "question_number": 28,
+    "content_markdown": "A moon of mass $M$ orbits a planet of mass $100M$. The radius of the planet is $R$ and the distance between the centres of the planet and moon is $22R$.\n\nWhat is the distance from the centre of the planet at which the total gravitational potential has a maximum value?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a large planet of mass 100M and a smaller moon of mass M. A horizontal line with arrows at both ends connects the centers of the two bodies, labeled with the distance 22R.",
+      "labels_to_preserve": [
+        "100M",
+        "M",
+        "22R"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$2R$"
+      },
+      {
+        "label": "B",
+        "text": "$11R$"
+      },
+      {
+        "label": "C",
+        "text": "$20R$"
+      },
+      {
+        "label": "D",
+        "text": "$2R$ and $20R$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The total gravitational potential is the sum of the potentials from the planet and the moon. Since gravitational potential is always negative, its 'maximum' value occurs where it is least negative (closest to zero). This point corresponds to the location where the net gravitational field strength is zero (the Lagrangian point L1). Setting the magnitudes of the gravitational fields equal: $G(100M)/x^2 = GM/(22R - x)^2$. Taking the square root of both sides gives $10/x = 1/(22R - x)$. Solving for $x$ yields $10(22R - x) = x$, which simplifies to $220R = 11x$, so $x = 20R$.",
+    "source_image_path": "D1-Gravitational-Field/May 2018 HL TZ2 Q28 C.png"
+  },
+  {
+    "id": "May_2018_HL_TZ2_Q31",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ2 Q31 C.png"
+    },
+    "question_number": 31,
+    "content_markdown": "A satellite orbiting a planet moves from orbit X to orbit Y.\n\nWhat is the change in the kinetic energy and the change in the gravitational potential energy as a result?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A central planet with two concentric circular dashed orbits labeled X and Y. Orbit X is closer to the planet, and orbit Y is further away.",
+      "labels_to_preserve": [
+        "X",
+        "Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Kinetic energy: increases; Gravitational potential energy: increases"
+      },
+      {
+        "label": "B",
+        "text": "Kinetic energy: increases; Gravitational potential energy: decreases"
+      },
+      {
+        "label": "C",
+        "text": "Kinetic energy: decreases; Gravitational potential energy: increases"
+      },
+      {
+        "label": "D",
+        "text": "Kinetic energy: decreases; Gravitational potential energy: decreases"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "As the satellite moves from orbit X to orbit Y, its orbital radius $r$ increases. Gravitational potential energy is given by $E_p = -\\frac{GMm}{r}$, so as $r$ increases, $E_p$ becomes less negative (increases). Orbital kinetic energy is given by $E_k = \\frac{GMm}{2r}$, so as $r$ increases, $E_k$ decreases. This follows the general rule that moving to a higher orbit requires work to be done against the gravitational field, increasing potential energy while slowing the satellite down.",
+    "source_image_path": "D1-Gravitational-Field/May 2018 HL TZ2 Q31 C.png"
+  },
+  {
+    "id": "May_2018_HL_TZ2_Q32",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational potential and escape speed",
+    "paper": {
+      "year": 2018,
+      "month": "May",
+      "session_label": "May 2018",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2018 HL TZ2 Q32 C.png"
+    },
+    "question_number": 32,
+    "content_markdown": "The mass of the Earth is $M_E$ and the mass of the Moon is $M_M$. Their respective radii are $R_E$ and $R_M$.\n\nWhich is the ratio $\\frac{\\text{escape speed from the Earth}}{\\text{escape speed from the Moon}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram present, only mathematical expressions for options.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\sqrt{\\frac{M_M R_M}{M_E R_E}}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\sqrt{\\frac{M_E R_E}{M_M R_M}}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\sqrt{\\frac{M_E R_M}{M_M R_E}}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\sqrt{\\frac{M_M R_E}{M_E R_M}}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The escape speed $v_{esc}$ from a celestial body is given by the formula $v_{esc} = \\sqrt{\\frac{2GM}{R}}$. To find the ratio of the escape speed of Earth to that of the Moon, we set up the fraction: $\\frac{v_E}{v_M} = \\frac{\\sqrt{2GM_E/R_E}}{\\sqrt{2GM_M/R_M}}$. The $2G$ terms cancel out, leaving $\\sqrt{\\frac{M_E}{R_E} \\cdot \\frac{R_M}{M_M}}$, which simplifies to $\\sqrt{\\frac{M_E R_M}{M_M R_E}}$.",
+    "source_image_path": "D1-Gravitational-Field/May 2018 HL TZ2 Q32 C.png"
+  },
+  {
+    "id": "May_2019_HL_TZ1_Q20",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ1 Q20 D.png"
+    },
+    "question_number": 20,
+    "content_markdown": "Satellite X orbits a planet with orbital radius $R$. Satellite Y orbits the same planet with orbital radius $2R$. Satellites X and Y have the same mass.\n\nWhat is the ratio $\\frac{\\text{centripetal acceleration of X}}{\\text{centripetal acceleration of Y}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "For a satellite in orbit, the centripetal acceleration is provided by the gravitational field strength $g = \\frac{GM}{r^2}$. Since both satellites orbit the same planet, $G$ and $M$ are constant. Therefore, the acceleration $a$ is inversely proportional to the square of the radius ($a \\propto \\frac{1}{r^2}$). If the radius of Y is twice that of X ($r_Y = 2r_X$), then the acceleration of Y will be $\\frac{1}{2^2} = \\frac{1}{4}$ times the acceleration of X. Thus, the ratio $\\frac{a_X}{a_Y}$ is 4.",
+    "source_image_path": "D1-Gravitational-Field/May 2019 HL TZ1 Q20 D.png"
+  },
+  {
+    "id": "May_2019_HL_TZ1_Q33",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational potential and escape velocity",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ1 Q33 C.png"
+    },
+    "question_number": 33,
+    "content_markdown": "The escape velocity for an object at the surface of the Earth is $v_{\\text{esc}}$. The diameter of the Moon is 4 times smaller than that of the Earth and the mass of the Moon is 81 times smaller than that of the Earth. What is the escape velocity of the object on the Moon?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{2}{81} v_{\\text{esc}}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{4}{81} v_{\\text{esc}}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{2}{9} v_{\\text{esc}}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{4}{9} v_{\\text{esc}}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Escape velocity is given by the formula $v = \\sqrt{\\frac{2GM}{R}}$. If the diameter is 4 times smaller, the radius $R$ is also 4 times smaller ($R_M = \\frac{1}{4}R_E$). If the mass $M$ is 81 times smaller ($M_M = \\frac{1}{81}M_E$), we substitute these into the ratio: $v_M = \\sqrt{\\frac{M_M}{R_M}} \\cdot v_E = \\sqrt{\\frac{1/81}{1/4}} \\cdot v_{\\text{esc}} = \\sqrt{\\frac{4}{81}} \\cdot v_{\\text{esc}} = \\frac{2}{9} v_{\\text{esc}}$.",
+    "source_image_path": "D1-Gravitational-Field/May 2019 HL TZ1 Q33 C.png"
+  },
+  {
+    "id": "May_2019_HL_TZ1_Q34",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ1 Q34 C.png"
+    },
+    "question_number": 34,
+    "content_markdown": "A satellite in a circular orbit around the Earth needs to reduce its orbital radius.\n\nWhat is the work done by the satellite rocket engine and the change in kinetic energy resulting from this shift in orbital height?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A-D) with two columns: 'Work done by the satellite rocket engine' and 'Kinetic energy'.",
+      "labels_to_preserve": [
+        "Work done by the satellite rocket engine",
+        "Kinetic energy"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Work done: positive; Kinetic energy: increase"
+      },
+      {
+        "label": "B",
+        "text": "Work done: positive; Kinetic energy: decrease"
+      },
+      {
+        "label": "C",
+        "text": "Work done: negative; Kinetic energy: increase"
+      },
+      {
+        "label": "D",
+        "text": "Work done: negative; Kinetic energy: decrease"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "To move to a lower orbit, the total energy $E = -\\frac{GMm}{2r}$ must decrease (become more negative), so the engine must do negative work (braking). However, in a lower orbit, the orbital speed $v = \\sqrt{\\frac{GM}{r}}$ is higher, meaning the kinetic energy increases as potential energy is lost.",
+    "source_image_path": "D1-Gravitational-Field/May 2019 HL TZ1 Q34 C.png"
+  },
+  {
+    "id": "May_2019_HL_TZ2_Q10",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ2 Q10 B.png"
+    },
+    "question_number": 10,
+    "content_markdown": "Satellite X is in orbit around the Earth. An identical satellite Y is in a higher orbit. What is correct for the total energy and the kinetic energy of the satellite Y compared with satellite X?\n\n| | Total energy of satellite Y | Kinetic energy of satellite Y |\n| :--- | :--- | :--- |\n| A. | larger | larger |\n| B. | smaller | larger |\n| C. | larger | smaller |\n| D. | smaller | smaller |",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) comparing the total energy and kinetic energy of satellite Y relative to satellite X.",
+      "labels_to_preserve": [
+        "Total energy of satellite X",
+        "Kinetic energy of satellite X"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Total energy: larger; Kinetic energy: larger"
+      },
+      {
+        "label": "B",
+        "text": "Total energy: smaller; Kinetic energy: larger"
+      },
+      {
+        "label": "C",
+        "text": "Total energy: larger; Kinetic energy: smaller"
+      },
+      {
+        "label": "D",
+        "text": "Total energy: smaller; Kinetic energy: smaller"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "For a satellite in a circular orbit, the total energy is $E_{total} = -\\frac{GMm}{2r}$ and the kinetic energy is $E_k = \\frac{GMm}{2r}$. As the orbital radius $r$ increases for satellite Y, the total energy becomes less negative (meaning it increases/is larger), while the kinetic energy decreases (meaning it is smaller) because the orbital speed $v = \\sqrt{\\frac{GM}{r}}$ is lower at higher altitudes.",
+    "source_image_path": "D1-Gravitational-Field/May 2019 HL TZ2 Q10 B.png"
+  },
+  {
+    "id": "May_2019_HL_TZ2_Q11",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ2 Q11 A.png"
+    },
+    "question_number": 11,
+    "content_markdown": "The escape speed from a planet of radius $R$ is $v_{\\text{esc}}$. A satellite orbits the planet at a distance $R$ from the surface of the planet. What is the orbital speed of the satellite?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{2} v_{\\text{esc}}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{\\sqrt{2}}{2} v_{\\text{esc}}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\sqrt{2} v_{\\text{esc}}$"
+      },
+      {
+        "label": "D",
+        "text": "$2 v_{\\text{esc}}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "First, recall the formula for escape speed from the surface: $v_{\\text{esc}} = \\sqrt{\\frac{2GM}{R}}$. Next, determine the orbital radius of the satellite; since it is a distance $R$ from the surface, its total distance from the center is $r = 2R$. The orbital speed formula is $v_{\\text{orbit}} = \\sqrt{\\frac{GM}{r}} = \\sqrt{\\frac{GM}{2R}}$. Comparing the two, we see that $v_{\\text{orbit}} = \\sqrt{\\frac{1}{4} \\cdot \\frac{2GM}{R}} = \\frac{1}{2} v_{\\text{esc}}$.",
+    "source_image_path": "D1-Gravitational-Field/May 2019 HL TZ2 Q11 A.png"
+  },
+  {
+    "id": "May_2019_HL_TZ2_Q37",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Energy balance",
+    "paper": {
+      "year": 2019,
+      "month": "May",
+      "session_label": "May 2019",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2019 HL TZ2 Q37 D.png"
+    },
+    "question_number": 37,
+    "content_markdown": "The orbital radius of the Earth around the Sun is 1.5 times that of Venus. What is the intensity of solar radiation at the orbital radius of Venus?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0.6 \\text{ kW m}^{-2}$"
+      },
+      {
+        "label": "B",
+        "text": "$0.9 \\text{ kW m}^{-2}$"
+      },
+      {
+        "label": "C",
+        "text": "$2 \\text{ kW m}^{-2}$"
+      },
+      {
+        "label": "D",
+        "text": "$3 \\text{ kW m}^{-2}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Intensity $I$ follows the inverse square law $I \\propto \\frac{1}{r^2}$. The solar constant at Earth's distance is approximately $1.36 \\text{ kW m}^{-2}$ (often rounded to $1.4$ in IB problems). Since $r_{\\text{Earth}} = 1.5 \\times r_{\\text{Venus}}$, then $I_{\\text{Venus}} = I_{\\text{Earth}} \\times (\\frac{r_{\\text{Earth}}}{r_{\\text{Venus}}})^2 = I_{\\text{Earth}} \\times (1.5)^2 = 1.36 \\times 2.25 \\approx 3 \\text{ kW m}^{-2}$.",
+    "source_image_path": "D1-Gravitational-Field/May 2019 HL TZ2 Q37 D.png"
+  },
+  {
+    "id": "May_2021_HL_TZ1_Q31",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ1 Q31 A.png"
+    },
+    "question_number": 31,
+    "content_markdown": "Which is a correct unit for gravitational potential?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\text{m}^2 \\text{s}^{-2}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\text{J} \\text{kg}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\text{m} \\text{s}^{-2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\text{N} \\text{m}^{-1} \\text{kg}^{-1}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Gravitational potential ($V$) is defined as the work done per unit mass ($V = W/m$). Therefore, its standard unit is $\\text{J} \\text{kg}^{-1}$. Since $1 \\text{ J} = 1 \\text{ N m} = 1 \\text{ kg m}^2 \\text{s}^{-2}$, dividing by $\\text{kg}$ leaves us with $\\text{m}^2 \\text{s}^{-2}$.",
+    "source_image_path": "D1-Gravitational-Field/May 2021 HL TZ1 Q31 A.png"
+  },
+  {
+    "id": "May_2021_HL_TZ1_Q32",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ1 Q32 B.png"
+    },
+    "question_number": 32,
+    "content_markdown": "A planet has radius $R$. The escape speed from the surface of the planet is $v$. At what distance from the surface of the planet is the orbital speed $0.5v$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0.5R$"
+      },
+      {
+        "label": "B",
+        "text": "$R$"
+      },
+      {
+        "label": "C",
+        "text": "$2R$"
+      },
+      {
+        "label": "D",
+        "text": "$4R$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The escape speed is $v = \\sqrt{\\frac{2GM}{R}}$. The orbital speed at a distance $r$ from the center is $v_{orb} = \\sqrt{\\frac{GM}{r}}$. We are given $v_{orb} = 0.5v$, so $\\sqrt{\\frac{GM}{r}} = 0.5 \\sqrt{\\frac{2GM}{R}}$. Squaring both sides gives $\\frac{GM}{r} = 0.25 \\frac{2GM}{R} = \\frac{0.5GM}{R}$. This simplifies to $r = 2R$. Since $r$ is the distance from the center, the distance from the surface is $r - R = 2R - R = R$.",
+    "source_image_path": "D1-Gravitational-Field/May 2021 HL TZ1 Q32 B.png"
+  },
+  {
+    "id": "May_2021_HL_TZ2_Q26",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ2 Q26 C.png"
+    },
+    "question_number": 26,
+    "content_markdown": "A mass\u2013spring system oscillates vertically with a period of $T$ at the surface of the Earth. The gravitational field strength at the surface of Mars is $0.3g$. What is the period of the same mass\u2013spring system on the surface of Mars?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0.09T$"
+      },
+      {
+        "label": "B",
+        "text": "$0.3T$"
+      },
+      {
+        "label": "C",
+        "text": "$T$"
+      },
+      {
+        "label": "D",
+        "text": "$3T$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The period of a mass-spring system is given by the formula $T = 2\\pi\\sqrt{\\frac{m}{k}}$. Notice that this formula depends only on the mass $m$ and the spring constant $k$. It does not depend on the local gravitational field strength $g$. Therefore, moving the system from Earth to Mars will not change the period of oscillation.",
+    "source_image_path": "D1-Gravitational-Field/May 2021 HL TZ2 Q26 C.png"
+  },
+  {
+    "id": "May_2021_HL_TZ2_Q30",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ2 Q30 A.png"
+    },
+    "question_number": 30,
+    "content_markdown": "An object of mass $m$ released from rest near the surface of a planet has an initial acceleration $z$. What is the gravitational field strength near the surface of the planet?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$z$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{z}{m}$"
+      },
+      {
+        "label": "C",
+        "text": "$mz$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{m}{z}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "By definition, the gravitational field strength $g$ is the force per unit mass ($g = F/m$). According to Newton's Second Law, $F = ma$. For an object in free fall near a planet's surface, the only force acting on it is gravity, so $F = mz$. Substituting this into the field strength formula gives $g = \\frac{mz}{m} = z$. Thus, the magnitude of the gravitational field strength is numerically equal to the acceleration of free fall.",
+    "source_image_path": "D1-Gravitational-Field/May 2021 HL TZ2 Q30 A.png"
+  },
+  {
+    "id": "May_2021_HL_TZ2_Q32",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2021,
+      "month": "May",
+      "session_label": "May 2021",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2021 HL TZ2 Q32 B.png"
+    },
+    "question_number": 32,
+    "content_markdown": "A satellite orbits planet X with a speed $v_x$ at a distance $r$ from the centre of planet X. Another satellite orbits planet Y at a speed of $v_y$ at a distance $r$ from the centre of planet Y. The mass of planet X is $M$ and the mass of planet Y is $4M$. What is the ratio of $\\frac{v_x}{v_y}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.25"
+      },
+      {
+        "label": "B",
+        "text": "0.5"
+      },
+      {
+        "label": "C",
+        "text": "2.0"
+      },
+      {
+        "label": "D",
+        "text": "4.0"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The orbital speed $v$ of a satellite is given by the formula $v = \\sqrt{\\frac{GM}{r}}$. Since both satellites orbit at the same distance $r$, the speed is proportional to the square root of the mass of the planet ($v \\propto \\sqrt{M}$). Therefore, the ratio $\\frac{v_x}{v_y} = \\sqrt{\\frac{M_x}{M_y}} = \\sqrt{\\frac{M}{4M}} = \\sqrt{\\frac{1}{4}} = 0.5$.",
+    "source_image_path": "D1-Gravitational-Field/May 2021 HL TZ2 Q32 B.png"
+  },
+  {
+    "id": "May_2022_HL_TZ1_Q24",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ1 Q24 D.png"
+    },
+    "question_number": 24,
+    "content_markdown": "P and Q are two moons of equal densities orbiting a planet. The orbital radius of P is twice the orbital radius of Q. The volume of P is half that of Q. The force exerted by the planet on P is $F$. What is the force exerted by the planet on Q?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$F$"
+      },
+      {
+        "label": "B",
+        "text": "$2F$"
+      },
+      {
+        "label": "C",
+        "text": "$4F$"
+      },
+      {
+        "label": "D",
+        "text": "$8F$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The gravitational force is given by $F = \\frac{GMm}{r^2}$. Since density is equal, mass is proportional to volume ($m \\propto V$). For moon Q compared to P: the volume is double ($V_Q = 2V_P$), so the mass is double ($m_Q = 2m_P$). The orbital radius of Q is half that of P ($r_Q = \\frac{1}{2}r_P$). Substituting these into the force equation: $F_Q \\propto \\frac{m_Q}{r_Q^2} = \\frac{2m_P}{(\\frac{1}{2}r_P)^2} = \\frac{2m_P}{\\frac{1}{4}r_P^2} = 8 \\frac{m_P}{r_P^2}$. Therefore, $F_Q = 8F$.",
+    "source_image_path": "D1-Gravitational-Field/May 2022 HL TZ1 Q24 D.png"
+  },
+  {
+    "id": "May_2022_HL_TZ1_Q33",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ1",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ1 Q33 B.png"
+    },
+    "question_number": 33,
+    "content_markdown": "An object of mass $m$ is launched from the surface of the Earth. The Earth has a mass $M$ and radius $r$. The acceleration due to gravity at the surface of the Earth is $g$. What is the escape speed of the object from the surface of the Earth?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\sqrt{gr}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\sqrt{2gr}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\sqrt{2Mgr}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\sqrt{2mgr}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "To find the escape speed, we use the conservation of energy where the kinetic energy must equal the gravitational potential energy required to reach infinity: $\\frac{1}{2}mv^2 = \\frac{GMm}{r}$. This simplifies to $v = \\sqrt{\\frac{2GM}{r}}$. Since the acceleration due to gravity at the surface is $g = \\frac{GM}{r^2}$, we can substitute $GM = gr^2$ into the escape speed formula to get $v = \\sqrt{\\frac{2(gr^2)}{r}} = \\sqrt{2gr}$.",
+    "source_image_path": "D1-Gravitational-Field/May 2022 HL TZ1 Q33 B.png"
+  },
+  {
+    "id": "May_2022_HL_TZ2_Q20",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ2 Q20 D.png"
+    },
+    "question_number": 20,
+    "content_markdown": "A satellite is orbiting Earth in a circular path at constant speed. Three statements about the resultant force on the satellite are:\n\nI. It is equal to the gravitational force of attraction on the satellite.\nII. It is equal to the mass of the satellite multiplied by its acceleration.\nIII. It is equal to the centripetal force on the satellite.\n\nWhich combination of statements is correct?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I and II only"
+      },
+      {
+        "label": "B",
+        "text": "I and III only"
+      },
+      {
+        "label": "C",
+        "text": "II and III only"
+      },
+      {
+        "label": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "For a satellite in circular orbit, the only force acting on it is gravity, which acts as the resultant force (Statement I). According to Newton's Second Law, the resultant force is always equal to $F = ma$ (Statement II). Since the motion is circular, this resultant force is by definition the centripetal force (Statement III). Therefore, all three statements are different ways of describing the same physical quantity in this context.",
+    "source_image_path": "D1-Gravitational-Field/May 2022 HL TZ2 Q20 D.png"
+  },
+  {
+    "id": "May_2022_HL_TZ2_Q21",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2022,
+      "month": "May",
+      "session_label": "May 2022",
+      "level": "HL",
+      "timezone": "TZ2",
+      "paper_code": "Paper 1",
+      "source_filename": "May 2022 HL TZ2 Q21 B.png"
+    },
+    "question_number": 21,
+    "content_markdown": "An astronaut is orbiting Earth in a spaceship. Why does the astronaut experience weightlessness?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The astronaut is outside the gravitational field of Earth."
+      },
+      {
+        "label": "B",
+        "text": "The acceleration of the astronaut is the same as the acceleration of the spaceship."
+      },
+      {
+        "label": "C",
+        "text": "The spaceship is travelling at a high speed tangentially to the orbit."
+      },
+      {
+        "label": "D",
+        "text": "The gravitational field is zero at that point."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Weightlessness is experienced when there is no normal contact force between an object and its surroundings. In orbit, both the astronaut and the spaceship are in free-fall towards the Earth with the same acceleration (the local gravitational acceleration $g$). Because they accelerate together, the spaceship does not push against the astronaut, resulting in a sensation of weightlessness.",
+    "source_image_path": "D1-Gravitational-Field/May 2022 HL TZ2 Q21 B.png"
+  },
+  {
+    "id": "Nov_2002_HL_Q12",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2002,
+      "month": "Nov",
+      "session_label": "Nov 2002",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2002 HL Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A satellite orbits the Earth as shown below.\n\n![](diagram.png)\n\nIn the table below, which row gives the correct sign for the satellite's potential and kinetic energies?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a satellite in a circular orbit around the Earth. An arrow indicates the direction of motion along the dashed orbital path.",
+      "labels_to_preserve": [
+        "satellite",
+        "Earth"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Potential energy: Positive; Kinetic energy: Positive"
+      },
+      {
+        "label": "B",
+        "text": "Potential energy: Negative; Kinetic energy: Positive"
+      },
+      {
+        "label": "C",
+        "text": "Potential energy: Positive; Kinetic energy: Negative"
+      },
+      {
+        "label": "D",
+        "text": "Potential energy: Negative; Kinetic energy: Negative"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Gravitational potential energy $E_p = -\\frac{GMm}{r}$ is defined as zero at infinity, so it is always negative for bound systems. Kinetic energy $E_k = \\frac{1}{2}mv^2$ is always positive because mass and the square of velocity are both positive quantities.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2002 HL Q12 B.png"
+  },
+  {
+    "id": "Nov_2003_HL_Q11",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2003,
+      "month": "Nov",
+      "session_label": "Nov 2003",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2003 HL Q11 B.png"
+    },
+    "question_number": 11,
+    "content_markdown": "Gravitational field strength at a point may be defined as",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the force on a small mass placed at the point."
+      },
+      {
+        "label": "B",
+        "text": "the force per unit mass on a small mass placed at the point."
+      },
+      {
+        "label": "C",
+        "text": "the work done to move unit mass from infinity to the point."
+      },
+      {
+        "label": "D",
+        "text": "the work done per unit mass to move a small mass from infinity to the point."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Gravitational field strength ($g$) is defined as the gravitational force ($F$) acting per unit mass ($m$) on a small test mass placed at that point, expressed as $g = \\frac{F}{m}$. Options C and D describe gravitational potential, not field strength.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2003 HL Q11 B.png"
+  },
+  {
+    "id": "Nov_2004_HL_Q12",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2004,
+      "month": "Nov",
+      "session_label": "Nov 2004",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2004 HL Q12 C.png"
+    },
+    "question_number": 12,
+    "content_markdown": "The Earth is distance $R_{\\text{M}}$ from the Moon and distance $R_{\\text{S}}$ from the Sun. The ratio\n\n$$\\frac{\\text{gravitational field strength at the Earth due to the Moon}}{\\text{gravitational field strength at the Earth due to the Sun}}$$\n\nis proportional to which of the following?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{R_{\\text{M}}^2}{R_{\\text{S}}^2}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{R_{\\text{M}}}{R_{\\text{S}}}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{R_{\\text{S}}^2}{R_{\\text{M}}^2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{R_{\\text{S}}}{R_{\\text{M}}}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The gravitational field strength $g$ at a distance $r$ from a mass $M$ is given by $g = \\frac{GM}{r^2}$. Therefore, $g$ is inversely proportional to the square of the distance ($g \\propto \\frac{1}{r^2}$). For the Moon, $g_{\\text{M}} \\propto \\frac{1}{R_{\\text{M}}^2}$, and for the Sun, $g_{\\text{S}} \\propto \\frac{1}{R_{\\text{S}}^2}$. The ratio $\\frac{g_{\\text{M}}}{g_{\\text{S}}}$ is proportional to $\\frac{1/R_{\\text{M}}^2}{1/R_{\\text{S}}^2}$, which simplifies to $\\frac{R_{\\text{S}}^2}{R_{\\text{M}}^2}$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2004 HL Q12 C.png"
+  },
+  {
+    "id": "Nov_2004_HL_Q13",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational potential energy",
+    "paper": {
+      "year": 2004,
+      "month": "Nov",
+      "session_label": "Nov 2004",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2004 HL Q13 C.png"
+    },
+    "question_number": 13,
+    "content_markdown": "The gravitational potential at point X due to the Earth is $-7 \\text{ kJ kg}^{-1}$. At point Y, the gravitational potential is $-3 \\text{ kJ kg}^{-1}$.\n\nThe change in gravitational potential energy of a mass of $4 \\text{ kg}$ when it is moved from point X to point Y is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing Earth in the center with point X to its left and point Y to its right. Point X is labeled with -7 kJ kg^-1 and point Y is labeled with -3 kJ kg^-1.",
+      "labels_to_preserve": [
+        "Earth",
+        "point X",
+        "point Y",
+        "-7 kJ kg^-1",
+        "-3 kJ kg^-1"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "4 kJ."
+      },
+      {
+        "label": "B",
+        "text": "10 kJ."
+      },
+      {
+        "label": "C",
+        "text": "16 kJ."
+      },
+      {
+        "label": "D",
+        "text": "40 kJ."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The change in gravitational potential energy ($\\Delta E_p$) is calculated by multiplying the mass ($m$) by the change in gravitational potential ($\\Delta V$). Here, $\\Delta V = V_{\\text{final}} - V_{\\text{initial}} = (-3 \\text{ kJ kg}^{-1}) - (-7 \\text{ kJ kg}^{-1}) = +4 \\text{ kJ kg}^{-1}$. Multiplying this by the mass of $4 \\text{ kg}$ gives $\\Delta E_p = 4 \\text{ kg} \\times 4 \\text{ kJ kg}^{-1} = 16 \\text{ kJ}$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2004 HL Q13 C.png"
+  },
+  {
+    "id": "Nov_2004_HL_Q14",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2004,
+      "month": "Nov",
+      "session_label": "Nov 2004",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2004 HL Q14 A.png"
+    },
+    "question_number": 14,
+    "content_markdown": "Which of the following expressions correctly relates the radius $R$ of the circular orbit of a planet round a star to the period $T$ of the orbit?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$R^3 \\propto T^2$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{1}{R^3} \\propto T^2$"
+      },
+      {
+        "label": "C",
+        "text": "$R^2 \\propto T^3$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{1}{R^2} \\propto T^3$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "This is Kepler's Third Law. By equating the gravitational force $\\frac{GMm}{R^2}$ to the centripetal force $m\\omega^2R$ (where $\\omega = \\frac{2\\pi}{T}$), we find that $\\frac{GM}{R^2} = \\frac{4\\pi^2R}{T^2}$. Rearranging this gives $T^2 = \\left(\\frac{4\\pi^2}{GM}\\right)R^3$, which shows that the square of the period is proportional to the cube of the orbital radius.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2004 HL Q14 A.png"
+  },
+  {
+    "id": "Nov_2005_HL_Q12",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Potential Energy",
+    "paper": {
+      "year": 2005,
+      "month": "Nov",
+      "session_label": "Nov 2005",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2005 HL Q12 B.png"
+    },
+    "question_number": 12,
+    "content_markdown": "A point object of mass $m$ is brought from infinity to the point P, a distance $r$ from the centre of an isolated sphere of mass $M$.\n\nThe work done by the gravitational force in bringing the point object from infinity to point P is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A large sphere of mass M with a point P at distance r from its center. A point mass m is located at P. A double-headed arrow indicates the distance r between the center of M and point P.",
+      "labels_to_preserve": [
+        "M",
+        "r",
+        "P",
+        "m"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$G \\frac{M}{r}$"
+      },
+      {
+        "label": "B",
+        "text": "$G \\frac{Mm}{r}$"
+      },
+      {
+        "label": "C",
+        "text": "$-G \\frac{M}{r}$"
+      },
+      {
+        "label": "D",
+        "text": "$-G \\frac{Mm}{r}$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Gravitational potential energy $E_p$ is defined as $-G \\frac{Mm}{r}$. The work done by the gravitational force (an attractive force) as an object moves from infinity towards a mass is positive, because the force and displacement are in the same direction. However, the question asks for the work done by the force. Since $W = -\\Delta E_p$ for conservative forces, and $E_p$ at infinity is 0, the work done by the field is $0 - (-G \\frac{Mm}{r}) = +G \\frac{Mm}{r}$. Note: In many IB contexts, 'work done' can be ambiguous between work done by an external agent and work done by the field; here, the gravitational force does positive work as it pulls the mass in.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2005 HL Q12 B.png"
+  },
+  {
+    "id": "Nov_2005_HL_Q13",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2005,
+      "month": "Nov",
+      "session_label": "Nov 2005",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2005 HL Q13 B.png"
+    },
+    "question_number": 13,
+    "content_markdown": "The kinetic energy $E_{\\text{K}}$ of a satellite in orbit varies with its distance $r$ from the centre of a planet of radius $R$.\n\nWhich **one** of the following graphs best shows the variation of $E_{\\text{K}}$ with $r$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs showing Kinetic Energy (Ek) on the y-axis and distance (r) on the x-axis. Each graph starts at r=R (indicated by a vertical dashed line). Graph A shows a linear increase. Graph B shows a reciprocal/inverse curve decreasing towards zero. Graph C shows a logarithmic-style curve increasing. Graph D shows a linear decrease.",
+      "labels_to_preserve": [
+        "E_K",
+        "r",
+        "R",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "For a satellite in a circular orbit, the centripetal force is provided by gravity: $G M m / r^2 = m v^2 / r$. This simplifies to $m v^2 = G M m / r$. Since kinetic energy $E_{\\text{K}} = \\frac{1}{2} m v^2$, we find that $E_{\\text{K}} = G M m / (2r)$. This means $E_{\\text{K}}$ is proportional to $1/r$, which is represented by a decreasing curve that approaches the x-axis asymptotically, as shown in graph B.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2005 HL Q13 B.png"
+  },
+  {
+    "id": "Nov_2005_HL_Q14",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2005,
+      "month": "Nov",
+      "session_label": "Nov 2005",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2005 HL Q14 C.png"
+    },
+    "question_number": 14,
+    "content_markdown": "Planet X has radius $R$ and mass $M$. Planet Y has radius $2R$ and mass $8M$.\n\nWhich **one** of the following is the correct value of the ratio\n\n$$\\frac{\\text{gravitational field strength at surface of planet X}}{\\text{gravitational field strength at surface of planet Y}}?$$",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{1}{2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{1}{4}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The gravitational field strength at the surface of a planet is given by $g = \\frac{GM}{r^2}$. For Planet X, $g_X = \\frac{GM}{R^2}$. For Planet Y, $g_Y = \\frac{G(8M)}{(2R)^2} = \\frac{8GM}{4R^2} = 2\\frac{GM}{R^2}$. Therefore, the ratio $g_X / g_Y = \\frac{GM/R^2}{2GM/R^2} = \\frac{1}{2}$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2005 HL Q14 C.png"
+  },
+  {
+    "id": "Nov_2006_HL_Q13",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2006,
+      "month": "Nov",
+      "session_label": "Nov 2006",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2006 HL Q13 B.png"
+    },
+    "question_number": 13,
+    "content_markdown": "The diagram below shows two planets X and Y of masses $2M$ and $M$ respectively. The centres of the two planets are separated by a distance $2d$. Point P is midway between planets X and Y. The mass of each planet may be assumed to be concentrated at its centre.\n\nThe magnitude of the gravitational field strength at point P due to the two planets is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing two planets, X (larger) and Y (smaller), separated by a distance 2d. Point P is located exactly in the middle of the line connecting their centers.",
+      "labels_to_preserve": [
+        "planet X",
+        "planet Y",
+        "P",
+        "2d"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "zero."
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{GM}{d^2}$."
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{2GM}{d^2}$."
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{3GM}{d^2}$."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Gravitational field strength $g$ is a vector pointing towards the mass. At point P, which is at distance $d$ from both, the field from X is $g_X = \\frac{G(2M)}{d^2}$ (pointing left) and the field from Y is $g_Y = \\frac{GM}{d^2}$ (pointing right). The net field is the difference: $\\frac{2GM}{d^2} - \\frac{GM}{d^2} = \\frac{GM}{d^2}$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2006 HL Q13 B.png"
+  },
+  {
+    "id": "Nov_2006_HL_Q14",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2006,
+      "month": "Nov",
+      "session_label": "Nov 2006",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2006 HL Q14 B.png"
+    },
+    "question_number": 14,
+    "content_markdown": "A satellite is in a circular orbit around the Earth. The satellite now moves to a circular orbit closer to the Earth.\n\nWhich **one** of the following correctly describes the changes in the gravitational potential energy and kinetic energy of the satellite?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the changes in Gravitational potential energy and Kinetic energy for four options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Gravitational potential energy",
+        "Kinetic energy"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gravitational potential energy: decreases; Kinetic energy: decreases"
+      },
+      {
+        "label": "B",
+        "text": "Gravitational potential energy: decreases; Kinetic energy: increases"
+      },
+      {
+        "label": "C",
+        "text": "Gravitational potential energy: increases; Kinetic energy: decreases"
+      },
+      {
+        "label": "D",
+        "text": "Gravitational potential energy: increases; Kinetic energy: increases"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "As the satellite moves closer to Earth (radius $r$ decreases), the gravitational potential energy $E_p = -\\frac{GMm}{r}$ becomes more negative, meaning it decreases. To maintain a circular orbit at a smaller radius, the orbital speed $v = \\sqrt{\\frac{GM}{r}}$ must increase, which leads to an increase in kinetic energy $E_k = \\frac{1}{2}mv^2$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2006 HL Q14 B.png"
+  },
+  {
+    "id": "Nov_2007_HL_Q10",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2007,
+      "month": "Nov",
+      "session_label": "Nov 2007",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2007 HL Q10 B.png"
+    },
+    "question_number": 10,
+    "content_markdown": "Two satellites, X and Y, move in circular orbits about the Earth. The orbital period of satellite X is eight times that of satellite Y.\n\nThe ratio $\\frac{\\text{orbital radius of satellite X}}{\\text{orbital radius of satellite Y}}$ is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "2."
+      },
+      {
+        "label": "B",
+        "text": "4."
+      },
+      {
+        "label": "C",
+        "text": "8."
+      },
+      {
+        "label": "D",
+        "text": "16."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "According to Kepler's Third Law, the square of the orbital period $T$ is proportional to the cube of the orbital radius $r$ ($T^2 \\propto r^3$). If the period of X is 8 times that of Y ($T_X = 8T_Y$), then $(T_X/T_Y)^2 = (r_X/r_Y)^3$. Substituting the values gives $8^2 = (r_X/r_Y)^3$, which simplifies to $64 = (r_X/r_Y)^3$. Taking the cube root of 64 gives a ratio of 4.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2007 HL Q10 B.png"
+  },
+  {
+    "id": "Nov_2007_HL_Q11",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2007,
+      "month": "Nov",
+      "session_label": "Nov 2007",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2007 HL Q11 D.png"
+    },
+    "question_number": 11,
+    "content_markdown": "A spacecraft accelerates along a straight-line in outer space under the action of two engines P and Q as shown in the diagram below.\n\nThe engine P fails. Which of the following gives the state of equilibrium of the spacecraft?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a spacecraft with two engines, P and Q, at the rear. An arrow indicates acceleration to the right. Labels point to engine P, engine Q, the spacecraft body, and the acceleration vector.",
+      "labels_to_preserve": [
+        "engine P",
+        "engine Q",
+        "spacecraft",
+        "acceleration"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Translational: yes, Rotational: yes"
+      },
+      {
+        "label": "B",
+        "text": "Translational: yes, Rotational: no"
+      },
+      {
+        "label": "C",
+        "text": "Translational: no, Rotational: yes"
+      },
+      {
+        "label": "D",
+        "text": "Translational: no, Rotational: no"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "When engine P fails, only engine Q provides thrust. Since there is still a net force acting on the spacecraft, it is not in translational equilibrium. Furthermore, because the thrust from engine Q is offset from the center of mass, it creates a resultant torque, meaning the spacecraft is not in rotational equilibrium either.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2007 HL Q11 D.png"
+  },
+  {
+    "id": "Nov_2007_HL_Q9",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational potential",
+    "paper": {
+      "year": 2007,
+      "month": "Nov",
+      "session_label": "Nov 2007",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2007 HL Q9 A.png"
+    },
+    "question_number": 9,
+    "content_markdown": "The centres of two isolated spherical stars each of mass $M$ and radius $R$ are separated by a distance $d$ as shown in the diagram below.\n\nThe distance $d$ is very large compared to $R$. Point X is mid-way between the stars. The gravitational potential at point X due to the two stars is",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Two identical circles representing stars of mass M and radius R. A dashed line connects their centers with a total distance d. Point X is marked at the midpoint of this line.",
+      "labels_to_preserve": [
+        "M",
+        "R",
+        "d",
+        "X"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$-\\frac{4GM}{d}$"
+      },
+      {
+        "label": "B",
+        "text": "$-\\frac{2GM}{R}$"
+      },
+      {
+        "label": "C",
+        "text": "$-\\frac{GM}{d}$"
+      },
+      {
+        "label": "D",
+        "text": "zero"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Gravitational potential is a scalar quantity, so we simply add the potentials from each star. The potential $V$ at a distance $r$ from a mass $M$ is given by $V = -\\frac{GM}{r}$. Since point X is at the midpoint, the distance from each star's center to X is $r = \\frac{d}{2}$. Therefore, the total potential is $V_{total} = V_1 + V_2 = -\\frac{GM}{d/2} + (-\\frac{GM}{d/2}) = -\\frac{2GM}{d} - \\frac{2GM}{d} = -\\frac{4GM}{d}$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2007 HL Q9 A.png"
+  },
+  {
+    "id": "Nov_2008_HL_Q11",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2008,
+      "month": "Nov",
+      "session_label": "Nov 2008",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2008 HL Q11 B.png"
+    },
+    "question_number": 11,
+    "content_markdown": "A small spherical planet has radius $R = 2000\\text{ m}$ and has no atmosphere. The acceleration due to gravity on the surface of this planet is $2.0\\text{ m s}^{-2}$. At an altitude of $3000\\text{ m}$ above the surface of the planet the magnitude of the gravitational field strength is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "zero."
+      },
+      {
+        "label": "B",
+        "text": "between 0 and $2.0\\text{ N kg}^{-1}$."
+      },
+      {
+        "label": "C",
+        "text": "equal to $2.0\\text{ N kg}^{-1}$."
+      },
+      {
+        "label": "D",
+        "text": "is greater than $2.0\\text{ N kg}^{-1}$."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Gravitational field strength $g$ follows an inverse-square law $g = \\frac{GM}{r^2}$ outside a spherical mass. As the distance from the center of the planet increases from $R$ (at the surface) to $R + h$ (at an altitude), the denominator $r^2$ increases, causing the field strength to decrease. Since $3000\\text{ m}$ is further away than the surface, the field strength must be less than the surface value of $2.0\\text{ N kg}^{-1}$ but still greater than zero.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2008 HL Q11 B.png"
+  },
+  {
+    "id": "Nov_2008_HL_Q13",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2008,
+      "month": "Nov",
+      "session_label": "Nov 2008",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2008 HL Q13 D.png"
+    },
+    "question_number": 13,
+    "content_markdown": "A satellite in orbit about Earth moves to another orbit that is closer to the surface of Earth. Which of the following is a correct statement about the change in speed of the satellite and its change in potential energy?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) with columns for 'Change in speed' and 'Change in potential energy'.",
+      "labels_to_preserve": [
+        "Change in speed",
+        "Change in potential energy"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Change in speed: decreases; Change in potential energy: decreases"
+      },
+      {
+        "label": "B",
+        "text": "Change in speed: decreases; Change in potential energy: increases"
+      },
+      {
+        "label": "C",
+        "text": "Change in speed: increases; Change in potential energy: increases"
+      },
+      {
+        "label": "D",
+        "text": "Change in speed: increases; Change in potential energy: decreases"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "As a satellite moves to a lower orbit (closer to Earth), its gravitational potential energy $E_p = -\\frac{GMm}{r}$ becomes more negative, meaning it decreases. To maintain a stable circular orbit at a smaller radius $r$, the orbital speed $v = \\sqrt{\\frac{GM}{r}}$ must increase because the gravitational pull is stronger.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2008 HL Q13 D.png"
+  },
+  {
+    "id": "Nov_2008_HL_Q16",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational potential and escape velocity",
+    "paper": {
+      "year": 2008,
+      "month": "Nov",
+      "session_label": "Nov 2008",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2008 HL Q16 C.png"
+    },
+    "question_number": 16,
+    "content_markdown": "Two spherical planets X and Y are of uniform density and have equal mass. The radius of X is twice that of Y. The minimum kinetic energy needed by a body to escape from the surface of planet X is $K_{\\text{X}}$. Which of the following is the minimum kinetic energy needed by the same body to escape from the surface of planet Y?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$0.25 K_{\\text{X}}$"
+      },
+      {
+        "label": "B",
+        "text": "$0.5 K_{\\text{X}}$"
+      },
+      {
+        "label": "C",
+        "text": "$2 K_{\\text{X}}$"
+      },
+      {
+        "label": "D",
+        "text": "$4 K_{\\text{X}}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The minimum kinetic energy required to escape a planet's surface is equal to the magnitude of the gravitational potential energy at the surface: $K = \\frac{GMm}{R}$. Since both planets have the same mass $M$ and the body has the same mass $m$, the kinetic energy is inversely proportional to the radius ($K \\propto \\frac{1}{R}$). Given that $R_{\\text{X}} = 2R_{\\text{Y}}$, it follows that $R_{\\text{Y}} = 0.5R_{\\text{X}}$. Therefore, $K_{\\text{Y}}$ must be twice $K_{\\text{X}}$ because the radius is halved.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2008 HL Q16 C.png"
+  },
+  {
+    "id": "Nov_2009_HL_Q23",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Newton's law of gravitation",
+    "paper": {
+      "year": 2009,
+      "month": "Nov",
+      "session_label": "Nov 2009",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2009 HL Q23 D.png"
+    },
+    "question_number": 23,
+    "content_markdown": "A small sphere X of mass $M$ is placed a distance $d$ from a point mass. The gravitational force on sphere X is $90\\text{ N}$. Sphere X is removed and a second sphere Y of mass $4M$ is placed a distance $3d$ from the same point mass. The gravitational force on sphere Y is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$480\\text{ N}$"
+      },
+      {
+        "label": "B",
+        "text": "$160\\text{ N}$"
+      },
+      {
+        "label": "C",
+        "text": "$120\\text{ N}$"
+      },
+      {
+        "label": "D",
+        "text": "$40\\text{ N}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Newton's law of gravitation states $F = G \\frac{m_1 m_2}{r^2}$. For sphere X, $F_X = G \\frac{m_{point} M}{d^2} = 90\\text{ N}$. For sphere Y, the mass becomes $4M$ and the distance becomes $3d$. Substituting these into the formula: $F_Y = G \\frac{m_{point} (4M)}{(3d)^2} = G \\frac{4 m_{point} M}{9 d^2} = \\frac{4}{9} F_X$. Therefore, $F_Y = \\frac{4}{9} \\times 90\\text{ N} = 40\\text{ N}$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2009 HL Q23 D.png"
+  },
+  {
+    "id": "Nov_2010_HL_Q22",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field Strength",
+    "paper": {
+      "year": 2010,
+      "month": "Nov",
+      "session_label": "Nov 2010",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2010 HL Q22 D.png"
+    },
+    "question_number": 22,
+    "content_markdown": "The mass of a planet is twice that of Earth. Its radius is half that of the radius of Earth. The gravitational field strength at the surface of Earth is $g$. The gravitational field strength at the surface of the planet is",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{1}{2} g$"
+      },
+      {
+        "label": "B",
+        "text": "$g$"
+      },
+      {
+        "label": "C",
+        "text": "$2g$"
+      },
+      {
+        "label": "D",
+        "text": "$8g$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The gravitational field strength at the surface of a planet is given by $g = \\frac{GM}{R^2}$. If the mass $M$ is doubled ($2M$) and the radius $R$ is halved ($\\frac{1}{2}R$), the new field strength $g'$ becomes $g' = \\frac{G(2M)}{(\\frac{1}{2}R)^2} = \\frac{2GM}{\\frac{1}{4}R^2} = 8 \\frac{GM}{R^2} = 8g$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2010 HL Q22 D.png"
+  },
+  {
+    "id": "Nov_2011_HL_Q7",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational potential and escape speed",
+    "paper": {
+      "year": 2011,
+      "month": "Nov",
+      "session_label": "Nov 2011",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2011 HL Q7 A.png"
+    },
+    "question_number": 7,
+    "content_markdown": "The escape speed of a rocket from the surface of Earth depends on the universal gravitational constant $G$. Other factors that may affect the escape speed are the\n\nI. mass of Earth\nII. radius of Earth\nIII. mass of the rocket.\n\nWhich of the above factors is/are correct?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I and II only"
+      },
+      {
+        "label": "B",
+        "text": "I and III only"
+      },
+      {
+        "label": "C",
+        "text": "II only"
+      },
+      {
+        "label": "D",
+        "text": "III only"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "The escape speed $v_{esc}$ is derived by setting the total energy (kinetic + gravitational potential) to zero: $\\frac{1}{2}mv^2 - \\frac{GMm}{R} = 0$. Solving for $v$ gives $v_{esc} = \\sqrt{\\frac{2GM}{R}}$. Notice that the mass of the rocket ($m$) cancels out, meaning the escape speed depends only on the mass of the planet ($M$) and the radius of the planet ($R$).",
+    "source_image_path": "D1-Gravitational-Field/Nov 2011 HL Q7 A.png"
+  },
+  {
+    "id": "Nov_2011_HL_Q8",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2011,
+      "month": "Nov",
+      "session_label": "Nov 2011",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2011 HL Q8 D.png"
+    },
+    "question_number": 8,
+    "content_markdown": "A satellite in orbit about Earth moves to another orbit that is closer to the surface of Earth. When the satellite moves into the orbit closer to Earth, which of the following correctly describes the change in speed of the satellite and the change in its gravitational potential energy?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing the relationship between speed and gravitational potential energy for four options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Speed",
+        "Gravitational potential energy"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Speed: decreases; Gravitational potential energy: decreases"
+      },
+      {
+        "label": "B",
+        "text": "Speed: decreases; Gravitational potential energy: increases"
+      },
+      {
+        "label": "C",
+        "text": "Speed: increases; Gravitational potential energy: increases"
+      },
+      {
+        "label": "D",
+        "text": "Speed: increases; Gravitational potential energy: decreases"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "For a satellite in a circular orbit, the orbital speed is given by $v = \\sqrt{\\frac{GM}{r}}$. As the radius $r$ decreases (moving closer to Earth), the speed $v$ must increase. The gravitational potential energy is given by $E_p = -\\frac{GMm}{r}$. As $r$ decreases, the magnitude $\\frac{GMm}{r}$ increases, but because of the negative sign, the value of $E_p$ becomes more negative, meaning it decreases.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2011 HL Q8 D.png"
+  },
+  {
+    "id": "Nov_2012_HL_Q28",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Newton's law of gravitation",
+    "paper": {
+      "year": 2012,
+      "month": "Nov",
+      "session_label": "Nov 2012",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2012 HL Q28 A.png"
+    },
+    "question_number": 28,
+    "content_markdown": "The centres of two planets are separated by a distance $R$. The gravitational force between the two planets is $F$. What will be the force between the planets when their separation increases to $3R$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{F}{9}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{F}{3}$"
+      },
+      {
+        "label": "C",
+        "text": "$F$"
+      },
+      {
+        "label": "D",
+        "text": "$3F$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "According to Newton's Law of Gravitation, the force $F$ is inversely proportional to the square of the separation distance $r$ ($F \\propto \\frac{1}{r^2}$). If the distance increases by a factor of 3 (from $R$ to $3R$), the force decreases by a factor of $3^2 = 9$. Therefore, the new force is $\\frac{F}{9}$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2012 HL Q28 A.png"
+  },
+  {
+    "id": "Nov_2012_HL_Q29",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2012,
+      "month": "Nov",
+      "session_label": "Nov 2012",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2012 HL Q29 B.png"
+    },
+    "question_number": 29,
+    "content_markdown": "The acceleration of free fall of a mass of $2.0\\text{ kg}$ close to the surface of Mars is $3.6\\text{ m s}^{-2}$. What is the gravitational field strength at the surface of Mars in $\\text{N kg}^{-1}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "1.8"
+      },
+      {
+        "label": "B",
+        "text": "3.6"
+      },
+      {
+        "label": "C",
+        "text": "7.2"
+      },
+      {
+        "label": "D",
+        "text": "9.8"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The gravitational field strength $g$ is numerically equal to the acceleration of free fall at that location. Since the acceleration is given as $3.6\\text{ m s}^{-2}$, the field strength is $3.6\\text{ N kg}^{-1}$. The mass of the object ($2.0\\text{ kg}$) is a distractor because field strength is a property of the location, not the object placed there.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2012 HL Q29 B.png"
+  },
+  {
+    "id": "Nov_2013_HL_Q22",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2013,
+      "month": "Nov",
+      "session_label": "Nov 2013",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2013 HL Q22 A.png"
+    },
+    "question_number": 22,
+    "content_markdown": "A satellite is in orbit about Earth at a distance $r$ from the centre of Earth. The gravitational potential energy of the satellite is $E_P$ and its kinetic energy is $E_K$. The radius of Earth is $R_E$. Which graph shows how both $E_P$ and $E_K$ vary with $r$?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four graphs (A, B, C, D) showing energy E on the y-axis and distance r on the x-axis. The graphs show curves for kinetic energy Ek and potential energy Ep starting from the radius of Earth Re. Ep is shown as negative and Ek as positive in most options.",
+      "labels_to_preserve": [
+        "E",
+        "r",
+        "R_E",
+        "E_K",
+        "E_P",
+        "0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Gravitational potential energy $E_P = -\\frac{GMm}{r}$ is always negative and increases (becomes less negative) as $r$ increases. Kinetic energy for a circular orbit is $E_K = \\frac{GMm}{2r}$, which is always positive and decreases as $r$ increases. Additionally, the magnitude of $E_P$ is twice that of $E_K$ ($|E_P| = 2E_K$). The graph must also start at $r = R_E$ because the satellite cannot be inside the Earth.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2013 HL Q22 A.png"
+  },
+  {
+    "id": "Nov_2014_HL_Q22",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2014,
+      "month": "Nov",
+      "session_label": "Nov 2014",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2014 HL Q22 D.png"
+    },
+    "question_number": 22,
+    "content_markdown": "Planet X has mass $M$ and radius $R$. Planet Y has mass $10M$ and radius $5R$.\n\nWhat is the ratio $\\frac{\\text{gravitational field strength at the surface of planet X}}{\\text{gravitational field strength at the surface of planet Y}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "0.4"
+      },
+      {
+        "label": "B",
+        "text": "0.5"
+      },
+      {
+        "label": "C",
+        "text": "2.0"
+      },
+      {
+        "label": "D",
+        "text": "2.5"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "The gravitational field strength $g$ at the surface of a planet is given by $g = \\frac{GM}{R^2}$. For planet X, $g_X = \\frac{GM}{R^2}$. For planet Y, $g_Y = \\frac{G(10M)}{(5R)^2} = \\frac{10GM}{25R^2} = 0.4 \\frac{GM}{R^2}$. The ratio $\\frac{g_X}{g_Y}$ is therefore $\\frac{1}{0.4}$, which equals $2.5$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2014 HL Q22 D.png"
+  },
+  {
+    "id": "Nov_2014_HL_Q25",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2014,
+      "month": "Nov",
+      "session_label": "Nov 2014",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2014 HL Q25 A.png"
+    },
+    "question_number": 25,
+    "content_markdown": "At the surface of a planet of radius $r$, the gravitational field strength is $g$ and the gravitational potential is $V$. Which gives the gravitational field strength and gravitational potential at a height $3r$ above the surface?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A, B, C, D) for gravitational field strength and gravitational potential.",
+      "labels_to_preserve": [
+        "Gravitational field strength",
+        "Gravitational potential"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Field strength: $\\frac{g}{16}$, Potential: $\\frac{V}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "Field strength: $\\frac{g}{3}$, Potential: $\\frac{V}{3}$"
+      },
+      {
+        "label": "C",
+        "text": "Field strength: $\\frac{g}{4}$, Potential: $\\frac{V}{4}$"
+      },
+      {
+        "label": "D",
+        "text": "Field strength: $\\frac{g}{9}$, Potential: $\\frac{V}{3}$"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "At a height $3r$ above the surface, the distance from the center of the planet is $R = r + 3r = 4r$. Since gravitational field strength $g \\propto \\frac{1}{R^2}$, the new field strength is $g \\times (\\frac{r}{4r})^2 = \\frac{g}{16}$. Since gravitational potential $V \\propto \\frac{1}{R}$, the new potential is $V \\times (\\frac{r}{4r}) = \\frac{V}{4}$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2014 HL Q25 A.png"
+  },
+  {
+    "id": "Nov_2015_HL_Q22",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2015,
+      "month": "Nov",
+      "session_label": "Nov 2015",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2015 HL Q22 D.png"
+    },
+    "question_number": 22,
+    "content_markdown": "What is the correct definition of gravitational field strength?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "The mass per unit weight"
+      },
+      {
+        "label": "B",
+        "text": "The weight of a small test mass"
+      },
+      {
+        "label": "C",
+        "text": "The force acting on a small test mass"
+      },
+      {
+        "label": "D",
+        "text": "The force per unit mass acting on a small test mass"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Gravitational field strength $g$ is defined as the gravitational force $F$ exerted per unit mass $m$ on a small point mass placed at that point ($g = \\frac{F}{m}$). Option D captures this 'per unit mass' requirement perfectly.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2015 HL Q22 D.png"
+  },
+  {
+    "id": "Nov_2015_HL_Q23",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2015,
+      "month": "Nov",
+      "session_label": "Nov 2015",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2015 HL Q23 D.png"
+    },
+    "question_number": 23,
+    "content_markdown": "The Earth is a distance $r_{\\text{S}}$ from the Sun. The Moon is a distance $r_{\\text{M}}$ from the Earth.\n\nThe ratio $\\frac{\\text{gravitational field strength at the Earth due to the Sun}}{\\text{gravitational field strength at the Earth due to the Moon}}$ is proportional to",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{r_{\\text{M}}}{r_{\\text{S}}}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{r_{\\text{S}}}{r_{\\text{M}}}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{r_{\\text{S}}^2}{r_{\\text{M}}^2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{r_{\\text{M}}^2}{r_{\\text{S}}^2}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Gravitational field strength $g$ is defined by the formula $g = \\frac{GM}{r^2}$. Therefore, $g$ is inversely proportional to the square of the distance ($g \\propto \\frac{1}{r^2}$). For the Sun, $g_{\\text{S}} \\propto \\frac{1}{r_{\\text{S}}^2}$, and for the Moon, $g_{\\text{M}} \\propto \\frac{1}{r_{\\text{M}}^2}$. Taking the ratio $\\frac{g_{\\text{S}}}{g_{\\text{M}}}$ gives $\\frac{1/r_{\\text{S}}^2}{1/r_{\\text{M}}^2}$, which simplifies to $\\frac{r_{\\text{M}}^2}{r_{\\text{S}}^2}$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2015 HL Q23 D.png"
+  },
+  {
+    "id": "Nov_2016_HL_Q32",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2016,
+      "month": "Nov",
+      "session_label": "Nov 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2016 HL Q32 A.png"
+    },
+    "question_number": 32,
+    "content_markdown": "A satellite of mass $1500\\text{ kg}$ is in the Earth's gravitational field. It moves from a point where the gravitational potential is $-30\\text{ MJ kg}^{-1}$ to a point where the gravitational potential is $-20\\text{ MJ kg}^{-1}$.\n\nWhat is the direction of movement of the satellite and the change in its gravitational potential energy?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table showing four options (A-D) with two columns: 'Direction of movement of satellite' and 'Change in gravitational potential energy / GJ'.",
+      "labels_to_preserve": [
+        "Direction of movement of satellite",
+        "Change in gravitational potential energy / GJ"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Direction: away from Earth; Change in GPE / GJ: 15"
+      },
+      {
+        "label": "B",
+        "text": "Direction: away from Earth; Change in GPE / GJ: 75"
+      },
+      {
+        "label": "C",
+        "text": "Direction: towards Earth; Change in GPE / GJ: 15"
+      },
+      {
+        "label": "D",
+        "text": "Direction: towards Earth; Change in GPE / GJ: 75"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "First, determine the direction: gravitational potential increases (becomes less negative) as you move further away from the Earth, so moving from $-30\\text{ MJ kg}^{-1}$ to $-20\\text{ MJ kg}^{-1}$ is moving away. Second, calculate the change in energy: $\\Delta E_p = m \\Delta V = 1500\\text{ kg} \\times (-20 - (-30))\\text{ MJ kg}^{-1} = 1500 \\times 10\\text{ MJ} = 15000\\text{ MJ}$. Since $1\\text{ GJ} = 1000\\text{ MJ}$, the change is $15\\text{ GJ}$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2016 HL Q32 A.png"
+  },
+  {
+    "id": "Nov_2017_HL_Q19",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2017,
+      "month": "Nov",
+      "session_label": "Nov 2017",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2017 HL Q19 B.png"
+    },
+    "question_number": 19,
+    "content_markdown": "A satellite X of mass $m$ orbits the Earth with a period $T$. What will be the orbital period of satellite Y of mass $2m$ occupying the same orbit as X?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{T}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "$T$"
+      },
+      {
+        "label": "C",
+        "text": "$\\sqrt{2}T$"
+      },
+      {
+        "label": "D",
+        "text": "$2T$"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "The orbital period of a satellite depends only on the mass of the central body (Earth) and the radius of the orbit, as shown by Kepler's Third Law or by equating gravitational force to centripetal force ($G\\frac{Mm}{r^2} = m\\frac{4\\pi^2r}{T^2}$). The mass of the satellite $m$ cancels out, meaning the period is independent of the satellite's mass.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2017 HL Q19 B.png"
+  },
+  {
+    "id": "Nov_2017_HL_Q32",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2017,
+      "month": "Nov",
+      "session_label": "Nov 2017",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2017 HL Q32 C.png"
+    },
+    "question_number": 32,
+    "content_markdown": "A spacecraft moves towards the Earth under the influence of the gravitational field of the Earth. The three quantities that depend on the distance $r$ of the spacecraft from the centre of the Earth are the\n\nI. gravitational potential energy of the spacecraft\nII. gravitational field strength acting on the spacecraft\nIII. gravitational force acting on the spacecraft.\n\nWhich of the quantities are proportional to $\\frac{1}{r^2}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "I and II only"
+      },
+      {
+        "label": "B",
+        "text": "I and III only"
+      },
+      {
+        "label": "C",
+        "text": "II and III only"
+      },
+      {
+        "label": "D",
+        "text": "I, II and III"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Gravitational potential energy ($E_p = -\\frac{GMm}{r}$) is proportional to $\\frac{1}{r}$. Gravitational field strength ($g = \\frac{GM}{r^2}$) and gravitational force ($F = \\frac{GMm}{r^2}$) both follow the inverse-square law, meaning they are proportional to $\\frac{1}{r^2}$. Therefore, only II and III satisfy the condition.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2017 HL Q32 C.png"
+  },
+  {
+    "id": "Nov_2018_HL_Q31",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2018,
+      "month": "Nov",
+      "session_label": "Nov 2018",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2018 HL Q31 A.png"
+    },
+    "question_number": 31,
+    "content_markdown": "The gravitational potential at point P due to Earth is $V$.\n\nWhat is the definition of the gravitational potential at P?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing a circle labeled 'Earth' and a point labeled 'P' to its right.",
+      "labels_to_preserve": [
+        "Earth",
+        "P"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Work done per unit mass to move a point mass from infinity to P"
+      },
+      {
+        "label": "B",
+        "text": "Work done per unit mass to move a point mass from P to infinity"
+      },
+      {
+        "label": "C",
+        "text": "Work done to move a point mass from infinity to P"
+      },
+      {
+        "label": "D",
+        "text": "Work done to move a point mass from P to infinity"
+      }
+    ],
+    "correct_answer": "A",
+    "vibe_explanation": "Gravitational potential is defined as the work done per unit mass in bringing a small test mass from infinity to a point in the gravitational field. It is a scalar quantity and is always negative (or zero at infinity) because the gravitational force is attractive, meaning work is done by the field rather than on the field to move the mass toward the source.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2018 HL Q31 A.png"
+  },
+  {
+    "id": "Nov_2018_HL_Q32",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2018,
+      "month": "Nov",
+      "session_label": "Nov 2018",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2018 HL Q32 D.png"
+    },
+    "question_number": 32,
+    "content_markdown": "The escape speed for the Earth is $v_{\\text{esc}}$. Planet X has half the density of the Earth and twice the radius. What is the escape speed for planet X?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{v_{\\text{esc}}}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{v_{\\text{esc}}}{\\sqrt{2}}$"
+      },
+      {
+        "label": "C",
+        "text": "$v_{\\text{esc}}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\sqrt{2} v_{\\text{esc}}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Escape speed is given by $v = \\sqrt{\\frac{2GM}{R}}$. Since mass $M = \\rho \\times V = \\rho \\times \\frac{4}{3}\\pi R^3$, we can substitute this into the escape speed formula to get $v \\propto \\sqrt{\\rho R^2} = R\\sqrt{\\rho}$. For Planet X, the radius is $2R$ and the density is $\\frac{1}{2}\\rho$. Therefore, the new escape speed is $v' \\propto (2R)\\sqrt{\\frac{1}{2}\\rho} = \\frac{2}{\\sqrt{2}} R\\sqrt{\\rho} = \\sqrt{2} v_{\\text{esc}}$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2018 HL Q32 D.png"
+  },
+  {
+    "id": "Nov_2019_HL_Q30",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2019,
+      "month": "Nov",
+      "session_label": "Nov 2019",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2019 HL Q30 D.png"
+    },
+    "question_number": 30,
+    "content_markdown": "The gravitational potential is $V$ at a distance $R$ above the surface of a spherical planet of radius $R$ and uniform density. What is the gravitational potential a distance $2R$ above the surface of the planet?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{V}{4}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{4V}{9}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{V}{2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{2V}{3}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Gravitational potential is given by $V = -\\frac{GM}{r}$, where $r$ is the distance from the center of the planet. Initially, the point is a distance $R$ above the surface, so $r_1 = R + R = 2R$. Thus, $V = -\\frac{GM}{2R}$. In the second case, the point is a distance $2R$ above the surface, so $r_2 = R + 2R = 3R$. The new potential $V'$ is $-\\frac{GM}{3R}$. By comparing the two, $V' = \\frac{2}{3} \\left( -\\frac{GM}{2R} \\right) = \\frac{2V}{3}$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2019 HL Q30 D.png"
+  },
+  {
+    "id": "Nov_2020_HL_Q30",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2020,
+      "month": "Nov",
+      "session_label": "Nov 2020",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2020 HL Q30 D.png"
+    },
+    "question_number": 30,
+    "content_markdown": "Two satellites W and X have the same mass. They have circular orbits around the same planet. W is closer to the surface than X. What quantity is smaller for W than for X?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Gravitational force from the planet"
+      },
+      {
+        "label": "B",
+        "text": "Angular velocity"
+      },
+      {
+        "label": "C",
+        "text": "Orbital speed"
+      },
+      {
+        "label": "D",
+        "text": "Orbital period"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "Since W is closer to the planet ($r_W < r_X$), we analyze the dependencies on radius $r$. Gravitational force $F \\propto 1/r^2$, so $F$ is larger for W. Orbital speed $v = \\sqrt{GM/r}$ and angular velocity $\\omega = v/r = \\sqrt{GM/r^3}$ both increase as $r$ decreases, so they are also larger for W. However, according to Kepler's Third Law ($T^2 \\propto r^3$), the orbital period $T$ decreases as $r$ decreases. Therefore, the orbital period is the only quantity that is smaller for the closer satellite W.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2020 HL Q30 D.png"
+  },
+  {
+    "id": "Nov_2020_HL_Q31",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2020,
+      "month": "Nov",
+      "session_label": "Nov 2020",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2020 HL Q31 C.png"
+    },
+    "question_number": 31,
+    "content_markdown": "P and S are two points on a gravitational equipotential surface around a planet. Q and R are two points on a different gravitational equipotential surface at a greater distance from the planet.\n\nThe greatest work done by the gravitational force is when moving a mass from",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A central planet surrounded by two concentric dashed circles representing equipotential surfaces. Points P and S are on the inner circle. Points Q and R are on the outer circle.",
+      "labels_to_preserve": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "P to S."
+      },
+      {
+        "label": "B",
+        "text": "Q to R."
+      },
+      {
+        "label": "C",
+        "text": "R to P."
+      },
+      {
+        "label": "D",
+        "text": "S to R."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Work done by the gravitational force is given by $W = -m\\Delta V$. Moving along an equipotential surface (P to S or Q to R) results in zero work because $\\Delta V = 0$. Moving from a higher potential (further away, R) to a lower potential (closer, P) means the gravitational force is acting in the direction of motion, doing positive work. Moving from S to R (lower to higher potential) requires work to be done against the gravitational force, meaning the force itself does negative work.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2020 HL Q31 C.png"
+  },
+  {
+    "id": "Nov_2021_HL_Q32",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational potential and energy",
+    "paper": {
+      "year": 2021,
+      "month": "Nov",
+      "session_label": "Nov 2021",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2021 HL Q32 C.png"
+    },
+    "question_number": 32,
+    "content_markdown": "A satellite of mass $m$ orbits a planet of mass $M$ in a circular orbit of radius $r$. What is the work that must be done on the satellite to increase its orbital radius to $2r$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{GMm}{r}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{GMm}{2r}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{GMm}{4r}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{GMm}{8r}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The total energy of a satellite in a circular orbit is given by $E = -\\frac{GMm}{2r}$. The work done is the change in total energy: $W = E_{final} - E_{initial}$. Substituting the radii, we get $W = -\\frac{GMm}{2(2r)} - (-\\frac{GMm}{2r}) = -\\frac{GMm}{4r} + \\frac{GMm}{2r} = \\frac{GMm}{4r}$.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2021 HL Q32 C.png"
+  },
+  {
+    "id": "Nov_2022_HL_Q20",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2022,
+      "month": "Nov",
+      "session_label": "Nov 2022",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2022 HL Q20 C.png"
+    },
+    "question_number": 20,
+    "content_markdown": "The centre of the Earth and the Moon are a distance $D$ apart. There is a point X between them where their gravitational fields cancel out. The distance from the centre of the Earth to X is $d$. The mass of the Earth is $M_E$ and the mass of the Moon is $M_M$.\n\nWhat is correct at X?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A diagram showing Earth and Moon separated by distance D. Point X is located between them at a distance d from the Earth's centre.",
+      "labels_to_preserve": [
+        "Earth",
+        "Moon",
+        "X",
+        "d",
+        "D"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{M_E}{d} = \\frac{M_M}{D - d}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\frac{M_E}{D - d} = \\frac{M_M}{d}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\frac{M_E}{d^2} = \\frac{M_M}{(D - d)^2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\frac{M_E}{d^2} = \\frac{M_M}{D^2 - d^2}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "At point X, the gravitational field strength from the Earth ($g_E = G M_E / d^2$) must equal the gravitational field strength from the Moon ($g_M = G M_M / r_M^2$) in magnitude for them to cancel out. Since the total distance is $D$ and the distance from Earth is $d$, the distance from the Moon is $(D - d)$. Equating the two expressions and cancelling $G$ leads to the relationship in option C.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2022 HL Q20 C.png"
+  },
+  {
+    "id": "Nov_2022_HL_Q32",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2022,
+      "month": "Nov",
+      "session_label": "Nov 2022",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Nov 2022 HL Q32 D.png"
+    },
+    "question_number": 32,
+    "content_markdown": "Two satellites are in circular orbits around the Earth. Both satellites have the same mass and satellite X is closer to Earth than satellite Y.\n\nWhat is correct for the orbital periods of X and Y and the total energies of X and Y?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A table comparing orbital periods and total energies for satellites X and Y across four options A, B, C, and D.",
+      "labels_to_preserve": [
+        "Orbital periods",
+        "Total energies",
+        "X",
+        "Y"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Orbital periods: X greater than Y; Total energies: X greater than Y"
+      },
+      {
+        "label": "B",
+        "text": "Orbital periods: X greater than Y; Total energies: Y greater than X"
+      },
+      {
+        "label": "C",
+        "text": "Orbital periods: Y greater than X; Total energies: X greater than Y"
+      },
+      {
+        "label": "D",
+        "text": "Orbital periods: Y greater than X; Total energies: Y greater than X"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "According to Kepler's Third Law ($T^2 \\propto r^3$), a larger orbital radius results in a longer orbital period, so $T_Y > T_X$. For total energy in a circular orbit, $E = -\\frac{GMm}{2r}$. Since the energy is negative, a larger radius $r$ results in a less negative (higher) total energy, meaning $E_Y > E_X$ because Y is further away.",
+    "source_image_path": "D1-Gravitational-Field/Nov 2022 HL Q32 D.png"
+  },
+  {
+    "id": "Specimen_2009_HL_Q7",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2009,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2009",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2009 HL Q7 C.png"
+    },
+    "question_number": 7,
+    "content_markdown": "A spacecraft orbits Earth. An astronaut inside the spacecraft feels \"weightless\" because",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "the gravitational field in the spacecraft is negligible."
+      },
+      {
+        "label": "B",
+        "text": "the Earth exerts equal forces on the spacecraft and the astronaut."
+      },
+      {
+        "label": "C",
+        "text": "the spacecraft and the astronaut have the same acceleration towards the Earth."
+      },
+      {
+        "label": "D",
+        "text": "the spacecraft and the astronaut exert equal and opposite forces on each other."
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "Weightlessness in orbit is a result of free-fall. Both the astronaut and the spacecraft are accelerating toward the center of the Earth at the same rate ($g$ at that altitude). Because they have the same acceleration, there is no normal contact force between the astronaut and the spacecraft floor, which is what we perceive as weight.",
+    "source_image_path": "D1-Gravitational-Field/Specimen Paper 2009 HL Q7 C.png"
+  },
+  {
+    "id": "Specimen_2009_HL_Q8",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational potential and field strength",
+    "paper": {
+      "year": 2009,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2009",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2009 HL Q8 B.png"
+    },
+    "question_number": 8,
+    "content_markdown": "Which of the following diagrams best represents the gravitational equipotential surfaces due to two equal spherical masses?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "Four diagrams labeled A, B, C, and D showing field lines or equipotential surfaces around two equal masses. A shows field lines connecting the masses. B shows concentric closed loops surrounding both masses. C shows concentric circles around each mass with vertical lines in between. D shows field lines diverging away from the center between the masses.",
+      "labels_to_preserve": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "Equipotential surfaces must be perpendicular to gravitational field lines. For two equal masses, the surfaces close to each mass are nearly spherical. As you move further away, the surfaces encompass both masses, forming a 'peanut' shape and eventually becoming more circular at large distances. Diagram B correctly shows these continuous, closed scalar potential contours.",
+    "source_image_path": "D1-Gravitational-Field/Specimen Paper 2009 HL Q8 B.png"
+  },
+  {
+    "id": "Specimen_2016_HL_Q19",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2016,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2016 HL Q19 B.png"
+    },
+    "question_number": 19,
+    "content_markdown": "An astronaut orbits the Earth in a space capsule. Which statement is correct?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "There are no gravitational forces acting on the space capsule or the astronaut."
+      },
+      {
+        "label": "B",
+        "text": "The space capsule and the astronaut each have the same acceleration."
+      },
+      {
+        "label": "C",
+        "text": "The space capsule and the astronaut are each in equilibrium."
+      },
+      {
+        "label": "D",
+        "text": "The gravitational force on the space capsule is equal to that on the astronaut."
+      }
+    ],
+    "correct_answer": "B",
+    "vibe_explanation": "In orbit, both the astronaut and the capsule are in free-fall. Since they are at the same distance from the center of the Earth, they experience the same gravitational field strength $g = \\frac{GM}{r^2}$, and thus have the same centripetal acceleration. They are not in equilibrium because there is a net force (gravity) acting on them, and the gravitational force $F = mg$ differs because their masses are different.",
+    "source_image_path": "D1-Gravitational-Field/Specimen Paper 2016 HL Q19 B.png"
+  },
+  {
+    "id": "Specimen_2016_HL_Q32",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2016,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2016 HL Q32 C.png"
+    },
+    "question_number": 32,
+    "content_markdown": "The escape speed on a planet of mass $M$ and radius $r$ is $v$. What is the escape speed on a planet of mass $2M$ and radius $\\frac{r}{2}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\frac{v}{2}$"
+      },
+      {
+        "label": "B",
+        "text": "$v$"
+      },
+      {
+        "label": "C",
+        "text": "$2v$"
+      },
+      {
+        "label": "D",
+        "text": "$4v$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The escape speed is given by the formula $v = \\sqrt{\\frac{2GM}{r}}$. If we replace $M$ with $2M$ and $r$ with $\\frac{r}{2}$, the new escape speed $v'$ becomes $\\sqrt{\\frac{2G(2M)}{r/2}} = \\sqrt{\\frac{4GM}{r/2}} = \\sqrt{\\frac{8GM}{r}} = \\sqrt{4 \\cdot \\frac{2GM}{r}} = 2\\sqrt{\\frac{2GM}{r}} = 2v$.",
+    "source_image_path": "D1-Gravitational-Field/Specimen Paper 2016 HL Q32 C.png"
+  },
+  {
+    "id": "Specimen_2016_HL_Q33",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational potential and work done",
+    "paper": {
+      "year": 2016,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2016",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2016 HL Q33 C.png"
+    },
+    "question_number": 33,
+    "content_markdown": "The gravitational field close to the surface of a planet is uniform. The gravitational potential difference between the surface of the planet and a point $30.0\\text{ m}$ above is $15\\text{ J\\,kg}^{-1}$. What is the work done in raising a mass of $4.0\\text{ kg}$ from the surface to a point $10.0\\text{ m}$ above the surface?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$5\\text{ J}$"
+      },
+      {
+        "label": "B",
+        "text": "$10\\text{ J}$"
+      },
+      {
+        "label": "C",
+        "text": "$20\\text{ J}$"
+      },
+      {
+        "label": "D",
+        "text": "$80\\text{ J}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "First, determine the gravitational field strength $g$. Since the field is uniform, $g = \\frac{\\Delta V}{\\Delta h} = \\frac{15\\text{ J\\,kg}^{-1}}{30.0\\text{ m}} = 0.5\\text{ N\\,kg}^{-1}$. The work done to raise a mass $m$ by a height $h$ is $W = mgh$. For a mass of $4.0\\text{ kg}$ and a height of $10.0\\text{ m}$, the work done is $W = 4.0 \\times 0.5 \\times 10.0 = 20\\text{ J}$.",
+    "source_image_path": "D1-Gravitational-Field/Specimen Paper 2016 HL Q33 C.png"
+  },
+  {
+    "id": "Specimen_2025_HL_Q25",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational fields",
+    "paper": {
+      "year": 2025,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2025",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2025 HL Q25 D.png"
+    },
+    "question_number": 25,
+    "content_markdown": "A planet orbits the Sun in an elliptical orbit moving in the direction shown.\n\nAt the position shown, which quantity is decreasing for the planet?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "An elliptical orbit with the Sun at one focus. A planet is shown at the top of the ellipse, moving counter-clockwise towards the left, which is the side of the ellipse further from the Sun.",
+      "labels_to_preserve": [
+        "Sun",
+        "planet"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "Acceleration"
+      },
+      {
+        "label": "B",
+        "text": "Angular momentum"
+      },
+      {
+        "label": "C",
+        "text": "Kinetic energy"
+      },
+      {
+        "label": "D",
+        "text": "Gravitational potential energy"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "As the planet moves from its current position towards the left side of the ellipse, it is moving further away from the Sun (increasing its orbital radius $r$). According to Newton's law of gravitation, $g = \\frac{GM}{r^2}$, so as $r$ increases, the gravitational field strength and thus the acceleration decrease. Additionally, as it moves further away, it slows down (kinetic energy decreases) and gravitational potential energy increases. Angular momentum remains constant in a central force field.",
+    "source_image_path": "D1-Gravitational-Field/Specimen Paper 2025 HL Q25 D.png"
+  },
+  {
+    "id": "Specimen_2025_HL_Q28",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2025,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2025",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2025 HL Q28 D.png"
+    },
+    "question_number": 28,
+    "content_markdown": "Planets X and Y orbit the same star.\n\nThe average distance between planet X and the star is five times greater than the average distance between planet Y and the star.\n\nWhat is $\\frac{\\text{orbital period of planet X}}{\\text{orbital period of planet Y}}$?",
+    "has_diagram": false,
+    "diagram_metadata": {
+      "description": "No diagram provided in the image.",
+      "labels_to_preserve": []
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$\\sqrt[3]{5}$"
+      },
+      {
+        "label": "B",
+        "text": "$\\sqrt{5}$"
+      },
+      {
+        "label": "C",
+        "text": "$\\sqrt[3]{5^2}$"
+      },
+      {
+        "label": "D",
+        "text": "$\\sqrt{5^3}$"
+      }
+    ],
+    "correct_answer": "D",
+    "vibe_explanation": "This question tests Kepler's Third Law, which states that the square of the orbital period $T$ is proportional to the cube of the average orbital radius $r$ ($T^2 \\propto r^3$). Given $r_X = 5r_Y$, we have $\\frac{T_X^2}{T_Y^2} = \\frac{r_X^3}{r_Y^3} = 5^3$. Taking the square root of both sides gives $\\frac{T_X}{T_Y} = \\sqrt{5^3}$.",
+    "source_image_path": "D1-Gravitational-Field/Specimen Paper 2025 HL Q28 D.png"
+  },
+  {
+    "id": "Specimen_2025_HL_Q30",
+    "topic": "Gravitational Field",
+    "topic_code": "D1",
+    "sub_topic": "Gravitational Field",
+    "paper": {
+      "year": 2025,
+      "month": "Specimen",
+      "session_label": "Specimen Paper 2025",
+      "level": "HL",
+      "timezone": "",
+      "paper_code": "Paper 1",
+      "source_filename": "Specimen Paper 2025 HL Q30 C.png"
+    },
+    "question_number": 30,
+    "content_markdown": "A spherical planet has a radius $R_0$.\n\nThe graph shows the variation of the gravitational potential due to the planet with distance $r$ from the centre of the planet.\n\nWhat is the escape speed from the surface of the planet?",
+    "has_diagram": true,
+    "diagram_metadata": {
+      "description": "A graph showing gravitational potential in units of $10^6 \\text{ J kg}^{-1}$ on the y-axis against distance $r$ in terms of $R_0$ on the x-axis. The curve starts at $r = R_0$ with a potential of $-5 \\times 10^6 \\text{ J kg}^{-1}$ and increases towards zero as $r$ increases.",
+      "labels_to_preserve": [
+        "gravitational potential / \\times 10^6 J kg^{-1}",
+        "r",
+        "R_0",
+        "2R_0",
+        "3R_0",
+        "4R_0",
+        "5R_0"
+      ]
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": "$1.6 \\times 10^3 \\text{ ms}^{-1}$"
+      },
+      {
+        "label": "B",
+        "text": "$2.2 \\times 10^3 \\text{ ms}^{-1}$"
+      },
+      {
+        "label": "C",
+        "text": "$3.2 \\times 10^3 \\text{ ms}^{-1}$"
+      },
+      {
+        "label": "D",
+        "text": "$4.5 \\times 10^3 \\text{ ms}^{-1}$"
+      }
+    ],
+    "correct_answer": "C",
+    "vibe_explanation": "The escape speed $v_e$ is calculated using the formula $v_e = \\sqrt{-2V}$, where $V$ is the gravitational potential at the surface. From the graph, at $r = R_0$, the potential $V = -5 \\times 10^6 \\text{ J kg}^{-1}$. Plugging this in: $v_e = \\sqrt{-2 \\times (-5 \\times 10^6)} = \\sqrt{10 \\times 10^6} = \\sqrt{10^7} \\approx 3.16 \\times 10^3 \\text{ ms}^{-1}$, which rounds to $3.2 \\times 10^3 \\text{ ms}^{-1}$.",
+    "source_image_path": "D1-Gravitational-Field/Specimen Paper 2025 HL Q30 C.png"
+  }
+]

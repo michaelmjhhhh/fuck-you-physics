@@ -1,0 +1,46 @@
+{
+  "id": "Nov_2011_HL_Q8",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field",
+  "paper": {
+    "year": 2011,
+    "month": "Nov",
+    "session_label": "Nov 2011",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2011 HL Q8 D.png"
+  },
+  "question_number": 8,
+  "content_markdown": "A satellite in orbit about Earth moves to another orbit that is closer to the surface of Earth. When the satellite moves into the orbit closer to Earth, which of the following correctly describes the change in speed of the satellite and the change in its gravitational potential energy?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A table showing the relationship between speed and gravitational potential energy for four options A, B, C, and D.",
+    "labels_to_preserve": [
+      "Speed",
+      "Gravitational potential energy"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Speed: decreases; Gravitational potential energy: decreases"
+    },
+    {
+      "label": "B",
+      "text": "Speed: decreases; Gravitational potential energy: increases"
+    },
+    {
+      "label": "C",
+      "text": "Speed: increases; Gravitational potential energy: increases"
+    },
+    {
+      "label": "D",
+      "text": "Speed: increases; Gravitational potential energy: decreases"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "For a satellite in a circular orbit, the orbital speed is given by $v = \\sqrt{\\frac{GM}{r}}$. As the radius $r$ decreases (moving closer to Earth), the speed $v$ must increase. The gravitational potential energy is given by $E_p = -\\frac{GMm}{r}$. As $r$ decreases, the magnitude $\\frac{GMm}{r}$ increases, but because of the negative sign, the value of $E_p$ becomes more negative, meaning it decreases.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2011 HL Q8 D.png"
+}

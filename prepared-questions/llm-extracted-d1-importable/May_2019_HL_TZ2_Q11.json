@@ -1,0 +1,43 @@
+{
+  "id": "May_2019_HL_TZ2_Q11",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2019,
+    "month": "May",
+    "session_label": "May 2019",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2019 HL TZ2 Q11 A.png"
+  },
+  "question_number": 11,
+  "content_markdown": "The escape speed from a planet of radius $R$ is $v_{\\text{esc}}$. A satellite orbits the planet at a distance $R$ from the surface of the planet. What is the orbital speed of the satellite?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{2} v_{\\text{esc}}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{\\sqrt{2}}{2} v_{\\text{esc}}$"
+    },
+    {
+      "label": "C",
+      "text": "$\\sqrt{2} v_{\\text{esc}}$"
+    },
+    {
+      "label": "D",
+      "text": "$2 v_{\\text{esc}}$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "First, recall the formula for escape speed from the surface: $v_{\\text{esc}} = \\sqrt{\\frac{2GM}{R}}$. Next, determine the orbital radius of the satellite; since it is a distance $R$ from the surface, its total distance from the center is $r = 2R$. The orbital speed formula is $v_{\\text{orbit}} = \\sqrt{\\frac{GM}{r}} = \\sqrt{\\frac{GM}{2R}}$. Comparing the two, we see that $v_{\\text{orbit}} = \\sqrt{\\frac{1}{4} \\cdot \\frac{2GM}{R}} = \\frac{1}{2} v_{\\text{esc}}$.",
+  "source_image_path": "D1-Gravitational-Field/May 2019 HL TZ2 Q11 A.png"
+}

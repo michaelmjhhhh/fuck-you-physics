@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2010_HL_Q22",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational Field Strength",
+  "paper": {
+    "year": 2010,
+    "month": "Nov",
+    "session_label": "Nov 2010",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2010 HL Q22 D.png"
+  },
+  "question_number": 22,
+  "content_markdown": "The mass of a planet is twice that of Earth. Its radius is half that of the radius of Earth. The gravitational field strength at the surface of Earth is $g$. The gravitational field strength at the surface of the planet is",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{1}{2} g$"
+    },
+    {
+      "label": "B",
+      "text": "$g$"
+    },
+    {
+      "label": "C",
+      "text": "$2g$"
+    },
+    {
+      "label": "D",
+      "text": "$8g$"
+    }
+  ],
+  "correct_answer": "D",
+  "vibe_explanation": "The gravitational field strength at the surface of a planet is given by $g = \\frac{GM}{R^2}$. If the mass $M$ is doubled ($2M$) and the radius $R$ is halved ($\\frac{1}{2}R$), the new field strength $g'$ becomes $g' = \\frac{G(2M)}{(\\frac{1}{2}R)^2} = \\frac{2GM}{\\frac{1}{4}R^2} = 8 \\frac{GM}{R^2} = 8g$.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2010 HL Q22 D.png"
+}

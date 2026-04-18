@@ -1,0 +1,46 @@
+{
+  "id": "May_2018_HL_TZ2_Q31",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Gravitational fields",
+  "paper": {
+    "year": 2018,
+    "month": "May",
+    "session_label": "May 2018",
+    "level": "HL",
+    "timezone": "TZ2",
+    "paper_code": "Paper 1",
+    "source_filename": "May 2018 HL TZ2 Q31 C.png"
+  },
+  "question_number": 31,
+  "content_markdown": "A satellite orbiting a planet moves from orbit X to orbit Y.\n\nWhat is the change in the kinetic energy and the change in the gravitational potential energy as a result?",
+  "has_diagram": true,
+  "diagram_metadata": {
+    "description": "A central planet with two concentric circular dashed orbits labeled X and Y. Orbit X is closer to the planet, and orbit Y is further away.",
+    "labels_to_preserve": [
+      "X",
+      "Y"
+    ]
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy: increases; Gravitational potential energy: increases"
+    },
+    {
+      "label": "B",
+      "text": "Kinetic energy: increases; Gravitational potential energy: decreases"
+    },
+    {
+      "label": "C",
+      "text": "Kinetic energy: decreases; Gravitational potential energy: increases"
+    },
+    {
+      "label": "D",
+      "text": "Kinetic energy: decreases; Gravitational potential energy: decreases"
+    }
+  ],
+  "correct_answer": "C",
+  "vibe_explanation": "As the satellite moves from orbit X to orbit Y, its orbital radius $r$ increases. Gravitational potential energy is given by $E_p = -\\frac{GMm}{r}$, so as $r$ increases, $E_p$ becomes less negative (increases). Orbital kinetic energy is given by $E_k = \\frac{GMm}{2r}$, so as $r$ increases, $E_k$ decreases. This follows the general rule that moving to a higher orbit requires work to be done against the gravitational field, increasing potential energy while slowing the satellite down.",
+  "source_image_path": "D1-Gravitational-Field/May 2018 HL TZ2 Q31 C.png"
+}

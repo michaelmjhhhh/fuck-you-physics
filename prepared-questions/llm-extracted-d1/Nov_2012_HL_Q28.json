@@ -1,0 +1,43 @@
+{
+  "id": "Nov_2012_HL_Q28",
+  "topic": "Gravitational Field",
+  "topic_code": "D1",
+  "sub_topic": "Newton's law of gravitation",
+  "paper": {
+    "year": 2012,
+    "month": "Nov",
+    "session_label": "Nov 2012",
+    "level": "HL",
+    "timezone": "",
+    "paper_code": "Paper 1",
+    "source_filename": "Nov 2012 HL Q28 A.png"
+  },
+  "question_number": 28,
+  "content_markdown": "The centres of two planets are separated by a distance $R$. The gravitational force between the two planets is $F$. What will be the force between the planets when their separation increases to $3R$?",
+  "has_diagram": false,
+  "diagram_metadata": {
+    "description": "No diagram provided in the image.",
+    "labels_to_preserve": []
+  },
+  "options": [
+    {
+      "label": "A",
+      "text": "$\\frac{F}{9}$"
+    },
+    {
+      "label": "B",
+      "text": "$\\frac{F}{3}$"
+    },
+    {
+      "label": "C",
+      "text": "$F$"
+    },
+    {
+      "label": "D",
+      "text": "$3F$"
+    }
+  ],
+  "correct_answer": "A",
+  "vibe_explanation": "According to Newton's Law of Gravitation, the force $F$ is inversely proportional to the square of the separation distance $r$ ($F \\propto \\frac{1}{r^2}$). If the distance increases by a factor of 3 (from $R$ to $3R$), the force decreases by a factor of $3^2 = 9$. Therefore, the new force is $\\frac{F}{9}$.",
+  "source_image_path": "D1-Gravitational-Field/Nov 2012 HL Q28 A.png"
+}
