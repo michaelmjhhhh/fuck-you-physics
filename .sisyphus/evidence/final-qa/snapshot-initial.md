@@ -1,0 +1,90 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]: Prepared practice
+        - generic [ref=e6]: Structured questions from the extraction pipeline
+      - generic [ref=e7]:
+        - button "Light Zen" [ref=e8]
+        - link "A4" [ref=e9] [cursor=pointer]:
+          - /url: /practice/a4-rigid-body-mechanics
+        - link "B1" [ref=e10] [cursor=pointer]:
+          - /url: /practice/b1-thermal-energy-transfers
+        - link "B2" [ref=e11] [cursor=pointer]:
+          - /url: /practice/b2-greenhouse-effect
+        - link "B3" [ref=e12] [cursor=pointer]:
+          - /url: /practice/b3-gas-laws
+        - link "B4" [ref=e13] [cursor=pointer]:
+          - /url: /practice/b4-thermodynamics
+        - link "B5" [ref=e14] [cursor=pointer]:
+          - /url: /practice/b5-current-and-circuits
+        - link "C1" [ref=e15] [cursor=pointer]:
+          - /url: /practice/c1-simple-harmonic-motion
+        - link "C2" [ref=e16] [cursor=pointer]:
+          - /url: /practice/c2-wave-model
+        - link "C4" [ref=e17] [cursor=pointer]:
+          - /url: /practice/c4-standing-waves-and-resonance
+        - link "C5" [ref=e18] [cursor=pointer]:
+          - /url: /practice/c5-doppler-effect
+        - link "D1" [ref=e19] [cursor=pointer]:
+          - /url: /practice/d1-gravitational-field
+        - link "Back to syllabus" [ref=e20] [cursor=pointer]:
+          - /url: /
+    - generic [ref=e21]:
+      - heading "Rigid Body Mechanics" [level=1] [ref=e22]
+      - paragraph [ref=e23]: Choose your answer, reveal the key, and keep the explanation close to the original extracted question source.
+      - generic [ref=e24]:
+        - generic [ref=e25]: A4 active topic
+        - generic [ref=e26]: 13 questions in this set
+        - generic [ref=e27]: Image-first practice
+    - generic [ref=e28]:
+      - complementary [ref=e29]:
+        - generic [ref=e30]:
+          - heading "Rigid Body Mechanics" [level=2] [ref=e31]
+          - paragraph [ref=e32]: May 2000 · HL
+        - generic [ref=e33]:
+          - generic [ref=e34]:
+            - generic [ref=e35]: Progress
+            - strong [ref=e36]: Question 1 of 13
+          - generic [ref=e39]:
+            - generic [ref=e40]: Session mode
+            - strong [ref=e41]: Image-based MCQ review
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - generic [ref=e44]: Paper
+            - generic [ref=e45]: Paper 1 · May 2000 HL Q10 C.png
+          - generic [ref=e46]:
+            - generic [ref=e47]: Sub-topic
+            - text: Torque and Equilibrium
+          - generic [ref=e48]:
+            - generic [ref=e49]: Question
+            - generic [ref=e50]: Question 10
+        - generic [ref=e51]: Choose an answer first, then reveal the key. The layout keeps source, options, and feedback in one reading flow.
+      - article [ref=e53]:
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - heading "A4 · Torque and Equilibrium" [level=2] [ref=e56]
+            - generic [ref=e57]: Question 1 of 13
+          - generic [ref=e58]: "Correct answer: hidden"
+        - img "Question source image" [ref=e60]
+        - generic [ref=e61]:
+          - button "A is less." [ref=e62]:
+            - generic [ref=e63]: A
+            - generic [ref=e64]: is less.
+          - button "B is greater." [ref=e65]:
+            - generic [ref=e66]: B
+            - generic [ref=e67]: is greater.
+          - button "C is the same." [ref=e68]:
+            - generic [ref=e69]: C
+            - generic [ref=e70]: is the same.
+          - button "D depends on the length of rope used." [ref=e71]:
+            - generic [ref=e72]: D
+            - generic [ref=e73]: depends on the length of rope used.
+        - generic [ref=e74]:
+          - button "Previous question" [disabled] [ref=e75]
+          - button "Next question" [ref=e76]
+          - button "Check answer" [disabled] [ref=e77]
+          - button "Choose again" [disabled] [ref=e78]
+  - button "Open Next.js Dev Tools" [ref=e84] [cursor=pointer]:
+    - img [ref=e85]
+  - alert [ref=e88]

@@ -1,0 +1,31 @@
+diff --git a/package.json b/package.json
+index 1ab09df..a639b9a 100644
+--- a/package.json
++++ b/package.json
+@@ -6,7 +6,9 @@
+     "dev": "next dev",
+     "build": "next build",
+     "start": "next start",
+-    "lint": "next lint"
++    "lint": "next lint",
++    "test": "vitest run --passWithNoTests",
++    "test:ci": "vitest --run --reporter=dot --passWithNoTests --silent"
+   },
+   "dependencies": {
+     "@vercel/analytics": "^2.0.1",
+@@ -17,10 +19,14 @@
+   },
+   "devDependencies": {
+     "@tailwindcss/postcss": "^4.1.4",
++    "@testing-library/jest-dom": "^6.9.1",
+     "@types/node": "^22.15.3",
+     "@types/react": "^19.0.10",
+     "@types/react-dom": "^19.0.4",
++    "jsdom": "^26.1.0",
+     "tailwindcss": "^4.1.4",
+-    "typescript": "^5.8.3"
++    "typescript": "^5.8.3",
++    "vitest": "^2.1.9",
++    "@testing-library/react": "^14.0.0"
+   }
+ }

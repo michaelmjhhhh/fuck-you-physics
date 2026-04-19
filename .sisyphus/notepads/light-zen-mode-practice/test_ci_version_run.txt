@@ -1,0 +1,5 @@
+
+> fuck-you-ib@0.1.0 test:ci
+> vitest --run --reporter=dot --passWithNoTests --silent --version
+
+vitest/2.1.9 darwin-arm64 node-v20.18.0

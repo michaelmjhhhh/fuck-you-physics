@@ -1,0 +1,109 @@
+{
+  "active_plan": "/Users/michael/fuck-you-ib/.sisyphus/plans/light-zen-mode-practice.md",
+  "started_at": "2026-04-18T15:16:39.605Z",
+  "session_ids": [
+    "ses_25ed5aa28ffeyPbcXZZKF0rFq5",
+    "ses_25ed4232fffet52R4vVVIu06ye",
+    "ses_25ed42301ffepsGfschjhYbiY3",
+    "ses_25ed42300ffe6TxNqJpq0YgouN"
+  ],
+  "session_origins": {
+    "ses_25ed5aa28ffeyPbcXZZKF0rFq5": "direct",
+    "ses_25ed4232fffet52R4vVVIu06ye": "appended",
+    "ses_25ed42301ffepsGfschjhYbiY3": "appended",
+    "ses_25ed42300ffe6TxNqJpq0YgouN": "appended"
+  },
+  "plan_name": "light-zen-mode-practice",
+  "agent": "atlas",
+  "task_sessions": {
+    "todo:1": {
+      "task_key": "todo:1",
+      "task_label": "1",
+      "task_title": "Add minimal test scripts and dependencies",
+      "session_id": "ses_25ecf7df6ffeozl0cET8in9cBE",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "updated_at": "2026-04-18T15:48:16.137Z"
+    },
+    "todo:2": {
+      "task_key": "todo:2",
+      "task_label": "2",
+      "task_title": "Add Vitest config and setup baseline",
+      "session_id": "ses_25eb4b860ffe6Qq3UKMQDSsHo8",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "updated_at": "2026-04-18T15:53:42.131Z"
+    },
+    "todo:3": {
+      "task_key": "todo:3",
+      "task_label": "3",
+      "task_title": "Add CI workflow for automated test execution",
+      "session_id": "ses_25eb32ef9ffeZNqgWrB2nznXdE",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "updated_at": "2026-04-18T15:56:05.081Z"
+    },
+    "todo:4": {
+      "task_key": "todo:4",
+      "task_label": "4",
+      "task_title": "Write RED tests for Light Zen behavior in practice UI",
+      "session_id": "ses_25eb08425ffegR5YbG5K0EBwuM",
+      "agent": "Sisyphus-Junior",
+      "category": "unspecified-high",
+      "updated_at": "2026-04-18T16:03:55.393Z"
+    },
+    "todo:5": {
+      "task_key": "todo:5",
+      "task_label": "5",
+      "task_title": "Add reusable Zen state + keyboard hook with unit tests",
+      "session_id": "ses_25ea94eb5ffeIt0fYo45FPTtMU",
+      "agent": "Sisyphus-Junior",
+      "category": "visual-engineering",
+      "updated_at": "2026-04-18T16:14:26.113Z"
+    },
+    "todo:8": {
+      "task_key": "todo:8",
+      "task_label": "8",
+      "task_title": "Integrate Zen mode into PracticeClient (GREEN)",
+      "session_id": "ses_25e9f1474ffeWGsWYp944xuLem",
+      "agent": "Sisyphus-Junior",
+      "category": "deep",
+      "updated_at": "2026-04-18T16:20:54.754Z"
+    },
+    "todo:9": {
+      "task_key": "todo:9",
+      "task_label": "9",
+      "task_title": "Refactor PracticeClient Zen boundaries for maintainability",
+      "session_id": "ses_25e97aceeffeYZn5oH1uWvGw1O",
+      "agent": "Sisyphus-Junior",
+      "category": "deep",
+      "updated_at": "2026-04-18T16:27:50.185Z"
+    },
+    "todo:10": {
+      "task_key": "todo:10",
+      "task_label": "10",
+      "task_title": "Add regression tests for progress visibility and answer flow",
+      "session_id": "ses_25e92c002ffeXiJbpr0HS65unu",
+      "agent": "Sisyphus-Junior",
+      "category": "unspecified-high",
+      "updated_at": "2026-04-18T16:32:43.046Z"
+    },
+    "todo:11": {
+      "task_key": "todo:11",
+      "task_label": "11",
+      "task_title": "Add responsive + accessibility polish assertions for Zen",
+      "session_id": "ses_25e8ea069ffefA3T2vcN0qbQDm",
+      "agent": "Sisyphus-Junior",
+      "category": "visual-engineering",
+      "updated_at": "2026-04-18T16:36:54.017Z"
+    },
+    "final-wave:f1": {
+      "task_key": "final-wave:f1",
+      "task_label": "F1",
+      "task_title": "**Plan Compliance Audit** — `oracle`",
+      "session_id": "ses_25e85564dffe8I8LfhUEACb5W3",
+      "agent": "oracle",
+      "updated_at": "2026-04-18T16:45:47.463Z"
+    }
+  }
+}

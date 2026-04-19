@@ -5,6 +5,159 @@ import Image from 'next/image';
 import Link from 'next/link';
 import type { QuestionRecord, TopicMeta } from '@/lib/types';
 import { renderRichTextToHtml } from '@/lib/rich-text';
+import { useLightZenMode } from './use-light-zen-mode';
+
+function PracticeModeControls({
+  zenMode,
+  toggleZen,
+  topic,
+  topics,
+}: {
+  zenMode: boolean;
+  toggleZen: () => void;
+  topic: TopicMeta;
+  topics: TopicMeta[];
+}) {
+  return (
+    <div className="flex flex-wrap items-center gap-3">
+      <button
+        type="button"
+        onClick={toggleZen}
+        aria-pressed={zenMode}
+        className={`inline-flex min-h-11 items-center justify-center rounded-full border px-4 py-2.5 text-sm font-semibold transition hover:-translate-y-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--terracotta)] focus-visible:ring-offset-2 ${
+          zenMode
+            ? 'border-[rgba(201,100,66,0.32)] bg-[rgba(201,100,66,0.1)] text-[var(--terracotta-deep)]'
+            : 'border-[var(--border-cream)] bg-[var(--ivory)] text-[var(--near-black)]'
+        }`}
+      >
+        {zenMode ? 'Exit Light Zen' : 'Light Zen'}
+      </button>
+      {!zenMode && topics.map((candidate) => (
+        <Link
+          key={candidate.slug}
+          href={`/practice/${candidate.slug}`}
+          className={`inline-flex min-h-11 items-center justify-center rounded-full border px-4 py-2.5 text-sm font-semibold transition hover:-translate-y-0.5 ${
+            topic.slug === candidate.slug
+              ? 'border-[rgba(201,100,66,0.32)] bg-[rgba(201,100,66,0.1)] text-[var(--terracotta-deep)]'
+              : 'border-[var(--border-cream)] bg-[var(--ivory)] text-[var(--near-black)]'
+          }`}
+        >
+          {candidate.topicCode}
+        </Link>
+      ))}
+      {!zenMode && (
+        <Link
+          href="/"
+          className="inline-flex min-h-11 items-center justify-center rounded-full border border-[var(--border-cream)] bg-[var(--ivory)] px-4 py-2.5 text-sm font-semibold text-[var(--near-black)] transition hover:-translate-y-0.5"
+        >
+          Back to syllabus
+        </Link>
+      )}
+    </div>
+  );
+}
+
+function PracticeTopicSummary({
+  zenMode,
+  topic,
+  questionsLength,
+  imageStemMode,
+}: {
+  zenMode: boolean;
+  topic: TopicMeta;
+  questionsLength: number;
+  imageStemMode: boolean;
+}) {
+  if (zenMode) return null;
+
+  return (
+    <section className="mb-7 grid gap-4">
+      <h1 className="max-w-[900px] text-[clamp(2.6rem,5vw,4.4rem)] text-[var(--near-black)]">{topic.displayName}</h1>
+      <p className="max-w-[760px] text-[1.06rem] leading-8 text-[var(--olive-gray)]">
+        Choose your answer, reveal the key, and keep the explanation close to the original extracted question source.
+      </p>
+      <div className="flex flex-wrap gap-3">
+        <span className="rounded-full border border-[var(--border-cream)] bg-[rgba(250,249,245,0.92)] px-4 py-2 text-sm text-[var(--near-black)] shadow-[0_8px_24px_var(--shadow-soft)]">
+          {topic.topicCode} active topic
+        </span>
+        <span className="rounded-full border border-[var(--border-cream)] bg-[rgba(250,249,245,0.92)] px-4 py-2 text-sm text-[var(--near-black)] shadow-[0_8px_24px_var(--shadow-soft)]">
+          {questionsLength} questions in this set
+        </span>
+        <span className="rounded-full border border-[var(--border-cream)] bg-[rgba(250,249,245,0.92)] px-4 py-2 text-sm text-[var(--near-black)] shadow-[0_8px_24px_var(--shadow-soft)]">
+          {imageStemMode ? 'Image-first practice' : 'Structured text practice'}
+        </span>
+      </div>
+    </section>
+  );
+}
+
+function PracticeSidebar({
+  zenMode,
+  topic,
+  currentQuestion,
+  currentIndex,
+  questionsLength,
+  progressRatio,
+  imageStemMode,
+}: {
+  zenMode: boolean;
+  topic: TopicMeta;
+  currentQuestion: QuestionRecord;
+  currentIndex: number;
+  questionsLength: number;
+  progressRatio: number;
+  imageStemMode: boolean;
+}) {
+  return (
+    <aside className={`editorial-card grid gap-4 rounded-[22px] p-5 transition-all duration-300 ${zenMode ? 'border-transparent bg-transparent p-0 shadow-none' : 'lg:sticky lg:top-[18px]'}`}>
+      {!zenMode && (
+        <div className="grid gap-2">
+          <h2 className="text-[1.65rem] text-[var(--near-black)]">{topic.displayName}</h2>
+          <p className="text-[0.98rem] text-[var(--olive-gray)]">{currentQuestion.paper.session_label} · {currentQuestion.paper.level}{currentQuestion.paper.timezone ? ` ${currentQuestion.paper.timezone}` : ''}</p>
+        </div>
+      )}
+
+      <div className="grid gap-3">
+        <div className={`rounded-2xl border border-[var(--border-warm)] p-4 transition-all duration-300 ${zenMode ? 'bg-transparent border-transparent p-0' : 'bg-[rgba(255,255,255,0.46)]'}`}>
+          {!zenMode && <span className="mb-1 block text-[0.73rem] uppercase tracking-[0.08em] text-[var(--stone-gray)]">Progress</span>}
+          {!zenMode && <strong className="text-[var(--near-black)]">Question {currentIndex + 1} of {questionsLength}</strong>}
+          <div className={`overflow-hidden rounded-full bg-[rgba(209,207,197,0.5)] transition-all duration-300 ${zenMode ? 'h-1.5' : 'mt-3 h-2.5'}`}>
+            <div className="h-full rounded-full bg-[linear-gradient(90deg,var(--terracotta)_0%,var(--terracotta-deep)_100%)] transition-all" style={{ width: `${progressRatio}%` }} />
+          </div>
+        </div>
+        {!zenMode && (
+          <div className="rounded-2xl border border-[var(--border-warm)] bg-[rgba(255,255,255,0.46)] p-4">
+            <span className="mb-1 block text-[0.73rem] uppercase tracking-[0.08em] text-[var(--stone-gray)]">Session mode</span>
+            <strong className="text-[var(--near-black)]">{imageStemMode ? 'Image-based MCQ review' : 'Text-based MCQ review'}</strong>
+          </div>
+        )}
+      </div>
+
+      {!zenMode && (
+        <>
+          <div className="grid gap-3">
+            <div className="rounded-2xl border border-[var(--border-warm)] bg-[rgba(255,255,255,0.46)] p-4">
+              <span className="mb-1 block text-[0.73rem] uppercase tracking-[0.08em] text-[var(--stone-gray)]">Paper</span>
+              <span className="text-[var(--near-black)]">{currentQuestion.paper.paper_code} · {currentQuestion.paper.source_filename}</span>
+            </div>
+            <div className="rounded-2xl border border-[var(--border-warm)] bg-[rgba(255,255,255,0.46)] p-4">
+              <span className="mb-1 block text-[0.73rem] uppercase tracking-[0.08em] text-[var(--stone-gray)]">Sub-topic</span>
+              <span className="text-[var(--near-black)]">{currentQuestion.sub_topic || 'Prepared practice question'}</span>
+            </div>
+            <div className="rounded-2xl border border-[var(--border-warm)] bg-[rgba(255,255,255,0.46)] p-4">
+              <span className="mb-1 block text-[0.73rem] uppercase tracking-[0.08em] text-[var(--stone-gray)]">Question</span>
+              <span className="text-[var(--near-black)]">Question {currentQuestion.question_number}</span>
+            </div>
+          </div>
+
+          <div className="rounded-2xl border border-[var(--border-warm)] bg-[rgba(255,255,255,0.46)] p-4 text-[0.98rem] leading-7 text-[var(--olive-gray)]">
+            Choose an answer first, then reveal the key. The layout keeps source, options, and feedback in one reading flow.
+          </div>
+        </>
+      )}
+    </aside>
+  );
+}
 
 function cleanOptionText(text: string) {
   if (!text || text === 'From source image') return '';
@@ -50,6 +203,7 @@ export function PracticeClient({
   const [currentIndex, setCurrentIndex] = useState(() => getRenderableQuestionIndex(questions, 0));
   const [selectedLabel, setSelectedLabel] = useState<string | null>(null);
   const [revealed, setRevealed] = useState(false);
+  const { isZen: zenMode, toggleZen } = useLightZenMode();
 
   const currentQuestion = questions[currentIndex];
   const options = useMemo(() => normalizeOptions(currentQuestion), [currentQuestion]);
@@ -67,93 +221,34 @@ export function PracticeClient({
 
   return (
     <div className="app-shell py-7 pb-24">
-      <div className="mb-8 flex flex-wrap items-center justify-between gap-5">
-        <div className="grid gap-1">
-          <div className="text-[0.74rem] font-semibold uppercase tracking-[0.12em] text-[var(--terracotta)]">Prepared practice</div>
-          <div className="text-sm font-semibold text-[var(--near-black)]">Structured questions from the extraction pipeline</div>
-        </div>
+      <div className={`mb-8 flex flex-wrap items-center gap-5 ${zenMode ? 'justify-end' : 'justify-between'}`}>
+        {!zenMode && (
+          <div className="grid gap-1">
+            <div className="text-[0.74rem] font-semibold uppercase tracking-[0.12em] text-[var(--terracotta)]">Prepared practice</div>
+            <div className="text-sm font-semibold text-[var(--near-black)]">Structured questions from the extraction pipeline</div>
+          </div>
+        )}
 
-        <div className="flex flex-wrap items-center gap-3">
-          {topics.map((candidate) => (
-            <Link
-              key={candidate.slug}
-              href={`/practice/${candidate.slug}`}
-              className={`inline-flex min-h-11 items-center justify-center rounded-full border px-4 py-2.5 text-sm font-semibold transition hover:-translate-y-0.5 ${
-                topic.slug === candidate.slug
-                  ? 'border-[rgba(201,100,66,0.32)] bg-[rgba(201,100,66,0.1)] text-[var(--terracotta-deep)]'
-                  : 'border-[var(--border-cream)] bg-[var(--ivory)] text-[var(--near-black)]'
-              }`}
-            >
-              {candidate.topicCode}
-            </Link>
-          ))}
-          <Link
-            href="/"
-            className="inline-flex min-h-11 items-center justify-center rounded-full border border-[var(--border-cream)] bg-[var(--ivory)] px-4 py-2.5 text-sm font-semibold text-[var(--near-black)] transition hover:-translate-y-0.5"
-          >
-            Back to syllabus
-          </Link>
-        </div>
+        <PracticeModeControls zenMode={zenMode} toggleZen={toggleZen} topic={topic} topics={topics} />
       </div>
 
-      <section className="mb-7 grid gap-4">
-        <h1 className="max-w-[900px] text-[clamp(2.6rem,5vw,4.4rem)] text-[var(--near-black)]">{topic.displayName}</h1>
-        <p className="max-w-[760px] text-[1.06rem] leading-8 text-[var(--olive-gray)]">
-          Choose your answer, reveal the key, and keep the explanation close to the original extracted question source.
-        </p>
-        <div className="flex flex-wrap gap-3">
-          <span className="rounded-full border border-[var(--border-cream)] bg-[rgba(250,249,245,0.92)] px-4 py-2 text-sm text-[var(--near-black)] shadow-[0_8px_24px_var(--shadow-soft)]">
-            {topic.topicCode} active topic
-          </span>
-          <span className="rounded-full border border-[var(--border-cream)] bg-[rgba(250,249,245,0.92)] px-4 py-2 text-sm text-[var(--near-black)] shadow-[0_8px_24px_var(--shadow-soft)]">
-            {questions.length} questions in this set
-          </span>
-          <span className="rounded-full border border-[var(--border-cream)] bg-[rgba(250,249,245,0.92)] px-4 py-2 text-sm text-[var(--near-black)] shadow-[0_8px_24px_var(--shadow-soft)]">
-            {imageStemMode ? 'Image-first practice' : 'Structured text practice'}
-          </span>
-        </div>
-      </section>
+      <PracticeTopicSummary
+        zenMode={zenMode}
+        topic={topic}
+        questionsLength={questions.length}
+        imageStemMode={imageStemMode}
+      />
 
-      <div className="grid items-start gap-6 lg:grid-cols-[330px_minmax(0,1fr)]">
-        <aside className="editorial-card grid gap-4 rounded-[22px] p-5 lg:sticky lg:top-[18px]">
-          <div className="grid gap-2">
-            <h2 className="text-[1.65rem] text-[var(--near-black)]">{topic.displayName}</h2>
-            <p className="text-[0.98rem] text-[var(--olive-gray)]">{currentQuestion.paper.session_label} · {currentQuestion.paper.level}{currentQuestion.paper.timezone ? ` ${currentQuestion.paper.timezone}` : ''}</p>
-          </div>
-
-          <div className="grid gap-3">
-            <div className="rounded-2xl border border-[var(--border-warm)] bg-[rgba(255,255,255,0.46)] p-4">
-              <span className="mb-1 block text-[0.73rem] uppercase tracking-[0.08em] text-[var(--stone-gray)]">Progress</span>
-              <strong className="text-[var(--near-black)]">Question {currentIndex + 1} of {questions.length}</strong>
-              <div className="mt-3 h-2.5 overflow-hidden rounded-full bg-[rgba(209,207,197,0.5)]">
-                <div className="h-full rounded-full bg-[linear-gradient(90deg,var(--terracotta)_0%,var(--terracotta-deep)_100%)] transition-all" style={{ width: `${progressRatio}%` }} />
-              </div>
-            </div>
-            <div className="rounded-2xl border border-[var(--border-warm)] bg-[rgba(255,255,255,0.46)] p-4">
-              <span className="mb-1 block text-[0.73rem] uppercase tracking-[0.08em] text-[var(--stone-gray)]">Session mode</span>
-              <strong className="text-[var(--near-black)]">{imageStemMode ? 'Image-based MCQ review' : 'Text-based MCQ review'}</strong>
-            </div>
-          </div>
-
-          <div className="grid gap-3">
-            <div className="rounded-2xl border border-[var(--border-warm)] bg-[rgba(255,255,255,0.46)] p-4">
-              <span className="mb-1 block text-[0.73rem] uppercase tracking-[0.08em] text-[var(--stone-gray)]">Paper</span>
-              <span className="text-[var(--near-black)]">{currentQuestion.paper.paper_code} · {currentQuestion.paper.source_filename}</span>
-            </div>
-            <div className="rounded-2xl border border-[var(--border-warm)] bg-[rgba(255,255,255,0.46)] p-4">
-              <span className="mb-1 block text-[0.73rem] uppercase tracking-[0.08em] text-[var(--stone-gray)]">Sub-topic</span>
-              <span className="text-[var(--near-black)]">{currentQuestion.sub_topic || 'Prepared practice question'}</span>
-            </div>
-            <div className="rounded-2xl border border-[var(--border-warm)] bg-[rgba(255,255,255,0.46)] p-4">
-              <span className="mb-1 block text-[0.73rem] uppercase tracking-[0.08em] text-[var(--stone-gray)]">Question</span>
-              <span className="text-[var(--near-black)]">Question {currentQuestion.question_number}</span>
-            </div>
-          </div>
-
-          <div className="rounded-2xl border border-[var(--border-warm)] bg-[rgba(255,255,255,0.46)] p-4 text-[0.98rem] leading-7 text-[var(--olive-gray)]">
-            Choose an answer first, then reveal the key. The layout keeps source, options, and feedback in one reading flow.
-          </div>
-        </aside>
+      <div className={`grid items-start gap-6 ${zenMode ? 'mx-auto max-w-4xl' : 'lg:grid-cols-[330px_minmax(0,1fr)]'}`}>
+        <PracticeSidebar
+          zenMode={zenMode}
+          topic={topic}
+          currentQuestion={currentQuestion}
+          currentIndex={currentIndex}
+          questionsLength={questions.length}
+          progressRatio={progressRatio}
+          imageStemMode={imageStemMode}
+        />
 
         <section className="grid gap-5">
           <article className="editorial-card rounded-[22px] p-7">

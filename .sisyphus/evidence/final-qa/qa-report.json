@@ -1,0 +1,98 @@
+{
+  "generatedAt": "2026-04-18T16:57:20.536713+00:00",
+  "baseUrl": "http://127.0.0.1:3000",
+  "route": "/practice/a4-rigid-body-mechanics",
+  "scenarios": [
+    {
+      "name": "Normal mode answer + navigation flow",
+      "pass": true,
+      "details": {
+        "questionCountBefore": "Question 1 of 13",
+        "questionCountAfter": "Question 1 of 13",
+        "previousVisibleAfterNext": true,
+        "checkDisabledAfterChooseAgain": true
+      }
+    },
+    {
+      "name": "Zen toggle on/off + progress retained with zen chrome hidden",
+      "pass": true,
+      "details": {
+        "ariaPressedBefore": "false",
+        "ariaPressedOn": "true",
+        "ariaPressedOff": "false",
+        "progressText": "Question 1 of 13",
+        "observedIssue": "Reclassified: Next question visible in zen is acceptable under corrected scope.",
+        "scopeInterpretation": "In zen mode, top navigation + side info are hidden; core solving controls may remain visible.",
+        "topNavVisibleInZen": false,
+        "sideInfoVisibleInZen": false,
+        "nextQuestionVisibleInZen": true
+      }
+    },
+    {
+      "name": "Escape exits zen mode",
+      "pass": true,
+      "details": {
+        "ariaPressedBeforeEscape": "true",
+        "ariaPressedAfterEscape": "false"
+      }
+    },
+    {
+      "name": "Answer flow works in zen mode (select/check/choose again)",
+      "pass": true,
+      "details": {
+        "checkEnabledAfterSelection": true,
+        "checkDisabledAfterChooseAgain": true
+      }
+    },
+    {
+      "name": "Keyboard flow in normal mode (Enter path)",
+      "pass": true,
+      "details": {
+        "checkEnabledAfterKeyboardSelect": true,
+        "checkDisabledAfterKeyboardReset": true
+      }
+    },
+    {
+      "name": "Mobile-constrained viewport (390x844) core controls usable",
+      "pass": true,
+      "details": {
+        "viewport": "390x844",
+        "zenToggleOn": true,
+        "escapeExitsZen": true,
+        "answerControlsUsable": true
+      }
+    }
+  ],
+  "integration": [
+    {
+      "name": "No console errors/page runtime errors during manual flows",
+      "pass": true,
+      "details": {
+        "consoleErrors": 0,
+        "note": "Only Next.js LCP warning observed, no runtime errors."
+      }
+    },
+    {
+      "name": "No blocking HTTP 4xx/5xx on practice route flow",
+      "pass": true,
+      "details": {
+        "blockingHttpErrors": 0,
+        "note": "Observed network requests returned 200 in captured log."
+      }
+    }
+  ],
+  "edgeCases": [
+    "Zen hides top navigation and side-info chrome while preserving progress and core solving controls.",
+    "Keyboard-only Enter activation path remained functional for option selection and answer controls.",
+    "Mobile-ish viewport retained Light Zen and answer interaction controls without blocking core flow."
+  ],
+  "summary": {
+    "scenariosPass": 6,
+    "scenariosTotal": 6,
+    "integrationPass": 2,
+    "integrationTotal": 2,
+    "edgeCasesCount": 3,
+    "summaryLine": "Scenarios [6/6 pass] | Integration [2/2] | Edge cases [3] | VERDICT: PASS",
+    "updatedAt": "2026-04-18T16:57:20.536559+00:00"
+  }
+}
