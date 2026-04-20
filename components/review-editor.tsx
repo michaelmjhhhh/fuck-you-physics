@@ -61,6 +61,14 @@ export function ReviewEditor({ initialManifest }: { initialManifest: ReviewManif
     message: 'Loaded the bundled sample manifest. You can edit it directly or load another JSON file.',
   });
 
+  const fieldIds = {
+    subTopic: 'review-sub-topic',
+    labelsToPreserve: 'review-labels-to-preserve',
+    contentMarkdown: 'review-content-markdown',
+    diagramDescription: 'review-diagram-description',
+    vibeExplanation: 'review-vibe-explanation',
+  };
+
   const subtitle = useMemo(() => {
     return `${manifest.paper.session_label} · ${manifest.paper.level}${manifest.paper.timezone ? ` ${manifest.paper.timezone}` : ''}`.trim();
   }, [manifest.paper]);
@@ -175,8 +183,9 @@ export function ReviewEditor({ initialManifest }: { initialManifest: ReviewManif
             <div className="grid gap-5">
               <div className="grid gap-4 md:grid-cols-2">
                 <div className="grid gap-2">
-                  <label className="text-[0.84rem] font-medium text-[var(--near-black)]">Sub-topic</label>
+                  <label htmlFor={fieldIds.subTopic} className="text-[0.84rem] font-medium text-[var(--near-black)]">Sub-topic</label>
                   <input
+                    id={fieldIds.subTopic}
                     value={manifest.sub_topic}
                     onChange={(event) => setManifest((current) => ({ ...current, sub_topic: event.target.value }))}
                     className="w-full rounded-xl border border-[var(--border-warm)] bg-[rgba(255,255,255,0.7)] px-4 py-3 text-[var(--near-black)] outline-none transition focus:border-[var(--focus-blue)] focus:shadow-[0_0_0_1px_var(--focus-blue)]"
@@ -184,8 +193,9 @@ export function ReviewEditor({ initialManifest }: { initialManifest: ReviewManif
                   />
                 </div>
                 <div className="grid gap-2">
-                  <label className="text-[0.84rem] font-medium text-[var(--near-black)]">Labels to preserve</label>
+                  <label htmlFor={fieldIds.labelsToPreserve} className="text-[0.84rem] font-medium text-[var(--near-black)]">Labels to preserve</label>
                   <input
+                    id={fieldIds.labelsToPreserve}
                     value={manifest.diagram_metadata.labels_to_preserve.join(', ')}
                     onChange={(event) => setManifest((current) => ({
                       ...current,
@@ -201,8 +211,9 @@ export function ReviewEditor({ initialManifest }: { initialManifest: ReviewManif
               </div>
 
               <div className="grid gap-2">
-                <label className="text-[0.84rem] font-medium text-[var(--near-black)]">content_markdown</label>
+                <label htmlFor={fieldIds.contentMarkdown} className="text-[0.84rem] font-medium text-[var(--near-black)]">content_markdown</label>
                 <textarea
+                  id={fieldIds.contentMarkdown}
                   value={manifest.content_markdown}
                   onChange={(event) => setManifest((current) => ({ ...current, content_markdown: event.target.value }))}
                   className="min-h-[180px] w-full resize-y rounded-xl border border-[var(--border-warm)] bg-[rgba(255,255,255,0.7)] px-4 py-3 text-[var(--near-black)] outline-none transition focus:border-[var(--focus-blue)] focus:shadow-[0_0_0_1px_var(--focus-blue)]"
@@ -211,8 +222,9 @@ export function ReviewEditor({ initialManifest }: { initialManifest: ReviewManif
               </div>
 
               <div className="grid gap-2">
-                <label className="text-[0.84rem] font-medium text-[var(--near-black)]">diagram_metadata.description</label>
+                <label htmlFor={fieldIds.diagramDescription} className="text-[0.84rem] font-medium text-[var(--near-black)]">diagram_metadata.description</label>
                 <textarea
+                  id={fieldIds.diagramDescription}
                   value={manifest.diagram_metadata.description}
                   onChange={(event) => setManifest((current) => ({
                     ...current,
@@ -235,6 +247,7 @@ export function ReviewEditor({ initialManifest }: { initialManifest: ReviewManif
                         {option.label}
                       </div>
                       <input
+                        aria-label={`Option ${option.label} text`}
                         value={option.text}
                         onChange={(event) => updateOption(option.label, event.target.value)}
                         className="w-full rounded-xl border border-[var(--border-warm)] bg-[rgba(255,255,255,0.7)] px-4 py-3 text-[var(--near-black)] outline-none transition focus:border-[var(--focus-blue)] focus:shadow-[0_0_0_1px_var(--focus-blue)]"
@@ -246,8 +259,9 @@ export function ReviewEditor({ initialManifest }: { initialManifest: ReviewManif
               </div>
 
               <div className="grid gap-2">
-                <label className="text-[0.84rem] font-medium text-[var(--near-black)]">vibe_explanation</label>
+                <label htmlFor={fieldIds.vibeExplanation} className="text-[0.84rem] font-medium text-[var(--near-black)]">vibe_explanation</label>
                 <textarea
+                  id={fieldIds.vibeExplanation}
                   value={manifest.vibe_explanation}
                   onChange={(event) => setManifest((current) => ({ ...current, vibe_explanation: event.target.value }))}
                   className="min-h-[160px] w-full resize-y rounded-xl border border-[var(--border-warm)] bg-[rgba(255,255,255,0.7)] px-4 py-3 text-[var(--near-black)] outline-none transition focus:border-[var(--focus-blue)] focus:shadow-[0_0_0_1px_var(--focus-blue)]"
