@@ -16,6 +16,7 @@
   --success-soft: #e7f1ea;
   --error: #b53333;
   --error-soft: #f8ebeb;
+  --focus-blue: #3898ec;
   --shadow-soft: rgba(20, 20, 19, 0.06);
 }
 
@@ -52,6 +53,19 @@ h4 {
   background: rgba(250, 249, 245, 0.9);
   border: 1px solid var(--border-cream);
   box-shadow: 0 18px 40px var(--shadow-soft);
+}
+
+.focus-ring {
+  outline: 2px solid transparent;
+  outline-offset: 3px;
+}
+
+.focus-ring:focus {
+  box-shadow: 0 0 0 3px rgba(56, 152, 236, 0.18), 0 0 0 1px var(--focus-blue);
+}
+
+.focus-ring:focus-visible {
+  box-shadow: 0 0 0 3px rgba(56, 152, 236, 0.18), 0 0 0 1px var(--focus-blue);
 }
 
 .katex-display {
