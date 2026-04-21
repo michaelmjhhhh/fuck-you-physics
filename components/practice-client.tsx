@@ -191,12 +191,21 @@ export function PracticeClient({
   topic,
   questions,
   topics,
+  initialQuestionId,
 }: {
   topic: TopicMeta;
   questions: QuestionRecord[];
   topics: TopicMeta[];
+  initialQuestionId?: string;
 }) {
-  const [currentIndex, setCurrentIndex] = useState(() => getRenderableQuestionIndex(questions, 0));
+  const initialIndex = useMemo(() => {
+    if (!initialQuestionId) return getRenderableQuestionIndex(questions, 0);
+    const found = questions.findIndex((q) => q.id === initialQuestionId);
+    if (found !== -1) return getRenderableQuestionIndex(questions, found);
+    return getRenderableQuestionIndex(questions, 0);
+  }, [initialQuestionId, questions]);
+
+  const [currentIndex, setCurrentIndex] = useState(initialIndex);
   const [selectedLabel, setSelectedLabel] = useState<string | null>(null);
   const [revealed, setRevealed] = useState(false);
   const { isZen: zenMode, toggleZen } = useLightZenMode();

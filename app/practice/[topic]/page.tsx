@@ -8,8 +8,15 @@ export async function generateStaticParams() {
   return topics.map((topic) => ({ topic: topic.slug }));
 }
 
-export default async function PracticePage({ params }: { params: Promise<{ topic: string }> }) {
+export default async function PracticePage({
+  params,
+  searchParams,
+}: {
+  params: Promise<{ topic: string }>;
+  searchParams: Promise<{ q?: string }>;
+}) {
   const { topic: topicSlug } = await params;
+  const { q: initialQuestionId } = await searchParams;
   const topic = await getTopicBySlug(topicSlug);
   const topics = await getTopics();
 
@@ -23,5 +30,12 @@ export default async function PracticePage({ params }: { params: Promise<{ topic
     notFound();
   }
 
-  return <PracticeClient topic={topic} questions={questions} topics={topics} />;
+  return (
+    <PracticeClient
+      topic={topic}
+      questions={questions}
+      topics={topics}
+      initialQuestionId={initialQuestionId}
+    />
+  );
 }

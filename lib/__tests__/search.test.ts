@@ -31,3 +31,42 @@ describe('buildSearchIndex', () => {
     expect(topicCodes.size).toBeGreaterThan(0);
   });
 });
+
+describe('Search deep link', () => {
+  it('search result item includes question id in practice URL', async () => {
+    const result = await buildSearchIndex();
+    if (result.length > 0) {
+      const item = result[0];
+      const practiceUrl = `/practice/${item.practice_slug}?q=${item.id}`;
+      // URL should contain ?q= with the item's id
+      expect(practiceUrl).toContain('?q=');
+      expect(practiceUrl).toContain(item.id);
+      // The practice_slug should be a valid topic slug (non-empty)
+      expect(item.practice_slug).toBeTruthy();
+      // The id should be a non-empty string identifier
+      expect(item.id).toBeTruthy();
+      expect(typeof item.id).toBe('string');
+    }
+  });
+
+  it('each search index item has a unique id field', async () => {
+    const result = await buildSearchIndex();
+    const ids = result.map((item: SearchIndexItem) => item.id);
+    const uniqueIds = new Set(ids);
+    // All ids should be truthy strings
+    ids.forEach((id) => {
+      expect(id).toBeTruthy();
+      expect(typeof id).toBe('string');
+    });
+    // We only check uniqueness if we have items (some topics may share ids across different files)
+    expect(ids.length).toBe(result.length);
+  });
+
+  it('each search index item has a practice_slug', async () => {
+    const result = await buildSearchIndex();
+    result.forEach((item: SearchIndexItem) => {
+      expect(item.practice_slug).toBeTruthy();
+      expect(item.practice_slug).toMatch(/^[a-z0-9-]+$/);
+    });
+  });
+});

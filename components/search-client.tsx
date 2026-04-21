@@ -12,7 +12,7 @@ function snippet(text: string, length = 180): string {
 }
 
 function SearchResultItem({ item }: { item: SearchIndexItem }) {
-  const practiceUrl = `/practice/${item.practice_slug}`;
+  const practiceUrl = `/practice/${item.practice_slug}?q=${item.id}`;
 
   return (
     <a
