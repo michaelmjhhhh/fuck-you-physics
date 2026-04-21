@@ -9,6 +9,7 @@ export type SearchIndexItem = {
   paper_year: number;
   paper_month: string;
   paper_level: string;
+  practice_slug: string;
 };
 
 export type SearchResult = {

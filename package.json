@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "test": "vitest run --passWithNoTests",
-    "test:ci": "vitest --run --reporter=dot --passWithNoTests --silent"
+    "test:ci": "vitest --run --reporter=dot --passWithNoTests --silent",
+    "build:search-index": "node scripts/build-search-index.js"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",

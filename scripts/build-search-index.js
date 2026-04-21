@@ -1,22 +1,22 @@
-import { promises as fs } from 'node:fs';
-import path from 'node:path';
-import type { SearchIndexItem } from '@/lib/search-types';
-import type { QuestionRecord } from '@/lib/types';
+#!/usr/bin/env node
+const { promises: fs } = require('node:fs');
+const path = require('node:path');
 
 const preparedQuestionsDir = path.join(process.cwd(), 'prepared-questions');
+const outputPath = path.join(process.cwd(), 'public', 'search-index.json');
 
-export async function buildSearchIndex(): Promise<SearchIndexItem[]> {
+async function buildSearchIndex() {
   const entries = await fs.readdir(preparedQuestionsDir, { withFileTypes: true });
   const files = entries
     .filter((entry) => entry.isFile() && entry.name.endsWith('.json'))
     .map((entry) => entry.name);
 
-  const allItems: SearchIndexItem[] = [];
+  const allItems = [];
 
   for (const file of files) {
     const fullPath = path.join(preparedQuestionsDir, file);
     const raw = await fs.readFile(fullPath, 'utf8');
-    const parsed = JSON.parse(raw) as QuestionRecord[];
+    const parsed = JSON.parse(raw);
     if (Array.isArray(parsed)) {
       const practiceSlug = file.replace(/\.json$/i, '');
       for (const question of parsed) {
@@ -39,3 +39,12 @@ export async function buildSearchIndex(): Promise<SearchIndexItem[]> {
 
   return allItems;
 }
+
+async function main() {
+  const index = await buildSearchIndex();
+  await fs.mkdir(path.dirname(outputPath), { recursive: true });
+  await fs.writeFile(outputPath, JSON.stringify(index, null, 2));
+  console.log(`Generated ${outputPath} with ${index.length} items`);
+}
+
+main().catch(console.error);

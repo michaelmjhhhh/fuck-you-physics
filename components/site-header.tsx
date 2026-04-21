@@ -1,6 +1,17 @@
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
+import { useRef } from 'react';
 
 export function SiteHeader() {
+  const router = useRouter();
+  const searchRef = useRef<HTMLInputElement>(null);
+
+  const handleSearch = (e: React.FormEvent) => {
+    e.preventDefault();
+    const q = searchRef.current?.value.trim();
+    if (q) router.push(`/search?q=${encodeURIComponent(q)}`);
+  };
+
   return (
     <header className="sticky top-0 z-20 border-b border-[rgba(232,230,220,0.9)] bg-[rgba(245,244,237,0.82)] backdrop-blur-xl">
       <div className="app-shell flex min-h-[72px] flex-wrap items-center justify-between gap-4 py-3">
@@ -10,6 +21,20 @@ export function SiteHeader() {
         </div>
 
         <div className="flex flex-wrap items-center gap-3">
+          <form onSubmit={handleSearch} className="relative">
+            <div className="pointer-events-none absolute inset-y-0 left-3 flex items-center">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--stone-gray)]" aria-hidden="true">
+                <circle cx="11" cy="11" r="8" /><path d="m21 21-4.35-4.35" />
+              </svg>
+            </div>
+            <input
+              ref={searchRef}
+              type="search"
+              placeholder="Search…"
+              aria-label="Search questions"
+              className="focus-ring w-full max-w-[180px] rounded-full border border-[var(--border-cream)] bg-[rgba(250,249,245,0.92)] py-2.5 pl-9 pr-4 text-sm text-[var(--near-black)] placeholder-[var(--stone-gray)] shadow-[0_0_0_1px_rgba(232,230,220,0.55)] focus:max-w-[260px] focus:border-[var(--terracotta)] focus:shadow-[0_0_0_1px_rgba(201,100,66,0.28)]"
+            />
+          </form>
           <Link
             href="/#syllabus"
             className="focus-ring inline-flex min-h-11 items-center justify-center rounded-full border border-[var(--border-cream)] bg-[rgba(250,249,245,0.92)] px-4 py-2.5 text-sm font-semibold text-[var(--near-black)] shadow-[0_0_0_1px_rgba(232,230,220,0.55)] transition hover:-translate-y-0.5"
