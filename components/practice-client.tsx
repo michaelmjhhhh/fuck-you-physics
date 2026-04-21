@@ -19,7 +19,7 @@ function PracticeModeControls({
   topics: TopicMeta[];
 }) {
   return (
-    <div className="flex flex-wrap items-center gap-3">
+    <div className="flex flex-wrap items-center gap-3 overflow-x-auto scroll-smooth snap-x pb-2 [-ms-overflow-style:'none'] [scrollbar-width:'none'] [&::-webkit-scrollbar]:hidden">
       <button
         type="button"
         onClick={toggleZen}
@@ -36,16 +36,9 @@ function PracticeModeControls({
         <Link
           key={candidate.slug}
           href={`/practice/${candidate.slug}`}
-          className={`inline-flex min-h-11 flex-wrap items-center justify-center rounded-full border px-3 py-2 text-sm font-semibold transition hover:-translate-y-0.5 ${
-            topic.slug === candidate.slug
-              ? 'border-[rgba(201,100,66,0.32)] bg-[rgba(201,100,66,0.1)] text-[var(--terracotta-deep)]'
-              : 'border-[var(--border-cream)] bg-[var(--ivory)] text-[var(--near-black)]'
-          }`}
+          className={`inline-flex min-h-11 flex-nowrap items-center justify-center rounded-full border px-3 py-2 text-sm font-semibold transition hover:-translate-y-0.5 snap-start shrink-0 ${topic.slug === candidate.slug ? 'border-[rgba(201,100,66,0.32)] bg-[rgba(201,100,66,0.1)] text-[var(--terracotta-deep)]' : 'border-[var(--border-cream)] bg-[var(--ivory)] text-[var(--near-black)]'}`}
         >
           <span>{candidate.topicCode}</span>
-          <span className={`text-[0.65rem] font-medium uppercase tracking-wide ${topic.slug === candidate.slug ? 'text-[var(--terracotta)]' : 'text-[var(--stone-gray)]'} ${candidate.sectionLetter !== topic.sectionLetter ? 'ml-1.5' : ''}`}>
-            {candidate.sectionLetter !== topic.sectionLetter ? `Sec ${candidate.sectionLetter}` : 'Same section'}
-          </span>
         </Link>
       ))}
       {!zenMode && (
