@@ -8,10 +8,12 @@
     "start": "next start",
     "lint": "next lint",
     "test": "vitest run --passWithNoTests",
-    "test:ci": "vitest --run --reporter=dot --passWithNoTests --silent"
+    "test:ci": "vitest --run --reporter=dot --passWithNoTests --silent",
+    "build:search-index": "node scripts/build-search-index.js"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
+    "fuse.js": "^7.3.0",
     "katex": "^0.16.25",
     "next": "^15.3.1",
     "react": "^19.0.0",
