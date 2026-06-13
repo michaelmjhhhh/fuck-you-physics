@@ -337,6 +337,13 @@ describe('PracticeClient Light Zen mode', () => {
     expect(getButtonByName(/check answer/i)).toBeNull();
   });
 
+  it('shows a clear empty state when a topic has no questions', () => {
+    renderPracticeClient([]);
+
+    expect(document.body.textContent ?? '').toMatch(/no questions are ready for this topic yet/i);
+    expect(getButtonByName(/check answer/i)).toBeNull();
+  });
+
   it('keeps answer flow and navigation controls usable in zen mode', () => {
     renderPracticeClient();
     enableLightZen();

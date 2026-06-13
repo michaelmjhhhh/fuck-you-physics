@@ -168,7 +168,9 @@ function isLabelOnlyOption(text: string) {
   return /^[ABCD]$/i.test(text.trim());
 }
 
-function normalizeOptions(question: QuestionRecord) {
+function normalizeOptions(question?: QuestionRecord) {
+  if (!question) return [];
+
   const byLabel = new Map((question.options ?? []).map((option) => [option.label, option]));
   return ['A', 'B', 'C', 'D'].map((label) => ({
     label,
@@ -212,10 +214,10 @@ export function PracticeClient({
   const currentQuestion = questions[currentIndex];
   const options = useMemo(() => normalizeOptions(currentQuestion), [currentQuestion]);
   const hasAnyRenderableQuestion = useMemo(() => hasRenderableQuestion(questions), [questions]);
-  const progressRatio = ((currentIndex + 1) / questions.length) * 100;
-  const imageStemMode = Boolean(currentQuestion.source_image_path);
+  const progressRatio = questions.length > 0 ? ((currentIndex + 1) / questions.length) * 100 : 0;
+  const imageStemMode = Boolean(currentQuestion?.source_image_path);
   const hasOptions = options.some((option) => Boolean(option.text));
-  const isCorrect = selectedLabel === currentQuestion.correct_answer;
+  const isCorrect = selectedLabel === currentQuestion?.correct_answer;
 
   const goToQuestion = (nextIndex: number) => {
     const bounded = Math.max(0, Math.min(nextIndex, questions.length - 1));
@@ -223,6 +225,30 @@ export function PracticeClient({
     setSelectedLabel(null);
     setRevealed(false);
   };
+
+  if (!currentQuestion) {
+    return (
+      <div className="app-shell py-7 pb-24">
+        <div className={`mb-8 flex flex-wrap items-center gap-5 ${zenMode ? 'justify-end' : 'justify-between'}`}>
+          {!zenMode && (
+            <div className="grid gap-1">
+              <div className="text-[0.74rem] font-semibold uppercase tracking-[0.12em] text-[var(--accent)]">Prepared practice</div>
+              <div className="text-sm font-semibold text-[var(--near-black)]">Structured questions from the extraction pipeline</div>
+            </div>
+          )}
+
+          <PracticeModeControls zenMode={zenMode} toggleZen={toggleZen} topic={topic} topics={topics} />
+        </div>
+
+        <section className="editorial-card grid gap-3 rounded-lg p-7">
+          <h1 className="text-[2.1rem] leading-tight text-[var(--near-black)]">{topic.displayName}</h1>
+          <p className="text-[var(--olive-gray)]">
+            No questions are ready for this topic yet. Return after the extraction data has been reviewed.
+          </p>
+        </section>
+      </div>
+    );
+  }
 
   return (
     <div className="app-shell py-7 pb-24">
