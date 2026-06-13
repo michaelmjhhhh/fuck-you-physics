@@ -14,33 +14,36 @@ export default async function HomePage() {
     <>
       <SiteHeader />
       <main className="app-shell pb-24">
-        <section className="grid gap-8 py-14">
-          <div className="grid gap-5">
-            <span className="text-[0.76rem] font-semibold uppercase tracking-[0.14em] text-[var(--terracotta)]">Structured from source images</span>
-            <h1 className="max-w-none text-[clamp(3.2rem,5vw,5.4rem)] text-[var(--near-black)]">A calmer way to study IB Physics past-paper questions.</h1>
+        <section className="grid gap-8 border-b border-[var(--border-cream)] py-12">
+          <div className="grid max-w-[880px] gap-5">
+            <span className="text-[0.76rem] font-semibold uppercase tracking-[0.14em] text-[var(--accent)]">Structured from source images</span>
+            <h1 className="text-[2.9rem] leading-[1.05] text-[var(--near-black)] md:text-[4.1rem]">IB Physics practice desk</h1>
+            <p className="reading-measure text-[1.08rem] text-[var(--olive-gray)]">
+              Work through extracted past-paper questions in a quieter academic interface built for sustained reading, source-image review, and focused answer checking.
+            </p>
             <div className="flex flex-wrap gap-3">
               <a
                 href="#syllabus"
-                className="focus-ring inline-flex min-h-[46px] items-center justify-center rounded-full bg-[linear-gradient(180deg,var(--terracotta)_0%,var(--terracotta-deep)_100%)] px-5 py-3 text-sm font-semibold text-[var(--ivory)] shadow-[0_10px_24px_rgba(201,100,66,0.22)] transition hover:-translate-y-0.5"
+                className="focus-ring inline-flex min-h-[46px] items-center justify-center rounded-md bg-[var(--accent)] px-5 py-3 text-sm font-semibold text-[var(--ivory)] transition hover:bg-[var(--accent-deep)]"
               >
                 Browse syllabus
               </a>
               <a
                 href="/practice/a4-rigid-body-mechanics"
-                className="focus-ring inline-flex min-h-[46px] items-center justify-center rounded-full border border-[var(--border-cream)] bg-[rgba(250,249,245,0.92)] px-5 py-3 text-sm font-semibold text-[var(--near-black)] shadow-[0_0_0_1px_rgba(232,230,220,0.55)] transition hover:-translate-y-0.5"
+                className="focus-ring inline-flex min-h-[46px] items-center justify-center rounded-md border border-[var(--border-cream)] bg-[var(--surface-soft)] px-5 py-3 text-sm font-semibold text-[var(--near-black)] transition hover:border-[var(--accent-muted)]"
               >
                 Open live practice
               </a>
             </div>
             <div className="flex flex-wrap gap-3">
-              <span className="rounded-full border border-[rgba(232,230,220,0.95)] bg-[rgba(250,249,245,0.88)] px-4 py-2.5 text-sm text-[var(--near-black)] shadow-[0_8px_24px_var(--shadow-soft)]">{totalQuestions} extracted questions</span>
-              <span className="rounded-full border border-[rgba(232,230,220,0.95)] bg-[rgba(250,249,245,0.88)] px-4 py-2.5 text-sm text-[var(--near-black)] shadow-[0_8px_24px_var(--shadow-soft)]">{sections.filter((section) => section.topics.length > 0).length} sections live</span>
+              <span className="rounded-md border border-[var(--border-cream)] bg-[var(--surface-soft)] px-4 py-2.5 text-sm text-[var(--near-black)]">{totalQuestions} extracted questions</span>
+              <span className="rounded-md border border-[var(--border-cream)] bg-[var(--surface-soft)] px-4 py-2.5 text-sm text-[var(--near-black)]">{sections.filter((section) => section.topics.length > 0).length} sections live</span>
             </div>
-            <div className="grid gap-4 rounded-[28px] border border-[var(--border-cream)] bg-[rgba(250,249,245,0.82)] p-5 shadow-[0_18px_40px_var(--shadow-soft)]">
+            <div className="grid gap-4 rounded-lg border border-[var(--border-cream)] bg-[var(--surface-soft)] p-5 shadow-[0_12px_32px_var(--shadow-soft)]">
               <div className="flex flex-col gap-2 lg:flex-row lg:items-end lg:justify-between">
                 <div>
-                  <span className="text-[0.72rem] font-semibold uppercase tracking-[0.12em] text-[var(--terracotta)]">Quick start</span>
-                  <h2 className="mt-2 text-[1.7rem] text-[var(--near-black)]">Start from a live topic instead of scanning the full course map.</h2>
+                  <span className="text-[0.72rem] font-semibold uppercase tracking-[0.12em] text-[var(--accent)]">Quick start</span>
+                  <h2 className="mt-2 text-[1.7rem] leading-tight text-[var(--near-black)]">Start from a live topic instead of scanning the full course map.</h2>
                 </div>
                 <p className="max-w-[520px] text-[0.98rem] leading-7 text-[var(--olive-gray)]">
                   Jump straight into one of the currently prepared sets, then come back to the syllabus only when you want broader coverage.
@@ -51,13 +54,13 @@ export default async function HomePage() {
                   <a
                     key={topic.slug}
                     href={`/practice/${topic.slug}`}
-                    className="focus-ring grid min-h-[168px] gap-3 rounded-[22px] border border-[var(--border-cream)] bg-[rgba(255,255,255,0.68)] p-4 transition hover:-translate-y-0.5 hover:shadow-[0_0_0_1px_rgba(201,100,66,0.16),0_18px_40px_rgba(20,20,19,0.06)]"
+                    className="focus-ring grid min-h-[168px] gap-3 rounded-lg border border-[var(--border-cream)] bg-[rgba(255,255,255,0.68)] p-4 transition hover:border-[var(--accent-muted)]"
                   >
                     <div className="flex items-start justify-between gap-3">
-                      <span className="inline-flex min-h-8 items-center rounded-full bg-[rgba(201,100,66,0.09)] px-3 text-[0.78rem] font-semibold uppercase tracking-[0.08em] text-[var(--terracotta)]">
+                      <span className="inline-flex min-h-8 items-center rounded-md bg-[var(--accent-soft)] px-3 text-[0.78rem] font-semibold uppercase tracking-[0.08em] text-[var(--accent-deep)]">
                         {topic.topicCode}
                       </span>
-                      <span className="rounded-full bg-[var(--success-soft)] px-3 py-1 text-[0.76rem] font-semibold uppercase tracking-[0.08em] text-[var(--success)]">
+                      <span className="rounded-md bg-[var(--success-soft)] px-3 py-1 text-[0.76rem] font-semibold uppercase tracking-[0.08em] text-[var(--success)]">
                         Ready now
                       </span>
                     </div>
@@ -76,11 +79,11 @@ export default async function HomePage() {
           </div>
         </section>
 
-        <section id="syllabus" className="rounded-[32px] bg-[rgba(250,249,245,0.72)] px-6 pb-24 pt-8">
+        <section id="syllabus" className="pb-24 pt-8">
           <div className="mb-7 flex flex-col gap-5 lg:flex-row lg:items-end lg:justify-between">
             <div>
-              <span className="text-[0.76rem] font-semibold uppercase tracking-[0.14em] text-[var(--terracotta)]">Course map</span>
-              <h2 className="mt-2 text-[clamp(2rem,3vw,2.7rem)] text-[var(--near-black)]">Choose a section, then drill into any live topic inside it.</h2>
+              <span className="text-[0.76rem] font-semibold uppercase tracking-[0.14em] text-[var(--accent)]">Course map</span>
+              <h2 className="mt-2 text-[2.25rem] leading-tight text-[var(--near-black)]">Choose a section, then drill into a live topic.</h2>
             </div>
             <p className="max-w-[620px] text-[1.02rem] leading-8 text-[var(--olive-gray)]">
               The syllabus is now data-driven instead of hardcoded per card. As new topic datasets arrive, they appear in the right section automatically.
@@ -92,7 +95,7 @@ export default async function HomePage() {
               <section key={section.letter} className="grid gap-5">
                 <div className="flex flex-col gap-2 sm:flex-row sm:items-baseline sm:justify-between">
                   <div className="flex items-baseline gap-3">
-                    <span className="inline-flex min-h-8 items-center rounded-full bg-[rgba(201,100,66,0.09)] px-3 text-[0.78rem] font-semibold uppercase tracking-[0.08em] text-[var(--terracotta)]">
+                    <span className="inline-flex min-h-8 items-center rounded-md bg-[var(--accent-soft)] px-3 text-[0.78rem] font-semibold uppercase tracking-[0.08em] text-[var(--accent-deep)]">
                       Section {section.letter}
                     </span>
                     <h3 className="text-[1.7rem] text-[var(--near-black)]">{section.title}</h3>
@@ -107,7 +110,7 @@ export default async function HomePage() {
                     ))}
                   </div>
                 ) : (
-                  <div className="rounded-[22px] border border-[var(--border-cream)] bg-[rgba(250,249,245,0.56)] p-6 text-[var(--stone-gray)]">
+                  <div className="rounded-lg border border-[var(--border-cream)] bg-[var(--surface-soft)] p-6 text-[var(--stone-gray)]">
                     This section does not have extracted topics yet.
                   </div>
                 )}

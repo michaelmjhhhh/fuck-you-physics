@@ -53,8 +53,8 @@ function downloadJson(fileName: string, value: ReviewManifest) {
 
 export function ReviewEditor({ initialManifest }: { initialManifest: ReviewManifest }) {
   const fileInputRef = useRef<HTMLInputElement | null>(null);
-  const [manifest, setManifest] = useState<ReviewManifest>(initialManifest);
-  const [originalManifest, setOriginalManifest] = useState<ReviewManifest>(initialManifest);
+  const [manifest, setManifest] = useState<ReviewManifest>(() => normalizeManifest(initialManifest));
+  const [originalManifest, setOriginalManifest] = useState<ReviewManifest>(() => normalizeManifest(initialManifest));
   const [loadedFileName, setLoadedFileName] = useState('review-manifest.json');
   const [status, setStatus] = useState<{ tone: 'neutral' | 'success' | 'error'; message: string }>({
     tone: 'neutral',
@@ -103,15 +103,15 @@ export function ReviewEditor({ initialManifest }: { initialManifest: ReviewManif
   return (
     <main className="app-shell py-12 pb-24">
       <section className="mb-10 grid gap-4">
-        <span className="text-[0.75rem] font-semibold uppercase tracking-[0.12em] text-[var(--terracotta)]">Review desk</span>
-        <h1 className="max-w-[820px] text-[clamp(2.75rem,5vw,4.5rem)] text-[var(--near-black)]">Shape one extracted question into publication-grade data.</h1>
+        <span className="text-[0.75rem] font-semibold uppercase tracking-[0.12em] text-[var(--accent)]">Review desk</span>
+        <h1 className="max-w-[820px] text-[2.75rem] leading-tight text-[var(--near-black)] md:text-[3.7rem]">Shape one extracted question into publication-grade data.</h1>
         <p className="max-w-[720px] text-[1.05rem] leading-8 text-[var(--olive-gray)]">
           Load a generated manifest, refine the markdown, fill in the answer options, preserve diagram details, and export a clean JSON record for the importer.
         </p>
       </section>
 
       <div className="grid gap-6 lg:grid-cols-[320px_minmax(0,1fr)] lg:items-start">
-        <aside className="editorial-card grid gap-4 rounded-[22px] p-6 lg:sticky lg:top-[18px]">
+        <aside className="editorial-card grid gap-4 rounded-lg p-6 lg:sticky lg:top-[18px]">
           <div>
             <h2 className="mb-2 text-[1.65rem] text-[var(--near-black)]">Manifest actions</h2>
             <p className="text-[0.96rem] leading-7 text-[var(--olive-gray)]">Use a generated manifest from the scanner, edit the missing fields, then download the updated JSON.</p>
@@ -121,7 +121,7 @@ export function ReviewEditor({ initialManifest }: { initialManifest: ReviewManif
             <button
               type="button"
               onClick={() => fileInputRef.current?.click()}
-              className="inline-flex min-h-12 items-center justify-center rounded-full border border-[var(--border-cream)] bg-[rgba(250,249,245,0.92)] px-5 py-3 text-sm font-semibold text-[var(--near-black)] transition hover:-translate-y-0.5"
+              className="inline-flex min-h-12 items-center justify-center rounded-md border border-[var(--border-cream)] bg-[var(--surface-soft)] px-5 py-3 text-sm font-semibold text-[var(--near-black)] transition hover:border-[var(--accent-muted)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--focus-blue)]"
             >
               Load manifest JSON
             </button>
@@ -133,7 +133,7 @@ export function ReviewEditor({ initialManifest }: { initialManifest: ReviewManif
                 downloadJson(loadedFileName, manifest);
                 setStatus({ tone: 'success', message: `Downloaded ${loadedFileName.replace(/\.json$/i, '')}.reviewed.json` });
               }}
-              className="inline-flex min-h-12 items-center justify-center rounded-full bg-[linear-gradient(180deg,var(--terracotta)_0%,var(--terracotta-deep)_100%)] px-5 py-3 text-sm font-semibold text-[var(--ivory)] shadow-[0_10px_24px_rgba(201,100,66,0.22)] transition hover:-translate-y-0.5"
+              className="inline-flex min-h-12 items-center justify-center rounded-md bg-[var(--accent)] px-5 py-3 text-sm font-semibold text-[var(--ivory)] transition hover:bg-[var(--accent-deep)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--focus-blue)]"
             >
               Download updated JSON
             </button>
@@ -144,22 +144,22 @@ export function ReviewEditor({ initialManifest }: { initialManifest: ReviewManif
                 setManifest(originalManifest);
                 setStatus({ tone: 'success', message: 'Edits reset to the loaded manifest.' });
               }}
-              className="inline-flex min-h-12 items-center justify-center rounded-full bg-[var(--warm-sand)] px-5 py-3 text-sm font-semibold text-[#4d4c48] shadow-[0_0_0_1px_rgba(209,207,197,0.45)] transition hover:-translate-y-0.5"
+              className="inline-flex min-h-12 items-center justify-center rounded-md bg-[var(--warm-sand)] px-5 py-3 text-sm font-semibold text-[#4d4c48] shadow-[0_0_0_1px_rgba(209,207,197,0.45)] transition hover:border-[var(--accent-muted)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--focus-blue)]"
             >
               Reset edits
             </button>
           </div>
 
-          <p className={`min-h-6 text-sm ${status.tone === 'error' ? 'text-[var(--error)]' : status.tone === 'success' ? 'text-[var(--terracotta)]' : 'text-[var(--olive-gray)]'}`}>
+          <p className={`min-h-6 text-sm ${status.tone === 'error' ? 'text-[var(--error)]' : status.tone === 'success' ? 'text-[var(--accent)]' : 'text-[var(--olive-gray)]'}`}>
             {status.message}
           </p>
         </aside>
 
         <section className="grid gap-6">
-          <article className="editorial-card rounded-[22px] p-6">
+          <article className="editorial-card rounded-lg p-6">
             <div className="mb-5 flex flex-col gap-4 lg:flex-row lg:items-end lg:justify-between">
               <div>
-                <span className="text-[0.75rem] font-semibold uppercase tracking-[0.12em] text-[var(--terracotta)]">{manifest.topic_code || 'Topic'} review</span>
+                <span className="text-[0.75rem] font-semibold uppercase tracking-[0.12em] text-[var(--accent)]">{manifest.topic_code || 'Topic'} review</span>
                 <h2 className="mt-2 text-[2rem] text-[var(--near-black)]">{manifest.topic || 'Untitled manifest'}</h2>
               </div>
               <p className="text-[0.96rem] text-[var(--olive-gray)]">{subtitle || 'No paper metadata loaded yet.'}</p>
@@ -174,7 +174,7 @@ export function ReviewEditor({ initialManifest }: { initialManifest: ReviewManif
             </div>
           </article>
 
-          <article className="editorial-card rounded-[22px] p-6">
+          <article className="editorial-card rounded-lg p-6">
             <div className="mb-5">
               <h2 className="text-[1.65rem] text-[var(--near-black)]">Extraction fields</h2>
               <p className="mt-2 text-[0.96rem] leading-7 text-[var(--olive-gray)]">Edit only the content that needs review. Metadata from the scanner stays intact.</p>

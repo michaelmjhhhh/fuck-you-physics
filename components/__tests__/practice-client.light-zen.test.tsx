@@ -109,9 +109,9 @@ const questions: QuestionRecord[] = [
   },
 ];
 
-function renderPracticeClient() {
+function renderPracticeClient(questionSet: QuestionRecord[] = questions) {
   act(() => {
-    root.render(<PracticeClient topic={topic} topics={topics} questions={questions} />);
+    root.render(<PracticeClient topic={topic} topics={topics} questions={questionSet} />);
   });
 }
 
@@ -296,6 +296,52 @@ describe('PracticeClient Light Zen mode', () => {
     expect(hasVisibleText(/correct answer: hidden/i)).toBe(true);
     expect(checkAnswerButton.hasAttribute('disabled')).toBe(true);
     expect(chooseAgainButton.hasAttribute('disabled')).toBe(true);
+  });
+
+  it('exposes selected answers and revealed feedback with assistive semantics', () => {
+    renderPracticeClient();
+
+    const optionB = getOptionButtonByLabel('B');
+    const checkAnswerButton = getButtonByName(/check answer/i);
+
+    expect(optionB).not.toBeNull();
+    expect(checkAnswerButton).not.toBeNull();
+
+    if (!optionB || !checkAnswerButton) return;
+
+    click(optionB);
+
+    expect(optionB.getAttribute('aria-pressed')).toBe('true');
+
+    click(checkAnswerButton);
+
+    const feedback = document.querySelector('[role="status"][aria-live="polite"]');
+    expect(feedback).not.toBeNull();
+    expect(feedback?.textContent ?? '').toMatch(/not this time/i);
+  });
+
+  it('shows a clear empty state when no question has renderable answer options', () => {
+    const invalidQuestions = questions.map((question) => ({
+      ...question,
+      options: [
+        { label: 'A', text: '' },
+        { label: 'B', text: '' },
+        { label: 'C', text: '' },
+        { label: 'D', text: '' },
+      ],
+    }));
+
+    renderPracticeClient(invalidQuestions);
+
+    expect(document.body.textContent ?? '').toMatch(/no answer choices are ready/i);
+    expect(getButtonByName(/check answer/i)).toBeNull();
+  });
+
+  it('shows a clear empty state when a topic has no questions', () => {
+    renderPracticeClient([]);
+
+    expect(document.body.textContent ?? '').toMatch(/no questions are ready for this topic yet/i);
+    expect(getButtonByName(/check answer/i)).toBeNull();
   });
 
   it('keeps answer flow and navigation controls usable in zen mode', () => {

@@ -15,11 +15,11 @@ export function SiteHeader() {
   };
 
   return (
-    <header className="sticky top-0 z-20 border-b border-[rgba(232,230,220,0.9)] bg-[rgba(245,244,237,0.82)] backdrop-blur-xl">
+    <header className="sticky top-0 z-20 border-b border-[var(--border-cream)] bg-[rgba(251,250,246,0.9)] backdrop-blur-xl">
       <div className="app-shell flex min-h-[72px] flex-wrap items-center justify-between gap-4 py-3">
         <div className="grid gap-1">
-          <span className="text-[0.73rem] font-semibold uppercase tracking-[0.16em] text-[var(--terracotta)]">IB Physics</span>
-          <span className="text-sm font-semibold text-[var(--near-black)]">Past-paper practice, restructured</span>
+          <span className="text-[0.73rem] font-semibold uppercase tracking-[0.14em] text-[var(--accent)]">IB Physics</span>
+          <span className="text-sm font-semibold text-[var(--near-black)]">Academic practice desk</span>
         </div>
 
         <div className="flex flex-wrap items-center gap-3">
@@ -34,12 +34,12 @@ export function SiteHeader() {
               type="search"
               placeholder="Search…"
               aria-label="Search questions"
-              className="focus-ring w-full max-w-[180px] rounded-full border border-[var(--border-cream)] bg-[rgba(250,249,245,0.92)] py-2.5 pl-9 pr-4 text-sm text-[var(--near-black)] placeholder-[var(--stone-gray)] shadow-[0_0_0_1px_rgba(232,230,220,0.55)] focus:max-w-[260px] focus:border-[var(--terracotta)] focus:shadow-[0_0_0_1px_rgba(201,100,66,0.28)]"
+              className="focus-ring w-full max-w-[180px] rounded-md border border-[var(--border-cream)] bg-[var(--surface-soft)] py-2.5 pl-9 pr-4 text-sm text-[var(--near-black)] placeholder-[var(--stone-gray)] transition focus:max-w-[260px] focus:border-[var(--focus-blue)]"
             />
           </form>
           <Link
             href="/#syllabus"
-            className="focus-ring inline-flex min-h-11 items-center justify-center rounded-full border border-[var(--border-cream)] bg-[rgba(250,249,245,0.92)] px-4 py-2.5 text-sm font-semibold text-[var(--near-black)] shadow-[0_0_0_1px_rgba(232,230,220,0.55)] transition hover:-translate-y-0.5"
+            className="focus-ring inline-flex min-h-11 items-center justify-center rounded-md border border-[var(--border-cream)] bg-[var(--surface-soft)] px-4 py-2.5 text-sm font-semibold text-[var(--near-black)] transition hover:border-[var(--accent-muted)]"
           >
             Browse syllabus
           </Link>
@@ -49,7 +49,7 @@ export function SiteHeader() {
             rel="noopener noreferrer"
             aria-label="View source repository on GitHub"
             title="GitHub Repository"
-            className="inline-flex h-11 w-11 items-center justify-center rounded-full border border-[var(--border-cream)] bg-[rgba(250,249,245,0.92)] text-[var(--near-black)] shadow-[0_0_0_1px_rgba(232,230,220,0.55)] transition hover:-translate-y-0.5"
+            className="inline-flex h-11 w-11 items-center justify-center rounded-md border border-[var(--border-cream)] bg-[var(--surface-soft)] text-[var(--near-black)] transition hover:border-[var(--accent-muted)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--focus-blue)]"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
